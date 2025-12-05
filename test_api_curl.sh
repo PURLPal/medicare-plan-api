@@ -1,9 +1,8 @@
 #!/bin/bash
 # Test Medicare Plan API using curl
-# Replace FUNCTION_URL with your actual Lambda Function URL after deployment
 
-# FUNCTION_URL="https://your-function-url.lambda-url.us-east-1.on.aws"
-FUNCTION_URL="${1:-http://localhost:5000}"  # Default to local for testing
+# Default to deployed Lambda URL
+FUNCTION_URL="${1:-https://thl4l5z7inky2smh6qte6ewfuy0gavym.lambda-url.us-east-1.on.aws}"
 
 echo "================================"
 echo "Medicare Plan API - curl Tests"

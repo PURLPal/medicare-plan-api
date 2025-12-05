@@ -1,20 +1,9 @@
 #!/bin/bash
 # Test Medicare Plan API - Simple version
 # Usage: ./test_api.sh [FUNCTION_URL]
-# If no URL provided, checks for LAMBDA_URL environment variable
 
-FUNCTION_URL="${1:-${LAMBDA_URL}}"
-
-if [ -z "$FUNCTION_URL" ]; then
-    echo "ERROR: No Lambda URL provided"
-    echo ""
-    echo "Usage:"
-    echo "  ./test_api.sh https://your-url.lambda-url.us-east-1.on.aws"
-    echo "  OR"
-    echo "  export LAMBDA_URL='https://your-url.lambda-url.us-east-1.on.aws'"
-    echo "  ./test_api.sh"
-    exit 1
-fi
+# Default to deployed Lambda URL
+FUNCTION_URL="${1:-https://thl4l5z7inky2smh6qte6ewfuy0gavym.lambda-url.us-east-1.on.aws}"
 
 echo "================================"
 echo "Medicare Plan API Tests"
