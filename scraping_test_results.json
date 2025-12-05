@@ -1,0 +1,182 @@
+[
+  {
+    "state": "Wisconsin",
+    "plan_id": "H9096_002_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H9096-002-0?year=2026&lang=en",
+    "success": true,
+    "status_code": 200,
+    "size": 2201,
+    "file": "scraped_html/Wisconsin_H9096_002_0.html"
+  },
+  {
+    "state": "Wisconsin",
+    "plan_id": "H5216_258_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H5216-258-0?year=2026&lang=en",
+    "success": true,
+    "status_code": 200,
+    "size": 2201,
+    "file": "scraped_html/Wisconsin_H5216_258_0.html"
+  },
+  {
+    "state": "Wisconsin",
+    "plan_id": "H0294_004_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H0294-004-0?year=2026&lang=en",
+    "success": true,
+    "status_code": 200,
+    "size": 2201,
+    "file": "scraped_html/Wisconsin_H0294_004_0.html"
+  },
+  {
+    "state": "Wisconsin",
+    "plan_id": "H0294_002_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H0294-002-0?year=2026&lang=en",
+    "success": true,
+    "status_code": 200,
+    "size": 2201,
+    "file": "scraped_html/Wisconsin_H0294_002_0.html"
+  },
+  {
+    "state": "Wisconsin",
+    "plan_id": "R5361_002_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-R5361-002-0?year=2026&lang=en",
+    "success": true,
+    "status_code": 200,
+    "size": 2201,
+    "file": "scraped_html/Wisconsin_R5361_002_0.html"
+  },
+  {
+    "state": "Georgia",
+    "plan_id": "H0439_002_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H0439-002-0?year=2026&lang=en",
+    "success": true,
+    "status_code": 200,
+    "size": 2201,
+    "file": "scraped_html/Georgia_H0439_002_0.html"
+  },
+  {
+    "state": "Georgia",
+    "plan_id": "H4513_079_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H4513-079-0?year=2026&lang=en",
+    "success": true,
+    "status_code": 200,
+    "size": 2201,
+    "file": "scraped_html/Georgia_H4513_079_0.html"
+  },
+  {
+    "state": "Georgia",
+    "plan_id": "H7617_095_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H7617-095-0?year=2026&lang=en",
+    "success": true,
+    "status_code": 200,
+    "size": 2201,
+    "file": "scraped_html/Georgia_H7617_095_0.html"
+  },
+  {
+    "state": "Georgia",
+    "plan_id": "H1889_028_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H1889-028-0?year=2026&lang=en",
+    "success": true,
+    "status_code": 200,
+    "size": 2201,
+    "file": "scraped_html/Georgia_H1889_028_0.html"
+  },
+  {
+    "state": "Georgia",
+    "plan_id": "H2293_010_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H2293-010-0?year=2026&lang=en",
+    "success": true,
+    "status_code": 200,
+    "size": 3244,
+    "file": "scraped_html/Georgia_H2293_010_0.html"
+  },
+  {
+    "state": "South_Dakota",
+    "plan_id": "S5921_406_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-S5921-406-0?year=2026&lang=en",
+    "success": true,
+    "status_code": 200,
+    "size": 2201,
+    "file": "scraped_html/South_Dakota_S5921_406_0.html"
+  },
+  {
+    "state": "South_Dakota",
+    "plan_id": "H8889_018_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H8889-018-0?year=2026&lang=en",
+    "success": true,
+    "status_code": 200,
+    "size": 2201,
+    "file": "scraped_html/South_Dakota_H8889_018_0.html"
+  },
+  {
+    "state": "South_Dakota",
+    "plan_id": "S5743_001_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-S5743-001-0?year=2026&lang=en",
+    "success": true,
+    "status_code": 200,
+    "size": 2201,
+    "file": "scraped_html/South_Dakota_S5743_001_0.html"
+  },
+  {
+    "state": "South_Dakota",
+    "plan_id": "H8889_013_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H8889-013-0?year=2026&lang=en",
+    "success": true,
+    "status_code": 200,
+    "size": 2201,
+    "file": "scraped_html/South_Dakota_H8889_013_0.html"
+  },
+  {
+    "state": "South_Dakota",
+    "plan_id": "H8889_017_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H8889-017-0?year=2026&lang=en",
+    "success": true,
+    "status_code": 200,
+    "size": 2201,
+    "file": "scraped_html/South_Dakota_H8889_017_0.html"
+  },
+  {
+    "state": "Louisiana",
+    "plan_id": "H5521_645_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H5521-645-0?year=2026&lang=en",
+    "success": true,
+    "status_code": 200,
+    "size": 2201,
+    "file": "scraped_html/Louisiana_H5521_645_0.html"
+  },
+  {
+    "state": "Louisiana",
+    "plan_id": "H6566_001_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H6566-001-0?year=2026&lang=en",
+    "success": true,
+    "status_code": 200,
+    "size": 2201,
+    "file": "scraped_html/Louisiana_H6566_001_0.html"
+  },
+  {
+    "state": "Louisiana",
+    "plan_id": "S5884_167_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-S5884-167-0?year=2026&lang=en",
+    "success": true,
+    "status_code": 200,
+    "size": 2201,
+    "file": "scraped_html/Louisiana_S5884_167_0.html"
+  },
+  {
+    "state": "Louisiana",
+    "plan_id": "H5216_161_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H5216-161-0?year=2026&lang=en",
+    "success": true,
+    "status_code": 200,
+    "size": 2201,
+    "file": "scraped_html/Louisiana_H5216_161_0.html"
+  },
+  {
+    "state": "Louisiana",
+    "plan_id": "H1951_032_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H1951-032-0?year=2026&lang=en",
+    "success": true,
+    "status_code": 200,
+    "size": 2201,
+    "file": "scraped_html/Louisiana_H1951_032_0.html"
+  }
+]

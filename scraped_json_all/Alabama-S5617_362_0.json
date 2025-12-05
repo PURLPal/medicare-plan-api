@@ -1,0 +1,30 @@
+{
+  "plan_info": {
+    "name": "HealthSpring Extra Rx (PDP)",
+    "organization": "HealthSpring",
+    "type": "Drug plan (Part D)",
+    "id": "S5617-362-0"
+  },
+  "premiums": {
+    "Total monthly premium": "$77.50"
+  },
+  "deductibles": {
+    "Drug deductible": "$615.00"
+  },
+  "maximum_out_of_pocket": {},
+  "contact_info": {
+    "Plan address": "P O Box 269005\nWeston, FL 33326"
+  },
+  "benefits": {
+    "Pharmacies": {},
+    "Costs by drug tier - Preferred retail pharmacy drug cost for 1 month": {
+      "Preferred Generic": "$0.00 copay",
+      "Generic": "$5.00 copay",
+      "Preferred Brand": "17% coinsurance",
+      "Non-Preferred Drug": "31% coinsurance",
+      "Specialty Tier": "25% coinsurance"
+    }
+  },
+  "drug_coverage": {},
+  "extra_benefits": {}
+}

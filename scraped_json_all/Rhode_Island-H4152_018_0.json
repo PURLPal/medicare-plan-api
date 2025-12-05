@@ -1,0 +1,146 @@
+{
+  "plan_info": {
+    "name": "BlueCHiP for Medicare Extra (HMO-POS)",
+    "organization": "Blue Cross & Blue Shield of Rhode Island",
+    "type": "Medicare Advantage with drug coverage",
+    "id": "H4152-018-0"
+  },
+  "premiums": {
+    "Total monthly premium": "$143.00",
+    "Health premium": "$34.70",
+    "Drug premium": "$108.30",
+    "Standard Part B premium": "$202.90",
+    "Part B premium reduction": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00",
+    "Drug deductible": "$350.00"
+  },
+  "maximum_out_of_pocket": {
+    "Maximum you pay for health servicesOnce you spend this amount for covered services in a year, your plan pays 100% for your care.": "$5,000 In-network\n$7,500 Out-of-network"
+  },
+  "contact_info": {
+    "Plan address": "500 Exchange Street\nProvidence, RI 02903"
+  },
+  "benefits": {
+    "Doctor services": {
+      "Primary doctor visit": "In-network: $0 copay\nOut-of-network: 20% coinsurance",
+      "Specialist visit": "In-network: $0-$35 copay\nOut-of-network: 20% coinsurance"
+    },
+    "Tests, labs, & imaging": {
+      "Diagnostic tests & proceduresTests done to confirm or uncover the presence of an illness or disease.": "In-network: $50 copay\nOut-of-network: 20% coinsurance",
+      "Lab services": "In-network: $0 copay\nOut-of-network: 20% coinsurance",
+      "Diagnostic radiology services (like MRI)": "In-network: $0-$175 copay\nOut-of-network: 20% coinsurance",
+      "Outpatient x-rays": "In-network: $25 copay\nOut-of-network: 20% coinsurance",
+      "Emergency care": "$130 copay",
+      "Urgent care": "$50 copay"
+    },
+    "Hospital services": {
+      "Inpatient hospital coverage": "In-network:\nTier 1\n$325 per day for days 1-6\n$0 per day for days 7-90\n$0 per stay\nOut-of-network:\n20% per day for days 1-90\n0% per stay",
+      "Outpatient hospital coverage": "In-network: $0-$400 copay\nOut-of-network: 20% coinsurance"
+    },
+    "Skilled nursing facility": {
+      "Skilled nursing facility": "In-network:\nTier 1\n$0 per day for days 1-20\n$218 per day for days 21-45\n$0 per day for days 46-100\nOut-of-network:\n20% per day for days 1-100\n0% per stay"
+    },
+    "Preventive services": {
+      "Preventive services": "In-network: $0 copay\nOut-of-network: 20% coinsurance"
+    },
+    "Ambulance": {
+      "Ground ambulance": "In-network: $200 copay\nOut-of-network: $200 copay"
+    },
+    "Therapy services": {
+      "Occupational therapy visit": "In-network: $0-$35 copay\nOut-of-network: 20% coinsurance",
+      "Physical therapy & speech & language therapy visit": "In-network: $0-$35 copay\nOut-of-network: 20% coinsurance"
+    },
+    "Mental health services": {
+      "Outpatient group therapy with a psychiatrist": "In-network: $0-$35 copay\nOut-of-network: 20% coinsurance",
+      "Outpatient individual therapy with a psychiatrist": "In-network: $0-$35 copay\nOut-of-network: 20% coinsurance",
+      "Outpatient group therapy visit": "In-network: $0-$35 copay\nOut-of-network: 20% coinsurance",
+      "Outpatient individual therapy visit": "In-network: $0-$35 copay\nOut-of-network: 20% coinsurance"
+    },
+    "Opioid treatment program services": {
+      "Opioid treatment program services": "In-network: $35 copay\nOut-of-network: 20% coinsurance"
+    },
+    "Other services": {
+      "Durable medical equipment (like wheelchairs & oxygen)": "In-network: 10% coinsurance\nOut-of-network: 20% coinsurance",
+      "Prosthetics (like braces, artificial limbs)": "In-network: 10% coinsurance\nOut-of-network: 20% coinsurance",
+      "Dialysis": "In-network: 20% coinsurance\nOut-of-network: 20% coinsurance",
+      "Diabetes supplies": "In-network: $0 copay\nOut-of-network: 20% coinsurance"
+    },
+    "Pharmacies": {},
+    "Costs by drug tier - Standard retail pharmacy drug cost for 1 month": {
+      "Preferred Generic": "$0.00 copay",
+      "Generic": "$0.00 copay",
+      "Preferred Brand": "$47.00 copay",
+      "Non-Preferred Drug": "30% coinsurance",
+      "Specialty Tier": "29% coinsurance"
+    },
+    "Part B drugs": {
+      "Part B insulin": "In-network: $35 copay\nOut-of-network: 20% coinsurance",
+      "Chemotherapy drugs": "In-network: 0%-20% coinsurance\nOut-of-network: 20% coinsurance",
+      "Other Part B drugs": "In-network: 0%-20% coinsurance\nOut-of-network: 20% coinsurance"
+    },
+    "Hearing": {
+      "Hearing exam": "In-network: $0 copay\nOut-of-network: 20% coinsurance",
+      "Fitting/evaluation": "In-network: $0 copay",
+      "Hearing aids - prescription": "In-network: $200-$1675 copay",
+      "Hearing aids - over the counter": "Not covered"
+    },
+    "Preventive dental": {
+      "Oral exam": "In-network: $0 copay",
+      "Cleaning": "In-network: $0 copay",
+      "Fluoride treatment": "In-network: $0 copay",
+      "Dental x-rays": "In-network: $0 copay"
+    },
+    "Comprehensive dental": {
+      "Restorative services": "In-network: $0 copay",
+      "Endodontics": "In-network: $0 copay",
+      "Periodontics": "In-network: $0 copay",
+      "Prosthodontics, removable": "In-network: $0 copay",
+      "Prosthodontics, fixed": "In-network: $0 copay",
+      "Maxillofacial prosthetics": "Not covered",
+      "Implant services": "Not covered",
+      "Oral and maxillofacial surgery": "In-network: $0 copay",
+      "Orthodontics": "Not covered",
+      "Adjunctive general services": "In-network: $0 copay"
+    },
+    "Vision": {
+      "Routine eye exam": "In-network: $0 copay\nOut-of-network: 20% coinsurance",
+      "Contact lenses": "In-network: $0 copay",
+      "Eyeglasses (frames & lenses)": "In-network: $0 copay",
+      "Eyeglass frames only": "In-network: $0 copay",
+      "Eyeglass lenses only": "In-network: $0 copay",
+      "Upgrades": "Not covered"
+    },
+    "Medically-approved non-opioid pain management services": {
+      "Chiropractic services": "Not covered",
+      "Acupuncture": "Not covered",
+      "Massage therapy": "Not covered",
+      "Alternative therapies": "Not covered"
+    },
+    "More benefits": {
+      "Health Education": "In-network: $0 copay",
+      "Counseling Services": "Not covered",
+      "Support for Caregivers of Enrollees": "Not covered",
+      "Personal Emergency Response System (PERS)": "Not covered",
+      "Fitness benefit": "In-network: $0 copay",
+      "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+      "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+      "Over the counter drug benefits": "In-network: $0 copay",
+      "In-home support services": "Not covered",
+      "Home and bathroom safety devices": "Not covered",
+      "Meals for short duration": "Not covered",
+      "Annual physical exams": "In-network: $0 copay",
+      "Telehealth": "In-network: $0 copay",
+      "Worldwide emergency": "$130 copay",
+      "Post discharge in-home medication reconciliation": "In-network: $0 copay",
+      "Re-admission prevention": "Not covered",
+      "Wigs for hair loss related to chemotherapy": "Not covered",
+      "Weight management programs": "Not covered",
+      "Adult day health services": "Not covered",
+      "Home-based palliative care": "Not covered"
+    }
+  },
+  "drug_coverage": {},
+  "extra_benefits": {}
+}

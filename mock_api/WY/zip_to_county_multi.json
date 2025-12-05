@@ -1,0 +1,3409 @@
+[
+  {
+    "zip": "82052",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56001",
+        "name": "Albany",
+        "percentage": 99.5
+      },
+      {
+        "fips": "56021",
+        "name": "Laramie",
+        "percentage": 0.5
+      }
+    ],
+    "primary_county": {
+      "fips": "56001",
+      "name": "Albany"
+    },
+    "county": "Albany",
+    "fips": "56001"
+  },
+  {
+    "zip": "82731",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56005",
+        "name": "Campbell",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56005",
+      "name": "Campbell"
+    },
+    "county": "Campbell",
+    "fips": "56005"
+  },
+  {
+    "zip": "82325",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56007",
+        "name": "Carbon",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56007",
+      "name": "Carbon"
+    },
+    "county": "Carbon",
+    "fips": "56007"
+  },
+  {
+    "zip": "82225",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56027",
+        "name": "Niobrara",
+        "percentage": 93.0
+      },
+      {
+        "fips": "56015",
+        "name": "Goshen",
+        "percentage": 7.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56027",
+      "name": "Niobrara"
+    },
+    "county": "Niobrara",
+    "fips": "56027"
+  },
+  {
+    "zip": "82430",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56017",
+        "name": "Hot Springs",
+        "percentage": 89.3
+      },
+      {
+        "fips": "56043",
+        "name": "Washakie",
+        "percentage": 10.7
+      }
+    ],
+    "primary_county": {
+      "fips": "56017",
+      "name": "Hot Springs"
+    },
+    "county": "Hot Springs",
+    "fips": "56017"
+  },
+  {
+    "zip": "83124",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "name": "Lincoln",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "name": "Lincoln"
+    },
+    "county": "Lincoln",
+    "fips": "56023"
+  },
+  {
+    "zip": "83114",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "name": "Lincoln",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "name": "Lincoln"
+    },
+    "county": "Lincoln",
+    "fips": "56023"
+  },
+  {
+    "zip": "82635",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56025",
+        "name": "Natrona",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56025",
+      "name": "Natrona"
+    },
+    "county": "Natrona",
+    "fips": "56025"
+  },
+  {
+    "zip": "82450",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56029",
+        "name": "Park",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56029",
+      "name": "Park"
+    },
+    "county": "Park",
+    "fips": "56029"
+  },
+  {
+    "zip": "82842",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56033",
+        "name": "Sheridan",
+        "percentage": 99.9
+      },
+      {
+        "fips": "56019",
+        "name": "Johnson",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "56033",
+      "name": "Sheridan"
+    },
+    "county": "Sheridan",
+    "fips": "56033"
+  },
+  {
+    "zip": "82941",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56035",
+        "name": "Sublette",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "56035",
+      "name": "Sublette"
+    },
+    "county": "Sublette",
+    "fips": "56035"
+  },
+  {
+    "zip": "82923",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56035",
+        "name": "Sublette",
+        "percentage": 99.9
+      },
+      {
+        "fips": "56013",
+        "name": "Fremont",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "56035",
+      "name": "Sublette"
+    },
+    "county": "Sublette",
+    "fips": "56035"
+  },
+  {
+    "zip": "82925",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "56035",
+        "name": "Sublette",
+        "percentage": 94.6
+      },
+      {
+        "fips": "56039",
+        "name": "Teton",
+        "percentage": 5.3
+      },
+      {
+        "fips": "56013",
+        "name": "Fremont",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "56035",
+      "name": "Sublette"
+    },
+    "county": "Sublette",
+    "fips": "56035"
+  },
+  {
+    "zip": "83115",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56035",
+        "name": "Sublette",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "56035",
+      "name": "Sublette"
+    },
+    "county": "Sublette",
+    "fips": "56035"
+  },
+  {
+    "zip": "82901",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56037",
+        "name": "Sweetwater",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56037",
+      "name": "Sweetwater"
+    },
+    "county": "Sweetwater",
+    "fips": "56037"
+  },
+  {
+    "zip": "83025",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56039",
+        "name": "Teton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56039",
+      "name": "Teton"
+    },
+    "county": "Teton",
+    "fips": "56039"
+  },
+  {
+    "zip": "82329",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56007",
+        "name": "Carbon",
+        "percentage": 53.6
+      },
+      {
+        "fips": "56001",
+        "name": "Albany",
+        "percentage": 46.4
+      }
+    ],
+    "primary_county": {
+      "fips": "56007",
+      "name": "Carbon"
+    },
+    "county": "Carbon",
+    "fips": "56007"
+  },
+  {
+    "zip": "82058",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56001",
+        "name": "Albany",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56001",
+      "name": "Albany"
+    },
+    "county": "Albany",
+    "fips": "56001"
+  },
+  {
+    "zip": "82051",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56001",
+        "name": "Albany",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56001",
+      "name": "Albany"
+    },
+    "county": "Albany",
+    "fips": "56001"
+  },
+  {
+    "zip": "82431",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56003",
+        "name": "Big Horn",
+        "percentage": 99.8
+      },
+      {
+        "fips": "56033",
+        "name": "Sheridan",
+        "percentage": 0.2
+      }
+    ],
+    "primary_county": {
+      "fips": "56003",
+      "name": "Big Horn"
+    },
+    "county": "Big Horn",
+    "fips": "56003"
+  },
+  {
+    "zip": "82410",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56003",
+        "name": "Big Horn",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56003",
+      "name": "Big Horn"
+    },
+    "county": "Big Horn",
+    "fips": "56003"
+  },
+  {
+    "zip": "82434",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56003",
+        "name": "Big Horn",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56003",
+      "name": "Big Horn"
+    },
+    "county": "Big Horn",
+    "fips": "56003"
+  },
+  {
+    "zip": "82422",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56003",
+        "name": "Big Horn",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56003",
+      "name": "Big Horn"
+    },
+    "county": "Big Horn",
+    "fips": "56003"
+  },
+  {
+    "zip": "82725",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56005",
+        "name": "Campbell",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56005",
+      "name": "Campbell"
+    },
+    "county": "Campbell",
+    "fips": "56005"
+  },
+  {
+    "zip": "82324",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56007",
+        "name": "Carbon",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56007",
+      "name": "Carbon"
+    },
+    "county": "Carbon",
+    "fips": "56007"
+  },
+  {
+    "zip": "82335",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56007",
+        "name": "Carbon",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56007",
+      "name": "Carbon"
+    },
+    "county": "Carbon",
+    "fips": "56007"
+  },
+  {
+    "zip": "82730",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56045",
+        "name": "Weston",
+        "percentage": 91.4
+      },
+      {
+        "fips": "56011",
+        "name": "Crook",
+        "percentage": 8.6
+      }
+    ],
+    "primary_county": {
+      "fips": "56045",
+      "name": "Weston"
+    },
+    "county": "Weston",
+    "fips": "56045"
+  },
+  {
+    "zip": "82729",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56011",
+        "name": "Crook",
+        "percentage": 95.4
+      },
+      {
+        "fips": "56045",
+        "name": "Weston",
+        "percentage": 4.6
+      }
+    ],
+    "primary_county": {
+      "fips": "56011",
+      "name": "Crook"
+    },
+    "county": "Crook",
+    "fips": "56011"
+  },
+  {
+    "zip": "57717",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56011",
+        "name": "Crook",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "56011",
+      "name": "Crook"
+    },
+    "county": "Crook",
+    "fips": "56011"
+  },
+  {
+    "zip": "82714",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56011",
+        "name": "Crook",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56011",
+      "name": "Crook"
+    },
+    "county": "Crook",
+    "fips": "56011"
+  },
+  {
+    "zip": "82243",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56015",
+        "name": "Goshen",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56015",
+      "name": "Goshen"
+    },
+    "county": "Goshen",
+    "fips": "56015"
+  },
+  {
+    "zip": "82210",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "56031",
+        "name": "Platte",
+        "percentage": 79.5
+      },
+      {
+        "fips": "56015",
+        "name": "Goshen",
+        "percentage": 20.4
+      },
+      {
+        "fips": "56021",
+        "name": "Laramie",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "56031",
+      "name": "Platte"
+    },
+    "county": "Platte",
+    "fips": "56031"
+  },
+  {
+    "zip": "82832",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56033",
+        "name": "Sheridan",
+        "percentage": 80.7
+      },
+      {
+        "fips": "56019",
+        "name": "Johnson",
+        "percentage": 19.3
+      }
+    ],
+    "primary_county": {
+      "fips": "56033",
+      "name": "Sheridan"
+    },
+    "county": "Sheridan",
+    "fips": "56033"
+  },
+  {
+    "zip": "82005",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56021",
+        "name": "Laramie",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56021",
+      "name": "Laramie"
+    },
+    "county": "Laramie",
+    "fips": "56021"
+  },
+  {
+    "zip": "83101",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "name": "Lincoln",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "name": "Lincoln"
+    },
+    "county": "Lincoln",
+    "fips": "56023"
+  },
+  {
+    "zip": "83119",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "name": "Lincoln",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "name": "Lincoln"
+    },
+    "county": "Lincoln",
+    "fips": "56023"
+  },
+  {
+    "zip": "82643",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56025",
+        "name": "Natrona",
+        "percentage": 99.8
+      },
+      {
+        "fips": "56019",
+        "name": "Johnson",
+        "percentage": 0.2
+      }
+    ],
+    "primary_county": {
+      "fips": "56025",
+      "name": "Natrona"
+    },
+    "county": "Natrona",
+    "fips": "56025"
+  },
+  {
+    "zip": "82242",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56027",
+        "name": "Niobrara",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56027",
+      "name": "Niobrara"
+    },
+    "county": "Niobrara",
+    "fips": "56027"
+  },
+  {
+    "zip": "82414",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56029",
+        "name": "Park",
+        "percentage": 99.8
+      },
+      {
+        "fips": "56013",
+        "name": "Fremont",
+        "percentage": 0.2
+      }
+    ],
+    "primary_county": {
+      "fips": "56029",
+      "name": "Park"
+    },
+    "county": "Park",
+    "fips": "56029"
+  },
+  {
+    "zip": "82190",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56029",
+        "name": "Park",
+        "percentage": 55.4
+      },
+      {
+        "fips": "56039",
+        "name": "Teton",
+        "percentage": 44.6
+      }
+    ],
+    "primary_county": {
+      "fips": "56029",
+      "name": "Park"
+    },
+    "county": "Park",
+    "fips": "56029"
+  },
+  {
+    "zip": "83011",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56039",
+        "name": "Teton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56039",
+      "name": "Teton"
+    },
+    "county": "Teton",
+    "fips": "56039"
+  },
+  {
+    "zip": "82201",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56031",
+        "name": "Platte",
+        "percentage": 64.5
+      },
+      {
+        "fips": "56001",
+        "name": "Albany",
+        "percentage": 35.4
+      }
+    ],
+    "primary_county": {
+      "fips": "56031",
+      "name": "Platte"
+    },
+    "county": "Platte",
+    "fips": "56031"
+  },
+  {
+    "zip": "82423",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56003",
+        "name": "Big Horn",
+        "percentage": 92.7
+      },
+      {
+        "fips": "56029",
+        "name": "Park",
+        "percentage": 7.3
+      }
+    ],
+    "primary_county": {
+      "fips": "56003",
+      "name": "Big Horn"
+    },
+    "county": "Big Horn",
+    "fips": "56003"
+  },
+  {
+    "zip": "82411",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56003",
+        "name": "Big Horn",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56003",
+      "name": "Big Horn"
+    },
+    "county": "Big Horn",
+    "fips": "56003"
+  },
+  {
+    "zip": "82441",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56003",
+        "name": "Big Horn",
+        "percentage": 98.8
+      },
+      {
+        "fips": "56033",
+        "name": "Sheridan",
+        "percentage": 1.2
+      }
+    ],
+    "primary_county": {
+      "fips": "56003",
+      "name": "Big Horn"
+    },
+    "county": "Big Horn",
+    "fips": "56003"
+  },
+  {
+    "zip": "82401",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "56043",
+        "name": "Washakie",
+        "percentage": 83.1
+      },
+      {
+        "fips": "56017",
+        "name": "Hot Springs",
+        "percentage": 14.9
+      },
+      {
+        "fips": "56003",
+        "name": "Big Horn",
+        "percentage": 2.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56043",
+      "name": "Washakie"
+    },
+    "county": "Washakie",
+    "fips": "56043"
+  },
+  {
+    "zip": "82732",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56005",
+        "name": "Campbell",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56005",
+      "name": "Campbell"
+    },
+    "county": "Campbell",
+    "fips": "56005"
+  },
+  {
+    "zip": "82831",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "56019",
+        "name": "Johnson",
+        "percentage": 38.8
+      },
+      {
+        "fips": "56033",
+        "name": "Sheridan",
+        "percentage": 33.2
+      },
+      {
+        "fips": "56005",
+        "name": "Campbell",
+        "percentage": 28.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56019",
+      "name": "Johnson"
+    },
+    "county": "Johnson",
+    "fips": "56019"
+  },
+  {
+    "zip": "82604",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56025",
+        "name": "Natrona",
+        "percentage": 95.3
+      },
+      {
+        "fips": "56007",
+        "name": "Carbon",
+        "percentage": 4.7
+      }
+    ],
+    "primary_county": {
+      "fips": "56025",
+      "name": "Natrona"
+    },
+    "county": "Natrona",
+    "fips": "56025"
+  },
+  {
+    "zip": "82523",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56013",
+        "name": "Fremont",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56013",
+      "name": "Fremont"
+    },
+    "county": "Fremont",
+    "fips": "56013"
+  },
+  {
+    "zip": "82649",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56013",
+        "name": "Fremont",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "56013",
+      "name": "Fremont"
+    },
+    "county": "Fremont",
+    "fips": "56013"
+  },
+  {
+    "zip": "82642",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56013",
+        "name": "Fremont",
+        "percentage": 85.4
+      },
+      {
+        "fips": "56025",
+        "name": "Natrona",
+        "percentage": 14.6
+      }
+    ],
+    "primary_county": {
+      "fips": "56013",
+      "name": "Fremont"
+    },
+    "county": "Fremont",
+    "fips": "56013"
+  },
+  {
+    "zip": "82443",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56017",
+        "name": "Hot Springs",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "56017",
+      "name": "Hot Springs"
+    },
+    "county": "Hot Springs",
+    "fips": "56017"
+  },
+  {
+    "zip": "82646",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56025",
+        "name": "Natrona",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56025",
+      "name": "Natrona"
+    },
+    "county": "Natrona",
+    "fips": "56025"
+  },
+  {
+    "zip": "82835",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56033",
+        "name": "Sheridan",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56033",
+      "name": "Sheridan"
+    },
+    "county": "Sheridan",
+    "fips": "56033"
+  },
+  {
+    "zip": "82922",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56035",
+        "name": "Sublette",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "56035",
+      "name": "Sublette"
+    },
+    "county": "Sublette",
+    "fips": "56035"
+  },
+  {
+    "zip": "82929",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56037",
+        "name": "Sweetwater",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56037",
+      "name": "Sweetwater"
+    },
+    "county": "Sweetwater",
+    "fips": "56037"
+  },
+  {
+    "zip": "82935",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56037",
+        "name": "Sweetwater",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56037",
+      "name": "Sweetwater"
+    },
+    "county": "Sweetwater",
+    "fips": "56037"
+  },
+  {
+    "zip": "82934",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56037",
+        "name": "Sweetwater",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56037",
+      "name": "Sweetwater"
+    },
+    "county": "Sweetwater",
+    "fips": "56037"
+  },
+  {
+    "zip": "82063",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56001",
+        "name": "Albany",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56001",
+      "name": "Albany"
+    },
+    "county": "Albany",
+    "fips": "56001"
+  },
+  {
+    "zip": "82084",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56001",
+        "name": "Albany",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56001",
+      "name": "Albany"
+    },
+    "county": "Albany",
+    "fips": "56001"
+  },
+  {
+    "zip": "82072",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56001",
+        "name": "Albany",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56001",
+      "name": "Albany"
+    },
+    "county": "Albany",
+    "fips": "56001"
+  },
+  {
+    "zip": "82435",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56029",
+        "name": "Park",
+        "percentage": 95.8
+      },
+      {
+        "fips": "56003",
+        "name": "Big Horn",
+        "percentage": 4.2
+      }
+    ],
+    "primary_county": {
+      "fips": "56029",
+      "name": "Park"
+    },
+    "county": "Park",
+    "fips": "56029"
+  },
+  {
+    "zip": "82421",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56003",
+        "name": "Big Horn",
+        "percentage": 60.6
+      },
+      {
+        "fips": "56029",
+        "name": "Park",
+        "percentage": 39.4
+      }
+    ],
+    "primary_county": {
+      "fips": "56003",
+      "name": "Big Horn"
+    },
+    "county": "Big Horn",
+    "fips": "56003"
+  },
+  {
+    "zip": "82321",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56007",
+        "name": "Carbon",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56007",
+      "name": "Carbon"
+    },
+    "county": "Carbon",
+    "fips": "56007"
+  },
+  {
+    "zip": "82334",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56007",
+        "name": "Carbon",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56007",
+      "name": "Carbon"
+    },
+    "county": "Carbon",
+    "fips": "56007"
+  },
+  {
+    "zip": "82327",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56007",
+        "name": "Carbon",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "56007",
+      "name": "Carbon"
+    },
+    "county": "Carbon",
+    "fips": "56007"
+  },
+  {
+    "zip": "82514",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56013",
+        "name": "Fremont",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56013",
+      "name": "Fremont"
+    },
+    "county": "Fremont",
+    "fips": "56013"
+  },
+  {
+    "zip": "82515",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56013",
+        "name": "Fremont",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56013",
+      "name": "Fremont"
+    },
+    "county": "Fremont",
+    "fips": "56013"
+  },
+  {
+    "zip": "82217",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56015",
+        "name": "Goshen",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56015",
+      "name": "Goshen"
+    },
+    "county": "Goshen",
+    "fips": "56015"
+  },
+  {
+    "zip": "82639",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56019",
+        "name": "Johnson",
+        "percentage": 92.1
+      },
+      {
+        "fips": "56025",
+        "name": "Natrona",
+        "percentage": 7.9
+      }
+    ],
+    "primary_county": {
+      "fips": "56019",
+      "name": "Johnson"
+    },
+    "county": "Johnson",
+    "fips": "56019"
+  },
+  {
+    "zip": "82009",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56021",
+        "name": "Laramie",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "56021",
+      "name": "Laramie"
+    },
+    "county": "Laramie",
+    "fips": "56021"
+  },
+  {
+    "zip": "82061",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56021",
+        "name": "Laramie",
+        "percentage": 99.9
+      },
+      {
+        "fips": "56001",
+        "name": "Albany",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "56021",
+      "name": "Laramie"
+    },
+    "county": "Laramie",
+    "fips": "56021"
+  },
+  {
+    "zip": "82050",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56021",
+        "name": "Laramie",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56021",
+      "name": "Laramie"
+    },
+    "county": "Laramie",
+    "fips": "56021"
+  },
+  {
+    "zip": "83127",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "name": "Lincoln",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "name": "Lincoln"
+    },
+    "county": "Lincoln",
+    "fips": "56023"
+  },
+  {
+    "zip": "83118",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "name": "Lincoln",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "name": "Lincoln"
+    },
+    "county": "Lincoln",
+    "fips": "56023"
+  },
+  {
+    "zip": "83123",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "name": "Lincoln",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "name": "Lincoln"
+    },
+    "county": "Lincoln",
+    "fips": "56023"
+  },
+  {
+    "zip": "82601",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56025",
+        "name": "Natrona",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56025",
+      "name": "Natrona"
+    },
+    "county": "Natrona",
+    "fips": "56025"
+  },
+  {
+    "zip": "82222",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56027",
+        "name": "Niobrara",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56027",
+      "name": "Niobrara"
+    },
+    "county": "Niobrara",
+    "fips": "56027"
+  },
+  {
+    "zip": "82214",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56031",
+        "name": "Platte",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56031",
+      "name": "Platte"
+    },
+    "county": "Platte",
+    "fips": "56031"
+  },
+  {
+    "zip": "82837",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56033",
+        "name": "Sheridan",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56033",
+      "name": "Sheridan"
+    },
+    "county": "Sheridan",
+    "fips": "56033"
+  },
+  {
+    "zip": "83113",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56035",
+        "name": "Sublette",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56035",
+      "name": "Sublette"
+    },
+    "county": "Sublette",
+    "fips": "56035"
+  },
+  {
+    "zip": "83012",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56039",
+        "name": "Teton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56039",
+      "name": "Teton"
+    },
+    "county": "Teton",
+    "fips": "56039"
+  },
+  {
+    "zip": "83013",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56039",
+        "name": "Teton",
+        "percentage": 98.6
+      },
+      {
+        "fips": "56029",
+        "name": "Park",
+        "percentage": 1.4
+      }
+    ],
+    "primary_county": {
+      "fips": "56039",
+      "name": "Teton"
+    },
+    "county": "Teton",
+    "fips": "56039"
+  },
+  {
+    "zip": "82937",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56041",
+        "name": "Uinta",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56041",
+      "name": "Uinta"
+    },
+    "county": "Uinta",
+    "fips": "56041"
+  },
+  {
+    "zip": "82083",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56007",
+        "name": "Carbon",
+        "percentage": 56.7
+      },
+      {
+        "fips": "56001",
+        "name": "Albany",
+        "percentage": 43.3
+      }
+    ],
+    "primary_county": {
+      "fips": "56007",
+      "name": "Carbon"
+    },
+    "county": "Carbon",
+    "fips": "56007"
+  },
+  {
+    "zip": "82323",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56007",
+        "name": "Carbon",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "56007",
+      "name": "Carbon"
+    },
+    "county": "Carbon",
+    "fips": "56007"
+  },
+  {
+    "zip": "82636",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56025",
+        "name": "Natrona",
+        "percentage": 98.9
+      },
+      {
+        "fips": "56009",
+        "name": "Converse",
+        "percentage": 1.1
+      }
+    ],
+    "primary_county": {
+      "fips": "56025",
+      "name": "Natrona"
+    },
+    "county": "Natrona",
+    "fips": "56025"
+  },
+  {
+    "zip": "82720",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56011",
+        "name": "Crook",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56011",
+      "name": "Crook"
+    },
+    "county": "Crook",
+    "fips": "56011"
+  },
+  {
+    "zip": "82711",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56011",
+        "name": "Crook",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56011",
+      "name": "Crook"
+    },
+    "county": "Crook",
+    "fips": "56011"
+  },
+  {
+    "zip": "82710",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56011",
+        "name": "Crook",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56011",
+      "name": "Crook"
+    },
+    "county": "Crook",
+    "fips": "56011"
+  },
+  {
+    "zip": "82510",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56013",
+        "name": "Fremont",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56013",
+      "name": "Fremont"
+    },
+    "county": "Fremont",
+    "fips": "56013"
+  },
+  {
+    "zip": "82512",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56013",
+        "name": "Fremont",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56013",
+      "name": "Fremont"
+    },
+    "county": "Fremont",
+    "fips": "56013"
+  },
+  {
+    "zip": "82223",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56015",
+        "name": "Goshen",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56015",
+      "name": "Goshen"
+    },
+    "county": "Goshen",
+    "fips": "56015"
+  },
+  {
+    "zip": "82212",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56015",
+        "name": "Goshen",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56015",
+      "name": "Goshen"
+    },
+    "county": "Goshen",
+    "fips": "56015"
+  },
+  {
+    "zip": "82060",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56021",
+        "name": "Laramie",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56021",
+      "name": "Laramie"
+    },
+    "county": "Laramie",
+    "fips": "56021"
+  },
+  {
+    "zip": "82082",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56021",
+        "name": "Laramie",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56021",
+      "name": "Laramie"
+    },
+    "county": "Laramie",
+    "fips": "56021"
+  },
+  {
+    "zip": "83122",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "name": "Lincoln",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "name": "Lincoln"
+    },
+    "county": "Lincoln",
+    "fips": "56023"
+  },
+  {
+    "zip": "82433",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56029",
+        "name": "Park",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "56029",
+      "name": "Park"
+    },
+    "county": "Park",
+    "fips": "56029"
+  },
+  {
+    "zip": "82215",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56031",
+        "name": "Platte",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56031",
+      "name": "Platte"
+    },
+    "county": "Platte",
+    "fips": "56031"
+  },
+  {
+    "zip": "82833",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56033",
+        "name": "Sheridan",
+        "percentage": 99.8
+      },
+      {
+        "fips": "56019",
+        "name": "Johnson",
+        "percentage": 0.2
+      }
+    ],
+    "primary_county": {
+      "fips": "56033",
+      "name": "Sheridan"
+    },
+    "county": "Sheridan",
+    "fips": "56033"
+  },
+  {
+    "zip": "82839",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56033",
+        "name": "Sheridan",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56033",
+      "name": "Sheridan"
+    },
+    "county": "Sheridan",
+    "fips": "56033"
+  },
+  {
+    "zip": "82844",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56033",
+        "name": "Sheridan",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56033",
+      "name": "Sheridan"
+    },
+    "county": "Sheridan",
+    "fips": "56033"
+  },
+  {
+    "zip": "83001",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56039",
+        "name": "Teton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56039",
+      "name": "Teton"
+    },
+    "county": "Teton",
+    "fips": "56039"
+  },
+  {
+    "zip": "82943",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56037",
+        "name": "Sweetwater",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56037",
+      "name": "Sweetwater"
+    },
+    "county": "Sweetwater",
+    "fips": "56037"
+  },
+  {
+    "zip": "83414",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56039",
+        "name": "Teton",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "56039",
+      "name": "Teton"
+    },
+    "county": "Teton",
+    "fips": "56039"
+  },
+  {
+    "zip": "83014",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56039",
+        "name": "Teton",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "56039",
+      "name": "Teton"
+    },
+    "county": "Teton",
+    "fips": "56039"
+  },
+  {
+    "zip": "82055",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56001",
+        "name": "Albany",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56001",
+      "name": "Albany"
+    },
+    "county": "Albany",
+    "fips": "56001"
+  },
+  {
+    "zip": "82637",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "56009",
+        "name": "Converse",
+        "percentage": 95.6
+      },
+      {
+        "fips": "56001",
+        "name": "Albany",
+        "percentage": 4.2
+      },
+      {
+        "fips": "56025",
+        "name": "Natrona",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "56009",
+      "name": "Converse"
+    },
+    "county": "Converse",
+    "fips": "56009"
+  },
+  {
+    "zip": "82412",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56003",
+        "name": "Big Horn",
+        "percentage": 99.8
+      },
+      {
+        "fips": "56029",
+        "name": "Park",
+        "percentage": 0.2
+      }
+    ],
+    "primary_county": {
+      "fips": "56003",
+      "name": "Big Horn"
+    },
+    "county": "Big Horn",
+    "fips": "56003"
+  },
+  {
+    "zip": "82426",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56003",
+        "name": "Big Horn",
+        "percentage": 99.3
+      },
+      {
+        "fips": "56033",
+        "name": "Sheridan",
+        "percentage": 0.7
+      }
+    ],
+    "primary_county": {
+      "fips": "56003",
+      "name": "Big Horn"
+    },
+    "county": "Big Horn",
+    "fips": "56003"
+  },
+  {
+    "zip": "82718",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56005",
+        "name": "Campbell",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "56005",
+      "name": "Campbell"
+    },
+    "county": "Campbell",
+    "fips": "56005"
+  },
+  {
+    "zip": "82301",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "56007",
+        "name": "Carbon",
+        "percentage": 58.2
+      },
+      {
+        "fips": "56037",
+        "name": "Sweetwater",
+        "percentage": 30.9
+      },
+      {
+        "fips": "56013",
+        "name": "Fremont",
+        "percentage": 10.9
+      }
+    ],
+    "primary_county": {
+      "fips": "56007",
+      "name": "Carbon"
+    },
+    "county": "Carbon",
+    "fips": "56007"
+  },
+  {
+    "zip": "82332",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56007",
+        "name": "Carbon",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56007",
+      "name": "Carbon"
+    },
+    "county": "Carbon",
+    "fips": "56007"
+  },
+  {
+    "zip": "82721",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56011",
+        "name": "Crook",
+        "percentage": 99.9
+      },
+      {
+        "fips": "56005",
+        "name": "Campbell",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "56011",
+      "name": "Crook"
+    },
+    "county": "Crook",
+    "fips": "56011"
+  },
+  {
+    "zip": "82501",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56013",
+        "name": "Fremont",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56013",
+      "name": "Fremont"
+    },
+    "county": "Fremont",
+    "fips": "56013"
+  },
+  {
+    "zip": "82520",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56013",
+        "name": "Fremont",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "56013",
+      "name": "Fremont"
+    },
+    "county": "Fremont",
+    "fips": "56013"
+  },
+  {
+    "zip": "82240",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56015",
+        "name": "Goshen",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "56015",
+      "name": "Goshen"
+    },
+    "county": "Goshen",
+    "fips": "56015"
+  },
+  {
+    "zip": "82001",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56021",
+        "name": "Laramie",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56021",
+      "name": "Laramie"
+    },
+    "county": "Laramie",
+    "fips": "56021"
+  },
+  {
+    "zip": "82053",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56021",
+        "name": "Laramie",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56021",
+      "name": "Laramie"
+    },
+    "county": "Laramie",
+    "fips": "56021"
+  },
+  {
+    "zip": "82054",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56021",
+        "name": "Laramie",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "56021",
+      "name": "Laramie"
+    },
+    "county": "Laramie",
+    "fips": "56021"
+  },
+  {
+    "zip": "82213",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56031",
+        "name": "Platte",
+        "percentage": 99.7
+      },
+      {
+        "fips": "56009",
+        "name": "Converse",
+        "percentage": 0.2
+      }
+    ],
+    "primary_county": {
+      "fips": "56031",
+      "name": "Platte"
+    },
+    "county": "Platte",
+    "fips": "56031"
+  },
+  {
+    "zip": "82801",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56033",
+        "name": "Sheridan",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56033",
+      "name": "Sheridan"
+    },
+    "county": "Sheridan",
+    "fips": "56033"
+  },
+  {
+    "zip": "82836",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56033",
+        "name": "Sheridan",
+        "percentage": 99.2
+      },
+      {
+        "fips": "56003",
+        "name": "Big Horn",
+        "percentage": 0.7
+      }
+    ],
+    "primary_county": {
+      "fips": "56033",
+      "name": "Sheridan"
+    },
+    "county": "Sheridan",
+    "fips": "56033"
+  },
+  {
+    "zip": "82845",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56033",
+        "name": "Sheridan",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56033",
+      "name": "Sheridan"
+    },
+    "county": "Sheridan",
+    "fips": "56033"
+  },
+  {
+    "zip": "82932",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56037",
+        "name": "Sweetwater",
+        "percentage": 57.3
+      },
+      {
+        "fips": "56035",
+        "name": "Sublette",
+        "percentage": 42.7
+      }
+    ],
+    "primary_county": {
+      "fips": "56037",
+      "name": "Sweetwater"
+    },
+    "county": "Sweetwater",
+    "fips": "56037"
+  },
+  {
+    "zip": "82945",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56037",
+        "name": "Sweetwater",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56037",
+      "name": "Sweetwater"
+    },
+    "county": "Sweetwater",
+    "fips": "56037"
+  },
+  {
+    "zip": "82322",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56037",
+        "name": "Sweetwater",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56037",
+      "name": "Sweetwater"
+    },
+    "county": "Sweetwater",
+    "fips": "56037"
+  },
+  {
+    "zip": "82944",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56041",
+        "name": "Uinta",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "56041",
+      "name": "Uinta"
+    },
+    "county": "Uinta",
+    "fips": "56041"
+  },
+  {
+    "zip": "82723",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56045",
+        "name": "Weston",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56045",
+      "name": "Weston"
+    },
+    "county": "Weston",
+    "fips": "56045"
+  },
+  {
+    "zip": "82420",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56003",
+        "name": "Big Horn",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56003",
+      "name": "Big Horn"
+    },
+    "county": "Big Horn",
+    "fips": "56003"
+  },
+  {
+    "zip": "82428",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56003",
+        "name": "Big Horn",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56003",
+      "name": "Big Horn"
+    },
+    "county": "Big Horn",
+    "fips": "56003"
+  },
+  {
+    "zip": "82727",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56005",
+        "name": "Campbell",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "56005",
+      "name": "Campbell"
+    },
+    "county": "Campbell",
+    "fips": "56005"
+  },
+  {
+    "zip": "82620",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56025",
+        "name": "Natrona",
+        "percentage": 60.6
+      },
+      {
+        "fips": "56007",
+        "name": "Carbon",
+        "percentage": 39.4
+      }
+    ],
+    "primary_county": {
+      "fips": "56025",
+      "name": "Natrona"
+    },
+    "county": "Natrona",
+    "fips": "56025"
+  },
+  {
+    "zip": "82516",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56013",
+        "name": "Fremont",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56013",
+      "name": "Fremont"
+    },
+    "county": "Fremont",
+    "fips": "56013"
+  },
+  {
+    "zip": "82513",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56013",
+        "name": "Fremont",
+        "percentage": 98.7
+      },
+      {
+        "fips": "56029",
+        "name": "Park",
+        "percentage": 1.2
+      }
+    ],
+    "primary_county": {
+      "fips": "56013",
+      "name": "Fremont"
+    },
+    "county": "Fremont",
+    "fips": "56013"
+  },
+  {
+    "zip": "82219",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56015",
+        "name": "Goshen",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56015",
+      "name": "Goshen"
+    },
+    "county": "Goshen",
+    "fips": "56015"
+  },
+  {
+    "zip": "82834",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56019",
+        "name": "Johnson",
+        "percentage": 99.8
+      }
+    ],
+    "primary_county": {
+      "fips": "56019",
+      "name": "Johnson"
+    },
+    "county": "Johnson",
+    "fips": "56019"
+  },
+  {
+    "zip": "82059",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56021",
+        "name": "Laramie",
+        "percentage": 99.8
+      },
+      {
+        "fips": "56001",
+        "name": "Albany",
+        "percentage": 0.2
+      }
+    ],
+    "primary_county": {
+      "fips": "56021",
+      "name": "Laramie"
+    },
+    "county": "Laramie",
+    "fips": "56021"
+  },
+  {
+    "zip": "82081",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56021",
+        "name": "Laramie",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56021",
+      "name": "Laramie"
+    },
+    "county": "Laramie",
+    "fips": "56021"
+  },
+  {
+    "zip": "83128",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "name": "Lincoln",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "name": "Lincoln"
+    },
+    "county": "Lincoln",
+    "fips": "56023"
+  },
+  {
+    "zip": "83126",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "name": "Lincoln",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "name": "Lincoln"
+    },
+    "county": "Lincoln",
+    "fips": "56023"
+  },
+  {
+    "zip": "83116",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "name": "Lincoln",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "name": "Lincoln"
+    },
+    "county": "Lincoln",
+    "fips": "56023"
+  },
+  {
+    "zip": "83112",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "name": "Lincoln",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "name": "Lincoln"
+    },
+    "county": "Lincoln",
+    "fips": "56023"
+  },
+  {
+    "zip": "82648",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56025",
+        "name": "Natrona",
+        "percentage": 99.9
+      },
+      {
+        "fips": "56043",
+        "name": "Washakie",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "56025",
+      "name": "Natrona"
+    },
+    "county": "Natrona",
+    "fips": "56025"
+  },
+  {
+    "zip": "82630",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56025",
+        "name": "Natrona",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56025",
+      "name": "Natrona"
+    },
+    "county": "Natrona",
+    "fips": "56025"
+  },
+  {
+    "zip": "82638",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56025",
+        "name": "Natrona",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56025",
+      "name": "Natrona"
+    },
+    "county": "Natrona",
+    "fips": "56025"
+  },
+  {
+    "zip": "82938",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56037",
+        "name": "Sweetwater",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "56037",
+      "name": "Sweetwater"
+    },
+    "county": "Sweetwater",
+    "fips": "56037"
+  },
+  {
+    "zip": "82930",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56041",
+        "name": "Uinta",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56041",
+      "name": "Uinta"
+    },
+    "county": "Uinta",
+    "fips": "56041"
+  },
+  {
+    "zip": "82939",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56041",
+        "name": "Uinta",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56041",
+      "name": "Uinta"
+    },
+    "county": "Uinta",
+    "fips": "56041"
+  },
+  {
+    "zip": "82936",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56041",
+        "name": "Uinta",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "56041",
+      "name": "Uinta"
+    },
+    "county": "Uinta",
+    "fips": "56041"
+  },
+  {
+    "zip": "82442",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56043",
+        "name": "Washakie",
+        "percentage": 99.8
+      },
+      {
+        "fips": "56003",
+        "name": "Big Horn",
+        "percentage": 0.2
+      }
+    ],
+    "primary_county": {
+      "fips": "56043",
+      "name": "Washakie"
+    },
+    "county": "Washakie",
+    "fips": "56043"
+  },
+  {
+    "zip": "82070",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56001",
+        "name": "Albany",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "56001",
+      "name": "Albany"
+    },
+    "county": "Albany",
+    "fips": "56001"
+  },
+  {
+    "zip": "82432",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56003",
+        "name": "Big Horn",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56003",
+      "name": "Big Horn"
+    },
+    "county": "Big Horn",
+    "fips": "56003"
+  },
+  {
+    "zip": "82716",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56005",
+        "name": "Campbell",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "56005",
+      "name": "Campbell"
+    },
+    "county": "Campbell",
+    "fips": "56005"
+  },
+  {
+    "zip": "82331",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56007",
+        "name": "Carbon",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56007",
+      "name": "Carbon"
+    },
+    "county": "Carbon",
+    "fips": "56007"
+  },
+  {
+    "zip": "82633",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56009",
+        "name": "Converse",
+        "percentage": 98.0
+      },
+      {
+        "fips": "56027",
+        "name": "Niobrara",
+        "percentage": 2.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56009",
+      "name": "Converse"
+    },
+    "county": "Converse",
+    "fips": "56009"
+  },
+  {
+    "zip": "82229",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56009",
+        "name": "Converse",
+        "percentage": 99.5
+      },
+      {
+        "fips": "56027",
+        "name": "Niobrara",
+        "percentage": 0.5
+      }
+    ],
+    "primary_county": {
+      "fips": "56009",
+      "name": "Converse"
+    },
+    "county": "Converse",
+    "fips": "56009"
+  },
+  {
+    "zip": "82712",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56011",
+        "name": "Crook",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56011",
+      "name": "Crook"
+    },
+    "county": "Crook",
+    "fips": "56011"
+  },
+  {
+    "zip": "82221",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56015",
+        "name": "Goshen",
+        "percentage": 99.8
+      },
+      {
+        "fips": "56021",
+        "name": "Laramie",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "56015",
+      "name": "Goshen"
+    },
+    "county": "Goshen",
+    "fips": "56015"
+  },
+  {
+    "zip": "82244",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56015",
+        "name": "Goshen",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56015",
+      "name": "Goshen"
+    },
+    "county": "Goshen",
+    "fips": "56015"
+  },
+  {
+    "zip": "82640",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56019",
+        "name": "Johnson",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56019",
+      "name": "Johnson"
+    },
+    "county": "Johnson",
+    "fips": "56019"
+  },
+  {
+    "zip": "82007",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56021",
+        "name": "Laramie",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "56021",
+      "name": "Laramie"
+    },
+    "county": "Laramie",
+    "fips": "56021"
+  },
+  {
+    "zip": "83120",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "name": "Lincoln",
+        "percentage": 99.8
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "name": "Lincoln"
+    },
+    "county": "Lincoln",
+    "fips": "56023"
+  },
+  {
+    "zip": "83111",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "name": "Lincoln",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "name": "Lincoln"
+    },
+    "county": "Lincoln",
+    "fips": "56023"
+  },
+  {
+    "zip": "83110",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "name": "Lincoln",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "name": "Lincoln"
+    },
+    "county": "Lincoln",
+    "fips": "56023"
+  },
+  {
+    "zip": "82609",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56025",
+        "name": "Natrona",
+        "percentage": 99.6
+      },
+      {
+        "fips": "56009",
+        "name": "Converse",
+        "percentage": 0.4
+      }
+    ],
+    "primary_county": {
+      "fips": "56025",
+      "name": "Natrona"
+    },
+    "county": "Natrona",
+    "fips": "56025"
+  },
+  {
+    "zip": "82227",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56027",
+        "name": "Niobrara",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "56027",
+      "name": "Niobrara"
+    },
+    "county": "Niobrara",
+    "fips": "56027"
+  },
+  {
+    "zip": "82224",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56027",
+        "name": "Niobrara",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56027",
+      "name": "Niobrara"
+    },
+    "county": "Niobrara",
+    "fips": "56027"
+  },
+  {
+    "zip": "82701",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56045",
+        "name": "Weston",
+        "percentage": 83.5
+      },
+      {
+        "fips": "56027",
+        "name": "Niobrara",
+        "percentage": 16.4
+      }
+    ],
+    "primary_county": {
+      "fips": "56045",
+      "name": "Weston"
+    },
+    "county": "Weston",
+    "fips": "56045"
+  },
+  {
+    "zip": "82838",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56033",
+        "name": "Sheridan",
+        "percentage": 99.6
+      },
+      {
+        "fips": "56003",
+        "name": "Big Horn",
+        "percentage": 0.4
+      }
+    ],
+    "primary_county": {
+      "fips": "56033",
+      "name": "Sheridan"
+    },
+    "county": "Sheridan",
+    "fips": "56033"
+  },
+  {
+    "zip": "82336",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56037",
+        "name": "Sweetwater",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56037",
+      "name": "Sweetwater"
+    },
+    "county": "Sweetwater",
+    "fips": "56037"
+  },
+  {
+    "zip": "82942",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56037",
+        "name": "Sweetwater",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56037",
+      "name": "Sweetwater"
+    },
+    "county": "Sweetwater",
+    "fips": "56037"
+  },
+  {
+    "zip": "82933",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56041",
+        "name": "Uinta",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "56041",
+      "name": "Uinta"
+    },
+    "county": "Uinta",
+    "fips": "56041"
+  }
+]

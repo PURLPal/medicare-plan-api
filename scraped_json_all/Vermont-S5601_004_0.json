@@ -1,0 +1,30 @@
+{
+  "plan_info": {
+    "name": "SilverScript Choice (PDP)",
+    "organization": "Aetna Medicare",
+    "type": "Drug plan (Part D)",
+    "id": "S5601-004-0"
+  },
+  "premiums": {
+    "Total monthly premium": "$32.70"
+  },
+  "deductibles": {
+    "Drug deductible": "$615.00"
+  },
+  "maximum_out_of_pocket": {},
+  "contact_info": {
+    "Plan address": "P.O. Box 30016\nPittsburgh, PA 15222"
+  },
+  "benefits": {
+    "Pharmacies": {},
+    "Costs by drug tier - Standard retail pharmacy drug cost for 1 month": {
+      "Preferred Generic": "$2.00 copay",
+      "Generic": "$10.00 copay",
+      "Preferred Brand": "19% coinsurance",
+      "Non-Preferred Drug": "35% coinsurance",
+      "Specialty Tier": "25% coinsurance"
+    }
+  },
+  "drug_coverage": {},
+  "extra_benefits": {}
+}

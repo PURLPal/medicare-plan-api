@@ -1,0 +1,3787 @@
+{
+  "requests": [
+    {
+      "url": "https://www.medicare.gov/plan-compare/",
+      "method": "GET",
+      "resource_type": "document",
+      "headers": {
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/static/8f20aee0f4e3354994b8f762fa69d172d6750013ed7077",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/index-XqhGubh9.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/index-CWDO5N9i.css",
+      "method": "GET",
+      "resource_type": "stylesheet",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/rE4qB-1OlF9vU/Q2gevtEzKKM/xm0/Dii10StEEQ1QNGX3Yu/EGtHdV0efQs/IyAkKjN/gbXg",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/static/8f20aee0f4e3354994b8f762fa69d172d6750013ed7077/e/65319_1825172608.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/static/8f20aee0f4e3354994b8f762fa69d172d6750013ed7077/e/65257_1825202523.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/static/8f20aee0f4e3354994b8f762fa69d172d6750013ed7077/e/64885_1825202492.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/static/8f20aee0f4e3354994b8f762fa69d172d6750013ed7077/e/65226_747628217.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/rubik-latin-400-DKXO0KhF.woff2",
+      "method": "GET",
+      "resource_type": "font",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/static/index-CWDO5N9i.css",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/rE4qB-1OlF9vU/Q2gevtEzKKM/xm0/Dii10StEEQ1QNGX3Yu/EGtHdV0efQs/IyAkKjN/gbXg",
+      "method": "POST",
+      "resource_type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "content-type": "text/plain;charset=UTF-8",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/newRelicHelpers-DpNryz_5.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/static/index-XqhGubh9.js",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/api/v1/data/plan-compare/ldflags",
+      "method": "GET",
+      "resource_type": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "newrelic": "eyJ2IjpbMCwxXSwiZCI6eyJ0eSI6IkJyb3dzZXIiLCJhYyI6IjIwMzYxNDgiLCJhcCI6IjExMjcwMDA2MDQiLCJpZCI6IjViMjI4ZjE2Yzk3MTA5NjEiLCJ0ciI6ImU5N2Y5NTdhZjg1NjQ2NDJjODQwNTJmNjFhMzU5MDQ4IiwidGkiOjE3NjQ5Mzc1MjAzMzgsInRrIjoiMzkwMzMifX0=",
+        "traceparent": "00-e97f957af8564642c84052f61a359048-5b228f16c9710961-01",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "fe-ver": "2.51.1",
+        "tracestate": "39033@nr=0-1-2036148-1127000604-5b228f16c9710961----1764937520338"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/agent-session-C7obkEL-.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "blob:https://www.medicare.gov/49829bfb-6a8a-4c60-958b-9f9bf7d9b0dd",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/rE4qB-1OlF9vU/Q2gevtEzKKM/xm0/Dii10StEEQ1QNGX3Yu/EGtHdV0efQs/IyAkKjN/gbXg",
+      "method": "POST",
+      "resource_type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "newrelic": "eyJ2IjpbMCwxXSwiZCI6eyJ0eSI6IkJyb3dzZXIiLCJhYyI6IjIwMzYxNDgiLCJhcCI6IjExMjcwMDA2MDQiLCJpZCI6IjhkODI4NWI4ZGMwNmI1N2YiLCJ0ciI6IjczMjQyNTVjY2FlNmU0MmRmYWRiY2M4OWI1MjM5YTUzIiwidGkiOjE3NjQ5Mzc1MjA0MDAsInRrIjoiMzkwMzMifX0=",
+        "traceparent": "00-7324255ccae6e42dfadbcc89b5239a53-8d8285b8dc06b57f-01",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "content-type": "text/plain;charset=UTF-8",
+        "tracestate": "39033@nr=0-1-2036148-1127000604-8d8285b8dc06b57f----1764937520400"
+      }
+    },
+    {
+      "url": "https://events.launchdarkly.us/events/diagnostic/61f1a2d2e1e771227c7da4eb",
+      "method": "POST",
+      "resource_type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "content-type": "application/json",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://clientsdk.launchdarkly.us/sdk/evalx/61f1a2d2e1e771227c7da4eb/contexts/eyJraW5kIjoidXNlciIsImtleSI6Ijc2NjkzMTUwLWQxZDUtMTFmMC05YTZmLWExOGEwZmQ3ZjRlOSIsImFub255bW91cyI6ZmFsc2UsImJyb3dzZXJXaWR0aCI6MTI4MCwiYnJvd3NlckhlaWdodCI6NzIwfQ",
+      "method": "GET",
+      "resource_type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/index-C_1Mqy_-.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/nav-timing-B6ZcN1MR.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/aggregate-base-DDcnZR3r.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/event-buffer-B8iQEqVh.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/first-paint-P-rdwlS-.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/time-to-first-byte-B0P0ULrE.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/traverse-eGeoT8Mx.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/index-B72bqkgE.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/iframe-PalxAwQ_.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/index-DWTzyP5r.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/event-origin-Bb7irpQQ.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/index-CZY6Um0Z.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/index-C02DW3TQ.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/type-check-eNJ9pUvL.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/bel-serializer-DR5Zld0c.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/index-BaJxGfLd.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/index-D5DV7fqy.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/index-DGZwvsAw.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/index-CwX9zJCj.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://gov-bam.nr-data.net/1/NRJS-1a4f22d009a0872a2c1?a=1127000604&sa=1&v=1.298.0&t=Unnamed%20Transaction&rst=2011&ck=0&s=cc352d622d65f2f2&ref=https://www.medicare.gov/plan-compare/&ptid=3fb51d0e41583f0e&af=err,spa,xhr,stn,ins&be=279&fe=500&dc=463&fsh=1&perf=%7B%22timing%22:%7B%22of%22:1764937518601,%22n%22:0,%22f%22:0,%22dn%22:7,%22dne%22:104,%22c%22:104,%22s%22:161,%22ce%22:216,%22rq%22:217,%22rp%22:280,%22rpe%22:282,%22di%22:704,%22ds%22:740,%22de%22:742,%22dc%22:778,%22l%22:778,%22le%22:779%7D,%22navigation%22:%7B%7D%7D",
+      "method": "POST",
+      "resource_type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "content-type": "text/plain",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://clientstream.launchdarkly.us/eval/61f1a2d2e1e771227c7da4eb/eyJraW5kIjoidXNlciIsImtleSI6Ijc2NjkzMTUwLWQxZDUtMTFmMC05YTZmLWExOGEwZmQ3ZjRlOSIsImFub255bW91cyI6ZmFsc2UsImJyb3dzZXJXaWR0aCI6MTI4MCwiYnJvd3NlckhlaWdodCI6NzIwfQ",
+      "method": "GET",
+      "resource_type": "eventsource",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "cache-control": "no-cache",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "accept": "text/event-stream",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/LoadingPage-BbtgOzfz.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/AppPage-BmCHiu9u.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/queryParamsHook-fxnc6tCt.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/api/sls/session/info",
+      "method": "GET",
+      "resource_type": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "newrelic": "eyJ2IjpbMCwxXSwiZCI6eyJ0eSI6IkJyb3dzZXIiLCJhYyI6IjIwMzYxNDgiLCJhcCI6IjExMjcwMDA2MDQiLCJpZCI6ImI5ODhlNzI0NmM1YmUxYjIiLCJ0ciI6ImMyMzNhYTk3M2FmMzYwYzYzMmMwYjRjYzE3MzhhZDdiIiwidGkiOjE3NjQ5Mzc1MjA5MDAsInRrIjoiMzkwMzMifX0=",
+        "traceparent": "00-c233aa973af360c632c0b4cc1738ad7b-b988e7246c5be1b2-01",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "tracestate": "39033@nr=0-1-2036148-1127000604-b988e7246c5be1b2----1764937520900"
+      }
+    },
+    {
+      "url": "https://frontend.medicare.gov/asset-manifest.json",
+      "method": "GET",
+      "resource_type": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/api/v1/data/plan-compare/status",
+      "method": "GET",
+      "resource_type": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "newrelic": "eyJ2IjpbMCwxXSwiZCI6eyJ0eSI6IkJyb3dzZXIiLCJhYyI6IjIwMzYxNDgiLCJhcCI6IjExMjcwMDA2MDQiLCJpZCI6IjdhYTQ2MDYxNWVlZmNmYjIiLCJ0ciI6IjNjYzBjMzlkYmRmNzNjMDc5MDkyMjhhNjdhYTA4YTgwIiwidGkiOjE3NjQ5Mzc1MjA5MDMsInRrIjoiMzkwMzMifX0=",
+        "traceparent": "00-3cc0c39dbdf73c07909228a67aa08a80-7aa460615eefcfb2-01",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "fe-ver": "2.51.1",
+        "tracestate": "39033@nr=0-1-2036148-1127000604-7aa460615eefcfb2----1764937520903"
+      }
+    },
+    {
+      "url": "https://clientsdk.launchdarkly.us/sdk/evalx/61f1a2d2e1e771227c7da4eb/contexts/eyJraW5kIjoidXNlciIsImtleSI6Ijc3NThlODgwLWQxZDUtMTFmMC05YTZmLWExOGEwZmQ3ZjRlOSIsImFub255bW91cyI6ZmFsc2UsImJyb3dzZXJXaWR0aCI6MTI4MCwiYnJvd3NlckhlaWdodCI6NzIwfQ",
+      "method": "GET",
+      "resource_type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://tealium-tags.medicare.gov/medicare-www/prod/utag.sync.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://tealium-tags.medicare.gov/medicare-www/prod/utag.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/montserrat-latin-600-CJ2sQBIR.woff2",
+      "method": "GET",
+      "resource_type": "font",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/static/index-CWDO5N9i.css",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/index-DyexElM3.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/EnrollmentDownAlert-U7DdAHz6.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/PlanDetailsCostsContainer-bVMTk-7O.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/currencyUtilities-JxVuNObA.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/index-Bbf5HoMn.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/useM3pHighDrugCostsMessaging-BkFOK7dF.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/Dropdown-i7kZZzeO.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/index-TTPnFEij.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/MedicareGovAnchor-D7SJuawN.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/translationHelpers-3tBDR8X1.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/dateHelpers-BrtbKf5y.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/useAnalyticsImpression-CMYKWr8N.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/themeHelpers-l8VVRtDh.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/useDrugCosts-wGZdhDQ-.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/drugCostsHelpers-CgO42a-M.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/FootnoteMarker-DvLxk2eG.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/StandardPartBPremiumFootnote-DZBbMlmi.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/MctHelpDrawer-CNa9MR_Y.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/focus-trap-react-BpBa1NMY.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/AvoidPartDPenaltyAlert-RHdoG-7V.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/AlertWithCustomIcon-CxfAl4Rj.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/linkHelpers-CdccQZ8N.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/TooltipWithClose-Hjzo8M1c.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/CloseIconThin-HZQDiN4o.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/formattedMessageHelpers-DKjFvkgG.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/medicareInfoHelpers-CUA5WX13.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/usePendingEnrollments-ZSBk6nbt.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/usePartBPremiumUpdate-BeZQzJiF.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/ExternalLink-CYukqzfN.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/useStatusSummary-CLv7mcTV.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/benefitHelpers-BVhKI80Z.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/CollapsibleBox-D_nmr-XW.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/PreviewContext-BYtFYxtQ.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/react-router-hash-link.esm-CJa9Ix0t.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/PharmacyNetworkLabelHelpDrawer-CjiZBcF8.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/MctHelpDrawerToggle-CyIqT3ce.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/AlertMessage-BAVxcTQR.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/Badge-CimWyPCB.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/InfoCircleOutlineIcon-BkC8mZkn.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/EnrollButtonForm-FdUdZMWk.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/useEnrollmentAnalytics-pAQl40Fl.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/ButtonAsLink-BbhIpiGP.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/DuplicatePrescriptionNotification-C7AkCTJs.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/EmptyTableField-CJR7ns9i.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/ScrollTable-CX_bqa-q.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/PrintButton-D1MPyuGA.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/ServiceAreaReductionNotice-BSWOhJ_o.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/WhatYoullPay-DXKoFFiB.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/StethoscopeIcon-C58VHTNV.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/providerHelpers-DUsEM2sy.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/CheckmarkIcon-_h_XttUi.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/ProviderLocations-plKd7cOh.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/ActionsBar-DC20MijN.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://clientstream.launchdarkly.us/eval/61f1a2d2e1e771227c7da4eb/eyJraW5kIjoidXNlciIsImtleSI6Ijc3NThlODgwLWQxZDUtMTFmMC05YTZmLWExOGEwZmQ3ZjRlOSIsImFub255bW91cyI6ZmFsc2UsImJyb3dzZXJXaWR0aCI6MTI4MCwiYnJvd3NlckhlaWdodCI6NzIwfQ",
+      "method": "GET",
+      "resource_type": "eventsource",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "cache-control": "no-cache",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "accept": "text/event-stream",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://frontend.medicare.gov/assets/index-be3a1ae0.css",
+      "method": "GET",
+      "resource_type": "stylesheet",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://frontend.medicare.gov/assets/index-fceb3a58.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://gov-bam.nr-data.net/events/1/NRJS-1a4f22d009a0872a2c1?a=1127000604&sa=1&v=1.298.0&t=Unnamed%20Transaction&rst=2446&ck=0&s=cc352d622d65f2f2&ref=https://www.medicare.gov/plan-compare/&ptid=3fb51d0e41583f0e",
+      "method": "POST",
+      "resource_type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "content-type": "text/plain",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/api/v1/data/plan-compare/plan/2026/H2001/068/1?lis=LIS_NO_HELP",
+      "method": "GET",
+      "resource_type": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "newrelic": "eyJ2IjpbMCwxXSwiZCI6eyJ0eSI6IkJyb3dzZXIiLCJhYyI6IjIwMzYxNDgiLCJhcCI6IjExMjcwMDA2MDQiLCJpZCI6ImExNWZlNWU3NmU2YjExOTkiLCJ0ciI6IjA2MzEyNzAyN2Y2MGY4MWRkMjUyODJiNDYyNmYxYjM3IiwidGkiOjE3NjQ5Mzc1MjExOTEsInRrIjoiMzkwMzMifX0=",
+        "traceparent": "00-063127027f60f81dd25282b4626f1b37-a15fe5e76e6b1199-01",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "fe-ver": "2.51.1",
+        "tracestate": "39033@nr=0-1-2036148-1127000604-a15fe5e76e6b1199----1764937521191"
+      }
+    },
+    {
+      "url": "https://events.launchdarkly.us/events/diagnostic/6019fd45b36e3a100c2d2416",
+      "method": "POST",
+      "resource_type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "content-type": "application/json",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://clientsdk.launchdarkly.us/sdk/evalx/6019fd45b36e3a100c2d2416/contexts/eyJraW5kIjoibXVsdGkiLCJ1c2VyIjp7ImtleSI6ImRlZmF1bHQtdXNlciIsImN1c3RvbSI6eyJ1c2VUZXN0RmxhZ3MiOmZhbHNlfX0sIm1heFNlc3Npb24iOnsia2V5IjoibWF4U2Vzc2lvbiIsImN1c3RvbSI6eyJtYXhBbm9ueW1vdXNJZCI6Im1heDAuMTIzNjkzMjU0NTk5NDY2NTYifX19",
+      "method": "GET",
+      "resource_type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://gov-bam.nr-data.net/events/1/NRJS-1a4f22d009a0872a2c1?a=1127000604&sa=1&v=1.298.0&t=Unnamed%20Transaction&rst=2659&ck=0&s=cc352d622d65f2f2&ref=https://www.medicare.gov/plan-compare/&ptid=3fb51d0e41583f0e",
+      "method": "POST",
+      "resource_type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "content-type": "text/plain",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://api.medicare.gov/verify",
+      "method": "GET",
+      "resource_type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "accept": "application/json, text/plain, */*",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/genesys-bootstrap/genesys.min.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://frontend.medicare.gov/assets/icon-dot-gov-54f6653a.svg",
+      "method": "GET",
+      "resource_type": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://frontend.medicare.gov/assets/icon-https-912daff9.svg",
+      "method": "GET",
+      "resource_type": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://frontend.medicare.gov/assets/medicare-logo-green-6a40fc58.svg",
+      "method": "GET",
+      "resource_type": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://frontend.medicare.gov/assets/Icon_Chat-f1ad62dd.svg",
+      "method": "GET",
+      "resource_type": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://frontend.medicare.gov/assets/Log_In-b51e10d7.svg",
+      "method": "GET",
+      "resource_type": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://frontend.medicare.gov/assets/sourcesanspro-regular-webfont-8792619b.woff2",
+      "method": "GET",
+      "resource_type": "font",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://frontend.medicare.gov/assets/index-be3a1ae0.css",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://frontend.medicare.gov/assets/chevron-c0537455.svg",
+      "method": "GET",
+      "resource_type": "image",
+      "headers": {
+        "origin": "https://www.medicare.gov",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://frontend.medicare.gov/assets/index-be3a1ae0.css",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://api.medicare.gov/siteActivity",
+      "method": "POST",
+      "resource_type": "ping",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "content-type": "application/json",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.youtube.com/iframe_api",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://tags.tiqcdn.com/utag/cmsgov/medicare-www/prod/utag.215.js?utv=ut4.47.202511251528",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://tags.tiqcdn.com/utag/cmsgov/medicare-www/prod/utag.8.js?utv=ut4.47.202412111611",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://tags.tiqcdn.com/utag/cmsgov/medicare-www/prod/utag.9.js?utv=ut4.47.202103221631",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://tags.tiqcdn.com/utag/cmsgov/medicare-www/prod/utag.220.js?utv=ut4.47.202503191455",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://tags.tiqcdn.com/utag/cmsgov/medicare-www/prod/utag.353.js?utv=ut4.47.202504162005",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=cmsgov/medicare-www/202511251528&cb=1764937521730",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://cdn1.adoberesources.net/alloy/2.6.4/alloy.min.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://zn56jl522ec1a1wzf-medicare.gov1.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_56jL522eC1a1WZf&Q_LOC=https%3A%2F%2Fwww.medicare.gov%2Fplan-compare%2F%23%2Fplan-details%2F2026-H2001-068-1%3Fyear%3D2026%26lang%3Den",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DHHS&subagency=CMS",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://tealium-collect.medicare.gov/cmsgov/medicare-www/2/i.gif",
+      "method": "POST",
+      "resource_type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "content-type": "multipart/form-data; boundary=----WebKitFormBoundaryQsTEmnhhqctFwIpm",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://tags.tiqcdn.com/utag/cmsgov/medicare-www/prod/utag.299.js?utv=ut4.47.202511251528",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://tags.tiqcdn.com/utag/cmsgov/medicare-www/prod/utag.321.js?utv=ut4.47.202511251528",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=tealium&ttd_tpi=1&gdpr=0&domain=www.medicare.gov",
+      "method": "GET",
+      "resource_type": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.youtube.com/s/player/4e11051b/www-widgetapi.vflset/www-widgetapi.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://bat.bing.com/bat.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://ads.nextdoor.com/public/pixel/ndp.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://tealium-visitor-service.medicare.gov/cmsgov/medicare-www/019aee79591a00400a24f6c1131c000810057079007e8?callback=utag.ut%5B%22writevamedicare-www%22%5D&rnd=1764937521894",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://match.adsrvr.org/track/cmb/generic?ttd_pid=tealium&ttd_tpi=1&gdpr=0&domain=www.medicare.gov",
+      "method": "GET",
+      "resource_type": "image",
+      "headers": {
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "referer": "https://www.medicare.gov/"
+      }
+    },
+    {
+      "url": "https://api-cdn.use2.us-gov-pure.cloud/webdeployments/v1/deployments/ab956791-73f1-4395-8cdf-7a50a0a89550/domains.json",
+      "method": "GET",
+      "resource_type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://datacloud.tealiumiq.com/tealium_ttd/main/16/i.gif?t1=6716b80f-0196-4dc7-8e96-b3e3494e2947",
+      "method": "GET",
+      "resource_type": "image",
+      "headers": {
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "referer": "https://www.medicare.gov/"
+      }
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/thirdparty-plugins.html",
+      "method": "GET",
+      "resource_type": "document",
+      "headers": {
+        "referer": "https://www.medicare.gov/",
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/api/v1/data/plan-compare/status",
+      "method": "GET",
+      "resource_type": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "newrelic": "eyJ2IjpbMCwxXSwiZCI6eyJ0eSI6IkJyb3dzZXIiLCJhYyI6IjIwMzYxNDgiLCJhcCI6IjExMjcwMDA2MDQiLCJpZCI6IjE4MTJmZWJkMjlkZjZlZGMiLCJ0ciI6IjMzMzNiMzYzMDA1ZjAxNDAyNjRiOGZjZDk1NmM5ZTAxIiwidGkiOjE3NjQ5Mzc1MjE5ODEsInRrIjoiMzkwMzMifX0=",
+        "traceparent": "00-3333b363005f0140264b8fcd956c9e01-1812febd29df6edc-01",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "fe-ver": "2.51.1",
+        "tracestate": "39033@nr=0-1-2036148-1127000604-1812febd29df6edc----1764937521981"
+      }
+    },
+    {
+      "url": "https://adobedc.demdex.net/ee/v1/interact?configId=6b5a5aa6-6fe2-41ca-b5b6-91daeac67c29&requestId=80cb39f8-9a96-400c-9989-0822a1f1841f",
+      "method": "POST",
+      "resource_type": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "content-type": "text/plain; charset=UTF-8",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://bat.bing.com/p/action/97143892.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://ads.nextdoor.com/v2/public/pixel/advmtch.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://flask.nextdoor.com/pixel?pid=427bdaf0-95df-42d4-a743-4c104f37d866&vrs=10.12&ev=PAGE_VIEW&pl=https%3A%2F%2Fwww.medicare.gov%2Fplan-compare%2F%23%2Fplan-details%2F2026-H2001-068-1%3Fyear%3D2026%26lang%3Den&v=undefined&ndclid=&ndclid_src=0&rf=&sem=&tm=Manual&iid=afc646b9-7040-4e18-9643-25982adc1712&pageid=a9694db4-50ff-4ccd-ac93-2a7d8dfcd22d&sessionid=8fae1571-46bb-4550-b963-ab637f0eb1e5&cd=%7B%7D&tz=America%2FLos_Angeles&sw=1280&sh=720&gpuV=Google%20Inc.%20(Google)&gpuR=ANGLE%20(Google%2C%20Vulkan%201.3.0%20(SwiftShader%20Device%20(LLVM%2010.0.0)%20(0x0000C0DE))%2C%20SwiftShader%20driver)",
+      "method": "GET",
+      "resource_type": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-CSLL4ZEK4L",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/cxbus/cxbus.min.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://apps.use2.us-gov-pure.cloud/messenger/thirdparty-plugins.html",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://bat.bing.com/action/0?ti=97143892&Ver=2&mid=ca65bcf5-1391-4942-b85b-53082cd6c674&bo=1&sid=780d8b50d1d511f09d830fe8581abad3&vid=780da240d1d511f09d737bf094486e34&vids=1&msclkid=N&pi=0&lg=en-US&sw=1280&sh=720&sc=24&nwd=1&tl=Find%20a%20Medicare%20plan&p=https%3A%2F%2Fwww.medicare.gov%2Fplan-compare%2F%23%2Fplan-details%2F2026-H2001-068-1%3Fyear%3D2026%26lang%3Den&r=&lt=778&evt=pageLoad&sv=2&cdb=AQwR&rn=184156",
+      "method": "GET",
+      "resource_type": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://ads.nextdoor.com/v2/api/conversions/settings?id=427bdaf0-95df-42d4-a743-4c104f37d866",
+      "method": "GET",
+      "resource_type": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "content-type": "application/json",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://gov1.siteintercept.qualtrics.com/dxjsmodule/10.7aea34b0491dd894cc3b.chunk.js?Q_CLIENTVERSION=2.39.0&Q_CLIENTTYPE=web&Q_BRANDID=www.medicare.gov",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://gov1.siteintercept.qualtrics.com/dxjsmodule/11.c2e75a52515479d0a5cc.chunk.js?Q_CLIENTVERSION=2.39.0&Q_CLIENTTYPE=web&Q_BRANDID=www.medicare.gov",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/thirdpartyplugins.min.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://apps.use2.us-gov-pure.cloud/messenger/thirdparty-plugins.html",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/api/v1/data/plan-compare/plan/2026/H2001/068/1?lis=LIS_NO_HELP",
+      "method": "GET",
+      "resource_type": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "newrelic": "eyJ2IjpbMCwxXSwiZCI6eyJ0eSI6IkJyb3dzZXIiLCJhYyI6IjIwMzYxNDgiLCJhcCI6IjExMjcwMDA2MDQiLCJpZCI6IjY1NjMyZDZjZTFkMjg3N2EiLCJ0ciI6IjEzMzBkYTZjMzNlMWZiODFmNDAxYTQ4NTA3NDAxZGJiIiwidGkiOjE3NjQ5Mzc1MjIyNjEsInRrIjoiMzkwMzMifX0=",
+        "traceparent": "00-1330da6c33e1fb81f401a48507401dbb-65632d6ce1d2877a-01",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "fe-ver": "2.51.1",
+        "tracestate": "39033@nr=0-1-2036148-1127000604-65632d6ce1d2877a----1764937522261"
+      }
+    },
+    {
+      "url": "https://api-cdn.use2.us-gov-pure.cloud/webdeployments/v1/deployments/ab956791-73f1-4395-8cdf-7a50a0a89550/config.json",
+      "method": "GET",
+      "resource_type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://js-agent.newrelic.com/nr-spa-1.301.0.min.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "origin": "https://apps.use2.us-gov-pure.cloud",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://apps.use2.us-gov-pure.cloud/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/journey/messenger-plugins/offersHelper.min.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/genesys-bootstrap/hub.html",
+      "method": "GET",
+      "resource_type": "document",
+      "headers": {
+        "referer": "https://www.medicare.gov/",
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      }
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/messenger.html",
+      "method": "GET",
+      "resource_type": "document",
+      "headers": {
+        "referer": "https://www.medicare.gov/",
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      }
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/messenger-renderer.html",
+      "method": "GET",
+      "resource_type": "document",
+      "headers": {
+        "referer": "https://www.medicare.gov/",
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\""
+      }
+    },
+    {
+      "url": "https://events.launchdarkly.us/events/bulk/61f1a2d2e1e771227c7da4eb",
+      "method": "POST",
+      "resource_type": "xhr",
+      "headers": {
+        "x-launchdarkly-event-schema": "4",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-launchdarkly-payload-id": "7844cf20-d1d5-11f0-b5a4-6575455e2b40",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "content-type": "application/json"
+      }
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/genesys-bootstrap/plugins/storagehub.min.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://apps.use2.us-gov-pure.cloud/genesys-bootstrap/hub.html",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/cxbus/cxbus.min.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "if-none-match": "\"0a971087e589137f228477bc34b7705c\"",
+        "referer": "https://apps.use2.us-gov-pure.cloud/messenger/messenger.html",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "if-modified-since": "Mon, 24 Nov 2025 03:50:18 GMT",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/cxbus/cxbus.min.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://apps.use2.us-gov-pure.cloud/messenger/messenger-renderer.html",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://gov-bam.nr-data.net/1/NRJS-dc16e7811b85d7d9b28?a=1431853245&sa=1&v=1.301.0&t=Unnamed%20Transaction&rst=511&ck=0&s=0&ref=https://apps.use2.us-gov-pure.cloud/messenger/thirdparty-plugins.html&ptid=c7c0759356a9d0b1&af=err,spa,xhr,stn,ins&be=105&fe=221&dc=5&perf=%7B%22timing%22:%7B%22of%22:1764937521978,%22n%22:0,%22f%22:1,%22dn%22:1,%22dne%22:1,%22c%22:1,%22s%22:1,%22ce%22:1,%22rq%22:1,%22rp%22:105,%22rpe%22:105,%22di%22:110,%22ds%22:110,%22de%22:110,%22dc%22:324,%22l%22:324,%22le%22:325%7D,%22navigation%22:%7B%7D%7D",
+      "method": "POST",
+      "resource_type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://apps.use2.us-gov-pure.cloud/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "content-type": "text/plain",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php?Q_ZoneID=ZN_56jL522eC1a1WZf&Q_CLIENTVERSION=2.39.0&Q_CLIENTTYPE=web",
+      "method": "POST",
+      "resource_type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "content-type": "application/x-www-form-urlencoded",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/messagingMiddleware.min.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://apps.use2.us-gov-pure.cloud/messenger/messenger.html",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/defaultVendors.min.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://apps.use2.us-gov-pure.cloud/messenger/messenger.html",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/vendors.min.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://apps.use2.us-gov-pure.cloud/messenger/messenger.html",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/main.min.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://apps.use2.us-gov-pure.cloud/messenger/messenger.html",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/engage.min.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://apps.use2.us-gov-pure.cloud/messenger/messenger.html",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/broadcast.min.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://apps.use2.us-gov-pure.cloud/messenger/messenger.html",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-CSLL4ZEK4L&gtm=45je5c31v9131934939za200zd9131934939&_p=1764937522046&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=1580901590.1764937518&ul=en-us&sr=1280x720&uaa=arm&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=macOS&uapv=26.0.1&uaw=0&are=1&frm=0&pscdl=noapi&_s=1&tag_exp=103116026~103200004~104527907~104528500~104684208~104684211~105391253~115583767~115616986~115938466~115938468~116184927~116184929~116217636~116217638~116514483~116518834&dl=https%3A%2F%2Fmedicare.gov%2Fplan-compare%2F%23%2Fplan-details%2F2026-h2001-068-1&dt=Find%20a%20Medicare%20plan&dr=&sid=1764937522&sct=1&seg=0&_tu=wA&en=page_view&_fv=1&_ss=1&_ee=1&ep.agency=DHHS&ep.subagency=CMS&ep.site_topic=unspecified%3Amedicare.gov&ep.site_platform=unspecified%3Amedicare.gov&ep.script_source=https%3A%2F%2Fdap.digitalgov.gov%2Funiversal-federated-analytics-min.js&ep.version=20250702%20v8.7%20-%20ga4&ep.protocol=https%3A&ep.using_parallel_tracker=no&ep.hostname_dimension=medicare.gov&tfd=4026",
+      "method": "POST",
+      "resource_type": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js?Q_CLIENTVERSION=2.39.0&Q_CLIENTTYPE=web&Q_BRANDID=medicare",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://gov1.siteintercept.qualtrics.com/dxjsmodule/12.1807eb5f865239529b2b.chunk.js?Q_CLIENTVERSION=2.39.0&Q_CLIENTTYPE=web&Q_BRANDID=medicare",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://gov-bam.nr-data.net/events/1/NRJS-dc16e7811b85d7d9b28?a=1431853245&sa=1&v=1.301.0&t=Unnamed%20Transaction&rst=729&ck=0&s=0&ref=https://apps.use2.us-gov-pure.cloud/messenger/thirdparty-plugins.html&ptid=c7c0759356a9d0b1",
+      "method": "POST",
+      "resource_type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://apps.use2.us-gov-pure.cloud/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "content-type": "text/plain",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.f7732db475dcf4471fe1.chunk.js?Q_CLIENTVERSION=2.39.0&Q_CLIENTTYPE=web&Q_BRANDID=medicare",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.be3034a3c20753b828ed.chunk.js?Q_CLIENTVERSION=2.39.0&Q_CLIENTTYPE=web&Q_BRANDID=medicare",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://gov1.siteintercept.qualtrics.com/dxjsmodule/FeedbackButtonModule.js?Q_CLIENTVERSION=2.39.0&Q_CLIENTTYPE=web&Q_BRANDID=medicare",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=SI_3r4eHvzUeEf8G3z&Version=17&Q_ORIGIN=https://www.medicare.gov&Q_CLIENTVERSION=2.39.0&Q_CLIENTTYPE=web&Q_BrandTier=xAIg4q2Yee&Q_ARCACHEVERSION=21&Q_BRANDDC=gov1",
+      "method": "GET",
+      "resource_type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=CR_ePQdwIYDcInEfY1&Version=8&Q_InterceptID=SI_3r4eHvzUeEf8G3z&Q_ORIGIN=https://www.medicare.gov&Q_CLIENTVERSION=2.39.0&Q_CLIENTTYPE=web&Q_BrandTier=xAIg4q2Yee&Q_ARCACHEVERSION=21&Q_BRANDDC=gov1",
+      "method": "GET",
+      "resource_type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://gov1.sr.qualtrics.com/sr-data-ingestion-service/v2/sessions/create",
+      "method": "POST",
+      "resource_type": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "content-type": "application/json",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/messagingMiddleware.min.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "if-none-match": "\"5a5a07aefe19de077c424aeb5519bfd8\"",
+        "referer": "https://apps.use2.us-gov-pure.cloud/messenger/messenger-renderer.html",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "if-modified-since": "Fri, 21 Nov 2025 10:11:23 GMT",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/defaultVendors.min.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://apps.use2.us-gov-pure.cloud/messenger/messenger-renderer.html",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/vendors.min.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://apps.use2.us-gov-pure.cloud/messenger/messenger-renderer.html",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/messengerrenderer.min.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://apps.use2.us-gov-pure.cloud/messenger/messenger-renderer.html",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://gov1.qualtrics.com/WRQualtricsSiteIntercept/Graphic.php?IM=IM_1NcmduPHZGVHlEV",
+      "method": "GET",
+      "resource_type": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/i18n/en-us.json",
+      "method": "GET",
+      "resource_type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://apps.use2.us-gov-pure.cloud/messenger/messenger.html",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/i18n/en-us.json",
+      "method": "GET",
+      "resource_type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://apps.use2.us-gov-pure.cloud/messenger/messenger.html",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://events.launchdarkly.us/events/bulk/6019fd45b36e3a100c2d2416",
+      "method": "POST",
+      "resource_type": "xhr",
+      "headers": {
+        "x-launchdarkly-event-schema": "4",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-launchdarkly-payload-id": "78bf5650-d1d5-11f0-aea7-118af6f88180",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "content-type": "application/json"
+      }
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/i18n/vendors/date-en.min.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://apps.use2.us-gov-pure.cloud/messenger/messenger.html",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/i18n/vendors/date-en.min.js",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "if-none-match": "\"efaea68f2d0f2752dac78c8c7e1e59cb\"",
+        "referer": "https://apps.use2.us-gov-pure.cloud/messenger/messenger-renderer.html",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "if-modified-since": "Fri, 21 Nov 2025 10:11:20 GMT",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_Impress=1&Q_CID=CR_ePQdwIYDcInEfY1&Q_SIID=SI_3r4eHvzUeEf8G3z&Q_ASID=AS_9A00q0RGP91GfWd&Q_CLIENTVERSION=2.39.0&Q_CLIENTTYPE=web&r=1764937523754",
+      "method": "POST",
+      "resource_type": "xhr",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "content-type": "application/x-www-form-urlencoded",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/api/v1/data/plan-compare/status",
+      "method": "GET",
+      "resource_type": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "newrelic": "eyJ2IjpbMCwxXSwiZCI6eyJ0eSI6IkJyb3dzZXIiLCJhYyI6IjIwMzYxNDgiLCJhcCI6IjExMjcwMDA2MDQiLCJpZCI6IjA0MTQwOTc4ODA0OWYyZWUiLCJ0ciI6ImJkYjBkMTUyMTcxNjZiYTUzN2ZjOTVlZjNkMzQ0YzFhIiwidGkiOjE3NjQ5Mzc1MjQwNTAsInRrIjoiMzkwMzMifX0=",
+        "traceparent": "00-bdb0d15217166ba537fc95ef3d344c1a-041409788049f2ee-01",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "fe-ver": "2.51.1",
+        "tracestate": "39033@nr=0-1-2036148-1127000604-041409788049f2ee----1764937524050"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/api/v1/data/plan-compare/plan/2026/H2001/068/1?lis=LIS_NO_HELP",
+      "method": "GET",
+      "resource_type": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "newrelic": "eyJ2IjpbMCwxXSwiZCI6eyJ0eSI6IkJyb3dzZXIiLCJhYyI6IjIwMzYxNDgiLCJhcCI6IjExMjcwMDA2MDQiLCJpZCI6IjI0MTBjNzllYjg3MWMxZDUiLCJ0ciI6IjY2MTYxMTE3MDIyMDg4MThkY2RhOGRhNzYwYjRiNjgyIiwidGkiOjE3NjQ5Mzc1MjQzNDksInRrIjoiMzkwMzMifX0=",
+        "traceparent": "00-6616111702208818dcda8da760b4b682-2410c79eb871c1d5-01",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "fe-ver": "2.51.1",
+        "tracestate": "39033@nr=0-1-2036148-1127000604-2410c79eb871c1d5----1764937524349"
+      }
+    },
+    {
+      "url": "https://events.launchdarkly.us/events/bulk/61f1a2d2e1e771227c7da4eb",
+      "method": "POST",
+      "resource_type": "xhr",
+      "headers": {
+        "x-launchdarkly-event-schema": "4",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-launchdarkly-payload-id": "79764a40-d1d5-11f0-b5a4-6575455e2b40",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "content-type": "application/json"
+      }
+    },
+    {
+      "url": "blob:https://www.medicare.gov/4a56b76b-3f30-4b6b-b31a-563b335a92d4",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "accept": "*/*"
+      }
+    },
+    {
+      "url": "blob:https://www.medicare.gov/30f84db8-ad41-4b6a-a6c7-abb845370635",
+      "method": "GET",
+      "resource_type": "other",
+      "headers": {
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "referer": ""
+      }
+    },
+    {
+      "url": "https://gov1.sr.qualtrics.com/sr-data-ingestion-service/v2/sessions/record-playback",
+      "method": "PUT",
+      "resource_type": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "content-type": "application/json",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://datacloud.tealiumiq.com/tealium_ttd/main/16/i.js?jsonp=utag.ut.tealium_pass_ttdid",
+      "method": "GET",
+      "resource_type": "script",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://tealium-collect.medicare.gov/vdata/i.gif?gdpr=0&ttd_uuid=6716b80f-0196-4dc7-8e96-b3e3494e2947&tealium_vid=019aee79591a00400a24f6c1131c000810057079007e8&tealium_account=cmsgov&tealium_profile=medicare-www&tealium_cookie_sync=true&domain=www.medicare.gov",
+      "method": "GET",
+      "resource_type": "image",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/api/v1/data/plan-compare/status",
+      "method": "GET",
+      "resource_type": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "newrelic": "eyJ2IjpbMCwxXSwiZCI6eyJ0eSI6IkJyb3dzZXIiLCJhYyI6IjIwMzYxNDgiLCJhcCI6IjExMjcwMDA2MDQiLCJpZCI6ImExNTNjZGVhMWIyODczNmIiLCJ0ciI6ImMyOGU5MmNkN2ZkOGM4YTIxZDk2ZTVjNDQyMWI4MTU2IiwidGkiOjE3NjQ5Mzc1MjgxMzAsInRrIjoiMzkwMzMifX0=",
+        "traceparent": "00-c28e92cd7fd8c8a21d96e5c4421b8156-a153cdea1b28736b-01",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "fe-ver": "2.51.1",
+        "tracestate": "39033@nr=0-1-2036148-1127000604-a153cdea1b28736b----1764937528130"
+      }
+    },
+    {
+      "url": "https://www.medicare.gov/api/v1/data/plan-compare/plan/2026/H2001/068/1?lis=LIS_NO_HELP",
+      "method": "GET",
+      "resource_type": "fetch",
+      "headers": {
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/plan-compare/",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "newrelic": "eyJ2IjpbMCwxXSwiZCI6eyJ0eSI6IkJyb3dzZXIiLCJhYyI6IjIwMzYxNDgiLCJhcCI6IjExMjcwMDA2MDQiLCJpZCI6IjAwM2ZlODZkMWE4N2FlMmQiLCJ0ciI6ImI2M2QzMTBjYjFmMDUxYWNlNTEzNDExZjRiZGVlNDEwIiwidGkiOjE3NjQ5Mzc1Mjg0MzEsInRrIjoiMzkwMzMifX0=",
+        "traceparent": "00-b63d310cb1f051ace513411f4bdee410-003fe86d1a87ae2d-01",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "fe-ver": "2.51.1",
+        "tracestate": "39033@nr=0-1-2036148-1127000604-003fe86d1a87ae2d----1764937528431"
+      }
+    },
+    {
+      "url": "https://events.launchdarkly.us/events/bulk/61f1a2d2e1e771227c7da4eb",
+      "method": "POST",
+      "resource_type": "xhr",
+      "headers": {
+        "x-launchdarkly-event-schema": "4",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "referer": "https://www.medicare.gov/",
+        "sec-ch-ua": "\"Chromium\";v=\"140\", \"Not=A?Brand\";v=\"24\", \"HeadlessChrome\";v=\"140\"",
+        "sec-ch-ua-mobile": "?0",
+        "x-launchdarkly-payload-id": "7bd94080-d1d5-11f0-b5a4-6575455e2b40",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/140.0.7339.16 Safari/537.36",
+        "content-type": "application/json"
+      }
+    }
+  ],
+  "responses": [
+    {
+      "url": "https://www.medicare.gov/plan-compare/",
+      "status": 200,
+      "content_type": "text/html",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/index-CWDO5N9i.css",
+      "status": 200,
+      "content_type": "text/css",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/static/8f20aee0f4e3354994b8f762fa69d172d6750013ed7077",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/rE4qB-1OlF9vU/Q2gevtEzKKM/xm0/Dii10StEEQ1QNGX3Yu/EGtHdV0efQs/IyAkKjN/gbXg",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/index-XqhGubh9.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/static/8f20aee0f4e3354994b8f762fa69d172d6750013ed7077/e/65319_1825172608.js",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/static/8f20aee0f4e3354994b8f762fa69d172d6750013ed7077/e/65257_1825202523.js",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/static/8f20aee0f4e3354994b8f762fa69d172d6750013ed7077/e/65226_747628217.js",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/static/8f20aee0f4e3354994b8f762fa69d172d6750013ed7077/e/64885_1825202492.js",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/rubik-latin-400-DKXO0KhF.woff2",
+      "status": 200,
+      "content_type": "font/woff2",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/rE4qB-1OlF9vU/Q2gevtEzKKM/xm0/Dii10StEEQ1QNGX3Yu/EGtHdV0efQs/IyAkKjN/gbXg",
+      "status": 201,
+      "content_type": "application/json",
+      "method": "POST"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/newRelicHelpers-DpNryz_5.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/agent-session-C7obkEL-.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/index-C_1Mqy_-.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/nav-timing-B6ZcN1MR.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/aggregate-base-DDcnZR3r.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/event-buffer-B8iQEqVh.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/time-to-first-byte-B0P0ULrE.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/traverse-eGeoT8Mx.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/first-paint-P-rdwlS-.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/index-B72bqkgE.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/index-DWTzyP5r.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/event-origin-Bb7irpQQ.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/index-C02DW3TQ.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/type-check-eNJ9pUvL.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/bel-serializer-DR5Zld0c.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/index-BaJxGfLd.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/index-D5DV7fqy.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/index-DGZwvsAw.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/iframe-PalxAwQ_.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/index-CwX9zJCj.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/index-CZY6Um0Z.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/rE4qB-1OlF9vU/Q2gevtEzKKM/xm0/Dii10StEEQ1QNGX3Yu/EGtHdV0efQs/IyAkKjN/gbXg",
+      "status": 201,
+      "content_type": "application/json",
+      "method": "POST"
+    },
+    {
+      "url": "https://clientsdk.launchdarkly.us/sdk/evalx/61f1a2d2e1e771227c7da4eb/contexts/eyJraW5kIjoidXNlciIsImtleSI6Ijc2NjkzMTUwLWQxZDUtMTFmMC05YTZmLWExOGEwZmQ3ZjRlOSIsImFub255bW91cyI6ZmFsc2UsImJyb3dzZXJXaWR0aCI6MTI4MCwiYnJvd3NlckhlaWdodCI6NzIwfQ",
+      "status": 200,
+      "content_type": "application/json",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/LoadingPage-BbtgOzfz.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/AppPage-BmCHiu9u.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/queryParamsHook-fxnc6tCt.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://events.launchdarkly.us/events/diagnostic/61f1a2d2e1e771227c7da4eb",
+      "status": 202,
+      "content_type": "application/json",
+      "method": "POST"
+    },
+    {
+      "url": "https://gov-bam.nr-data.net/1/NRJS-1a4f22d009a0872a2c1?a=1127000604&sa=1&v=1.298.0&t=Unnamed%20Transaction&rst=2011&ck=0&s=cc352d622d65f2f2&ref=https://www.medicare.gov/plan-compare/&ptid=3fb51d0e41583f0e&af=err,spa,xhr,stn,ins&be=279&fe=500&dc=463&fsh=1&perf=%7B%22timing%22:%7B%22of%22:1764937518601,%22n%22:0,%22f%22:0,%22dn%22:7,%22dne%22:104,%22c%22:104,%22s%22:161,%22ce%22:216,%22rq%22:217,%22rp%22:280,%22rpe%22:282,%22di%22:704,%22ds%22:740,%22de%22:742,%22dc%22:778,%22l%22:778,%22le%22:779%7D,%22navigation%22:%7B%7D%7D",
+      "status": 200,
+      "content_type": "text/plain",
+      "method": "POST"
+    },
+    {
+      "url": "https://clientsdk.launchdarkly.us/sdk/evalx/61f1a2d2e1e771227c7da4eb/contexts/eyJraW5kIjoidXNlciIsImtleSI6Ijc3NThlODgwLWQxZDUtMTFmMC05YTZmLWExOGEwZmQ3ZjRlOSIsImFub255bW91cyI6ZmFsc2UsImJyb3dzZXJXaWR0aCI6MTI4MCwiYnJvd3NlckhlaWdodCI6NzIwfQ",
+      "status": 200,
+      "content_type": "application/json",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/montserrat-latin-600-CJ2sQBIR.woff2",
+      "status": 200,
+      "content_type": "font/woff2",
+      "method": "GET"
+    },
+    {
+      "url": "https://frontend.medicare.gov/asset-manifest.json",
+      "status": 200,
+      "content_type": "application/json",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/index-DyexElM3.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/EnrollmentDownAlert-U7DdAHz6.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/currencyUtilities-JxVuNObA.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/index-Bbf5HoMn.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/PlanDetailsCostsContainer-bVMTk-7O.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/index-TTPnFEij.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/MedicareGovAnchor-D7SJuawN.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/translationHelpers-3tBDR8X1.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/useM3pHighDrugCostsMessaging-BkFOK7dF.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/useDrugCosts-wGZdhDQ-.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/dateHelpers-BrtbKf5y.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/FootnoteMarker-DvLxk2eG.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/StandardPartBPremiumFootnote-DZBbMlmi.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/MctHelpDrawer-CNa9MR_Y.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/AvoidPartDPenaltyAlert-RHdoG-7V.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/focus-trap-react-BpBa1NMY.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/linkHelpers-CdccQZ8N.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/formattedMessageHelpers-DKjFvkgG.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/usePartBPremiumUpdate-BeZQzJiF.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/medicareInfoHelpers-CUA5WX13.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/drugCostsHelpers-CgO42a-M.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/CloseIconThin-HZQDiN4o.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/ExternalLink-CYukqzfN.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/TooltipWithClose-Hjzo8M1c.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/PharmacyNetworkLabelHelpDrawer-CjiZBcF8.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/CollapsibleBox-D_nmr-XW.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/MctHelpDrawerToggle-CyIqT3ce.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/AlertMessage-BAVxcTQR.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/Badge-CimWyPCB.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/InfoCircleOutlineIcon-BkC8mZkn.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/EnrollButtonForm-FdUdZMWk.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/useEnrollmentAnalytics-pAQl40Fl.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/ButtonAsLink-BbhIpiGP.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/EmptyTableField-CJR7ns9i.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/ScrollTable-CX_bqa-q.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/WhatYoullPay-DXKoFFiB.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/providerHelpers-DUsEM2sy.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/CheckmarkIcon-_h_XttUi.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://frontend.medicare.gov/assets/index-be3a1ae0.css",
+      "status": 200,
+      "content_type": "text/css",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/useAnalyticsImpression-CMYKWr8N.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/usePendingEnrollments-ZSBk6nbt.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/useStatusSummary-CLv7mcTV.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/DuplicatePrescriptionNotification-C7AkCTJs.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/PrintButton-D1MPyuGA.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/StethoscopeIcon-C58VHTNV.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/ProviderLocations-plKd7cOh.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/ActionsBar-DC20MijN.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/themeHelpers-l8VVRtDh.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/Dropdown-i7kZZzeO.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/api/sls/session/info",
+      "status": 401,
+      "content_type": "text/plain; charset=utf-8",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/AlertWithCustomIcon-CxfAl4Rj.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/PreviewContext-BYtFYxtQ.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/react-router-hash-link.esm-CJa9Ix0t.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://gov-bam.nr-data.net/events/1/NRJS-1a4f22d009a0872a2c1?a=1127000604&sa=1&v=1.298.0&t=Unnamed%20Transaction&rst=2446&ck=0&s=cc352d622d65f2f2&ref=https://www.medicare.gov/plan-compare/&ptid=3fb51d0e41583f0e",
+      "status": 200,
+      "content_type": "image/gif",
+      "method": "POST"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/ServiceAreaReductionNotice-BSWOhJ_o.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.medicare.gov/plan-compare/static/benefitHelpers-BVhKI80Z.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://frontend.medicare.gov/assets/index-fceb3a58.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://clientstream.launchdarkly.us/eval/61f1a2d2e1e771227c7da4eb/eyJraW5kIjoidXNlciIsImtleSI6Ijc3NThlODgwLWQxZDUtMTFmMC05YTZmLWExOGEwZmQ3ZjRlOSIsImFub255bW91cyI6ZmFsc2UsImJyb3dzZXJXaWR0aCI6MTI4MCwiYnJvd3NlckhlaWdodCI6NzIwfQ",
+      "status": 200,
+      "content_type": "text/event-stream; charset=utf-8",
+      "method": "GET"
+    },
+    {
+      "url": "https://clientsdk.launchdarkly.us/sdk/evalx/6019fd45b36e3a100c2d2416/contexts/eyJraW5kIjoibXVsdGkiLCJ1c2VyIjp7ImtleSI6ImRlZmF1bHQtdXNlciIsImN1c3RvbSI6eyJ1c2VUZXN0RmxhZ3MiOmZhbHNlfX0sIm1heFNlc3Npb24iOnsia2V5IjoibWF4U2Vzc2lvbiIsImN1c3RvbSI6eyJtYXhBbm9ueW1vdXNJZCI6Im1heDAuMTIzNjkzMjU0NTk5NDY2NTYifX19",
+      "status": 200,
+      "content_type": "application/json",
+      "method": "GET"
+    },
+    {
+      "url": "https://tealium-tags.medicare.gov/medicare-www/prod/utag.sync.js",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://gov-bam.nr-data.net/events/1/NRJS-1a4f22d009a0872a2c1?a=1127000604&sa=1&v=1.298.0&t=Unnamed%20Transaction&rst=2659&ck=0&s=cc352d622d65f2f2&ref=https://www.medicare.gov/plan-compare/&ptid=3fb51d0e41583f0e",
+      "status": 200,
+      "content_type": "image/gif",
+      "method": "POST"
+    },
+    {
+      "url": "https://tealium-tags.medicare.gov/medicare-www/prod/utag.js",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://frontend.medicare.gov/assets/chevron-c0537455.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "method": "GET"
+    },
+    {
+      "url": "https://frontend.medicare.gov/assets/icon-https-912daff9.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "method": "GET"
+    },
+    {
+      "url": "https://frontend.medicare.gov/assets/medicare-logo-green-6a40fc58.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "method": "GET"
+    },
+    {
+      "url": "https://frontend.medicare.gov/assets/Icon_Chat-f1ad62dd.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "method": "GET"
+    },
+    {
+      "url": "https://frontend.medicare.gov/assets/Log_In-b51e10d7.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "method": "GET"
+    },
+    {
+      "url": "https://frontend.medicare.gov/assets/icon-dot-gov-54f6653a.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "method": "GET"
+    },
+    {
+      "url": "https://events.launchdarkly.us/events/diagnostic/6019fd45b36e3a100c2d2416",
+      "status": 202,
+      "content_type": "application/json",
+      "method": "POST"
+    },
+    {
+      "url": "https://frontend.medicare.gov/assets/sourcesanspro-regular-webfont-8792619b.woff2",
+      "status": 200,
+      "content_type": "font/woff2",
+      "method": "GET"
+    },
+    {
+      "url": "https://api.medicare.gov/verify",
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "method": "GET"
+    },
+    {
+      "url": "https://tags.tiqcdn.com/utag/cmsgov/medicare-www/prod/utag.353.js?utv=ut4.47.202504162005",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://tags.tiqcdn.com/utag/cmsgov/medicare-www/prod/utag.8.js?utv=ut4.47.202412111611",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://tags.tiqcdn.com/utag/cmsgov/medicare-www/prod/utag.9.js?utv=ut4.47.202103221631",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://tags.tiqcdn.com/utag/cmsgov/medicare-www/prod/utag.215.js?utv=ut4.47.202511251528",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://tags.tiqcdn.com/utag/cmsgov/medicare-www/prod/utag.220.js?utv=ut4.47.202503191455",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.youtube.com/iframe_api",
+      "status": 200,
+      "content_type": "text/javascript; charset=utf-8",
+      "method": "GET"
+    },
+    {
+      "url": "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=cmsgov/medicare-www/202511251528&cb=1764937521730",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://tags.tiqcdn.com/utag/cmsgov/medicare-www/prod/utag.299.js?utv=ut4.47.202511251528",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://tags.tiqcdn.com/utag/cmsgov/medicare-www/prod/utag.321.js?utv=ut4.47.202511251528",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://tealium-collect.medicare.gov/cmsgov/medicare-www/2/i.gif",
+      "status": 200,
+      "content_type": "image/gif",
+      "method": "POST"
+    },
+    {
+      "url": "https://www.youtube.com/s/player/4e11051b/www-widgetapi.vflset/www-widgetapi.js",
+      "status": 200,
+      "content_type": "text/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=tealium&ttd_tpi=1&gdpr=0&domain=www.medicare.gov",
+      "status": 302,
+      "content_type": "",
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/genesys-bootstrap/genesys.min.js",
+      "status": 200,
+      "content_type": "text/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://match.adsrvr.org/track/cmb/generic?ttd_pid=tealium&ttd_tpi=1&gdpr=0&domain=www.medicare.gov",
+      "status": 302,
+      "content_type": "",
+      "method": "GET"
+    },
+    {
+      "url": "https://cdn1.adoberesources.net/alloy/2.6.4/alloy.min.js",
+      "status": 200,
+      "content_type": "application/x-javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://tealium-visitor-service.medicare.gov/cmsgov/medicare-www/019aee79591a00400a24f6c1131c000810057079007e8?callback=utag.ut%5B%22writevamedicare-www%22%5D&rnd=1764937521894",
+      "status": 200,
+      "content_type": "application/json;charset=utf-8",
+      "method": "GET"
+    },
+    {
+      "url": "https://bat.bing.com/bat.js",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://ads.nextdoor.com/public/pixel/ndp.js",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DHHS&subagency=CMS",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://api.medicare.gov/siteActivity",
+      "status": 204,
+      "content_type": "text/plain; charset=utf-8",
+      "method": "POST"
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/thirdparty-plugins.html",
+      "status": 200,
+      "content_type": "text/html",
+      "method": "GET"
+    },
+    {
+      "url": "https://bat.bing.com/p/action/97143892.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "method": "GET"
+    },
+    {
+      "url": "https://ads.nextdoor.com/v2/public/pixel/advmtch.js",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://bat.bing.com/action/0?ti=97143892&Ver=2&mid=ca65bcf5-1391-4942-b85b-53082cd6c674&bo=1&sid=780d8b50d1d511f09d830fe8581abad3&vid=780da240d1d511f09d737bf094486e34&vids=1&msclkid=N&pi=0&lg=en-US&sw=1280&sh=720&sc=24&nwd=1&tl=Find%20a%20Medicare%20plan&p=https%3A%2F%2Fwww.medicare.gov%2Fplan-compare%2F%23%2Fplan-details%2F2026-H2001-068-1%3Fyear%3D2026%26lang%3Den&r=&lt=778&evt=pageLoad&sv=2&cdb=AQwR&rn=184156",
+      "status": 204,
+      "content_type": "",
+      "method": "GET"
+    },
+    {
+      "url": "https://flask.nextdoor.com/pixel?pid=427bdaf0-95df-42d4-a743-4c104f37d866&vrs=10.12&ev=PAGE_VIEW&pl=https%3A%2F%2Fwww.medicare.gov%2Fplan-compare%2F%23%2Fplan-details%2F2026-H2001-068-1%3Fyear%3D2026%26lang%3Den&v=undefined&ndclid=&ndclid_src=0&rf=&sem=&tm=Manual&iid=afc646b9-7040-4e18-9643-25982adc1712&pageid=a9694db4-50ff-4ccd-ac93-2a7d8dfcd22d&sessionid=8fae1571-46bb-4550-b963-ab637f0eb1e5&cd=%7B%7D&tz=America%2FLos_Angeles&sw=1280&sh=720&gpuV=Google%20Inc.%20(Google)&gpuR=ANGLE%20(Google%2C%20Vulkan%201.3.0%20(SwiftShader%20Device%20(LLVM%2010.0.0)%20(0x0000C0DE))%2C%20SwiftShader%20driver)",
+      "status": 204,
+      "content_type": "",
+      "method": "GET"
+    },
+    {
+      "url": "https://zn56jl522ec1a1wzf-medicare.gov1.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_56jL522eC1a1WZf&Q_LOC=https%3A%2F%2Fwww.medicare.gov%2Fplan-compare%2F%23%2Fplan-details%2F2026-H2001-068-1%3Fyear%3D2026%26lang%3Den",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/cxbus/cxbus.min.js",
+      "status": 200,
+      "content_type": "text/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://datacloud.tealiumiq.com/tealium_ttd/main/16/i.gif?t1=6716b80f-0196-4dc7-8e96-b3e3494e2947",
+      "status": 200,
+      "content_type": "image/gif",
+      "method": "GET"
+    },
+    {
+      "url": "https://adobedc.demdex.net/ee/v1/interact?configId=6b5a5aa6-6fe2-41ca-b5b6-91daeac67c29&requestId=80cb39f8-9a96-400c-9989-0822a1f1841f",
+      "status": 200,
+      "content_type": "application/json;charset=utf-8",
+      "method": "POST"
+    },
+    {
+      "url": "https://api-cdn.use2.us-gov-pure.cloud/webdeployments/v1/deployments/ab956791-73f1-4395-8cdf-7a50a0a89550/domains.json",
+      "status": 200,
+      "content_type": "application/json",
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/thirdpartyplugins.min.js",
+      "status": 200,
+      "content_type": "text/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://ads.nextdoor.com/v2/api/conversions/settings?id=427bdaf0-95df-42d4-a743-4c104f37d866",
+      "status": 200,
+      "content_type": "application/json",
+      "method": "GET"
+    },
+    {
+      "url": "https://api-cdn.use2.us-gov-pure.cloud/webdeployments/v1/deployments/ab956791-73f1-4395-8cdf-7a50a0a89550/config.json",
+      "status": 200,
+      "content_type": "application/json",
+      "method": "GET"
+    },
+    {
+      "url": "https://gov1.siteintercept.qualtrics.com/dxjsmodule/11.c2e75a52515479d0a5cc.chunk.js?Q_CLIENTVERSION=2.39.0&Q_CLIENTTYPE=web&Q_BRANDID=www.medicare.gov",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/messenger.html",
+      "status": 200,
+      "content_type": "text/html",
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/genesys-bootstrap/hub.html",
+      "status": 200,
+      "content_type": "text/html",
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/journey/messenger-plugins/offersHelper.min.js",
+      "status": 200,
+      "content_type": "text/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/messenger-renderer.html",
+      "status": 200,
+      "content_type": "text/html",
+      "method": "GET"
+    },
+    {
+      "url": "https://js-agent.newrelic.com/nr-spa-1.301.0.min.js",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://gov1.siteintercept.qualtrics.com/dxjsmodule/10.7aea34b0491dd894cc3b.chunk.js?Q_CLIENTVERSION=2.39.0&Q_CLIENTTYPE=web&Q_BRANDID=www.medicare.gov",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/cxbus/cxbus.min.js",
+      "status": 304,
+      "content_type": "",
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/genesys-bootstrap/plugins/storagehub.min.js",
+      "status": 200,
+      "content_type": "text/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-CSLL4ZEK4L",
+      "status": 200,
+      "content_type": "application/javascript; charset=UTF-8",
+      "method": "GET"
+    },
+    {
+      "url": "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php?Q_ZoneID=ZN_56jL522eC1a1WZf&Q_CLIENTVERSION=2.39.0&Q_CLIENTTYPE=web",
+      "status": 200,
+      "content_type": "application/json",
+      "method": "POST"
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/messagingMiddleware.min.js",
+      "status": 200,
+      "content_type": "text/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://gov-bam.nr-data.net/1/NRJS-dc16e7811b85d7d9b28?a=1431853245&sa=1&v=1.301.0&t=Unnamed%20Transaction&rst=511&ck=0&s=0&ref=https://apps.use2.us-gov-pure.cloud/messenger/thirdparty-plugins.html&ptid=c7c0759356a9d0b1&af=err,spa,xhr,stn,ins&be=105&fe=221&dc=5&perf=%7B%22timing%22:%7B%22of%22:1764937521978,%22n%22:0,%22f%22:1,%22dn%22:1,%22dne%22:1,%22c%22:1,%22s%22:1,%22ce%22:1,%22rq%22:1,%22rp%22:105,%22rpe%22:105,%22di%22:110,%22ds%22:110,%22de%22:110,%22dc%22:324,%22l%22:324,%22le%22:325%7D,%22navigation%22:%7B%7D%7D",
+      "status": 200,
+      "content_type": "text/plain",
+      "method": "POST"
+    },
+    {
+      "url": "https://gov1.siteintercept.qualtrics.com/dxjsmodule/CoreModule.js?Q_CLIENTVERSION=2.39.0&Q_CLIENTTYPE=web&Q_BRANDID=medicare",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://gov1.siteintercept.qualtrics.com/dxjsmodule/12.1807eb5f865239529b2b.chunk.js?Q_CLIENTVERSION=2.39.0&Q_CLIENTTYPE=web&Q_BRANDID=medicare",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/cxbus/cxbus.min.js",
+      "status": 200,
+      "content_type": "text/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/defaultVendors.min.js",
+      "status": 200,
+      "content_type": "text/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/engage.min.js",
+      "status": 200,
+      "content_type": "text/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/main.min.js",
+      "status": 200,
+      "content_type": "text/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/broadcast.min.js",
+      "status": 200,
+      "content_type": "text/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://gov1.siteintercept.qualtrics.com/dxjsmodule/5.f7732db475dcf4471fe1.chunk.js?Q_CLIENTVERSION=2.39.0&Q_CLIENTTYPE=web&Q_BRANDID=medicare",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/vendors.min.js",
+      "status": 200,
+      "content_type": "text/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://gov1.siteintercept.qualtrics.com/dxjsmodule/1.be3034a3c20753b828ed.chunk.js?Q_CLIENTVERSION=2.39.0&Q_CLIENTTYPE=web&Q_BRANDID=medicare",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://gov-bam.nr-data.net/events/1/NRJS-dc16e7811b85d7d9b28?a=1431853245&sa=1&v=1.301.0&t=Unnamed%20Transaction&rst=729&ck=0&s=0&ref=https://apps.use2.us-gov-pure.cloud/messenger/thirdparty-plugins.html&ptid=c7c0759356a9d0b1",
+      "status": 200,
+      "content_type": "image/gif",
+      "method": "POST"
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/messagingMiddleware.min.js",
+      "status": 304,
+      "content_type": "",
+      "method": "GET"
+    },
+    {
+      "url": "https://gov1.siteintercept.qualtrics.com/dxjsmodule/FeedbackButtonModule.js?Q_CLIENTVERSION=2.39.0&Q_CLIENTTYPE=web&Q_BRANDID=medicare",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/vendors.min.js",
+      "status": 200,
+      "content_type": "text/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/defaultVendors.min.js",
+      "status": 200,
+      "content_type": "text/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/messengerrenderer.min.js",
+      "status": 200,
+      "content_type": "text/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://events.launchdarkly.us/events/bulk/61f1a2d2e1e771227c7da4eb",
+      "status": 202,
+      "content_type": "application/json",
+      "method": "POST"
+    },
+    {
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-CSLL4ZEK4L&gtm=45je5c31v9131934939za200zd9131934939&_p=1764937522046&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=1580901590.1764937518&ul=en-us&sr=1280x720&uaa=arm&uab=64&uafvl=Chromium%3B140.0.7339.16%7CNot%253DA%253FBrand%3B24.0.0.0%7CHeadlessChrome%3B140.0.7339.16&uamb=0&uam=&uap=macOS&uapv=26.0.1&uaw=0&are=1&frm=0&pscdl=noapi&_s=1&tag_exp=103116026~103200004~104527907~104528500~104684208~104684211~105391253~115583767~115616986~115938466~115938468~116184927~116184929~116217636~116217638~116514483~116518834&dl=https%3A%2F%2Fmedicare.gov%2Fplan-compare%2F%23%2Fplan-details%2F2026-h2001-068-1&dt=Find%20a%20Medicare%20plan&dr=&sid=1764937522&sct=1&seg=0&_tu=wA&en=page_view&_fv=1&_ss=1&_ee=1&ep.agency=DHHS&ep.subagency=CMS&ep.site_topic=unspecified%3Amedicare.gov&ep.site_platform=unspecified%3Amedicare.gov&ep.script_source=https%3A%2F%2Fdap.digitalgov.gov%2Funiversal-federated-analytics-min.js&ep.version=20250702%20v8.7%20-%20ga4&ep.protocol=https%3A&ep.using_parallel_tracker=no&ep.hostname_dimension=medicare.gov&tfd=4026",
+      "status": 204,
+      "content_type": "text/plain",
+      "method": "POST"
+    },
+    {
+      "url": "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=SI_3r4eHvzUeEf8G3z&Version=17&Q_ORIGIN=https://www.medicare.gov&Q_CLIENTVERSION=2.39.0&Q_CLIENTTYPE=web&Q_BrandTier=xAIg4q2Yee&Q_ARCACHEVERSION=21&Q_BRANDDC=gov1",
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "method": "GET"
+    },
+    {
+      "url": "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php?Module=CR_ePQdwIYDcInEfY1&Version=8&Q_InterceptID=SI_3r4eHvzUeEf8G3z&Q_ORIGIN=https://www.medicare.gov&Q_CLIENTVERSION=2.39.0&Q_CLIENTTYPE=web&Q_BrandTier=xAIg4q2Yee&Q_ARCACHEVERSION=21&Q_BRANDDC=gov1",
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/i18n/en-us.json",
+      "status": 200,
+      "content_type": "application/json",
+      "method": "GET"
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/i18n/vendors/date-en.min.js",
+      "status": 200,
+      "content_type": "text/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://gov1.sr.qualtrics.com/sr-data-ingestion-service/v2/sessions/create",
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "method": "POST"
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/i18n/en-us.json",
+      "status": 200,
+      "content_type": "application/json",
+      "method": "GET"
+    },
+    {
+      "url": "https://events.launchdarkly.us/events/bulk/6019fd45b36e3a100c2d2416",
+      "status": 202,
+      "content_type": "application/json",
+      "method": "POST"
+    },
+    {
+      "url": "https://apps.use2.us-gov-pure.cloud/messenger/i18n/vendors/date-en.min.js",
+      "status": 304,
+      "content_type": "",
+      "method": "GET"
+    },
+    {
+      "url": "https://gov1.qualtrics.com/WRQualtricsSiteIntercept/Graphic.php?IM=IM_1NcmduPHZGVHlEV",
+      "status": 200,
+      "content_type": "image/png",
+      "method": "GET"
+    },
+    {
+      "url": "https://gov1.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_Impress=1&Q_CID=CR_ePQdwIYDcInEfY1&Q_SIID=SI_3r4eHvzUeEf8G3z&Q_ASID=AS_9A00q0RGP91GfWd&Q_CLIENTVERSION=2.39.0&Q_CLIENTTYPE=web&r=1764937523754",
+      "status": 200,
+      "content_type": "text/plain; charset=UTF-8",
+      "method": "POST"
+    },
+    {
+      "url": "https://events.launchdarkly.us/events/bulk/61f1a2d2e1e771227c7da4eb",
+      "status": 202,
+      "content_type": "application/json",
+      "method": "POST"
+    },
+    {
+      "url": "blob:https://www.medicare.gov/4a56b76b-3f30-4b6b-b31a-563b335a92d4",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "blob:https://www.medicare.gov/30f84db8-ad41-4b6a-a6c7-abb845370635",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://gov1.sr.qualtrics.com/sr-data-ingestion-service/v2/sessions/record-playback",
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "method": "PUT"
+    },
+    {
+      "url": "https://datacloud.tealiumiq.com/tealium_ttd/main/16/i.js?jsonp=utag.ut.tealium_pass_ttdid",
+      "status": 200,
+      "content_type": "application/javascript",
+      "method": "GET"
+    },
+    {
+      "url": "https://tealium-collect.medicare.gov/vdata/i.gif?gdpr=0&ttd_uuid=6716b80f-0196-4dc7-8e96-b3e3494e2947&tealium_vid=019aee79591a00400a24f6c1131c000810057079007e8&tealium_account=cmsgov&tealium_profile=medicare-www&tealium_cookie_sync=true&domain=www.medicare.gov",
+      "status": 200,
+      "content_type": "image/gif",
+      "method": "GET"
+    },
+    {
+      "url": "https://events.launchdarkly.us/events/bulk/61f1a2d2e1e771227c7da4eb",
+      "status": 202,
+      "content_type": "application/json",
+      "method": "POST"
+    }
+  ]
+}

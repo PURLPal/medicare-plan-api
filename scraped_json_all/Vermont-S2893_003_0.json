@@ -1,0 +1,30 @@
+{
+  "plan_info": {
+    "name": "Blue MedicareRx Premier (PDP)",
+    "organization": "Blue MedicareRx",
+    "type": "Drug plan (Part D)",
+    "id": "S2893-003-0"
+  },
+  "premiums": {
+    "Total monthly premium": "$238.60"
+  },
+  "deductibles": {
+    "Drug deductible": "$0.00"
+  },
+  "maximum_out_of_pocket": {},
+  "contact_info": {
+    "Plan address": "P.O. Box 30001\nPittsburgh, PA 15222"
+  },
+  "benefits": {
+    "Pharmacies": {},
+    "Costs by drug tier - Preferred retail pharmacy drug cost for 1 month": {
+      "Preferred Generic": "$1.00 copay",
+      "Generic": "$7.00 copay",
+      "Preferred Brand": "$30.00 copay",
+      "Non-Preferred Drug": "35% coinsurance",
+      "Specialty Tier": "33% coinsurance"
+    }
+  },
+  "drug_coverage": {},
+  "extra_benefits": {}
+}

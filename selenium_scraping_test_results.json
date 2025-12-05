@@ -1,0 +1,162 @@
+[
+  {
+    "state": "Pennsylvania",
+    "plan_id": "H3916_033_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H3916-033-0?year=2026&lang=en",
+    "success": true,
+    "size": 16354,
+    "file": "scraped_html_selenium/Pennsylvania_H3916_033_0.html"
+  },
+  {
+    "state": "Pennsylvania",
+    "plan_id": "H3916_038_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H3916-038-0?year=2026&lang=en",
+    "success": true,
+    "size": 288816,
+    "file": "scraped_html_selenium/Pennsylvania_H3916_038_0.html"
+  },
+  {
+    "state": "Pennsylvania",
+    "plan_id": "H3907_037_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H3907-037-0?year=2026&lang=en",
+    "success": true,
+    "size": 284097,
+    "file": "scraped_html_selenium/Pennsylvania_H3907_037_0.html"
+  },
+  {
+    "state": "Pennsylvania",
+    "plan_id": "H3916_039_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H3916-039-0?year=2026&lang=en",
+    "success": true,
+    "size": 294051,
+    "file": "scraped_html_selenium/Pennsylvania_H3916_039_0.html"
+  },
+  {
+    "state": "Pennsylvania",
+    "plan_id": "H3113_014_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H3113-014-0?year=2026&lang=en",
+    "success": true,
+    "size": 312097,
+    "file": "scraped_html_selenium/Pennsylvania_H3113_014_0.html"
+  },
+  {
+    "state": "Rhode_Island",
+    "plan_id": "S4802_137_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-S4802-137-0?year=2026&lang=en",
+    "success": true,
+    "size": 16354,
+    "file": "scraped_html_selenium/Rhode_Island_S4802_137_0.html"
+  },
+  {
+    "state": "Rhode_Island",
+    "plan_id": "S5601_004_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-S5601-004-0?year=2026&lang=en",
+    "success": true,
+    "size": 130595,
+    "file": "scraped_html_selenium/Rhode_Island_S5601_004_0.html"
+  },
+  {
+    "state": "Rhode_Island",
+    "plan_id": "H5253_148_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H5253-148-0?year=2026&lang=en",
+    "success": true,
+    "size": 307864,
+    "file": "scraped_html_selenium/Rhode_Island_H5253_148_0.html"
+  },
+  {
+    "state": "Rhode_Island",
+    "plan_id": "H5253_149_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H5253-149-0?year=2026&lang=en",
+    "success": true,
+    "size": 287365,
+    "file": "scraped_html_selenium/Rhode_Island_H5253_149_0.html"
+  },
+  {
+    "state": "Rhode_Island",
+    "plan_id": "H2272_003_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H2272-003-0?year=2026&lang=en",
+    "success": true,
+    "size": 320696,
+    "file": "scraped_html_selenium/Rhode_Island_H2272_003_0.html"
+  },
+  {
+    "state": "South_Dakota",
+    "plan_id": "H1608_121_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H1608-121-0?year=2026&lang=en",
+    "success": true,
+    "size": 314956,
+    "file": "scraped_html_selenium/South_Dakota_H1608_121_0.html"
+  },
+  {
+    "state": "South_Dakota",
+    "plan_id": "H1608_119_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H1608-119-0?year=2026&lang=en",
+    "success": true,
+    "size": 304723,
+    "file": "scraped_html_selenium/South_Dakota_H1608_119_0.html"
+  },
+  {
+    "state": "South_Dakota",
+    "plan_id": "S5617_123_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-S5617-123-0?year=2026&lang=en",
+    "success": true,
+    "size": 134122,
+    "file": "scraped_html_selenium/South_Dakota_S5617_123_0.html"
+  },
+  {
+    "state": "South_Dakota",
+    "plan_id": "H8889_013_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H8889-013-0?year=2026&lang=en",
+    "success": true,
+    "size": 284583,
+    "file": "scraped_html_selenium/South_Dakota_H8889_013_0.html"
+  },
+  {
+    "state": "South_Dakota",
+    "plan_id": "H1787_001_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H1787-001-0?year=2026&lang=en",
+    "success": true,
+    "size": 250711,
+    "file": "scraped_html_selenium/South_Dakota_H1787_001_0.html"
+  },
+  {
+    "state": "California",
+    "plan_id": "H4982_007_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H4982-007-0?year=2026&lang=en",
+    "success": true,
+    "size": 297929,
+    "file": "scraped_html_selenium/California_H4982_007_0.html"
+  },
+  {
+    "state": "California",
+    "plan_id": "H4161_013_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H4161-013-0?year=2026&lang=en",
+    "success": true,
+    "size": 314863,
+    "file": "scraped_html_selenium/California_H4161_013_0.html"
+  },
+  {
+    "state": "California",
+    "plan_id": "H5810_014_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H5810-014-0?year=2026&lang=en",
+    "success": true,
+    "size": 304277,
+    "file": "scraped_html_selenium/California_H5810_014_0.html"
+  },
+  {
+    "state": "California",
+    "plan_id": "H0543_249_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H0543-249-0?year=2026&lang=en",
+    "success": true,
+    "size": 300545,
+    "file": "scraped_html_selenium/California_H0543_249_0.html"
+  },
+  {
+    "state": "California",
+    "plan_id": "H5425_119_0",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H5425-119-0?year=2026&lang=en",
+    "success": true,
+    "size": 334583,
+    "file": "scraped_html_selenium/California_H5425_119_0.html"
+  }
+]

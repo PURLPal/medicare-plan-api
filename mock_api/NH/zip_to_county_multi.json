@@ -1,0 +1,4580 @@
+[
+  {
+    "zip": "03256",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33001",
+        "name": "Belknap",
+        "percentage": 98.5
+      },
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 1.5
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "name": "Belknap"
+    },
+    "county": "Belknap",
+    "fips": "33001"
+  },
+  {
+    "zip": "03249",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33001",
+        "name": "Belknap",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "name": "Belknap"
+    },
+    "county": "Belknap",
+    "fips": "33001"
+  },
+  {
+    "zip": "03894",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 99.9
+      },
+      {
+        "fips": "33001",
+        "name": "Belknap",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "name": "Carroll"
+    },
+    "county": "Carroll",
+    "fips": "33003"
+  },
+  {
+    "zip": "03853",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "name": "Carroll"
+    },
+    "county": "Carroll",
+    "fips": "33003"
+  },
+  {
+    "zip": "03860",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "name": "Carroll"
+    },
+    "county": "Carroll",
+    "fips": "33003"
+  },
+  {
+    "zip": "03470",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "name": "Cheshire",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "name": "Cheshire"
+    },
+    "county": "Cheshire",
+    "fips": "33005"
+  },
+  {
+    "zip": "03441",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "name": "Cheshire",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "name": "Cheshire"
+    },
+    "county": "Cheshire",
+    "fips": "33005"
+  },
+  {
+    "zip": "03451",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "name": "Cheshire",
+        "percentage": 98.5
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "name": "Cheshire"
+    },
+    "county": "Cheshire",
+    "fips": "33005"
+  },
+  {
+    "zip": "03581",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "name": "Coos",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "name": "Coos"
+    },
+    "county": "Coos",
+    "fips": "33007"
+  },
+  {
+    "zip": "03597",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "name": "Coos",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "name": "Coos"
+    },
+    "county": "Coos",
+    "fips": "33007"
+  },
+  {
+    "zip": "03285",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03586",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03245",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03103",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 95.9
+      },
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 4.1
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03064",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03084",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03242",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 99.9
+      },
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "name": "Merrimack"
+    },
+    "county": "Merrimack",
+    "fips": "33013"
+  },
+  {
+    "zip": "03106",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "name": "Merrimack"
+    },
+    "county": "Merrimack",
+    "fips": "33013"
+  },
+  {
+    "zip": "03224",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "name": "Merrimack"
+    },
+    "county": "Merrimack",
+    "fips": "33013"
+  },
+  {
+    "zip": "03258",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "name": "Merrimack"
+    },
+    "county": "Merrimack",
+    "fips": "33013"
+  },
+  {
+    "zip": "03079",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03827",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03862",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03855",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33017",
+        "name": "Strafford",
+        "percentage": 99.1
+      },
+      {
+        "fips": "33001",
+        "name": "Belknap",
+        "percentage": 0.9
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "name": "Strafford"
+    },
+    "county": "Strafford",
+    "fips": "33017"
+  },
+  {
+    "zip": "03884",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33017",
+        "name": "Strafford",
+        "percentage": 99.9
+      },
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "name": "Strafford"
+    },
+    "county": "Strafford",
+    "fips": "33017"
+  },
+  {
+    "zip": "03753",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33019",
+        "name": "Sullivan",
+        "percentage": 99.9
+      },
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "name": "Sullivan"
+    },
+    "county": "Sullivan",
+    "fips": "33019"
+  },
+  {
+    "zip": "03226",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33001",
+        "name": "Belknap",
+        "percentage": 98.3
+      },
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 1.7
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "name": "Belknap"
+    },
+    "county": "Belknap",
+    "fips": "33001"
+  },
+  {
+    "zip": "03875",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "name": "Carroll"
+    },
+    "county": "Carroll",
+    "fips": "33003"
+  },
+  {
+    "zip": "03872",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 99.2
+      },
+      {
+        "fips": "33017",
+        "name": "Strafford",
+        "percentage": 0.8
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "name": "Carroll"
+    },
+    "county": "Carroll",
+    "fips": "33003"
+  },
+  {
+    "zip": "03813",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "name": "Carroll"
+    },
+    "county": "Carroll",
+    "fips": "33003"
+  },
+  {
+    "zip": "03818",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "name": "Carroll"
+    },
+    "county": "Carroll",
+    "fips": "33003"
+  },
+  {
+    "zip": "03847",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "name": "Carroll"
+    },
+    "county": "Carroll",
+    "fips": "33003"
+  },
+  {
+    "zip": "03832",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "name": "Carroll"
+    },
+    "county": "Carroll",
+    "fips": "33003"
+  },
+  {
+    "zip": "03846",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "name": "Carroll"
+    },
+    "county": "Carroll",
+    "fips": "33003"
+  },
+  {
+    "zip": "03465",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "name": "Cheshire",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "name": "Cheshire"
+    },
+    "county": "Cheshire",
+    "fips": "33005"
+  },
+  {
+    "zip": "03447",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "name": "Cheshire",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "name": "Cheshire"
+    },
+    "county": "Cheshire",
+    "fips": "33005"
+  },
+  {
+    "zip": "03444",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "name": "Cheshire",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "name": "Cheshire"
+    },
+    "county": "Cheshire",
+    "fips": "33005"
+  },
+  {
+    "zip": "03588",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "name": "Coos",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "name": "Coos"
+    },
+    "county": "Coos",
+    "fips": "33007"
+  },
+  {
+    "zip": "03584",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "name": "Coos",
+        "percentage": 99.5
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "name": "Coos"
+    },
+    "county": "Coos",
+    "fips": "33007"
+  },
+  {
+    "zip": "03768",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 99.4
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03771",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 97.8
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03062",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 99.8
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03076",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 99.6
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03086",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03047",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03287",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 99.8
+      },
+      {
+        "fips": "33019",
+        "name": "Sullivan",
+        "percentage": 0.2
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "name": "Merrimack"
+    },
+    "county": "Merrimack",
+    "fips": "33013"
+  },
+  {
+    "zip": "03857",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03087",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 98.5
+      },
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 1.5
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03885",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03873",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03811",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 99.6
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03874",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 97.5
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03870",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 96.9
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03842",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 98.5
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03854",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 87.2
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03820",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33017",
+        "name": "Strafford",
+        "percentage": 98.9
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "name": "Strafford"
+    },
+    "county": "Strafford",
+    "fips": "33017"
+  },
+  {
+    "zip": "03852",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33017",
+        "name": "Strafford",
+        "percentage": 95.4
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "name": "Strafford"
+    },
+    "county": "Strafford",
+    "fips": "33017"
+  },
+  {
+    "zip": "03743",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33019",
+        "name": "Sullivan",
+        "percentage": 99.7
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "name": "Sullivan"
+    },
+    "county": "Sullivan",
+    "fips": "33019"
+  },
+  {
+    "zip": "03276",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 70.7
+      },
+      {
+        "fips": "33001",
+        "name": "Belknap",
+        "percentage": 29.3
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "name": "Merrimack"
+    },
+    "county": "Merrimack",
+    "fips": "33013"
+  },
+  {
+    "zip": "03237",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33001",
+        "name": "Belknap",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "name": "Belknap"
+    },
+    "county": "Belknap",
+    "fips": "33001"
+  },
+  {
+    "zip": "03254",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "name": "Carroll"
+    },
+    "county": "Carroll",
+    "fips": "33003"
+  },
+  {
+    "zip": "03886",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "name": "Carroll"
+    },
+    "county": "Carroll",
+    "fips": "33003"
+  },
+  {
+    "zip": "03887",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33017",
+        "name": "Strafford",
+        "percentage": 84.8
+      },
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 15.2
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "name": "Strafford"
+    },
+    "county": "Strafford",
+    "fips": "33017"
+  },
+  {
+    "zip": "03836",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "name": "Carroll"
+    },
+    "county": "Carroll",
+    "fips": "33003"
+  },
+  {
+    "zip": "03464",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "name": "Cheshire",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "name": "Cheshire"
+    },
+    "county": "Cheshire",
+    "fips": "33005"
+  },
+  {
+    "zip": "03457",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "name": "Cheshire",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "name": "Cheshire"
+    },
+    "county": "Cheshire",
+    "fips": "33005"
+  },
+  {
+    "zip": "03448",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "name": "Cheshire",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "name": "Cheshire"
+    },
+    "county": "Cheshire",
+    "fips": "33005"
+  },
+  {
+    "zip": "03570",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "name": "Coos",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "name": "Coos"
+    },
+    "county": "Coos",
+    "fips": "33007"
+  },
+  {
+    "zip": "03582",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "name": "Coos",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "name": "Coos"
+    },
+    "county": "Coos",
+    "fips": "33007"
+  },
+  {
+    "zip": "03583",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "name": "Coos",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "name": "Coos"
+    },
+    "county": "Coos",
+    "fips": "33007"
+  },
+  {
+    "zip": "03266",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03574",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 99.3
+      },
+      {
+        "fips": "33007",
+        "name": "Coos",
+        "percentage": 0.7
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03222",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 99.6
+      },
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 0.4
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03777",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 99.3
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03063",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03052",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03440",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03303",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "name": "Merrimack"
+    },
+    "county": "Merrimack",
+    "fips": "33013"
+  },
+  {
+    "zip": "03257",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "name": "Merrimack"
+    },
+    "county": "Merrimack",
+    "fips": "33013"
+  },
+  {
+    "zip": "03046",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "name": "Merrimack"
+    },
+    "county": "Merrimack",
+    "fips": "33013"
+  },
+  {
+    "zip": "03801",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 97.7
+      },
+      {
+        "fips": "33017",
+        "name": "Strafford",
+        "percentage": 0.9
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03865",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03077",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03856",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03037",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 99.3
+      },
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 0.7
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03840",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03848",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03878",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33017",
+        "name": "Strafford",
+        "percentage": 97.8
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "name": "Strafford"
+    },
+    "county": "Strafford",
+    "fips": "33017"
+  },
+  {
+    "zip": "03605",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33019",
+        "name": "Sullivan",
+        "percentage": 99.9
+      },
+      {
+        "fips": "33005",
+        "name": "Cheshire",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "name": "Sullivan"
+    },
+    "county": "Sullivan",
+    "fips": "33019"
+  },
+  {
+    "zip": "03781",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33019",
+        "name": "Sullivan",
+        "percentage": 99.6
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "name": "Sullivan"
+    },
+    "county": "Sullivan",
+    "fips": "33019"
+  },
+  {
+    "zip": "03607",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33019",
+        "name": "Sullivan",
+        "percentage": 98.8
+      },
+      {
+        "fips": "33005",
+        "name": "Cheshire",
+        "percentage": 1.2
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "name": "Sullivan"
+    },
+    "county": "Sullivan",
+    "fips": "33019"
+  },
+  {
+    "zip": "03837",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33001",
+        "name": "Belknap",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "name": "Belknap"
+    },
+    "county": "Belknap",
+    "fips": "33001"
+  },
+  {
+    "zip": "03246",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33001",
+        "name": "Belknap",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "name": "Belknap"
+    },
+    "county": "Belknap",
+    "fips": "33001"
+  },
+  {
+    "zip": "03461",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "name": "Cheshire",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "name": "Cheshire"
+    },
+    "county": "Cheshire",
+    "fips": "33005"
+  },
+  {
+    "zip": "03445",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "name": "Cheshire",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "name": "Cheshire"
+    },
+    "county": "Cheshire",
+    "fips": "33005"
+  },
+  {
+    "zip": "03455",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "name": "Cheshire",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "name": "Cheshire"
+    },
+    "county": "Cheshire",
+    "fips": "33005"
+  },
+  {
+    "zip": "03443",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "name": "Cheshire",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "name": "Cheshire"
+    },
+    "county": "Cheshire",
+    "fips": "33005"
+  },
+  {
+    "zip": "03458",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 99.6
+      },
+      {
+        "fips": "33005",
+        "name": "Cheshire",
+        "percentage": 0.4
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03595",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "name": "Coos",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "name": "Coos"
+    },
+    "county": "Coos",
+    "fips": "33007"
+  },
+  {
+    "zip": "03598",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "name": "Coos",
+        "percentage": 99.5
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "name": "Coos"
+    },
+    "county": "Coos",
+    "fips": "33007"
+  },
+  {
+    "zip": "03590",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "name": "Coos",
+        "percentage": 98.9
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "name": "Coos"
+    },
+    "county": "Coos",
+    "fips": "33007"
+  },
+  {
+    "zip": "03223",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03264",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03262",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03779",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 98.6
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03101",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03060",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03048",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03442",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03304",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "name": "Merrimack"
+    },
+    "county": "Merrimack",
+    "fips": "33013"
+  },
+  {
+    "zip": "03235",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 99.1
+      },
+      {
+        "fips": "33001",
+        "name": "Belknap",
+        "percentage": 0.9
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "name": "Merrimack"
+    },
+    "county": "Merrimack",
+    "fips": "33013"
+  },
+  {
+    "zip": "03275",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "name": "Merrimack"
+    },
+    "county": "Merrimack",
+    "fips": "33013"
+  },
+  {
+    "zip": "03833",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03290",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03038",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03851",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33017",
+        "name": "Strafford",
+        "percentage": 99.6
+      },
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "name": "Strafford"
+    },
+    "county": "Strafford",
+    "fips": "33017"
+  },
+  {
+    "zip": "03861",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33017",
+        "name": "Strafford",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "name": "Strafford"
+    },
+    "county": "Strafford",
+    "fips": "33017"
+  },
+  {
+    "zip": "03867",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33017",
+        "name": "Strafford",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "name": "Strafford"
+    },
+    "county": "Strafford",
+    "fips": "33017"
+  },
+  {
+    "zip": "03835",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33017",
+        "name": "Strafford",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "name": "Strafford"
+    },
+    "county": "Strafford",
+    "fips": "33017"
+  },
+  {
+    "zip": "03869",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33017",
+        "name": "Strafford",
+        "percentage": 96.9
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "name": "Strafford"
+    },
+    "county": "Strafford",
+    "fips": "33017"
+  },
+  {
+    "zip": "03601",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33019",
+        "name": "Sullivan",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "name": "Sullivan"
+    },
+    "county": "Sullivan",
+    "fips": "33019"
+  },
+  {
+    "zip": "03809",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33001",
+        "name": "Belknap",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "name": "Belknap"
+    },
+    "county": "Belknap",
+    "fips": "33001"
+  },
+  {
+    "zip": "03227",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 98.9
+      },
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 1.1
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "name": "Carroll"
+    },
+    "county": "Carroll",
+    "fips": "33003"
+  },
+  {
+    "zip": "03864",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "name": "Carroll"
+    },
+    "county": "Carroll",
+    "fips": "33003"
+  },
+  {
+    "zip": "03602",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33005",
+        "name": "Cheshire",
+        "percentage": 68.3
+      },
+      {
+        "fips": "33019",
+        "name": "Sullivan",
+        "percentage": 31.7
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "name": "Cheshire"
+    },
+    "county": "Cheshire",
+    "fips": "33005"
+  },
+  {
+    "zip": "03609",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "name": "Cheshire",
+        "percentage": 90.9
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "name": "Cheshire"
+    },
+    "county": "Cheshire",
+    "fips": "33005"
+  },
+  {
+    "zip": "03462",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "name": "Cheshire",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "name": "Cheshire"
+    },
+    "county": "Cheshire",
+    "fips": "33005"
+  },
+  {
+    "zip": "03466",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "name": "Cheshire",
+        "percentage": 98.2
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "name": "Cheshire"
+    },
+    "county": "Cheshire",
+    "fips": "33005"
+  },
+  {
+    "zip": "03575",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "name": "Coos",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "name": "Coos"
+    },
+    "county": "Coos",
+    "fips": "33007"
+  },
+  {
+    "zip": "03576",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "name": "Coos",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "name": "Coos"
+    },
+    "county": "Coos",
+    "fips": "33007"
+  },
+  {
+    "zip": "03774",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 99.1
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03785",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 99.8
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03215",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 99.4
+      },
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 0.6
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03071",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03221",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "name": "Merrimack"
+    },
+    "county": "Merrimack",
+    "fips": "33013"
+  },
+  {
+    "zip": "03263",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 97.7
+      },
+      {
+        "fips": "33001",
+        "name": "Belknap",
+        "percentage": 2.3
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "name": "Merrimack"
+    },
+    "county": "Merrimack",
+    "fips": "33013"
+  },
+  {
+    "zip": "03234",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "name": "Merrimack"
+    },
+    "county": "Merrimack",
+    "fips": "33013"
+  },
+  {
+    "zip": "03278",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "name": "Merrimack"
+    },
+    "county": "Merrimack",
+    "fips": "33013"
+  },
+  {
+    "zip": "03273",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "name": "Merrimack"
+    },
+    "county": "Merrimack",
+    "fips": "33013"
+  },
+  {
+    "zip": "03036",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03053",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03868",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33017",
+        "name": "Strafford",
+        "percentage": 95.8
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "name": "Strafford"
+    },
+    "county": "Strafford",
+    "fips": "33017"
+  },
+  {
+    "zip": "03280",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33019",
+        "name": "Sullivan",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "name": "Sullivan"
+    },
+    "county": "Sullivan",
+    "fips": "33019"
+  },
+  {
+    "zip": "03220",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33001",
+        "name": "Belknap",
+        "percentage": 98.8
+      },
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 1.2
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "name": "Belknap"
+    },
+    "county": "Belknap",
+    "fips": "33001"
+  },
+  {
+    "zip": "03225",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33001",
+        "name": "Belknap",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "name": "Belknap"
+    },
+    "county": "Belknap",
+    "fips": "33001"
+  },
+  {
+    "zip": "03218",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33001",
+        "name": "Belknap",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "name": "Belknap"
+    },
+    "county": "Belknap",
+    "fips": "33001"
+  },
+  {
+    "zip": "03816",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 99.8
+      },
+      {
+        "fips": "33001",
+        "name": "Belknap",
+        "percentage": 0.2
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "name": "Carroll"
+    },
+    "county": "Carroll",
+    "fips": "33003"
+  },
+  {
+    "zip": "03850",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "name": "Carroll"
+    },
+    "county": "Carroll",
+    "fips": "33003"
+  },
+  {
+    "zip": "03817",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "name": "Carroll"
+    },
+    "county": "Carroll",
+    "fips": "33003"
+  },
+  {
+    "zip": "03883",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "name": "Carroll"
+    },
+    "county": "Carroll",
+    "fips": "33003"
+  },
+  {
+    "zip": "03838",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "name": "Carroll"
+    },
+    "county": "Carroll",
+    "fips": "33003"
+  },
+  {
+    "zip": "03450",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "name": "Cheshire",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "name": "Cheshire"
+    },
+    "county": "Cheshire",
+    "fips": "33005"
+  },
+  {
+    "zip": "03741",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03765",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 96.4
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03240",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03251",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03585",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03217",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03104",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 99.3
+      },
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 0.7
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03102",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03043",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03244",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 99.6
+      },
+      {
+        "fips": "33005",
+        "name": "Cheshire",
+        "percentage": 0.4
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03449",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03307",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 99.0
+      },
+      {
+        "fips": "33001",
+        "name": "Belknap",
+        "percentage": 1.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "name": "Merrimack"
+    },
+    "county": "Merrimack",
+    "fips": "33013"
+  },
+  {
+    "zip": "03216",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "name": "Merrimack"
+    },
+    "county": "Merrimack",
+    "fips": "33013"
+  },
+  {
+    "zip": "03230",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 99.8
+      },
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "name": "Merrimack"
+    },
+    "county": "Merrimack",
+    "fips": "33013"
+  },
+  {
+    "zip": "03032",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 99.5
+      },
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 0.5
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03253",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33001",
+        "name": "Belknap",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "name": "Belknap"
+    },
+    "county": "Belknap",
+    "fips": "33001"
+  },
+  {
+    "zip": "03269",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33001",
+        "name": "Belknap",
+        "percentage": 99.5
+      },
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 0.5
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "name": "Belknap"
+    },
+    "county": "Belknap",
+    "fips": "33001"
+  },
+  {
+    "zip": "03814",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "name": "Carroll"
+    },
+    "county": "Carroll",
+    "fips": "33003"
+  },
+  {
+    "zip": "03259",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "name": "Carroll"
+    },
+    "county": "Carroll",
+    "fips": "33003"
+  },
+  {
+    "zip": "03830",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "name": "Carroll"
+    },
+    "county": "Carroll",
+    "fips": "33003"
+  },
+  {
+    "zip": "03890",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "name": "Carroll"
+    },
+    "county": "Carroll",
+    "fips": "33003"
+  },
+  {
+    "zip": "03467",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "name": "Cheshire",
+        "percentage": 97.8
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "name": "Cheshire"
+    },
+    "county": "Cheshire",
+    "fips": "33005"
+  },
+  {
+    "zip": "03608",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "name": "Cheshire",
+        "percentage": 98.5
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "name": "Cheshire"
+    },
+    "county": "Cheshire",
+    "fips": "33005"
+  },
+  {
+    "zip": "03452",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "name": "Cheshire",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "name": "Cheshire"
+    },
+    "county": "Cheshire",
+    "fips": "33005"
+  },
+  {
+    "zip": "03456",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "name": "Cheshire",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "name": "Cheshire"
+    },
+    "county": "Cheshire",
+    "fips": "33005"
+  },
+  {
+    "zip": "03593",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33007",
+        "name": "Coos",
+        "percentage": 99.3
+      },
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 0.7
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "name": "Coos"
+    },
+    "county": "Coos",
+    "fips": "33007"
+  },
+  {
+    "zip": "03766",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 99.8
+      },
+      {
+        "fips": "33019",
+        "name": "Sullivan",
+        "percentage": 0.2
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03279",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03740",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03580",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03241",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03282",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03109",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03051",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03054",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03082",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03070",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03045",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03049",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03031",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03301",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "name": "Merrimack"
+    },
+    "county": "Merrimack",
+    "fips": "33013"
+  },
+  {
+    "zip": "03229",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "name": "Merrimack"
+    },
+    "county": "Merrimack",
+    "fips": "33013"
+  },
+  {
+    "zip": "03268",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "name": "Merrimack"
+    },
+    "county": "Merrimack",
+    "fips": "33013"
+  },
+  {
+    "zip": "03260",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "name": "Merrimack"
+    },
+    "county": "Merrimack",
+    "fips": "33013"
+  },
+  {
+    "zip": "03243",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 97.2
+      },
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 2.6
+      },
+      {
+        "fips": "33001",
+        "name": "Belknap",
+        "percentage": 0.2
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "name": "Merrimack"
+    },
+    "county": "Merrimack",
+    "fips": "33013"
+  },
+  {
+    "zip": "03042",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03034",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03826",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03819",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03044",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03844",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03839",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33017",
+        "name": "Strafford",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "name": "Strafford"
+    },
+    "county": "Strafford",
+    "fips": "33017"
+  },
+  {
+    "zip": "03782",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33019",
+        "name": "Sullivan",
+        "percentage": 99.8
+      },
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 0.2
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "name": "Sullivan"
+    },
+    "county": "Sullivan",
+    "fips": "33019"
+  },
+  {
+    "zip": "03603",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33019",
+        "name": "Sullivan",
+        "percentage": 99.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "name": "Sullivan"
+    },
+    "county": "Sullivan",
+    "fips": "33019"
+  },
+  {
+    "zip": "03773",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33019",
+        "name": "Sullivan",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "name": "Sullivan"
+    },
+    "county": "Sullivan",
+    "fips": "33019"
+  },
+  {
+    "zip": "03284",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33019",
+        "name": "Sullivan",
+        "percentage": 99.7
+      },
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 0.2
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "name": "Sullivan"
+    },
+    "county": "Sullivan",
+    "fips": "33019"
+  },
+  {
+    "zip": "03751",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33019",
+        "name": "Sullivan",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "name": "Sullivan"
+    },
+    "county": "Sullivan",
+    "fips": "33019"
+  },
+  {
+    "zip": "03745",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33019",
+        "name": "Sullivan",
+        "percentage": 98.7
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "name": "Sullivan"
+    },
+    "county": "Sullivan",
+    "fips": "33019"
+  },
+  {
+    "zip": "03810",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33001",
+        "name": "Belknap",
+        "percentage": 98.9
+      },
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 1.1
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "name": "Belknap"
+    },
+    "county": "Belknap",
+    "fips": "33001"
+  },
+  {
+    "zip": "03845",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "name": "Carroll"
+    },
+    "county": "Carroll",
+    "fips": "33003"
+  },
+  {
+    "zip": "03882",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "name": "Carroll"
+    },
+    "county": "Carroll",
+    "fips": "33003"
+  },
+  {
+    "zip": "03812",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 99.2
+      },
+      {
+        "fips": "33007",
+        "name": "Coos",
+        "percentage": 0.8
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "name": "Carroll"
+    },
+    "county": "Carroll",
+    "fips": "33003"
+  },
+  {
+    "zip": "03849",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "name": "Carroll",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "name": "Carroll"
+    },
+    "county": "Carroll",
+    "fips": "33003"
+  },
+  {
+    "zip": "03431",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "name": "Cheshire",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "name": "Cheshire"
+    },
+    "county": "Cheshire",
+    "fips": "33005"
+  },
+  {
+    "zip": "03446",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "name": "Cheshire",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "name": "Cheshire"
+    },
+    "county": "Cheshire",
+    "fips": "33005"
+  },
+  {
+    "zip": "03592",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "name": "Coos",
+        "percentage": 99.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "name": "Coos"
+    },
+    "county": "Coos",
+    "fips": "33007"
+  },
+  {
+    "zip": "03579",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "name": "Coos",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "name": "Coos"
+    },
+    "county": "Coos",
+    "fips": "33007"
+  },
+  {
+    "zip": "03784",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 95.9
+      },
+      {
+        "fips": "33019",
+        "name": "Sullivan",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03780",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03748",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 94.8
+      },
+      {
+        "fips": "33019",
+        "name": "Sullivan",
+        "percentage": 5.2
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03755",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 99.6
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03750",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03561",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 99.1
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03238",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "name": "Grafton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "name": "Grafton"
+    },
+    "county": "Grafton",
+    "fips": "33009"
+  },
+  {
+    "zip": "03055",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03057",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03281",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03033",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03110",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "name": "Hillsborough",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "name": "Hillsborough"
+    },
+    "county": "Hillsborough",
+    "fips": "33011"
+  },
+  {
+    "zip": "03255",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 99.8
+      },
+      {
+        "fips": "33019",
+        "name": "Sullivan",
+        "percentage": 0.2
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "name": "Merrimack"
+    },
+    "county": "Merrimack",
+    "fips": "33013"
+  },
+  {
+    "zip": "03841",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03261",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 99.9
+      },
+      {
+        "fips": "33013",
+        "name": "Merrimack",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03858",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 98.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "name": "Rockingham"
+    },
+    "county": "Rockingham",
+    "fips": "33015"
+  },
+  {
+    "zip": "03825",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33017",
+        "name": "Strafford",
+        "percentage": 99.9
+      },
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "name": "Strafford"
+    },
+    "county": "Strafford",
+    "fips": "33017"
+  },
+  {
+    "zip": "03823",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33017",
+        "name": "Strafford",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "name": "Strafford"
+    },
+    "county": "Strafford",
+    "fips": "33017"
+  },
+  {
+    "zip": "03824",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33017",
+        "name": "Strafford",
+        "percentage": 99.8
+      },
+      {
+        "fips": "33015",
+        "name": "Rockingham",
+        "percentage": 0.2
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "name": "Strafford"
+    },
+    "county": "Strafford",
+    "fips": "33017"
+  },
+  {
+    "zip": "03770",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33019",
+        "name": "Sullivan",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "name": "Sullivan"
+    },
+    "county": "Sullivan",
+    "fips": "33019"
+  },
+  {
+    "zip": "03746",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33019",
+        "name": "Sullivan",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "name": "Sullivan"
+    },
+    "county": "Sullivan",
+    "fips": "33019"
+  },
+  {
+    "zip": "03752",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33019",
+        "name": "Sullivan",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "name": "Sullivan"
+    },
+    "county": "Sullivan",
+    "fips": "33019"
+  }
+]

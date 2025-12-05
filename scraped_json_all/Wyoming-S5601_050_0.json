@@ -1,0 +1,30 @@
+{
+  "plan_info": {
+    "name": "MedicareBlue Rx Standard (PDP)",
+    "organization": "MedicareBlue Rx",
+    "type": "Drug plan (Part D)",
+    "id": "S5743-001-0"
+  },
+  "premiums": {
+    "Total monthly premium": "$101.00"
+  },
+  "deductibles": {
+    "Drug deductible": "$615.00"
+  },
+  "maximum_out_of_pocket": {},
+  "contact_info": {
+    "Plan address": "P.O. Box 31049\nTampa, FL 33631"
+  },
+  "benefits": {
+    "Pharmacies": {},
+    "Costs by drug tier - Preferred retail pharmacy drug cost for 1 month": {
+      "Preferred Generic": "$0.00 copay",
+      "Generic": "$1.00 copay",
+      "Preferred Brand": "22% coinsurance",
+      "Non-Preferred Drug": "42% coinsurance",
+      "Specialty Tier": "25% coinsurance"
+    }
+  },
+  "drug_coverage": {},
+  "extra_benefits": {}
+}

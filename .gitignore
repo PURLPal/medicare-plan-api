@@ -1,0 +1,39 @@
+# Large scraped HTML files (not needed - we have the JSON)
+scraped_html/
+scraped_html_all/
+scraped_html_selenium/
+
+# Original CSV data (too large for git)
+CY2026_Landscape_202511/
+MA_Plan_Directory_2025_11/
+*.csv
+*.xlsb
+*.xlsx
+
+# PDF files
+*.pdf
+
+# Zip archives
+*.zip
+
+# Log files
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Scraping results
+*_scrape_results.json
+scraping_progress.json
+
+# OS files
+.DS_Store
+
+# Temporary files
+lambda_package/
+lambda_package.zip
+
+# Keep the county cache files - they're needed for deployment
+!mock_api/*/counties/*.json
+!mock_api/*/zip_to_county_multi.json

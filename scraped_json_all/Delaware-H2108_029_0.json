@@ -1,0 +1,161 @@
+{
+  "plan_info": {
+    "name": "HealthSpring Achieve (HMO C-SNP)",
+    "organization": "HealthSpring",
+    "type": "Medicare Advantage with drug coverage",
+    "id": "H2108-029-0"
+  },
+  "premiums": {
+    "Total monthly premium": "$28.00",
+    "Health premium": "$28.00",
+    "Drug premium": "$0.00",
+    "Standard Part B premium": "$202.90",
+    "Part B premium reduction": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00",
+    "Drug deductible": "$275.00"
+  },
+  "maximum_out_of_pocket": {
+    "Maximum you pay for health servicesOnce you spend this amount for covered services in a year, your plan pays 100% for your care.": "$5,500 In-network"
+  },
+  "contact_info": {
+    "Plan address": "Attn: Member Services\nP.O. Box 2888\nHouston, TX 77252"
+  },
+  "benefits": {
+    "Doctor services": {
+      "Primary doctor visit": "In-network: $0 copay",
+      "Specialist visit": "In-network: $20 copay"
+    },
+    "Tests, labs, & imaging": {
+      "Diagnostic tests & proceduresTests done to confirm or uncover the presence of an illness or disease.": "In-network: $0-$50 copay",
+      "Lab services": "In-network: $0-$50 copay",
+      "Diagnostic radiology services (like MRI)": "In-network: $0-$200 copay",
+      "Outpatient x-rays": "In-network: $20 copay",
+      "Emergency care": "$130 copay",
+      "Urgent care": "$50 copay"
+    },
+    "Hospital services": {
+      "Inpatient hospital coverage": "Tier 1\n$350 per day for days 1-5\n$0 per day for days 6-90\n$0 per stay",
+      "Outpatient hospital coverage": "In-network: $0-$335 copay"
+    },
+    "Skilled nursing facility": {
+      "Skilled nursing facility": "Tier 1\n$10 per day for days 1-20\n$218 per day for days 21-100"
+    },
+    "Preventive services": {
+      "Preventive services": "In-network: $0 copay"
+    },
+    "Ambulance": {
+      "Ground ambulance": "In-network: $225 copay"
+    },
+    "Therapy services": {
+      "Occupational therapy visit": "In-network: $20 copay",
+      "Physical therapy & speech & language therapy visit": "In-network: $20 copay"
+    },
+    "Mental health services": {
+      "Outpatient group therapy with a psychiatrist": "In-network: $20 copay",
+      "Outpatient individual therapy with a psychiatrist": "In-network: $20 copay",
+      "Outpatient group therapy visit": "In-network: $20 copay",
+      "Outpatient individual therapy visit": "In-network: $20 copay"
+    },
+    "Opioid treatment program services": {
+      "Opioid treatment program services": "In-network: $20 copay"
+    },
+    "Other services": {
+      "Durable medical equipment (like wheelchairs & oxygen)": "In-network: 20% coinsurance",
+      "Prosthetics (like braces, artificial limbs)": "In-network: 20% coinsurance",
+      "Dialysis": "In-network: 20% coinsurance",
+      "Diabetes supplies": "In-network: $0 copay"
+    },
+    "Pharmacies": {},
+    "Costs by drug tier - Preferred retail pharmacy drug cost for 1 month": {
+      "Preferred Generic": "$0.00 copay",
+      "Generic": "$4.00 copay",
+      "Preferred Brand": "$47.00 copay",
+      "Non-Preferred Drug": "50% coinsurance",
+      "Specialty Tier": "29% coinsurance",
+      "Select Diabetic Drugs": "$9.00 copay"
+    },
+    "Part B drugs": {
+      "Part B insulin": "In-network: 0%-20% coinsurance",
+      "Chemotherapy drugs": "In-network: 0%-20% coinsurance",
+      "Other Part B drugs": "In-network: 0%-20% coinsurance"
+    },
+    "Hearing": {
+      "Hearing exam": "In-network: $0 copay",
+      "Fitting/evaluation": "In-network: $0 copay",
+      "Hearing aids - prescription": "In-network: $399-$1800 copay",
+      "Hearing aids - over the counter": "In-network: $399 copay"
+    },
+    "Preventive dental": {
+      "Oral exam": "In-network: $0 copay",
+      "Cleaning": "In-network: $0 copay",
+      "Fluoride treatment": "In-network: $0 copay",
+      "Dental x-rays": "In-network: $0 copay"
+    },
+    "Comprehensive dental": {
+      "Restorative services": "In-network: $0 copay",
+      "Endodontics": "In-network: $0 copay",
+      "Periodontics": "In-network: $0 copay",
+      "Prosthodontics, removable": "In-network: $0 copay",
+      "Prosthodontics, fixed": "In-network: $0 copay",
+      "Maxillofacial prosthetics": "In-network: $0 copay",
+      "Implant services": "In-network: $0 copay",
+      "Oral and maxillofacial surgery": "In-network: $0 copay",
+      "Orthodontics": "In-network: $0 copay",
+      "Adjunctive general services": "In-network: $0 copay"
+    },
+    "Vision": {
+      "Routine eye exam": "In-network: $0 copay",
+      "Contact lenses": "In-network: $0 copay",
+      "Eyeglasses (frames & lenses)": "In-network: $0 copay",
+      "Eyeglass frames only": "In-network: $0 copay",
+      "Eyeglass lenses only": "In-network: $0 copay",
+      "Upgrades": "In-network: $0 copay"
+    },
+    "Medically-approved non-opioid pain management services": {
+      "Chiropractic services": "Not covered",
+      "Acupuncture": "Not covered",
+      "Massage therapy": "Not covered",
+      "Alternative therapies": "Not covered"
+    },
+    "More benefits": {
+      "Health Education": "Not covered",
+      "Counseling Services": "Not covered",
+      "Support for Caregivers of Enrollees": "In-network: $0 copay",
+      "Personal Emergency Response System (PERS)": "Not covered",
+      "Fitness benefit": "In-network: $0 copay",
+      "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+      "Transportation services for non-emergency care: Plan-approved locations": "In-network: $0 copay",
+      "Over the counter drug benefits": "In-network: $0 copay",
+      "In-home support services": "Not covered",
+      "Home and bathroom safety devices": "Not covered",
+      "Meals for short duration": "In-network: $0 copay",
+      "Annual physical exams": "In-network: $0 copay",
+      "Telehealth": "In-network: $0-$20 copay",
+      "Worldwide emergency": "$130 copay",
+      "Post discharge in-home medication reconciliation": "Not covered",
+      "Re-admission prevention": "Not covered",
+      "Wigs for hair loss related to chemotherapy": "Not covered",
+      "Weight management programs": "Not covered",
+      "Adult day health services": "Not covered",
+      "Home-based palliative care": "Not covered"
+    },
+    "Special benefits": {
+      "Food & produce": "In-network: $0 copay",
+      "Meals": "Not covered",
+      "Pest control": "Not covered",
+      "Transportation for non-medical needs": "Not covered",
+      "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+      "Indoor air quality equipment and services": "Not covered",
+      "Social needs benefit": "Not covered",
+      "Complementary therapies": "Not covered",
+      "Services supporting self-direction": "Not covered",
+      "Structural home modifications": "Not covered",
+      "General supports for living": "Not covered",
+      "Reduced cost sharing for qualifying individuals": "Not covered"
+    }
+  },
+  "drug_coverage": {},
+  "extra_benefits": {}
+}

@@ -1,0 +1,820 @@
+{
+  "state": "Vermont",
+  "state_abbr": "VT",
+  "county": "Orange",
+  "plan_count": 13,
+  "all_counties_plan_count": 11,
+  "county_specific_plan_count": 2,
+  "scraped_details_available": 13,
+  "plans": [
+    {
+      "summary": {
+        "contract_plan_segment_id": "S2893_001_0",
+        "plan_name": "Blue MedicareRx Value Plus (PDP)",
+        "plan_type": "PDP",
+        "organization": "Blue MedicareRx",
+        "part_c_premium": "Not Applicable",
+        "part_d_total_premium": "$20.70 ",
+        "overall_star_rating": "Not Applicable",
+        "county": "All Counties",
+        "snp_type": "Not Applicable",
+        "parent_organization": "Elevance Health, Inc. & BCBSMA & BCBSRI & BCBSVT"
+      },
+      "details": {
+        "plan_info": {
+          "name": "Blue MedicareRx Value Plus (PDP)",
+          "organization": "Blue MedicareRx",
+          "type": "Drug plan (Part D)",
+          "id": "S2893-001-0"
+        },
+        "premiums": {
+          "Total monthly premium": "$20.70"
+        },
+        "deductibles": {
+          "Drug deductible": "$615.00"
+        },
+        "maximum_out_of_pocket": {},
+        "contact_info": {
+          "Plan address": "P.O. Box 30001\nPittsburgh, PA 15222"
+        },
+        "benefits": {
+          "Pharmacies": {},
+          "Costs by drug tier - Preferred retail pharmacy drug cost for 1 month": {
+            "Preferred Generic": "$0.00 copay",
+            "Generic": "$3.00 copay",
+            "Preferred Brand": "17% coinsurance",
+            "Non-Preferred Drug": "32% coinsurance",
+            "Specialty Tier": "25% coinsurance"
+          }
+        },
+        "drug_coverage": {},
+        "extra_benefits": {}
+      },
+      "has_scraped_details": true
+    },
+    {
+      "summary": {
+        "contract_plan_segment_id": "S2893_003_0",
+        "plan_name": "Blue MedicareRx Premier (PDP)",
+        "plan_type": "PDP",
+        "organization": "Blue MedicareRx",
+        "part_c_premium": "Not Applicable",
+        "part_d_total_premium": "$238.60 ",
+        "overall_star_rating": "Not Applicable",
+        "county": "All Counties",
+        "snp_type": "Not Applicable",
+        "parent_organization": "Elevance Health, Inc. & BCBSMA & BCBSRI & BCBSVT"
+      },
+      "details": {
+        "plan_info": {
+          "name": "Blue MedicareRx Premier (PDP)",
+          "organization": "Blue MedicareRx",
+          "type": "Drug plan (Part D)",
+          "id": "S2893-003-0"
+        },
+        "premiums": {
+          "Total monthly premium": "$238.60"
+        },
+        "deductibles": {
+          "Drug deductible": "$0.00"
+        },
+        "maximum_out_of_pocket": {},
+        "contact_info": {
+          "Plan address": "P.O. Box 30001\nPittsburgh, PA 15222"
+        },
+        "benefits": {
+          "Pharmacies": {},
+          "Costs by drug tier - Preferred retail pharmacy drug cost for 1 month": {
+            "Preferred Generic": "$1.00 copay",
+            "Generic": "$7.00 copay",
+            "Preferred Brand": "$30.00 copay",
+            "Non-Preferred Drug": "35% coinsurance",
+            "Specialty Tier": "33% coinsurance"
+          }
+        },
+        "drug_coverage": {},
+        "extra_benefits": {}
+      },
+      "has_scraped_details": true
+    },
+    {
+      "summary": {
+        "contract_plan_segment_id": "S4802_076_0",
+        "plan_name": "Wellcare Classic (PDP)",
+        "plan_type": "PDP",
+        "organization": "Wellcare",
+        "part_c_premium": "Not Applicable",
+        "part_d_total_premium": "$21.70 ",
+        "overall_star_rating": "Not Applicable",
+        "county": "All Counties",
+        "snp_type": "Not Applicable",
+        "parent_organization": "Centene Corporation"
+      },
+      "details": {
+        "plan_info": {
+          "name": "Wellcare Classic (PDP)",
+          "organization": "Wellcare",
+          "type": "Drug plan (Part D)",
+          "id": "S4802-076-0"
+        },
+        "premiums": {
+          "Total monthly premium": "$21.70"
+        },
+        "deductibles": {
+          "Drug deductible": "$615.00"
+        },
+        "maximum_out_of_pocket": {},
+        "contact_info": {
+          "Plan address": "PO Box 31411\nTampa, FL 33631"
+        },
+        "benefits": {
+          "Pharmacies": {},
+          "Costs by drug tier - Preferred retail pharmacy drug cost for 1 month": {
+            "Preferred Generic": "$0.00 copay",
+            "Generic": "$10.00 copay",
+            "Preferred Brand": "25% coinsurance",
+            "Non-Preferred Drug": "29% coinsurance",
+            "Specialty Tier": "25% coinsurance"
+          }
+        },
+        "drug_coverage": {},
+        "extra_benefits": {}
+      },
+      "has_scraped_details": true
+    },
+    {
+      "summary": {
+        "contract_plan_segment_id": "S4802_137_0",
+        "plan_name": "Wellcare Value Script (PDP)",
+        "plan_type": "PDP",
+        "organization": "Wellcare",
+        "part_c_premium": "Not Applicable",
+        "part_d_total_premium": "$16.40 ",
+        "overall_star_rating": "Not Applicable",
+        "county": "All Counties",
+        "snp_type": "Not Applicable",
+        "parent_organization": "Centene Corporation"
+      },
+      "details": {
+        "plan_info": {
+          "name": "Wellcare Value Script (PDP)",
+          "organization": "Wellcare",
+          "type": "Drug plan (Part D)",
+          "id": "S4802-137-0"
+        },
+        "premiums": {
+          "Total monthly premium": "$16.40"
+        },
+        "deductibles": {
+          "Drug deductible": "$615.00"
+        },
+        "maximum_out_of_pocket": {},
+        "contact_info": {
+          "Plan address": "PO Box 31411\nTampa, FL 33631"
+        },
+        "benefits": {
+          "Pharmacies": {},
+          "Costs by drug tier - Preferred retail pharmacy drug cost for 1 month": {
+            "Preferred Generic": "$0.00 copay",
+            "Generic": "$3.00 copay",
+            "Preferred Brand": "25% coinsurance",
+            "Non-Preferred Drug": "40% coinsurance",
+            "Specialty Tier": "25% coinsurance",
+            "Select Care Drugs": "$11.00 copay"
+          }
+        },
+        "drug_coverage": {},
+        "extra_benefits": {}
+      },
+      "has_scraped_details": true
+    },
+    {
+      "summary": {
+        "contract_plan_segment_id": "S5601_004_0",
+        "plan_name": "SilverScript Choice (PDP)",
+        "plan_type": "PDP",
+        "organization": "Aetna Medicare",
+        "part_c_premium": "Not Applicable",
+        "part_d_total_premium": "$32.70 ",
+        "overall_star_rating": "Not Applicable",
+        "county": "All Counties",
+        "snp_type": "Not Applicable",
+        "parent_organization": "CVS Health Corporation"
+      },
+      "details": {
+        "plan_info": {
+          "name": "SilverScript Choice (PDP)",
+          "organization": "Aetna Medicare",
+          "type": "Drug plan (Part D)",
+          "id": "S5601-004-0"
+        },
+        "premiums": {
+          "Total monthly premium": "$32.70"
+        },
+        "deductibles": {
+          "Drug deductible": "$615.00"
+        },
+        "maximum_out_of_pocket": {},
+        "contact_info": {
+          "Plan address": "P.O. Box 30016\nPittsburgh, PA 15222"
+        },
+        "benefits": {
+          "Pharmacies": {},
+          "Costs by drug tier - Standard retail pharmacy drug cost for 1 month": {
+            "Preferred Generic": "$2.00 copay",
+            "Generic": "$10.00 copay",
+            "Preferred Brand": "19% coinsurance",
+            "Non-Preferred Drug": "35% coinsurance",
+            "Specialty Tier": "25% coinsurance"
+          }
+        },
+        "drug_coverage": {},
+        "extra_benefits": {}
+      },
+      "has_scraped_details": true
+    },
+    {
+      "summary": {
+        "contract_plan_segment_id": "S5617_008_0",
+        "plan_name": "HealthSpring Assurance Rx (PDP)",
+        "plan_type": "PDP",
+        "organization": "HealthSpring",
+        "part_c_premium": "Not Applicable",
+        "part_d_total_premium": "$139.30 ",
+        "overall_star_rating": "Not Applicable",
+        "county": "All Counties",
+        "snp_type": "Not Applicable",
+        "parent_organization": "Health Care Service Corporation"
+      },
+      "details": {
+        "plan_info": {
+          "name": "Humana Premier Rx Plan (PDP)",
+          "organization": "Humana",
+          "type": "Drug plan (Part D)",
+          "id": "S5884-149-0"
+        },
+        "premiums": {
+          "Total monthly premium": "$138.60"
+        },
+        "deductibles": {
+          "Drug deductible": "$0.00"
+        },
+        "maximum_out_of_pocket": {},
+        "contact_info": {
+          "Plan address": "101 E Main Street\nLouisville, KY 40202"
+        },
+        "benefits": {
+          "Pharmacies": {},
+          "Costs by drug tier - Preferred retail pharmacy drug cost for 1 month": {
+            "Preferred Generic": "$0.00 copay",
+            "Generic": "$4.00 copay",
+            "Preferred Brand": "$45.00 copay",
+            "Non-Preferred Drug": "50% coinsurance",
+            "Specialty Tier": "33% coinsurance"
+          }
+        },
+        "drug_coverage": {},
+        "extra_benefits": {}
+      },
+      "has_scraped_details": true
+    },
+    {
+      "summary": {
+        "contract_plan_segment_id": "S5884_102_0",
+        "plan_name": "Humana Basic Rx Plan (PDP)",
+        "plan_type": "PDP",
+        "organization": "Humana",
+        "part_c_premium": "Not Applicable",
+        "part_d_total_premium": "$8.40 ",
+        "overall_star_rating": "Not Applicable",
+        "county": "All Counties",
+        "snp_type": "Not Applicable",
+        "parent_organization": "Humana Inc."
+      },
+      "details": {
+        "plan_info": {
+          "name": "Humana Basic Rx Plan (PDP)",
+          "organization": "Humana",
+          "type": "Drug plan (Part D)",
+          "id": "S5884-102-0"
+        },
+        "premiums": {
+          "Total monthly premium": "$8.40"
+        },
+        "deductibles": {
+          "Drug deductible": "$615.00"
+        },
+        "maximum_out_of_pocket": {},
+        "contact_info": {
+          "Plan address": "101 E Main Street\nLouisville, KY 40202"
+        },
+        "benefits": {
+          "Pharmacies": {},
+          "Costs by drug tier - Standard retail pharmacy drug cost for 1 month": {
+            "Preferred Generic": "$0.00 copay",
+            "Generic": "$1.00 copay",
+            "Preferred Brand": "25% coinsurance",
+            "Non-Preferred Drug": "32% coinsurance",
+            "Specialty Tier": "25% coinsurance"
+          }
+        },
+        "drug_coverage": {},
+        "extra_benefits": {}
+      },
+      "has_scraped_details": true
+    },
+    {
+      "summary": {
+        "contract_plan_segment_id": "S5884_149_0",
+        "plan_name": "Humana Premier Rx Plan (PDP)",
+        "plan_type": "PDP",
+        "organization": "Humana",
+        "part_c_premium": "Not Applicable",
+        "part_d_total_premium": "$138.60 ",
+        "overall_star_rating": "Not Applicable",
+        "county": "All Counties",
+        "snp_type": "Not Applicable",
+        "parent_organization": "Humana Inc."
+      },
+      "details": {
+        "plan_info": {
+          "name": "Humana Premier Rx Plan (PDP)",
+          "organization": "Humana",
+          "type": "Drug plan (Part D)",
+          "id": "S5884-149-0"
+        },
+        "premiums": {
+          "Total monthly premium": "$138.60"
+        },
+        "deductibles": {
+          "Drug deductible": "$0.00"
+        },
+        "maximum_out_of_pocket": {},
+        "contact_info": {
+          "Plan address": "101 E Main Street\nLouisville, KY 40202"
+        },
+        "benefits": {
+          "Pharmacies": {},
+          "Costs by drug tier - Preferred retail pharmacy drug cost for 1 month": {
+            "Preferred Generic": "$0.00 copay",
+            "Generic": "$4.00 copay",
+            "Preferred Brand": "$45.00 copay",
+            "Non-Preferred Drug": "50% coinsurance",
+            "Specialty Tier": "33% coinsurance"
+          }
+        },
+        "drug_coverage": {},
+        "extra_benefits": {}
+      },
+      "has_scraped_details": true
+    },
+    {
+      "summary": {
+        "contract_plan_segment_id": "S5884_182_0",
+        "plan_name": "Humana Value Rx Plan (PDP)",
+        "plan_type": "PDP",
+        "organization": "Humana",
+        "part_c_premium": "Not Applicable",
+        "part_d_total_premium": "$73.60 ",
+        "overall_star_rating": "Not Applicable",
+        "county": "All Counties",
+        "snp_type": "Not Applicable",
+        "parent_organization": "Humana Inc."
+      },
+      "details": {
+        "plan_info": {
+          "name": "AARP Medicare Rx Preferred from UHC (PDP)",
+          "organization": "UnitedHealthcare",
+          "type": "Drug plan (Part D)",
+          "id": "S5921-385-0"
+        },
+        "premiums": {
+          "Total monthly premium": "$155.10"
+        },
+        "deductibles": {
+          "Drug deductible": "$130.00"
+        },
+        "maximum_out_of_pocket": {},
+        "contact_info": {
+          "Plan address": "P.O. Box 30770\nSalt Lake City, UT 84130"
+        },
+        "benefits": {
+          "Pharmacies": {},
+          "Costs by drug tier - Preferred retail pharmacy drug cost for 1 month": {
+            "Preferred Generic": "$5.00 copay",
+            "Generic": "$10.00 copay",
+            "Preferred Brand": "15% coinsurance",
+            "Non-Preferred Drug": "30% coinsurance",
+            "Specialty Tier": "31% coinsurance"
+          }
+        },
+        "drug_coverage": {},
+        "extra_benefits": {}
+      },
+      "has_scraped_details": true
+    },
+    {
+      "summary": {
+        "contract_plan_segment_id": "S5921_348_0",
+        "plan_name": "AARP Medicare Rx Saver from UHC (PDP)",
+        "plan_type": "PDP",
+        "organization": "UnitedHealthcare",
+        "part_c_premium": "Not Applicable",
+        "part_d_total_premium": "$38.70 ",
+        "overall_star_rating": "Not Applicable",
+        "county": "All Counties",
+        "snp_type": "Not Applicable",
+        "parent_organization": "UnitedHealth Group, Inc."
+      },
+      "details": {
+        "plan_info": {
+          "name": "AARP Medicare Rx Saver from UHC (PDP)",
+          "organization": "UnitedHealthcare",
+          "type": "Drug plan (Part D)",
+          "id": "S5921-348-0"
+        },
+        "premiums": {
+          "Total monthly premium": "$38.70"
+        },
+        "deductibles": {
+          "Drug deductible": "$615.00"
+        },
+        "maximum_out_of_pocket": {},
+        "contact_info": {
+          "Plan address": "P.O. Box 30770\nSalt Lake City, UT 84130"
+        },
+        "benefits": {
+          "Pharmacies": {},
+          "Costs by drug tier - Preferred retail pharmacy drug cost for 1 month": {
+            "Preferred Generic": "$2.00 copay",
+            "Generic": "$8.00 copay",
+            "Preferred Brand": "17% coinsurance",
+            "Non-Preferred Drug": "35% coinsurance",
+            "Specialty Tier": "25% coinsurance"
+          }
+        },
+        "drug_coverage": {},
+        "extra_benefits": {}
+      },
+      "has_scraped_details": true
+    },
+    {
+      "summary": {
+        "contract_plan_segment_id": "S5921_385_0",
+        "plan_name": "AARP Medicare Rx Preferred from UHC (PDP)",
+        "plan_type": "PDP",
+        "organization": "UnitedHealthcare",
+        "part_c_premium": "Not Applicable",
+        "part_d_total_premium": "$155.10 ",
+        "overall_star_rating": "Not Applicable",
+        "county": "All Counties",
+        "snp_type": "Not Applicable",
+        "parent_organization": "UnitedHealth Group, Inc."
+      },
+      "details": {
+        "plan_info": {
+          "name": "AARP Medicare Rx Preferred from UHC (PDP)",
+          "organization": "UnitedHealthcare",
+          "type": "Drug plan (Part D)",
+          "id": "S5921-385-0"
+        },
+        "premiums": {
+          "Total monthly premium": "$155.10"
+        },
+        "deductibles": {
+          "Drug deductible": "$130.00"
+        },
+        "maximum_out_of_pocket": {},
+        "contact_info": {
+          "Plan address": "P.O. Box 30770\nSalt Lake City, UT 84130"
+        },
+        "benefits": {
+          "Pharmacies": {},
+          "Costs by drug tier - Preferred retail pharmacy drug cost for 1 month": {
+            "Preferred Generic": "$5.00 copay",
+            "Generic": "$10.00 copay",
+            "Preferred Brand": "15% coinsurance",
+            "Non-Preferred Drug": "30% coinsurance",
+            "Specialty Tier": "31% coinsurance"
+          }
+        },
+        "drug_coverage": {},
+        "extra_benefits": {}
+      },
+      "has_scraped_details": true
+    },
+    {
+      "summary": {
+        "contract_plan_segment_id": "H5216_059_0",
+        "plan_name": "Humana USAA Honor Giveback (PPO)",
+        "plan_type": "PPO",
+        "organization": "Humana",
+        "part_c_premium": "$0.00 ",
+        "part_d_total_premium": "Not Applicable",
+        "overall_star_rating": "3.5",
+        "county": "Orange",
+        "snp_type": "Not Applicable",
+        "parent_organization": "Humana Inc."
+      },
+      "details": {
+        "plan_info": {
+          "name": "Humana USAA Honor Giveback (PPO)",
+          "organization": "Humana",
+          "type": "Medicare Advantage (without drug coverage)",
+          "id": "H5216-059-0"
+        },
+        "premiums": {
+          "Total monthly premium": "$0.00",
+          "Health premium": "$0.00",
+          "Standard Part B premium": "$202.90",
+          "Part B premium reduction": "\u2212$100.00 reduction"
+        },
+        "deductibles": {
+          "Health deductible": "$0.00"
+        },
+        "maximum_out_of_pocket": {
+          "Maximum you pay for health servicesOnce you spend this amount for covered services in a year, your plan pays 100% for your care.": "$8,950 In and Out-of-network\n$4,950 In-network"
+        },
+        "contact_info": {
+          "Plan address": "101 E Main Street\nLouisville, KY 40202"
+        },
+        "benefits": {
+          "Doctor services": {
+            "Primary doctor visit": "In-network: $0 copay\nOut-of-network: $20 copay",
+            "Specialist visit": "In-network: $40 copay\nOut-of-network: $65 copay"
+          },
+          "Tests, labs, & imaging": {
+            "Diagnostic tests & proceduresTests done to confirm or uncover the presence of an illness or disease.": "In-network: $0-$90 copay\nOut-of-network: $20-$65 copay, 30% coinsurance",
+            "Lab services": "In-network: $0-$50 copay\nOut-of-network: $20-$65 copay, 30% coinsurance",
+            "Diagnostic radiology services (like MRI)": "In-network: $0-$780 copay\nOut-of-network: $0 copay, 30% coinsurance",
+            "Outpatient x-rays": "In-network: $0-$90 copay\nOut-of-network: $20-$65 copay, 30% coinsurance",
+            "Emergency care": "$130 copay",
+            "Urgent care": "$50 copay"
+          },
+          "Hospital services": {
+            "Inpatient hospital coverage": "In-network:\nTier 1\n$460 per day for days 1-5\n$0 per day for days 6-90\n$0 per stay\nOut-of-network:\n20% per stay",
+            "Outpatient hospital coverage": "In-network: $0-$525 copay\nOut-of-network: $0-$65 copay, 30% coinsurance"
+          },
+          "Skilled nursing facility": {
+            "Skilled nursing facility": "In-network:\nTier 1\n$10 per day for days 1-20\n$218 per day for days 21-100\nOut-of-network:\n30% per stay"
+          },
+          "Preventive services": {
+            "Preventive services": "In-network: $0 copay\nOut-of-network: $0 copay"
+          },
+          "Ambulance": {
+            "Ground ambulance": "In-network: $335 copay\nOut-of-network: $335 copay"
+          },
+          "Therapy services": {
+            "Occupational therapy visit": "In-network: $40 copay\nOut-of-network: 30% coinsurance",
+            "Physical therapy & speech & language therapy visit": "In-network: $40 copay\nOut-of-network: 30% coinsurance"
+          },
+          "Mental health services": {
+            "Outpatient group therapy with a psychiatrist": "In-network: $0 copay\nOut-of-network: 30% coinsurance",
+            "Outpatient individual therapy with a psychiatrist": "In-network: $0 copay\nOut-of-network: 30% coinsurance",
+            "Outpatient group therapy visit": "In-network: $0 copay\nOut-of-network: 30% coinsurance",
+            "Outpatient individual therapy visit": "In-network: $0 copay\nOut-of-network: 30% coinsurance"
+          },
+          "Opioid treatment program services": {
+            "Opioid treatment program services": "In-network: $0 copay\nOut-of-network: $65 copay, 30% coinsurance"
+          },
+          "Other services": {
+            "Durable medical equipment (like wheelchairs & oxygen)": "In-network: $0 copay, 20% coinsurance\nOut-of-network: 20% coinsurance",
+            "Prosthetics (like braces, artificial limbs)": "In-network: 20% coinsurance\nOut-of-network: 30% coinsurance",
+            "Dialysis": "In-network: 20% coinsurance\nOut-of-network: 20% coinsurance",
+            "Diabetes supplies": "In-network: $0 copay, 10%-20% coinsurance\nOut-of-network: 30% coinsurance"
+          },
+          "Part B drugs": {
+            "Part B insulin": "In-network: 0%-20% coinsurance\nOut-of-network: 30% coinsurance",
+            "Chemotherapy drugs": "In-network: 0%-20% coinsurance\nOut-of-network: 30% coinsurance",
+            "Other Part B drugs": "In-network: 0%-20% coinsurance\nOut-of-network: 30% coinsurance"
+          },
+          "Hearing": {
+            "Hearing exam": "In-network: $0 copay\nOut-of-network: $0 copay",
+            "Fitting/evaluation": "In-network: $0 copay\nOut-of-network: $0 copay",
+            "Hearing aids - prescription": "In-network: $199-$499 copay\nOut-of-network: $199-$499 copay",
+            "Hearing aids - over the counter": "In-network: $0 copay\nOut-of-network: $0 copay"
+          },
+          "Preventive dental": {
+            "Oral exam": "In-network: $0 copay\nOut-of-network: $0 copay",
+            "Cleaning": "In-network: $0 copay\nOut-of-network: $0 copay",
+            "Fluoride treatment": "Not covered",
+            "Dental x-rays": "In-network: $0 copay\nOut-of-network: $0 copay"
+          },
+          "Comprehensive dental": {
+            "Restorative services": "In-network: $0 copay, 30%-40% coinsurance\nOut-of-network: $0 copay, 30%-40% coinsurance",
+            "Endodontics": "In-network: $0 copay\nOut-of-network: $0 copay",
+            "Periodontics": "In-network: $0 copay\nOut-of-network: $0 copay",
+            "Prosthodontics, removable": "Not covered",
+            "Prosthodontics, fixed": "In-network: $0 copay, 30%-40% coinsurance\nOut-of-network: $0 copay, 30%-40% coinsurance",
+            "Maxillofacial prosthetics": "Not covered",
+            "Implant services": "Not covered",
+            "Oral and maxillofacial surgery": "In-network: $0 copay\nOut-of-network: $0 copay",
+            "Orthodontics": "Not covered",
+            "Adjunctive general services": "In-network: $0 copay\nOut-of-network: $0 copay"
+          },
+          "Vision": {
+            "Routine eye exam": "In-network: $0 copay\nOut-of-network: $0 copay",
+            "Contact lenses": "In-network: $0 copay\nOut-of-network: $0 copay",
+            "Eyeglasses (frames & lenses)": "In-network: $0 copay\nOut-of-network: $0 copay",
+            "Eyeglass frames only": "Not covered",
+            "Eyeglass lenses only": "Not covered",
+            "Upgrades": "Not covered"
+          },
+          "Medically-approved non-opioid pain management services": {
+            "Chiropractic services": "Not covered",
+            "Acupuncture": "In-network: $40 copay\nOut-of-network: $40 copay",
+            "Massage therapy": "Not covered",
+            "Alternative therapies": "Not covered"
+          },
+          "More benefits": {
+            "Health Education": "Not covered",
+            "Counseling Services": "Not covered",
+            "Support for Caregivers of Enrollees": "Not covered",
+            "Personal Emergency Response System (PERS)": "Not covered",
+            "Fitness benefit": "In-network: $0 copay\nOut-of-network: $0 copay",
+            "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+            "Transportation services for non-emergency care: Plan-approved locations": "In-network: $0 copay\nOut-of-network: $0 copay",
+            "Over the counter drug benefits": "In-network: $0 copay\nOut-of-network: $0 copay",
+            "In-home support services": "Not covered",
+            "Home and bathroom safety devices": "Not covered",
+            "Meals for short duration": "In-network: $0 copay\nOut-of-network: $0 copay",
+            "Annual physical exams": "In-network: $0 copay",
+            "Telehealth": "In-network: $0-$50 copay",
+            "Worldwide emergency": "$130 copay",
+            "Post discharge in-home medication reconciliation": "Not covered",
+            "Re-admission prevention": "Not covered",
+            "Wigs for hair loss related to chemotherapy": "Not covered",
+            "Weight management programs": "Not covered",
+            "Adult day health services": "Not covered",
+            "Home-based palliative care": "Not covered"
+          }
+        },
+        "drug_coverage": {},
+        "extra_benefits": {}
+      },
+      "has_scraped_details": true
+    },
+    {
+      "summary": {
+        "contract_plan_segment_id": "H5216_138_0",
+        "plan_name": "HumanaChoice Giveback H5216-138 (PPO)",
+        "plan_type": "PPO",
+        "organization": "Humana",
+        "part_c_premium": "$0.00 ",
+        "part_d_total_premium": "$0.00 ",
+        "overall_star_rating": "3.5",
+        "county": "Orange",
+        "snp_type": "Not Applicable",
+        "parent_organization": "Humana Inc."
+      },
+      "details": {
+        "plan_info": {
+          "name": "HumanaChoice Giveback H5216-138 (PPO)",
+          "organization": "Humana",
+          "type": "Medicare Advantage with drug coverage",
+          "id": "H5216-138-0"
+        },
+        "premiums": {
+          "Total monthly premium": "$0.00",
+          "Health premium": "$0.00",
+          "Drug premium": "$0.00",
+          "Standard Part B premium": "$202.90",
+          "Part B premium reduction": "\u2212$61.00 reduction"
+        },
+        "deductibles": {
+          "Health deductible": "$675\nAnnual deductible",
+          "Drug deductible": "$395.00"
+        },
+        "maximum_out_of_pocket": {
+          "Maximum you pay for health servicesOnce you spend this amount for covered services in a year, your plan pays 100% for your care.": "$7,750 In and Out-of-network\n$6,500 In-network"
+        },
+        "contact_info": {
+          "Plan address": "101 E Main Street\nLouisville, KY 40202"
+        },
+        "benefits": {
+          "Doctor services": {
+            "Primary doctor visit": "In-network: $0 copay\nOut-of-network: $45 copay",
+            "Specialist visit": "In-network: $45 copay\nOut-of-network: $65 copay"
+          },
+          "Tests, labs, & imaging": {
+            "Diagnostic tests & proceduresTests done to confirm or uncover the presence of an illness or disease.": "In-network: $0-$100 copay\nOut-of-network: $45-$65 copay, 40% coinsurance",
+            "Lab services": "In-network: $0-$50 copay\nOut-of-network: $45-$65 copay, 40% coinsurance",
+            "Diagnostic radiology services (like MRI)": "In-network: $0-$780 copay\nOut-of-network: $0-$335 copay, 40% coinsurance",
+            "Outpatient x-rays": "In-network: $0-$130 copay\nOut-of-network: $45-$65 copay, 40% coinsurance",
+            "Emergency care": "$130 copay",
+            "Urgent care": "$50 copay"
+          },
+          "Hospital services": {
+            "Inpatient hospital coverage": "In-network:\nTier 1\n$445 per day for days 1-6\n$0 per day for days 7-90\n$0 per stay\nOut-of-network:\n$445 per day for days 1-7\n$0 per day for days 8-90\n$0 per stay",
+            "Outpatient hospital coverage": "In-network: $0-$575 copay\nOut-of-network: $0-$100 copay, 40% coinsurance"
+          },
+          "Skilled nursing facility": {
+            "Skilled nursing facility": "In-network:\nTier 1\n$10 per day for days 1-20\n$218 per day for days 21-100\nOut-of-network:\n40% per stay"
+          },
+          "Preventive services": {
+            "Preventive services": "In-network: $0 copay\nOut-of-network: $0 copay"
+          },
+          "Ambulance": {
+            "Ground ambulance": "In-network: $335 copay\nOut-of-network: $335 copay"
+          },
+          "Therapy services": {
+            "Occupational therapy visit": "In-network: $40 copay\nOut-of-network: 40% coinsurance",
+            "Physical therapy & speech & language therapy visit": "In-network: $40 copay\nOut-of-network: 40% coinsurance"
+          },
+          "Mental health services": {
+            "Outpatient group therapy with a psychiatrist": "In-network: $35 copay\nOut-of-network: $50 copay",
+            "Outpatient individual therapy with a psychiatrist": "In-network: $35 copay\nOut-of-network: $50 copay",
+            "Outpatient group therapy visit": "In-network: $35 copay\nOut-of-network: $50 copay",
+            "Outpatient individual therapy visit": "In-network: $35 copay\nOut-of-network: $50 copay"
+          },
+          "Opioid treatment program services": {
+            "Opioid treatment program services": "In-network: $35 copay\nOut-of-network: $50-$100 copay"
+          },
+          "Other services": {
+            "Durable medical equipment (like wheelchairs & oxygen)": "In-network: $0 copay, 20% coinsurance\nOut-of-network: 20% coinsurance",
+            "Prosthetics (like braces, artificial limbs)": "In-network: 20% coinsurance\nOut-of-network: 20% coinsurance",
+            "Dialysis": "In-network: 20% coinsurance\nOut-of-network: 20% coinsurance",
+            "Diabetes supplies": "In-network: $0 copay, 10%-20% coinsurance\nOut-of-network: 40% coinsurance"
+          },
+          "Pharmacies": {},
+          "Costs by drug tier - Standard retail pharmacy drug cost for 1 month": {
+            "Preferred Generic": "$0.00 copay",
+            "Generic": "$5.00 copay",
+            "Preferred Brand": "$47.00 copay",
+            "Non-Preferred Drug": "44% coinsurance",
+            "Specialty Tier": "28% coinsurance"
+          },
+          "Part B drugs": {
+            "Part B insulin": "In-network: 0%-20% coinsurance\nOut-of-network: 20% coinsurance",
+            "Chemotherapy drugs": "In-network: 0%-20% coinsurance\nOut-of-network: 20% coinsurance",
+            "Other Part B drugs": "In-network: 0%-20% coinsurance\nOut-of-network: 20% coinsurance"
+          },
+          "Hearing": {
+            "Hearing exam": "In-network: $0 copay\nOut-of-network: $0 copay",
+            "Fitting/evaluation": "In-network: $0 copay\nOut-of-network: $0 copay",
+            "Hearing aids - prescription": "In-network: $699-$999 copay\nOut-of-network: $699-$999 copay",
+            "Hearing aids - over the counter": "Not covered"
+          },
+          "Preventive dental": {
+            "Oral exam": "In-network: $0 copay\nOut-of-network: $0 copay",
+            "Cleaning": "In-network: $0 copay\nOut-of-network: $0 copay",
+            "Fluoride treatment": "Not covered",
+            "Dental x-rays": "In-network: $0 copay\nOut-of-network: $0 copay"
+          },
+          "Comprehensive dental": {
+            "Restorative services": "Not covered",
+            "Endodontics": "Not covered",
+            "Periodontics": "Not covered",
+            "Prosthodontics, removable": "Not covered",
+            "Prosthodontics, fixed": "Not covered",
+            "Maxillofacial prosthetics": "Not covered",
+            "Implant services": "Not covered",
+            "Oral and maxillofacial surgery": "Not covered",
+            "Orthodontics": "Not covered",
+            "Adjunctive general services": "In-network: $0 copay\nOut-of-network: $0 copay"
+          },
+          "Vision": {
+            "Routine eye exam": "In-network: $0 copay\nOut-of-network: $0 copay",
+            "Contact lenses": "In-network: $0 copay\nOut-of-network: $0 copay",
+            "Eyeglasses (frames & lenses)": "In-network: $0 copay\nOut-of-network: $0 copay",
+            "Eyeglass frames only": "Not covered",
+            "Eyeglass lenses only": "Not covered",
+            "Upgrades": "Not covered"
+          },
+          "Medically-approved non-opioid pain management services": {
+            "Chiropractic services": "Not covered",
+            "Acupuncture": "In-network: $45 copay\nOut-of-network: $45 copay",
+            "Massage therapy": "Not covered",
+            "Alternative therapies": "Not covered"
+          },
+          "More benefits": {
+            "Health Education": "Not covered",
+            "Counseling Services": "Not covered",
+            "Support for Caregivers of Enrollees": "Not covered",
+            "Personal Emergency Response System (PERS)": "Not covered",
+            "Fitness benefit": "In-network: $0 copay\nOut-of-network: $0 copay",
+            "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+            "Transportation services for non-emergency care: Plan-approved locations": "In-network: $0 copay\nOut-of-network: $0 copay",
+            "Over the counter drug benefits": "Not covered",
+            "In-home support services": "Not covered",
+            "Home and bathroom safety devices": "Not covered",
+            "Meals for short duration": "In-network: $0 copay\nOut-of-network: $0 copay",
+            "Annual physical exams": "In-network: $0 copay",
+            "Telehealth": "In-network: $0-$50 copay",
+            "Worldwide emergency": "$130 copay",
+            "Post discharge in-home medication reconciliation": "Not covered",
+            "Re-admission prevention": "Not covered",
+            "Wigs for hair loss related to chemotherapy": "Not covered",
+            "Weight management programs": "Not covered",
+            "Adult day health services": "Not covered",
+            "Home-based palliative care": "Not covered"
+          },
+          "Optional Packages": {}
+        },
+        "drug_coverage": {},
+        "extra_benefits": {}
+      },
+      "has_scraped_details": true
+    }
+  ]
+}

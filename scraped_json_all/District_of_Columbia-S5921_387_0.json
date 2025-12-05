@@ -1,0 +1,30 @@
+{
+  "plan_info": {
+    "name": "AARP Medicare Rx Preferred from UHC (PDP)",
+    "organization": "UnitedHealthcare",
+    "type": "Drug plan (Part D)",
+    "id": "S5921-387-0"
+  },
+  "premiums": {
+    "Total monthly premium": "$94.50"
+  },
+  "deductibles": {
+    "Drug deductible": "$130.00"
+  },
+  "maximum_out_of_pocket": {},
+  "contact_info": {
+    "Plan address": "P.O. Box 30770\nSalt Lake City, UT 84130"
+  },
+  "benefits": {
+    "Pharmacies": {},
+    "Costs by drug tier - Preferred retail pharmacy drug cost for 1 month": {
+      "Preferred Generic": "$5.00 copay",
+      "Generic": "$10.00 copay",
+      "Preferred Brand": "17% coinsurance",
+      "Non-Preferred Drug": "34% coinsurance",
+      "Specialty Tier": "31% coinsurance"
+    }
+  },
+  "drug_coverage": {},
+  "extra_benefits": {}
+}

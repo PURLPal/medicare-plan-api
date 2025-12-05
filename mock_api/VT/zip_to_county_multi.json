@@ -1,0 +1,4818 @@
+[
+  {
+    "zip": "05733",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 58.5
+      },
+      {
+        "fips": "50001",
+        "name": "Addison",
+        "percentage": 41.5
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "name": "Rutland"
+    },
+    "county": "Rutland",
+    "fips": "50021"
+  },
+  {
+    "zip": "05778",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50001",
+        "name": "Addison",
+        "percentage": 90.8
+      },
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 9.2
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "name": "Addison"
+    },
+    "county": "Addison",
+    "fips": "50001"
+  },
+  {
+    "zip": "05491",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50001",
+        "name": "Addison",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "name": "Addison"
+    },
+    "county": "Addison",
+    "fips": "50001"
+  },
+  {
+    "zip": "05473",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50001",
+        "name": "Addison",
+        "percentage": 98.6
+      },
+      {
+        "fips": "50007",
+        "name": "Chittenden",
+        "percentage": 1.4
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "name": "Addison"
+    },
+    "county": "Addison",
+    "fips": "50001"
+  },
+  {
+    "zip": "05747",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "50001",
+        "name": "Addison",
+        "percentage": 99.6
+      },
+      {
+        "fips": "50023",
+        "name": "Washington",
+        "percentage": 0.2
+      },
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "name": "Addison"
+    },
+    "county": "Addison",
+    "fips": "50001"
+  },
+  {
+    "zip": "05770",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50001",
+        "name": "Addison",
+        "percentage": 99.8
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "name": "Addison"
+    },
+    "county": "Addison",
+    "fips": "50001"
+  },
+  {
+    "zip": "05252",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50003",
+        "name": "Bennington",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "name": "Bennington"
+    },
+    "county": "Bennington",
+    "fips": "50003"
+  },
+  {
+    "zip": "05251",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50003",
+        "name": "Bennington",
+        "percentage": 99.4
+      },
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 0.6
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "name": "Bennington"
+    },
+    "county": "Bennington",
+    "fips": "50003"
+  },
+  {
+    "zip": "05260",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50003",
+        "name": "Bennington",
+        "percentage": 98.9
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "name": "Bennington"
+    },
+    "county": "Bennington",
+    "fips": "50003"
+  },
+  {
+    "zip": "05042",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50005",
+        "name": "Caledonia",
+        "percentage": 98.9
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "name": "Caledonia"
+    },
+    "county": "Caledonia",
+    "fips": "50005"
+  },
+  {
+    "zip": "05866",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50005",
+        "name": "Caledonia",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "name": "Caledonia"
+    },
+    "county": "Caledonia",
+    "fips": "50005"
+  },
+  {
+    "zip": "05836",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50005",
+        "name": "Caledonia",
+        "percentage": 99.7
+      },
+      {
+        "fips": "50019",
+        "name": "Orleans",
+        "percentage": 0.3
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "name": "Caledonia"
+    },
+    "county": "Caledonia",
+    "fips": "50005"
+  },
+  {
+    "zip": "05489",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "name": "Chittenden",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "name": "Chittenden"
+    },
+    "county": "Chittenden",
+    "fips": "50007"
+  },
+  {
+    "zip": "05439",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "name": "Chittenden",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "name": "Chittenden"
+    },
+    "county": "Chittenden",
+    "fips": "50007"
+  },
+  {
+    "zip": "05482",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "name": "Chittenden",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "name": "Chittenden"
+    },
+    "county": "Chittenden",
+    "fips": "50007"
+  },
+  {
+    "zip": "05494",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "name": "Chittenden",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "name": "Chittenden"
+    },
+    "county": "Chittenden",
+    "fips": "50007"
+  },
+  {
+    "zip": "05902",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50009",
+        "name": "Essex",
+        "percentage": 95.3
+      }
+    ],
+    "primary_county": {
+      "fips": "50009",
+      "name": "Essex"
+    },
+    "county": "Essex",
+    "fips": "50009"
+  },
+  {
+    "zip": "05471",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50011",
+        "name": "Franklin",
+        "percentage": 94.1
+      },
+      {
+        "fips": "50019",
+        "name": "Orleans",
+        "percentage": 5.9
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "name": "Franklin"
+    },
+    "county": "Franklin",
+    "fips": "50011"
+  },
+  {
+    "zip": "05440",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50013",
+        "name": "Grand Isle",
+        "percentage": 99.8
+      }
+    ],
+    "primary_county": {
+      "fips": "50013",
+      "name": "Grand Isle"
+    },
+    "county": "Grand Isle",
+    "fips": "50013"
+  },
+  {
+    "zip": "05442",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50015",
+        "name": "Lamoille",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50015",
+      "name": "Lamoille"
+    },
+    "county": "Lamoille",
+    "fips": "50015"
+  },
+  {
+    "zip": "05040",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "name": "Orange"
+    },
+    "county": "Orange",
+    "fips": "50017"
+  },
+  {
+    "zip": "05041",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "name": "Orange"
+    },
+    "county": "Orange",
+    "fips": "50017"
+  },
+  {
+    "zip": "05868",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "name": "Orleans",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "name": "Orleans"
+    },
+    "county": "Orleans",
+    "fips": "50019"
+  },
+  {
+    "zip": "05833",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "name": "Orleans",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "name": "Orleans"
+    },
+    "county": "Orleans",
+    "fips": "50019"
+  },
+  {
+    "zip": "05759",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "name": "Rutland"
+    },
+    "county": "Rutland",
+    "fips": "50021"
+  },
+  {
+    "zip": "05658",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50023",
+        "name": "Washington",
+        "percentage": 99.7
+      },
+      {
+        "fips": "50005",
+        "name": "Caledonia",
+        "percentage": 0.3
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "name": "Washington"
+    },
+    "county": "Washington",
+    "fips": "50023"
+  },
+  {
+    "zip": "05353",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "name": "Windham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "name": "Windham"
+    },
+    "county": "Windham",
+    "fips": "50025"
+  },
+  {
+    "zip": "05361",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "name": "Windham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "name": "Windham"
+    },
+    "county": "Windham",
+    "fips": "50025"
+  },
+  {
+    "zip": "05089",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05772",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05059",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05053",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05769",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50001",
+        "name": "Addison",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "name": "Addison"
+    },
+    "county": "Addison",
+    "fips": "50001"
+  },
+  {
+    "zip": "05487",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50001",
+        "name": "Addison",
+        "percentage": 89.5
+      },
+      {
+        "fips": "50007",
+        "name": "Chittenden",
+        "percentage": 10.5
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "name": "Addison"
+    },
+    "county": "Addison",
+    "fips": "50001"
+  },
+  {
+    "zip": "05254",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50003",
+        "name": "Bennington",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "name": "Bennington"
+    },
+    "county": "Bennington",
+    "fips": "50003"
+  },
+  {
+    "zip": "05819",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50005",
+        "name": "Caledonia",
+        "percentage": 99.7
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "name": "Caledonia"
+    },
+    "county": "Caledonia",
+    "fips": "50005"
+  },
+  {
+    "zip": "05404",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "name": "Chittenden",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "name": "Chittenden"
+    },
+    "county": "Chittenden",
+    "fips": "50007"
+  },
+  {
+    "zip": "05904",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50009",
+        "name": "Essex",
+        "percentage": 90.9
+      }
+    ],
+    "primary_county": {
+      "fips": "50009",
+      "name": "Essex"
+    },
+    "county": "Essex",
+    "fips": "50009"
+  },
+  {
+    "zip": "05653",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50015",
+        "name": "Lamoille",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50015",
+      "name": "Lamoille"
+    },
+    "county": "Lamoille",
+    "fips": "50015"
+  },
+  {
+    "zip": "05038",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "name": "Orange"
+    },
+    "county": "Orange",
+    "fips": "50017"
+  },
+  {
+    "zip": "05830",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "name": "Orleans",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "name": "Orleans"
+    },
+    "county": "Orleans",
+    "fips": "50019"
+  },
+  {
+    "zip": "05859",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "name": "Orleans",
+        "percentage": 99.8
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "name": "Orleans"
+    },
+    "county": "Orleans",
+    "fips": "50019"
+  },
+  {
+    "zip": "05820",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "name": "Orleans",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "name": "Orleans"
+    },
+    "county": "Orleans",
+    "fips": "50019"
+  },
+  {
+    "zip": "05845",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "name": "Orleans",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "name": "Orleans"
+    },
+    "county": "Orleans",
+    "fips": "50019"
+  },
+  {
+    "zip": "05847",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50019",
+        "name": "Orleans",
+        "percentage": 99.6
+      },
+      {
+        "fips": "50015",
+        "name": "Lamoille",
+        "percentage": 0.4
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "name": "Orleans"
+    },
+    "county": "Orleans",
+    "fips": "50019"
+  },
+  {
+    "zip": "05857",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "name": "Orleans",
+        "percentage": 99.8
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "name": "Orleans"
+    },
+    "county": "Orleans",
+    "fips": "50019"
+  },
+  {
+    "zip": "05736",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "name": "Rutland"
+    },
+    "county": "Rutland",
+    "fips": "50021"
+  },
+  {
+    "zip": "05744",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "name": "Rutland"
+    },
+    "county": "Rutland",
+    "fips": "50021"
+  },
+  {
+    "zip": "05651",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "name": "Washington",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "name": "Washington"
+    },
+    "county": "Washington",
+    "fips": "50023"
+  },
+  {
+    "zip": "05343",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50025",
+        "name": "Windham",
+        "percentage": 99.7
+      },
+      {
+        "fips": "50003",
+        "name": "Bennington",
+        "percentage": 0.3
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "name": "Windham"
+    },
+    "county": "Windham",
+    "fips": "50025"
+  },
+  {
+    "zip": "05360",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50025",
+        "name": "Windham",
+        "percentage": 99.9
+      },
+      {
+        "fips": "50003",
+        "name": "Bennington",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "name": "Windham"
+    },
+    "county": "Windham",
+    "fips": "50025"
+  },
+  {
+    "zip": "05341",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "name": "Windham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "name": "Windham"
+    },
+    "county": "Windham",
+    "fips": "50025"
+  },
+  {
+    "zip": "05154",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "name": "Windham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "name": "Windham"
+    },
+    "county": "Windham",
+    "fips": "50025"
+  },
+  {
+    "zip": "05355",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "name": "Windham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "name": "Windham"
+    },
+    "county": "Windham",
+    "fips": "50025"
+  },
+  {
+    "zip": "05149",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05032",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 99.6
+      },
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 0.4
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05151",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05056",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05034",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05456",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50001",
+        "name": "Addison",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "name": "Addison"
+    },
+    "county": "Addison",
+    "fips": "50001"
+  },
+  {
+    "zip": "05461",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50007",
+        "name": "Chittenden",
+        "percentage": 96.4
+      },
+      {
+        "fips": "50001",
+        "name": "Addison",
+        "percentage": 3.6
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "name": "Chittenden"
+    },
+    "county": "Chittenden",
+    "fips": "50007"
+  },
+  {
+    "zip": "05201",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50003",
+        "name": "Bennington",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "name": "Bennington"
+    },
+    "county": "Bennington",
+    "fips": "50003"
+  },
+  {
+    "zip": "05340",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50003",
+        "name": "Bennington",
+        "percentage": 99.1
+      },
+      {
+        "fips": "50025",
+        "name": "Windham",
+        "percentage": 0.9
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "name": "Bennington"
+    },
+    "county": "Bennington",
+    "fips": "50003"
+  },
+  {
+    "zip": "05350",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50003",
+        "name": "Bennington",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "name": "Bennington"
+    },
+    "county": "Bennington",
+    "fips": "50003"
+  },
+  {
+    "zip": "05257",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50003",
+        "name": "Bennington",
+        "percentage": 99.8
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "name": "Bennington"
+    },
+    "county": "Bennington",
+    "fips": "50003"
+  },
+  {
+    "zip": "05155",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50025",
+        "name": "Windham",
+        "percentage": 97.4
+      },
+      {
+        "fips": "50003",
+        "name": "Bennington",
+        "percentage": 2.6
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "name": "Windham"
+    },
+    "county": "Windham",
+    "fips": "50025"
+  },
+  {
+    "zip": "05069",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50005",
+        "name": "Caledonia",
+        "percentage": 71.7
+      },
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 28.3
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "name": "Caledonia"
+    },
+    "county": "Caledonia",
+    "fips": "50005"
+  },
+  {
+    "zip": "05828",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50005",
+        "name": "Caledonia",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "name": "Caledonia"
+    },
+    "county": "Caledonia",
+    "fips": "50005"
+  },
+  {
+    "zip": "05867",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50005",
+        "name": "Caledonia",
+        "percentage": 98.6
+      },
+      {
+        "fips": "50019",
+        "name": "Orleans",
+        "percentage": 1.4
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "name": "Caledonia"
+    },
+    "county": "Caledonia",
+    "fips": "50005"
+  },
+  {
+    "zip": "05408",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "name": "Chittenden",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "name": "Chittenden"
+    },
+    "county": "Chittenden",
+    "fips": "50007"
+  },
+  {
+    "zip": "05446",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "name": "Chittenden",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "name": "Chittenden"
+    },
+    "county": "Chittenden",
+    "fips": "50007"
+  },
+  {
+    "zip": "05846",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50009",
+        "name": "Essex",
+        "percentage": 99.5
+      },
+      {
+        "fips": "50019",
+        "name": "Orleans",
+        "percentage": 0.5
+      }
+    ],
+    "primary_county": {
+      "fips": "50009",
+      "name": "Essex"
+    },
+    "county": "Essex",
+    "fips": "50009"
+  },
+  {
+    "zip": "05652",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50015",
+        "name": "Lamoille",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50015",
+      "name": "Lamoille"
+    },
+    "county": "Lamoille",
+    "fips": "50015"
+  },
+  {
+    "zip": "05033",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 98.8
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "name": "Orange"
+    },
+    "county": "Orange",
+    "fips": "50017"
+  },
+  {
+    "zip": "05675",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "name": "Orange"
+    },
+    "county": "Orange",
+    "fips": "50017"
+  },
+  {
+    "zip": "05068",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 98.5
+      },
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 1.5
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05765",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "name": "Rutland"
+    },
+    "county": "Rutland",
+    "fips": "50021"
+  },
+  {
+    "zip": "05701",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "name": "Rutland"
+    },
+    "county": "Rutland",
+    "fips": "50021"
+  },
+  {
+    "zip": "05751",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "name": "Rutland"
+    },
+    "county": "Rutland",
+    "fips": "50021"
+  },
+  {
+    "zip": "05667",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "name": "Washington",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "name": "Washington"
+    },
+    "county": "Washington",
+    "fips": "50023"
+  },
+  {
+    "zip": "05301",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "name": "Windham",
+        "percentage": 99.8
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "name": "Windham"
+    },
+    "county": "Windham",
+    "fips": "50025"
+  },
+  {
+    "zip": "05359",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "name": "Windham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "name": "Windham"
+    },
+    "county": "Windham",
+    "fips": "50025"
+  },
+  {
+    "zip": "05055",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 98.5
+      },
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05153",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05035",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05760",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50001",
+        "name": "Addison",
+        "percentage": 93.6
+      },
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 6.4
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "name": "Addison"
+    },
+    "county": "Addison",
+    "fips": "50001"
+  },
+  {
+    "zip": "05766",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50001",
+        "name": "Addison",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "name": "Addison"
+    },
+    "county": "Addison",
+    "fips": "50001"
+  },
+  {
+    "zip": "05669",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "50023",
+        "name": "Washington",
+        "percentage": 95.8
+      },
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 2.4
+      },
+      {
+        "fips": "50001",
+        "name": "Addison",
+        "percentage": 1.8
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "name": "Washington"
+    },
+    "county": "Washington",
+    "fips": "50023"
+  },
+  {
+    "zip": "05352",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50003",
+        "name": "Bennington",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "name": "Bennington"
+    },
+    "county": "Bennington",
+    "fips": "50003"
+  },
+  {
+    "zip": "05261",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50003",
+        "name": "Bennington",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "name": "Bennington"
+    },
+    "county": "Bennington",
+    "fips": "50003"
+  },
+  {
+    "zip": "05837",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50009",
+        "name": "Essex",
+        "percentage": 92.1
+      },
+      {
+        "fips": "50005",
+        "name": "Caledonia",
+        "percentage": 7.9
+      }
+    ],
+    "primary_county": {
+      "fips": "50009",
+      "name": "Essex"
+    },
+    "county": "Essex",
+    "fips": "50009"
+  },
+  {
+    "zip": "05477",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "name": "Chittenden",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "name": "Chittenden"
+    },
+    "county": "Chittenden",
+    "fips": "50007"
+  },
+  {
+    "zip": "05465",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "name": "Chittenden",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "name": "Chittenden"
+    },
+    "county": "Chittenden",
+    "fips": "50007"
+  },
+  {
+    "zip": "05403",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "name": "Chittenden",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "name": "Chittenden"
+    },
+    "county": "Chittenden",
+    "fips": "50007"
+  },
+  {
+    "zip": "05495",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "name": "Chittenden",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "name": "Chittenden"
+    },
+    "county": "Chittenden",
+    "fips": "50007"
+  },
+  {
+    "zip": "05459",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50011",
+        "name": "Franklin",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "name": "Franklin"
+    },
+    "county": "Franklin",
+    "fips": "50011"
+  },
+  {
+    "zip": "05450",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50011",
+        "name": "Franklin",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "name": "Franklin"
+    },
+    "county": "Franklin",
+    "fips": "50011"
+  },
+  {
+    "zip": "05448",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50011",
+        "name": "Franklin",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "name": "Franklin"
+    },
+    "county": "Franklin",
+    "fips": "50011"
+  },
+  {
+    "zip": "05444",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "50015",
+        "name": "Lamoille",
+        "percentage": 50.9
+      },
+      {
+        "fips": "50011",
+        "name": "Franklin",
+        "percentage": 48.5
+      },
+      {
+        "fips": "50007",
+        "name": "Chittenden",
+        "percentage": 0.6
+      }
+    ],
+    "primary_county": {
+      "fips": "50015",
+      "name": "Lamoille"
+    },
+    "county": "Lamoille",
+    "fips": "50015"
+  },
+  {
+    "zip": "05661",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50015",
+        "name": "Lamoille",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50015",
+      "name": "Lamoille"
+    },
+    "county": "Lamoille",
+    "fips": "50015"
+  },
+  {
+    "zip": "05672",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50015",
+        "name": "Lamoille",
+        "percentage": 99.7
+      },
+      {
+        "fips": "50023",
+        "name": "Washington",
+        "percentage": 0.3
+      }
+    ],
+    "primary_county": {
+      "fips": "50015",
+      "name": "Lamoille"
+    },
+    "county": "Lamoille",
+    "fips": "50015"
+  },
+  {
+    "zip": "05680",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50015",
+        "name": "Lamoille",
+        "percentage": 99.8
+      },
+      {
+        "fips": "50005",
+        "name": "Caledonia",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "50015",
+      "name": "Lamoille"
+    },
+    "county": "Lamoille",
+    "fips": "50015"
+  },
+  {
+    "zip": "05045",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 99.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "name": "Orange"
+    },
+    "county": "Orange",
+    "fips": "50017"
+  },
+  {
+    "zip": "05649",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "name": "Orange"
+    },
+    "county": "Orange",
+    "fips": "50017"
+  },
+  {
+    "zip": "05076",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 99.8
+      },
+      {
+        "fips": "50005",
+        "name": "Caledonia",
+        "percentage": 0.2
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "name": "Orange"
+    },
+    "county": "Orange",
+    "fips": "50017"
+  },
+  {
+    "zip": "05061",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "name": "Orange"
+    },
+    "county": "Orange",
+    "fips": "50017"
+  },
+  {
+    "zip": "05872",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "name": "Orleans",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "name": "Orleans"
+    },
+    "county": "Orleans",
+    "fips": "50019"
+  },
+  {
+    "zip": "05826",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50019",
+        "name": "Orleans",
+        "percentage": 99.7
+      },
+      {
+        "fips": "50015",
+        "name": "Lamoille",
+        "percentage": 0.3
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "name": "Orleans"
+    },
+    "county": "Orleans",
+    "fips": "50019"
+  },
+  {
+    "zip": "05773",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 99.7
+      },
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 0.3
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "name": "Rutland"
+    },
+    "county": "Rutland",
+    "fips": "50021"
+  },
+  {
+    "zip": "05743",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 99.4
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "name": "Rutland"
+    },
+    "county": "Rutland",
+    "fips": "50021"
+  },
+  {
+    "zip": "05775",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "name": "Rutland"
+    },
+    "county": "Rutland",
+    "fips": "50021"
+  },
+  {
+    "zip": "05732",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "name": "Rutland"
+    },
+    "county": "Rutland",
+    "fips": "50021"
+  },
+  {
+    "zip": "05737",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "name": "Rutland"
+    },
+    "county": "Rutland",
+    "fips": "50021"
+  },
+  {
+    "zip": "05682",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50023",
+        "name": "Washington",
+        "percentage": 99.4
+      },
+      {
+        "fips": "50015",
+        "name": "Lamoille",
+        "percentage": 0.6
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "name": "Washington"
+    },
+    "county": "Washington",
+    "fips": "50023"
+  },
+  {
+    "zip": "05146",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "name": "Windham",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "name": "Windham"
+    },
+    "county": "Windham",
+    "fips": "50025"
+  },
+  {
+    "zip": "05346",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "name": "Windham",
+        "percentage": 99.1
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "name": "Windham"
+    },
+    "county": "Windham",
+    "fips": "50025"
+  },
+  {
+    "zip": "05143",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 84.8
+      },
+      {
+        "fips": "50025",
+        "name": "Windham",
+        "percentage": 15.2
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05354",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "name": "Windham",
+        "percentage": 95.8
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "name": "Windham"
+    },
+    "county": "Windham",
+    "fips": "50025"
+  },
+  {
+    "zip": "05358",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "name": "Windham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "name": "Windham"
+    },
+    "county": "Windham",
+    "fips": "50025"
+  },
+  {
+    "zip": "05031",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05062",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05472",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50001",
+        "name": "Addison",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "name": "Addison"
+    },
+    "county": "Addison",
+    "fips": "50001"
+  },
+  {
+    "zip": "05255",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50003",
+        "name": "Bennington",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "name": "Bennington"
+    },
+    "county": "Bennington",
+    "fips": "50003"
+  },
+  {
+    "zip": "05821",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50005",
+        "name": "Caledonia",
+        "percentage": 99.7
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "name": "Caledonia"
+    },
+    "county": "Caledonia",
+    "fips": "50005"
+  },
+  {
+    "zip": "05851",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50005",
+        "name": "Caledonia",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "name": "Caledonia"
+    },
+    "county": "Caledonia",
+    "fips": "50005"
+  },
+  {
+    "zip": "05832",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50005",
+        "name": "Caledonia",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "name": "Caledonia"
+    },
+    "county": "Caledonia",
+    "fips": "50005"
+  },
+  {
+    "zip": "05824",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50009",
+        "name": "Essex",
+        "percentage": 71.2
+      },
+      {
+        "fips": "50005",
+        "name": "Caledonia",
+        "percentage": 28.5
+      }
+    ],
+    "primary_county": {
+      "fips": "50009",
+      "name": "Essex"
+    },
+    "county": "Essex",
+    "fips": "50009"
+  },
+  {
+    "zip": "05050",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50005",
+        "name": "Caledonia",
+        "percentage": 86.2
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "name": "Caledonia"
+    },
+    "county": "Caledonia",
+    "fips": "50005"
+  },
+  {
+    "zip": "05445",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "name": "Chittenden",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "name": "Chittenden"
+    },
+    "county": "Chittenden",
+    "fips": "50007"
+  },
+  {
+    "zip": "05903",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50009",
+        "name": "Essex",
+        "percentage": 99.2
+      }
+    ],
+    "primary_county": {
+      "fips": "50009",
+      "name": "Essex"
+    },
+    "county": "Essex",
+    "fips": "50009"
+  },
+  {
+    "zip": "05488",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50011",
+        "name": "Franklin",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "name": "Franklin"
+    },
+    "county": "Franklin",
+    "fips": "50011"
+  },
+  {
+    "zip": "05476",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50011",
+        "name": "Franklin",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "name": "Franklin"
+    },
+    "county": "Franklin",
+    "fips": "50011"
+  },
+  {
+    "zip": "05478",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50011",
+        "name": "Franklin",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "name": "Franklin"
+    },
+    "county": "Franklin",
+    "fips": "50011"
+  },
+  {
+    "zip": "05655",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50015",
+        "name": "Lamoille",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50015",
+      "name": "Lamoille"
+    },
+    "county": "Lamoille",
+    "fips": "50015"
+  },
+  {
+    "zip": "05492",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50015",
+        "name": "Lamoille",
+        "percentage": 98.3
+      },
+      {
+        "fips": "50011",
+        "name": "Franklin",
+        "percentage": 1.7
+      }
+    ],
+    "primary_county": {
+      "fips": "50015",
+      "name": "Lamoille"
+    },
+    "county": "Lamoille",
+    "fips": "50015"
+  },
+  {
+    "zip": "05060",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 90.8
+      },
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 9.1
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "name": "Orange"
+    },
+    "county": "Orange",
+    "fips": "50017"
+  },
+  {
+    "zip": "05081",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 99.4
+      },
+      {
+        "fips": "50005",
+        "name": "Caledonia",
+        "percentage": 0.2
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "name": "Orange"
+    },
+    "county": "Orange",
+    "fips": "50017"
+  },
+  {
+    "zip": "05679",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 98.8
+      },
+      {
+        "fips": "50023",
+        "name": "Washington",
+        "percentage": 1.2
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "name": "Orange"
+    },
+    "county": "Orange",
+    "fips": "50017"
+  },
+  {
+    "zip": "05079",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "name": "Orange"
+    },
+    "county": "Orange",
+    "fips": "50017"
+  },
+  {
+    "zip": "05086",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "name": "Orange"
+    },
+    "county": "Orange",
+    "fips": "50017"
+  },
+  {
+    "zip": "05829",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "name": "Orleans",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "name": "Orleans"
+    },
+    "county": "Orleans",
+    "fips": "50019"
+  },
+  {
+    "zip": "05825",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "name": "Orleans",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "name": "Orleans"
+    },
+    "county": "Orleans",
+    "fips": "50019"
+  },
+  {
+    "zip": "05735",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "name": "Rutland"
+    },
+    "county": "Rutland",
+    "fips": "50021"
+  },
+  {
+    "zip": "05758",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "name": "Rutland"
+    },
+    "county": "Rutland",
+    "fips": "50021"
+  },
+  {
+    "zip": "05738",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 99.2
+      },
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 0.8
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "name": "Rutland"
+    },
+    "county": "Rutland",
+    "fips": "50021"
+  },
+  {
+    "zip": "05650",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "name": "Washington",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "name": "Washington"
+    },
+    "county": "Washington",
+    "fips": "50023"
+  },
+  {
+    "zip": "05648",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "name": "Washington",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "name": "Washington"
+    },
+    "county": "Washington",
+    "fips": "50023"
+  },
+  {
+    "zip": "05674",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "name": "Washington",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "name": "Washington"
+    },
+    "county": "Washington",
+    "fips": "50023"
+  },
+  {
+    "zip": "05681",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50023",
+        "name": "Washington",
+        "percentage": 99.9
+      },
+      {
+        "fips": "50005",
+        "name": "Caledonia",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "name": "Washington"
+    },
+    "county": "Washington",
+    "fips": "50023"
+  },
+  {
+    "zip": "05602",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "name": "Washington",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "name": "Washington"
+    },
+    "county": "Washington",
+    "fips": "50023"
+  },
+  {
+    "zip": "05342",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "name": "Windham",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "name": "Windham"
+    },
+    "county": "Windham",
+    "fips": "50025"
+  },
+  {
+    "zip": "05091",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05734",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50001",
+        "name": "Addison",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "name": "Addison"
+    },
+    "county": "Addison",
+    "fips": "50001"
+  },
+  {
+    "zip": "05748",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50001",
+        "name": "Addison",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "name": "Addison"
+    },
+    "county": "Addison",
+    "fips": "50001"
+  },
+  {
+    "zip": "05253",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50003",
+        "name": "Bennington",
+        "percentage": 98.3
+      },
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 1.7
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "name": "Bennington"
+    },
+    "county": "Bennington",
+    "fips": "50003"
+  },
+  {
+    "zip": "05452",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "name": "Chittenden",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "name": "Chittenden"
+    },
+    "county": "Chittenden",
+    "fips": "50007"
+  },
+  {
+    "zip": "05907",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50009",
+        "name": "Essex",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "50009",
+      "name": "Essex"
+    },
+    "county": "Essex",
+    "fips": "50009"
+  },
+  {
+    "zip": "05441",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50011",
+        "name": "Franklin",
+        "percentage": 99.2
+      },
+      {
+        "fips": "50015",
+        "name": "Lamoille",
+        "percentage": 0.8
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "name": "Franklin"
+    },
+    "county": "Franklin",
+    "fips": "50011"
+  },
+  {
+    "zip": "05447",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50011",
+        "name": "Franklin",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "name": "Franklin"
+    },
+    "county": "Franklin",
+    "fips": "50011"
+  },
+  {
+    "zip": "05656",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50015",
+        "name": "Lamoille",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50015",
+      "name": "Lamoille"
+    },
+    "county": "Lamoille",
+    "fips": "50015"
+  },
+  {
+    "zip": "05036",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "name": "Orange"
+    },
+    "county": "Orange",
+    "fips": "50017"
+  },
+  {
+    "zip": "05077",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "name": "Orange"
+    },
+    "county": "Orange",
+    "fips": "50017"
+  },
+  {
+    "zip": "05075",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "name": "Orange"
+    },
+    "county": "Orange",
+    "fips": "50017"
+  },
+  {
+    "zip": "05043",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 95.2
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "name": "Orange"
+    },
+    "county": "Orange",
+    "fips": "50017"
+  },
+  {
+    "zip": "05039",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "name": "Orange"
+    },
+    "county": "Orange",
+    "fips": "50017"
+  },
+  {
+    "zip": "05083",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "name": "Orange"
+    },
+    "county": "Orange",
+    "fips": "50017"
+  },
+  {
+    "zip": "05663",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50023",
+        "name": "Washington",
+        "percentage": 97.5
+      },
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 2.5
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "name": "Washington"
+    },
+    "county": "Washington",
+    "fips": "50023"
+  },
+  {
+    "zip": "05822",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "name": "Orleans",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "name": "Orleans"
+    },
+    "county": "Orleans",
+    "fips": "50019"
+  },
+  {
+    "zip": "05777",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "name": "Rutland"
+    },
+    "county": "Rutland",
+    "fips": "50021"
+  },
+  {
+    "zip": "05763",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "name": "Rutland"
+    },
+    "county": "Rutland",
+    "fips": "50021"
+  },
+  {
+    "zip": "05762",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "name": "Rutland"
+    },
+    "county": "Rutland",
+    "fips": "50021"
+  },
+  {
+    "zip": "05677",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50023",
+        "name": "Washington",
+        "percentage": 99.2
+      },
+      {
+        "fips": "50015",
+        "name": "Lamoille",
+        "percentage": 0.8
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "name": "Washington"
+    },
+    "county": "Washington",
+    "fips": "50023"
+  },
+  {
+    "zip": "05660",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "name": "Washington",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "name": "Washington"
+    },
+    "county": "Washington",
+    "fips": "50023"
+  },
+  {
+    "zip": "05101",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "name": "Windham",
+        "percentage": 98.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "name": "Windham"
+    },
+    "county": "Windham",
+    "fips": "50025"
+  },
+  {
+    "zip": "05356",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "name": "Windham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "name": "Windham"
+    },
+    "county": "Windham",
+    "fips": "50025"
+  },
+  {
+    "zip": "05141",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "name": "Windham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "name": "Windham"
+    },
+    "county": "Windham",
+    "fips": "50025"
+  },
+  {
+    "zip": "05362",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "name": "Windham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "name": "Windham"
+    },
+    "county": "Windham",
+    "fips": "50025"
+  },
+  {
+    "zip": "05037",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05067",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05084",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05142",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05443",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50001",
+        "name": "Addison",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "name": "Addison"
+    },
+    "county": "Addison",
+    "fips": "50001"
+  },
+  {
+    "zip": "05250",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50003",
+        "name": "Bennington",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "name": "Bennington"
+    },
+    "county": "Bennington",
+    "fips": "50003"
+  },
+  {
+    "zip": "05363",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50025",
+        "name": "Windham",
+        "percentage": 67.1
+      },
+      {
+        "fips": "50003",
+        "name": "Bennington",
+        "percentage": 32.9
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "name": "Windham"
+    },
+    "county": "Windham",
+    "fips": "50025"
+  },
+  {
+    "zip": "05148",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "50025",
+        "name": "Windham",
+        "percentage": 78.6
+      },
+      {
+        "fips": "50003",
+        "name": "Bennington",
+        "percentage": 20.0
+      },
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 1.4
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "name": "Windham"
+    },
+    "county": "Windham",
+    "fips": "50025"
+  },
+  {
+    "zip": "05873",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50005",
+        "name": "Caledonia",
+        "percentage": 99.7
+      },
+      {
+        "fips": "50023",
+        "name": "Washington",
+        "percentage": 0.3
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "name": "Caledonia"
+    },
+    "county": "Caledonia",
+    "fips": "50005"
+  },
+  {
+    "zip": "05468",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50007",
+        "name": "Chittenden",
+        "percentage": 80.1
+      },
+      {
+        "fips": "50011",
+        "name": "Franklin",
+        "percentage": 19.9
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "name": "Chittenden"
+    },
+    "county": "Chittenden",
+    "fips": "50007"
+  },
+  {
+    "zip": "05858",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50009",
+        "name": "Essex",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50009",
+      "name": "Essex"
+    },
+    "county": "Essex",
+    "fips": "50009"
+  },
+  {
+    "zip": "05455",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50011",
+        "name": "Franklin",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "name": "Franklin"
+    },
+    "county": "Franklin",
+    "fips": "50011"
+  },
+  {
+    "zip": "05483",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50011",
+        "name": "Franklin",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "name": "Franklin"
+    },
+    "county": "Franklin",
+    "fips": "50011"
+  },
+  {
+    "zip": "05464",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50015",
+        "name": "Lamoille",
+        "percentage": 79.5
+      },
+      {
+        "fips": "50011",
+        "name": "Franklin",
+        "percentage": 20.5
+      }
+    ],
+    "primary_county": {
+      "fips": "50015",
+      "name": "Lamoille"
+    },
+    "county": "Lamoille",
+    "fips": "50015"
+  },
+  {
+    "zip": "05457",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50011",
+        "name": "Franklin",
+        "percentage": 99.5
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "name": "Franklin"
+    },
+    "county": "Franklin",
+    "fips": "50011"
+  },
+  {
+    "zip": "05474",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50013",
+        "name": "Grand Isle",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50013",
+      "name": "Grand Isle"
+    },
+    "county": "Grand Isle",
+    "fips": "50013"
+  },
+  {
+    "zip": "05463",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50013",
+        "name": "Grand Isle",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50013",
+      "name": "Grand Isle"
+    },
+    "county": "Grand Isle",
+    "fips": "50013"
+  },
+  {
+    "zip": "05072",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "name": "Orange"
+    },
+    "county": "Orange",
+    "fips": "50017"
+  },
+  {
+    "zip": "05641",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50023",
+        "name": "Washington",
+        "percentage": 72.7
+      },
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 27.3
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "name": "Washington"
+    },
+    "county": "Washington",
+    "fips": "50023"
+  },
+  {
+    "zip": "05654",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50023",
+        "name": "Washington",
+        "percentage": 68.6
+      },
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 31.4
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "name": "Washington"
+    },
+    "county": "Washington",
+    "fips": "50023"
+  },
+  {
+    "zip": "05860",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50019",
+        "name": "Orleans",
+        "percentage": 99.9
+      },
+      {
+        "fips": "50005",
+        "name": "Caledonia",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "name": "Orleans"
+    },
+    "county": "Orleans",
+    "fips": "50019"
+  },
+  {
+    "zip": "05855",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "name": "Orleans",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "name": "Orleans"
+    },
+    "county": "Orleans",
+    "fips": "50019"
+  },
+  {
+    "zip": "05827",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "name": "Orleans",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "name": "Orleans"
+    },
+    "county": "Orleans",
+    "fips": "50019"
+  },
+  {
+    "zip": "05875",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "name": "Orleans",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "name": "Orleans"
+    },
+    "county": "Orleans",
+    "fips": "50019"
+  },
+  {
+    "zip": "05874",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50019",
+        "name": "Orleans",
+        "percentage": 99.6
+      },
+      {
+        "fips": "50011",
+        "name": "Franklin",
+        "percentage": 0.4
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "name": "Orleans"
+    },
+    "county": "Orleans",
+    "fips": "50019"
+  },
+  {
+    "zip": "05839",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50019",
+        "name": "Orleans",
+        "percentage": 99.4
+      },
+      {
+        "fips": "50005",
+        "name": "Caledonia",
+        "percentage": 0.6
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "name": "Orleans"
+    },
+    "county": "Orleans",
+    "fips": "50019"
+  },
+  {
+    "zip": "05841",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50019",
+        "name": "Orleans",
+        "percentage": 99.7
+      },
+      {
+        "fips": "50005",
+        "name": "Caledonia",
+        "percentage": 0.3
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "name": "Orleans"
+    },
+    "county": "Orleans",
+    "fips": "50019"
+  },
+  {
+    "zip": "05761",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "name": "Rutland"
+    },
+    "county": "Rutland",
+    "fips": "50021"
+  },
+  {
+    "zip": "05764",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 99.7
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "name": "Rutland"
+    },
+    "county": "Rutland",
+    "fips": "50021"
+  },
+  {
+    "zip": "05739",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 99.9
+      },
+      {
+        "fips": "50003",
+        "name": "Bennington",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "name": "Rutland"
+    },
+    "county": "Rutland",
+    "fips": "50021"
+  },
+  {
+    "zip": "05774",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "name": "Rutland"
+    },
+    "county": "Rutland",
+    "fips": "50021"
+  },
+  {
+    "zip": "05767",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 97.2
+      },
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 2.2
+      },
+      {
+        "fips": "50001",
+        "name": "Addison",
+        "percentage": 0.6
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05673",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "name": "Washington",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "name": "Washington"
+    },
+    "county": "Washington",
+    "fips": "50023"
+  },
+  {
+    "zip": "05647",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50023",
+        "name": "Washington",
+        "percentage": 99.0
+      },
+      {
+        "fips": "50005",
+        "name": "Caledonia",
+        "percentage": 1.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "name": "Washington"
+    },
+    "county": "Washington",
+    "fips": "50023"
+  },
+  {
+    "zip": "05150",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05001",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 99.7
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05753",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50001",
+        "name": "Addison",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "name": "Addison"
+    },
+    "county": "Addison",
+    "fips": "50001"
+  },
+  {
+    "zip": "05152",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50003",
+        "name": "Bennington",
+        "percentage": 99.5
+      },
+      {
+        "fips": "50025",
+        "name": "Windham",
+        "percentage": 0.5
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "name": "Bennington"
+    },
+    "county": "Bennington",
+    "fips": "50003"
+  },
+  {
+    "zip": "05776",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50003",
+        "name": "Bennington",
+        "percentage": 99.6
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "name": "Bennington"
+    },
+    "county": "Bennington",
+    "fips": "50003"
+  },
+  {
+    "zip": "05262",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50003",
+        "name": "Bennington",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "name": "Bennington"
+    },
+    "county": "Bennington",
+    "fips": "50003"
+  },
+  {
+    "zip": "05862",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50005",
+        "name": "Caledonia",
+        "percentage": 99.9
+      },
+      {
+        "fips": "50023",
+        "name": "Washington",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "name": "Caledonia"
+    },
+    "county": "Caledonia",
+    "fips": "50005"
+  },
+  {
+    "zip": "05842",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50005",
+        "name": "Caledonia",
+        "percentage": 65.7
+      },
+      {
+        "fips": "50019",
+        "name": "Orleans",
+        "percentage": 34.3
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "name": "Caledonia"
+    },
+    "county": "Caledonia",
+    "fips": "50005"
+  },
+  {
+    "zip": "05871",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50005",
+        "name": "Caledonia",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "name": "Caledonia"
+    },
+    "county": "Caledonia",
+    "fips": "50005"
+  },
+  {
+    "zip": "05843",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "50005",
+        "name": "Caledonia",
+        "percentage": 97.8
+      },
+      {
+        "fips": "50023",
+        "name": "Washington",
+        "percentage": 2.1
+      },
+      {
+        "fips": "50019",
+        "name": "Orleans",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "name": "Caledonia"
+    },
+    "county": "Caledonia",
+    "fips": "50005"
+  },
+  {
+    "zip": "05046",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50005",
+        "name": "Caledonia",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "name": "Caledonia"
+    },
+    "county": "Caledonia",
+    "fips": "50005"
+  },
+  {
+    "zip": "05676",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50023",
+        "name": "Washington",
+        "percentage": 80.6
+      },
+      {
+        "fips": "50007",
+        "name": "Chittenden",
+        "percentage": 19.4
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "name": "Washington"
+    },
+    "county": "Washington",
+    "fips": "50023"
+  },
+  {
+    "zip": "05401",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "name": "Chittenden",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "name": "Chittenden"
+    },
+    "county": "Chittenden",
+    "fips": "50007"
+  },
+  {
+    "zip": "05462",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "50007",
+        "name": "Chittenden",
+        "percentage": 99.6
+      },
+      {
+        "fips": "50001",
+        "name": "Addison",
+        "percentage": 0.3
+      },
+      {
+        "fips": "50023",
+        "name": "Washington",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "name": "Chittenden"
+    },
+    "county": "Chittenden",
+    "fips": "50007"
+  },
+  {
+    "zip": "05901",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50009",
+        "name": "Essex",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50009",
+      "name": "Essex"
+    },
+    "county": "Essex",
+    "fips": "50009"
+  },
+  {
+    "zip": "05905",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50009",
+        "name": "Essex",
+        "percentage": 99.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50009",
+      "name": "Essex"
+    },
+    "county": "Essex",
+    "fips": "50009"
+  },
+  {
+    "zip": "05906",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50009",
+        "name": "Essex",
+        "percentage": 97.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50009",
+      "name": "Essex"
+    },
+    "county": "Essex",
+    "fips": "50009"
+  },
+  {
+    "zip": "05454",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50011",
+        "name": "Franklin",
+        "percentage": 99.8
+      },
+      {
+        "fips": "50007",
+        "name": "Chittenden",
+        "percentage": 0.2
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "name": "Franklin"
+    },
+    "county": "Franklin",
+    "fips": "50011"
+  },
+  {
+    "zip": "05486",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50013",
+        "name": "Grand Isle",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50013",
+      "name": "Grand Isle"
+    },
+    "county": "Grand Isle",
+    "fips": "50013"
+  },
+  {
+    "zip": "05458",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50013",
+        "name": "Grand Isle",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50013",
+      "name": "Grand Isle"
+    },
+    "county": "Grand Isle",
+    "fips": "50013"
+  },
+  {
+    "zip": "05051",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 97.2
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "name": "Orange"
+    },
+    "county": "Orange",
+    "fips": "50017"
+  },
+  {
+    "zip": "05058",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "name": "Orange"
+    },
+    "county": "Orange",
+    "fips": "50017"
+  },
+  {
+    "zip": "05070",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50017",
+        "name": "Orange",
+        "percentage": 99.3
+      },
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 0.7
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "name": "Orange"
+    },
+    "county": "Orange",
+    "fips": "50017"
+  },
+  {
+    "zip": "05853",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "name": "Orleans",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "name": "Orleans"
+    },
+    "county": "Orleans",
+    "fips": "50019"
+  },
+  {
+    "zip": "05742",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "name": "Rutland"
+    },
+    "county": "Rutland",
+    "fips": "50021"
+  },
+  {
+    "zip": "05757",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "name": "Rutland"
+    },
+    "county": "Rutland",
+    "fips": "50021"
+  },
+  {
+    "zip": "05730",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 94.3
+      },
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 5.7
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "name": "Rutland"
+    },
+    "county": "Rutland",
+    "fips": "50021"
+  },
+  {
+    "zip": "05640",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "name": "Washington",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "name": "Washington"
+    },
+    "county": "Washington",
+    "fips": "50023"
+  },
+  {
+    "zip": "05345",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "name": "Windham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "name": "Windham"
+    },
+    "county": "Windham",
+    "fips": "50025"
+  },
+  {
+    "zip": "05158",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "name": "Windham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "name": "Windham"
+    },
+    "county": "Windham",
+    "fips": "50025"
+  },
+  {
+    "zip": "05156",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 98.4
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05161",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 98.2
+      },
+      {
+        "fips": "50021",
+        "name": "Rutland",
+        "percentage": 1.8
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05071",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05048",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 99.1
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05052",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 99.8
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  },
+  {
+    "zip": "05065",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "name": "Windsor",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "name": "Windsor"
+    },
+    "county": "Windsor",
+    "fips": "50027"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "plan_info": {
+    "name": "HealthSpring Assurance Rx (PDP)",
+    "organization": "HealthSpring",
+    "type": "Drug plan (Part D)",
+    "id": "S5617-227-0"
+  },
+  "premiums": {
+    "Total monthly premium": "$0.00"
+  },
+  "deductibles": {
+    "Drug deductible": "$615.00"
+  },
+  "maximum_out_of_pocket": {},
+  "contact_info": {
+    "Plan address": "P O Box 269005\nWeston, FL 33326"
+  },
+  "benefits": {
+    "Pharmacies": {},
+    "Costs by drug tier - Preferred retail pharmacy drug cost for 1 month": {
+      "Preferred Generic": "5% coinsurance",
+      "Generic": "10% coinsurance",
+      "Preferred Brand": "25% coinsurance",
+      "Non-Preferred Drug": "29% coinsurance",
+      "Specialty Tier": "25% coinsurance"
+    }
+  },
+  "drug_coverage": {},
+  "extra_benefits": {}
+}

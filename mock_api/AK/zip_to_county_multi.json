@@ -1,0 +1,4113 @@
+[
+  {
+    "zip": "99660",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02016",
+        "name": "Aleutians West",
+        "percentage": 95.8
+      }
+    ],
+    "primary_county": {
+      "fips": "02016",
+      "name": "Aleutians West"
+    },
+    "county": "Aleutians West",
+    "fips": "02016"
+  },
+  {
+    "zip": "99685",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02016",
+        "name": "Aleutians West",
+        "percentage": 88.5
+      }
+    ],
+    "primary_county": {
+      "fips": "02016",
+      "name": "Aleutians West"
+    },
+    "county": "Aleutians West",
+    "fips": "02016"
+  },
+  {
+    "zip": "99502",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "name": "Anchorage",
+        "percentage": 98.5
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "name": "Anchorage"
+    },
+    "county": "Anchorage",
+    "fips": "02020"
+  },
+  {
+    "zip": "99557",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "name": "Bethel",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "name": "Bethel"
+    },
+    "county": "Bethel",
+    "fips": "02050"
+  },
+  {
+    "zip": "99680",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "name": "Bethel",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "name": "Bethel"
+    },
+    "county": "Bethel",
+    "fips": "02050"
+  },
+  {
+    "zip": "99637",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "name": "Bethel",
+        "percentage": 99.1
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "name": "Bethel"
+    },
+    "county": "Bethel",
+    "fips": "02050"
+  },
+  {
+    "zip": "99607",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "name": "Bethel",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "name": "Bethel"
+    },
+    "county": "Bethel",
+    "fips": "02050"
+  },
+  {
+    "zip": "99656",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "name": "Bethel",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "name": "Bethel"
+    },
+    "county": "Bethel",
+    "fips": "02050"
+  },
+  {
+    "zip": "99613",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "02164",
+        "name": "Lake and Peninsula",
+        "percentage": 93.6
+      },
+      {
+        "fips": "02060",
+        "name": "Bristol Bay",
+        "percentage": 6.1
+      }
+    ],
+    "primary_county": {
+      "fips": "02164",
+      "name": "Lake and Peninsula"
+    },
+    "county": "Lake and Peninsula",
+    "fips": "02164"
+  },
+  {
+    "zip": "99760",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "02068",
+        "name": "Denali",
+        "percentage": 72.1
+      },
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 25.6
+      },
+      {
+        "fips": "02090",
+        "name": "Fairbanks North Star",
+        "percentage": 2.3
+      }
+    ],
+    "primary_county": {
+      "fips": "02068",
+      "name": "Denali"
+    },
+    "county": "Denali",
+    "fips": "02068"
+  },
+  {
+    "zip": "99576",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02070",
+        "name": "Dillingham",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "02070",
+      "name": "Dillingham"
+    },
+    "county": "Dillingham",
+    "fips": "02070"
+  },
+  {
+    "zip": "99569",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02070",
+        "name": "Dillingham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02070",
+      "name": "Dillingham"
+    },
+    "county": "Dillingham",
+    "fips": "02070"
+  },
+  {
+    "zip": "99703",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02090",
+        "name": "Fairbanks North Star",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02090",
+      "name": "Fairbanks North Star"
+    },
+    "county": "Fairbanks North Star",
+    "fips": "02090"
+  },
+  {
+    "zip": "99832",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02105",
+        "name": "Hoonah-Angoon",
+        "percentage": 93.3
+      }
+    ],
+    "primary_county": {
+      "fips": "02105",
+      "name": "Hoonah-Angoon"
+    },
+    "county": "Hoonah-Angoon",
+    "fips": "02105"
+  },
+  {
+    "zip": "99572",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "name": "Kenai Peninsula",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "name": "Kenai Peninsula"
+    },
+    "county": "Kenai Peninsula",
+    "fips": "02122"
+  },
+  {
+    "zip": "99669",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "name": "Kenai Peninsula",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "name": "Kenai Peninsula"
+    },
+    "county": "Kenai Peninsula",
+    "fips": "02122"
+  },
+  {
+    "zip": "99682",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "name": "Kenai Peninsula",
+        "percentage": 98.8
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "name": "Kenai Peninsula"
+    },
+    "county": "Kenai Peninsula",
+    "fips": "02122"
+  },
+  {
+    "zip": "99644",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02150",
+        "name": "Kodiak Island",
+        "percentage": 87.9
+      }
+    ],
+    "primary_county": {
+      "fips": "02150",
+      "name": "Kodiak Island"
+    },
+    "county": "Kodiak Island",
+    "fips": "02150"
+  },
+  {
+    "zip": "99676",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02170",
+        "name": "Matanuska-Susitna",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02170",
+      "name": "Matanuska-Susitna"
+    },
+    "county": "Matanuska-Susitna",
+    "fips": "02170"
+  },
+  {
+    "zip": "99694",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02170",
+        "name": "Matanuska-Susitna",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02170",
+      "name": "Matanuska-Susitna"
+    },
+    "county": "Matanuska-Susitna",
+    "fips": "02170"
+  },
+  {
+    "zip": "99739",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02180",
+        "name": "Nome",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02180",
+      "name": "Nome"
+    },
+    "county": "Nome",
+    "fips": "02180"
+  },
+  {
+    "zip": "99783",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02180",
+        "name": "Nome",
+        "percentage": 99.6
+      }
+    ],
+    "primary_county": {
+      "fips": "02180",
+      "name": "Nome"
+    },
+    "county": "Nome",
+    "fips": "02180"
+  },
+  {
+    "zip": "99752",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02188",
+        "name": "Northwest Arctic",
+        "percentage": 82.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02188",
+      "name": "Northwest Arctic"
+    },
+    "county": "Northwest Arctic",
+    "fips": "02188"
+  },
+  {
+    "zip": "99830",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02195",
+        "name": "Petersburg",
+        "percentage": 71.5
+      }
+    ],
+    "primary_county": {
+      "fips": "02195",
+      "name": "Petersburg"
+    },
+    "county": "Petersburg",
+    "fips": "02195"
+  },
+  {
+    "zip": "99840",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02230",
+        "name": "Skagway",
+        "percentage": 99.8
+      }
+    ],
+    "primary_county": {
+      "fips": "02230",
+      "name": "Skagway"
+    },
+    "county": "Skagway",
+    "fips": "02230"
+  },
+  {
+    "zip": "99604",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02270",
+        "name": "Wade Hampton",
+        "percentage": 85.6
+      }
+    ],
+    "primary_county": {
+      "fips": "02270",
+      "name": "Wade Hampton"
+    },
+    "county": "Wade Hampton",
+    "fips": "02270"
+  },
+  {
+    "zip": "99689",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02282",
+        "name": "Yakutat",
+        "percentage": 98.3
+      }
+    ],
+    "primary_county": {
+      "fips": "02282",
+      "name": "Yakutat"
+    },
+    "county": "Yakutat",
+    "fips": "02282"
+  },
+  {
+    "zip": "99722",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99768",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99767",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99740",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99507",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "name": "Anchorage",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "name": "Anchorage"
+    },
+    "county": "Anchorage",
+    "fips": "02020"
+  },
+  {
+    "zip": "99567",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "name": "Anchorage",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "name": "Anchorage"
+    },
+    "county": "Anchorage",
+    "fips": "02020"
+  },
+  {
+    "zip": "99540",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "name": "Anchorage",
+        "percentage": 98.7
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "name": "Anchorage"
+    },
+    "county": "Anchorage",
+    "fips": "02020"
+  },
+  {
+    "zip": "99668",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "name": "Bethel",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "name": "Bethel"
+    },
+    "county": "Bethel",
+    "fips": "02050"
+  },
+  {
+    "zip": "99679",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "name": "Bethel",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "name": "Bethel"
+    },
+    "county": "Bethel",
+    "fips": "02050"
+  },
+  {
+    "zip": "99575",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "name": "Bethel",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "name": "Bethel"
+    },
+    "county": "Bethel",
+    "fips": "02050"
+  },
+  {
+    "zip": "99555",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02070",
+        "name": "Dillingham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02070",
+      "name": "Dillingham"
+    },
+    "county": "Dillingham",
+    "fips": "02070"
+  },
+  {
+    "zip": "99702",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02090",
+        "name": "Fairbanks North Star",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02090",
+      "name": "Fairbanks North Star"
+    },
+    "county": "Fairbanks North Star",
+    "fips": "02090"
+  },
+  {
+    "zip": "99611",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "name": "Kenai Peninsula",
+        "percentage": 99.5
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "name": "Kenai Peninsula"
+    },
+    "county": "Kenai Peninsula",
+    "fips": "02122"
+  },
+  {
+    "zip": "99663",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "name": "Kenai Peninsula",
+        "percentage": 98.5
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "name": "Kenai Peninsula"
+    },
+    "county": "Kenai Peninsula",
+    "fips": "02122"
+  },
+  {
+    "zip": "99643",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02150",
+        "name": "Kodiak Island",
+        "percentage": 95.4
+      }
+    ],
+    "primary_county": {
+      "fips": "02150",
+      "name": "Kodiak Island"
+    },
+    "county": "Kodiak Island",
+    "fips": "02150"
+  },
+  {
+    "zip": "99550",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02150",
+        "name": "Kodiak Island",
+        "percentage": 95.7
+      }
+    ],
+    "primary_county": {
+      "fips": "02150",
+      "name": "Kodiak Island"
+    },
+    "county": "Kodiak Island",
+    "fips": "02150"
+  },
+  {
+    "zip": "99548",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02164",
+        "name": "Lake and Peninsula",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02164",
+      "name": "Lake and Peninsula"
+    },
+    "county": "Lake and Peninsula",
+    "fips": "02164"
+  },
+  {
+    "zip": "99789",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02185",
+        "name": "North Slope",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "02185",
+      "name": "North Slope"
+    },
+    "county": "North Slope",
+    "fips": "02185"
+  },
+  {
+    "zip": "99761",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02188",
+        "name": "Northwest Arctic",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02188",
+      "name": "Northwest Arctic"
+    },
+    "county": "Northwest Arctic",
+    "fips": "02188"
+  },
+  {
+    "zip": "99925",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02198",
+        "name": "Prince of Wales-Hyder",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02198",
+      "name": "Prince of Wales-Hyder"
+    },
+    "county": "Prince of Wales-Hyder",
+    "fips": "02198"
+  },
+  {
+    "zip": "99922",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02198",
+        "name": "Prince of Wales-Hyder",
+        "percentage": 98.3
+      }
+    ],
+    "primary_county": {
+      "fips": "02198",
+      "name": "Prince of Wales-Hyder"
+    },
+    "county": "Prince of Wales-Hyder",
+    "fips": "02198"
+  },
+  {
+    "zip": "99732",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02240",
+        "name": "Southeast Fairbanks",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02240",
+      "name": "Southeast Fairbanks"
+    },
+    "county": "Southeast Fairbanks",
+    "fips": "02240"
+  },
+  {
+    "zip": "99566",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02261",
+        "name": "Valdez-Cordova",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02261",
+      "name": "Valdez-Cordova"
+    },
+    "county": "Valdez-Cordova",
+    "fips": "02261"
+  },
+  {
+    "zip": "99730",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 99.6
+      },
+      {
+        "fips": "02240",
+        "name": "Southeast Fairbanks",
+        "percentage": 0.3
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99665",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99553",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02013",
+        "name": "Aleutians East",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02013",
+      "name": "Aleutians East"
+    },
+    "county": "Aleutians East",
+    "fips": "02013"
+  },
+  {
+    "zip": "99661",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02013",
+        "name": "Aleutians East",
+        "percentage": 97.7
+      }
+    ],
+    "primary_county": {
+      "fips": "02013",
+      "name": "Aleutians East"
+    },
+    "county": "Aleutians East",
+    "fips": "02013"
+  },
+  {
+    "zip": "99546",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02016",
+        "name": "Aleutians West",
+        "percentage": 98.2
+      }
+    ],
+    "primary_county": {
+      "fips": "02016",
+      "name": "Aleutians West"
+    },
+    "county": "Aleutians West",
+    "fips": "02016"
+  },
+  {
+    "zip": "99681",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "name": "Bethel",
+        "percentage": 93.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "name": "Bethel"
+    },
+    "county": "Bethel",
+    "fips": "02050"
+  },
+  {
+    "zip": "99655",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "name": "Bethel",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "name": "Bethel"
+    },
+    "county": "Bethel",
+    "fips": "02050"
+  },
+  {
+    "zip": "99712",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02090",
+        "name": "Fairbanks North Star",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "02090",
+      "name": "Fairbanks North Star"
+    },
+    "county": "Fairbanks North Star",
+    "fips": "02090"
+  },
+  {
+    "zip": "99825",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02105",
+        "name": "Hoonah-Angoon",
+        "percentage": 92.7
+      }
+    ],
+    "primary_county": {
+      "fips": "02105",
+      "name": "Hoonah-Angoon"
+    },
+    "county": "Hoonah-Angoon",
+    "fips": "02105"
+  },
+  {
+    "zip": "99829",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02105",
+        "name": "Hoonah-Angoon",
+        "percentage": 98.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02105",
+      "name": "Hoonah-Angoon"
+    },
+    "county": "Hoonah-Angoon",
+    "fips": "02105"
+  },
+  {
+    "zip": "99841",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02105",
+        "name": "Hoonah-Angoon",
+        "percentage": 99.8
+      }
+    ],
+    "primary_county": {
+      "fips": "02105",
+      "name": "Hoonah-Angoon"
+    },
+    "county": "Hoonah-Angoon",
+    "fips": "02105"
+  },
+  {
+    "zip": "99568",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "name": "Kenai Peninsula",
+        "percentage": 98.1
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "name": "Kenai Peninsula"
+    },
+    "county": "Kenai Peninsula",
+    "fips": "02122"
+  },
+  {
+    "zip": "99603",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "name": "Kenai Peninsula",
+        "percentage": 88.5
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "name": "Kenai Peninsula"
+    },
+    "county": "Kenai Peninsula",
+    "fips": "02122"
+  },
+  {
+    "zip": "99549",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02164",
+        "name": "Lake and Peninsula",
+        "percentage": 98.7
+      }
+    ],
+    "primary_county": {
+      "fips": "02164",
+      "name": "Lake and Peninsula"
+    },
+    "county": "Lake and Peninsula",
+    "fips": "02164"
+  },
+  {
+    "zip": "99688",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02170",
+        "name": "Matanuska-Susitna",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02170",
+      "name": "Matanuska-Susitna"
+    },
+    "county": "Matanuska-Susitna",
+    "fips": "02170"
+  },
+  {
+    "zip": "99652",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02170",
+        "name": "Matanuska-Susitna",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02170",
+      "name": "Matanuska-Susitna"
+    },
+    "county": "Matanuska-Susitna",
+    "fips": "02170"
+  },
+  {
+    "zip": "99659",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02180",
+        "name": "Nome",
+        "percentage": 96.1
+      }
+    ],
+    "primary_county": {
+      "fips": "02180",
+      "name": "Nome"
+    },
+    "county": "Nome",
+    "fips": "02180"
+  },
+  {
+    "zip": "99723",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02185",
+        "name": "North Slope",
+        "percentage": 99.7
+      }
+    ],
+    "primary_county": {
+      "fips": "02185",
+      "name": "North Slope"
+    },
+    "county": "North Slope",
+    "fips": "02185"
+  },
+  {
+    "zip": "99759",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02185",
+        "name": "North Slope",
+        "percentage": 71.8
+      }
+    ],
+    "primary_county": {
+      "fips": "02185",
+      "name": "North Slope"
+    },
+    "county": "North Slope",
+    "fips": "02185"
+  },
+  {
+    "zip": "99926",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02198",
+        "name": "Prince of Wales-Hyder",
+        "percentage": 69.7
+      }
+    ],
+    "primary_county": {
+      "fips": "02198",
+      "name": "Prince of Wales-Hyder"
+    },
+    "county": "Prince of Wales-Hyder",
+    "fips": "02198"
+  },
+  {
+    "zip": "99927",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02198",
+        "name": "Prince of Wales-Hyder",
+        "percentage": 97.3
+      }
+    ],
+    "primary_county": {
+      "fips": "02198",
+      "name": "Prince of Wales-Hyder"
+    },
+    "county": "Prince of Wales-Hyder",
+    "fips": "02198"
+  },
+  {
+    "zip": "99764",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02240",
+        "name": "Southeast Fairbanks",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02240",
+      "name": "Southeast Fairbanks"
+    },
+    "county": "Southeast Fairbanks",
+    "fips": "02240"
+  },
+  {
+    "zip": "99776",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02240",
+        "name": "Southeast Fairbanks",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02240",
+      "name": "Southeast Fairbanks"
+    },
+    "county": "Southeast Fairbanks",
+    "fips": "02240"
+  },
+  {
+    "zip": "99573",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02261",
+        "name": "Valdez-Cordova",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02261",
+      "name": "Valdez-Cordova"
+    },
+    "county": "Valdez-Cordova",
+    "fips": "02261"
+  },
+  {
+    "zip": "99586",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02261",
+        "name": "Valdez-Cordova",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02261",
+      "name": "Valdez-Cordova"
+    },
+    "county": "Valdez-Cordova",
+    "fips": "02261"
+  },
+  {
+    "zip": "99585",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02270",
+        "name": "Wade Hampton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02270",
+      "name": "Wade Hampton"
+    },
+    "county": "Wade Hampton",
+    "fips": "02270"
+  },
+  {
+    "zip": "99658",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02270",
+        "name": "Wade Hampton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02270",
+      "name": "Wade Hampton"
+    },
+    "county": "Wade Hampton",
+    "fips": "02270"
+  },
+  {
+    "zip": "99650",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02270",
+        "name": "Wade Hampton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02270",
+      "name": "Wade Hampton"
+    },
+    "county": "Wade Hampton",
+    "fips": "02270"
+  },
+  {
+    "zip": "99581",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02270",
+        "name": "Wade Hampton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02270",
+      "name": "Wade Hampton"
+    },
+    "county": "Wade Hampton",
+    "fips": "02270"
+  },
+  {
+    "zip": "99781",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99720",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99765",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99547",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02016",
+        "name": "Aleutians West",
+        "percentage": 96.5
+      }
+    ],
+    "primary_county": {
+      "fips": "02016",
+      "name": "Aleutians West"
+    },
+    "county": "Aleutians West",
+    "fips": "02016"
+  },
+  {
+    "zip": "99517",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "name": "Anchorage",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "name": "Anchorage"
+    },
+    "county": "Anchorage",
+    "fips": "02020"
+  },
+  {
+    "zip": "99559",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "name": "Bethel",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "name": "Bethel"
+    },
+    "county": "Bethel",
+    "fips": "02050"
+  },
+  {
+    "zip": "99614",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "name": "Bethel",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "name": "Bethel"
+    },
+    "county": "Bethel",
+    "fips": "02050"
+  },
+  {
+    "zip": "99744",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02068",
+        "name": "Denali",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "02068",
+      "name": "Denali"
+    },
+    "county": "Denali",
+    "fips": "02068"
+  },
+  {
+    "zip": "99729",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "02170",
+        "name": "Matanuska-Susitna",
+        "percentage": 82.3
+      },
+      {
+        "fips": "02068",
+        "name": "Denali",
+        "percentage": 17.7
+      }
+    ],
+    "primary_county": {
+      "fips": "02170",
+      "name": "Matanuska-Susitna"
+    },
+    "county": "Matanuska-Susitna",
+    "fips": "02170"
+  },
+  {
+    "zip": "99705",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02090",
+        "name": "Fairbanks North Star",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02090",
+      "name": "Fairbanks North Star"
+    },
+    "county": "Fairbanks North Star",
+    "fips": "02090"
+  },
+  {
+    "zip": "99827",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "02100",
+        "name": "Haines",
+        "percentage": 98.0
+      },
+      {
+        "fips": "02105",
+        "name": "Hoonah-Angoon",
+        "percentage": 1.4
+      }
+    ],
+    "primary_county": {
+      "fips": "02100",
+      "name": "Haines"
+    },
+    "county": "Haines",
+    "fips": "02100"
+  },
+  {
+    "zip": "99801",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02110",
+        "name": "Juneau",
+        "percentage": 95.5
+      }
+    ],
+    "primary_county": {
+      "fips": "02110",
+      "name": "Juneau"
+    },
+    "county": "Juneau",
+    "fips": "02110"
+  },
+  {
+    "zip": "99610",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "name": "Kenai Peninsula",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "name": "Kenai Peninsula"
+    },
+    "county": "Kenai Peninsula",
+    "fips": "02122"
+  },
+  {
+    "zip": "99647",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02164",
+        "name": "Lake and Peninsula",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02164",
+      "name": "Lake and Peninsula"
+    },
+    "county": "Lake and Peninsula",
+    "fips": "02164"
+  },
+  {
+    "zip": "99648",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02164",
+        "name": "Lake and Peninsula",
+        "percentage": 60.8
+      }
+    ],
+    "primary_county": {
+      "fips": "02164",
+      "name": "Lake and Peninsula"
+    },
+    "county": "Lake and Peninsula",
+    "fips": "02164"
+  },
+  {
+    "zip": "99653",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02164",
+        "name": "Lake and Peninsula",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02164",
+      "name": "Lake and Peninsula"
+    },
+    "county": "Lake and Peninsula",
+    "fips": "02164"
+  },
+  {
+    "zip": "99649",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02164",
+        "name": "Lake and Peninsula",
+        "percentage": 92.7
+      }
+    ],
+    "primary_county": {
+      "fips": "02164",
+      "name": "Lake and Peninsula"
+    },
+    "county": "Lake and Peninsula",
+    "fips": "02164"
+  },
+  {
+    "zip": "99695",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02164",
+        "name": "Lake and Peninsula",
+        "percentage": 98.1
+      }
+    ],
+    "primary_county": {
+      "fips": "02164",
+      "name": "Lake and Peninsula"
+    },
+    "county": "Lake and Peninsula",
+    "fips": "02164"
+  },
+  {
+    "zip": "99654",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02170",
+        "name": "Matanuska-Susitna",
+        "percentage": 99.8
+      }
+    ],
+    "primary_county": {
+      "fips": "02170",
+      "name": "Matanuska-Susitna"
+    },
+    "county": "Matanuska-Susitna",
+    "fips": "02170"
+  },
+  {
+    "zip": "99684",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "02180",
+        "name": "Nome",
+        "percentage": 99.7
+      },
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 0.3
+      }
+    ],
+    "primary_county": {
+      "fips": "02180",
+      "name": "Nome"
+    },
+    "county": "Nome",
+    "fips": "02180"
+  },
+  {
+    "zip": "99762",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02180",
+        "name": "Nome",
+        "percentage": 98.1
+      }
+    ],
+    "primary_county": {
+      "fips": "02180",
+      "name": "Nome"
+    },
+    "county": "Nome",
+    "fips": "02180"
+  },
+  {
+    "zip": "99742",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02180",
+        "name": "Nome",
+        "percentage": 40.6
+      }
+    ],
+    "primary_county": {
+      "fips": "02180",
+      "name": "Nome"
+    },
+    "county": "Nome",
+    "fips": "02180"
+  },
+  {
+    "zip": "99747",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02185",
+        "name": "North Slope",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02185",
+      "name": "North Slope"
+    },
+    "county": "North Slope",
+    "fips": "02185"
+  },
+  {
+    "zip": "99770",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02188",
+        "name": "Northwest Arctic",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02188",
+      "name": "Northwest Arctic"
+    },
+    "county": "Northwest Arctic",
+    "fips": "02188"
+  },
+  {
+    "zip": "99921",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02198",
+        "name": "Prince of Wales-Hyder",
+        "percentage": 89.8
+      }
+    ],
+    "primary_county": {
+      "fips": "02198",
+      "name": "Prince of Wales-Hyder"
+    },
+    "county": "Prince of Wales-Hyder",
+    "fips": "02198"
+  },
+  {
+    "zip": "99835",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02220",
+        "name": "Sitka",
+        "percentage": 90.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02220",
+      "name": "Sitka"
+    },
+    "county": "Sitka",
+    "fips": "02220"
+  },
+  {
+    "zip": "99737",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "02240",
+        "name": "Southeast Fairbanks",
+        "percentage": 92.5
+      },
+      {
+        "fips": "02261",
+        "name": "Valdez-Cordova",
+        "percentage": 7.5
+      }
+    ],
+    "primary_county": {
+      "fips": "02240",
+      "name": "Southeast Fairbanks"
+    },
+    "county": "Southeast Fairbanks",
+    "fips": "02240"
+  },
+  {
+    "zip": "99686",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02261",
+        "name": "Valdez-Cordova",
+        "percentage": 90.8
+      }
+    ],
+    "primary_county": {
+      "fips": "02261",
+      "name": "Valdez-Cordova"
+    },
+    "county": "Valdez-Cordova",
+    "fips": "02261"
+  },
+  {
+    "zip": "99929",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "02275",
+        "name": "Wrangell",
+        "percentage": 93.4
+      },
+      {
+        "fips": "02130",
+        "name": "Ketchikan Gateway",
+        "percentage": 1.2
+      }
+    ],
+    "primary_county": {
+      "fips": "02275",
+      "name": "Wrangell"
+    },
+    "county": "Wrangell",
+    "fips": "02275"
+  },
+  {
+    "zip": "99726",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99757",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 99.8
+      },
+      {
+        "fips": "02068",
+        "name": "Denali",
+        "percentage": 0.2
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99591",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02016",
+        "name": "Aleutians West",
+        "percentage": 98.8
+      }
+    ],
+    "primary_county": {
+      "fips": "02016",
+      "name": "Aleutians West"
+    },
+    "county": "Aleutians West",
+    "fips": "02016"
+  },
+  {
+    "zip": "99508",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "name": "Anchorage",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "name": "Anchorage"
+    },
+    "county": "Anchorage",
+    "fips": "02020"
+  },
+  {
+    "zip": "99501",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "name": "Anchorage",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "name": "Anchorage"
+    },
+    "county": "Anchorage",
+    "fips": "02020"
+  },
+  {
+    "zip": "99633",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02060",
+        "name": "Bristol Bay",
+        "percentage": 97.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02060",
+      "name": "Bristol Bay"
+    },
+    "county": "Bristol Bay",
+    "fips": "02060"
+  },
+  {
+    "zip": "99701",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 99.6
+      },
+      {
+        "fips": "02090",
+        "name": "Fairbanks North Star",
+        "percentage": 0.4
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99820",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02105",
+        "name": "Hoonah-Angoon",
+        "percentage": 98.3
+      }
+    ],
+    "primary_county": {
+      "fips": "02105",
+      "name": "Hoonah-Angoon"
+    },
+    "county": "Hoonah-Angoon",
+    "fips": "02105"
+  },
+  {
+    "zip": "99631",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "name": "Kenai Peninsula",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "name": "Kenai Peninsula"
+    },
+    "county": "Kenai Peninsula",
+    "fips": "02122"
+  },
+  {
+    "zip": "99639",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "name": "Kenai Peninsula",
+        "percentage": 99.8
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "name": "Kenai Peninsula"
+    },
+    "county": "Kenai Peninsula",
+    "fips": "02122"
+  },
+  {
+    "zip": "99645",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02170",
+        "name": "Matanuska-Susitna",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02170",
+      "name": "Matanuska-Susitna"
+    },
+    "county": "Matanuska-Susitna",
+    "fips": "02170"
+  },
+  {
+    "zip": "99772",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02180",
+        "name": "Nome",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02180",
+      "name": "Nome"
+    },
+    "county": "Nome",
+    "fips": "02180"
+  },
+  {
+    "zip": "99734",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02185",
+        "name": "North Slope",
+        "percentage": 70.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02185",
+      "name": "North Slope"
+    },
+    "county": "North Slope",
+    "fips": "02185"
+  },
+  {
+    "zip": "99786",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02188",
+        "name": "Northwest Arctic",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02188",
+      "name": "Northwest Arctic"
+    },
+    "county": "Northwest Arctic",
+    "fips": "02188"
+  },
+  {
+    "zip": "99751",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02188",
+        "name": "Northwest Arctic",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02188",
+      "name": "Northwest Arctic"
+    },
+    "county": "Northwest Arctic",
+    "fips": "02188"
+  },
+  {
+    "zip": "99833",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02195",
+        "name": "Petersburg",
+        "percentage": 82.8
+      }
+    ],
+    "primary_county": {
+      "fips": "02195",
+      "name": "Petersburg"
+    },
+    "county": "Petersburg",
+    "fips": "02195"
+  },
+  {
+    "zip": "99919",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02198",
+        "name": "Prince of Wales-Hyder",
+        "percentage": 95.4
+      }
+    ],
+    "primary_county": {
+      "fips": "02198",
+      "name": "Prince of Wales-Hyder"
+    },
+    "county": "Prince of Wales-Hyder",
+    "fips": "02198"
+  },
+  {
+    "zip": "99923",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02198",
+        "name": "Prince of Wales-Hyder",
+        "percentage": 97.9
+      }
+    ],
+    "primary_county": {
+      "fips": "02198",
+      "name": "Prince of Wales-Hyder"
+    },
+    "county": "Prince of Wales-Hyder",
+    "fips": "02198"
+  },
+  {
+    "zip": "99657",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02270",
+        "name": "Wade Hampton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02270",
+      "name": "Wade Hampton"
+    },
+    "county": "Wade Hampton",
+    "fips": "02270"
+  },
+  {
+    "zip": "99554",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02270",
+        "name": "Wade Hampton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02270",
+      "name": "Wade Hampton"
+    },
+    "county": "Wade Hampton",
+    "fips": "02270"
+  },
+  {
+    "zip": "99741",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99627",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99756",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99724",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99571",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02013",
+        "name": "Aleutians East",
+        "percentage": 95.3
+      }
+    ],
+    "primary_county": {
+      "fips": "02013",
+      "name": "Aleutians East"
+    },
+    "county": "Aleutians East",
+    "fips": "02013"
+  },
+  {
+    "zip": "99612",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02013",
+        "name": "Aleutians East",
+        "percentage": 99.2
+      }
+    ],
+    "primary_county": {
+      "fips": "02013",
+      "name": "Aleutians East"
+    },
+    "county": "Aleutians East",
+    "fips": "02013"
+  },
+  {
+    "zip": "99638",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02016",
+        "name": "Aleutians West",
+        "percentage": 76.3
+      }
+    ],
+    "primary_county": {
+      "fips": "02016",
+      "name": "Aleutians West"
+    },
+    "county": "Aleutians West",
+    "fips": "02016"
+  },
+  {
+    "zip": "99577",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "name": "Anchorage",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "name": "Anchorage"
+    },
+    "county": "Anchorage",
+    "fips": "02020"
+  },
+  {
+    "zip": "99506",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "name": "Anchorage",
+        "percentage": 99.6
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "name": "Anchorage"
+    },
+    "county": "Anchorage",
+    "fips": "02020"
+  },
+  {
+    "zip": "99504",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "name": "Anchorage",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "name": "Anchorage"
+    },
+    "county": "Anchorage",
+    "fips": "02020"
+  },
+  {
+    "zip": "99587",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "02020",
+        "name": "Anchorage",
+        "percentage": 99.7
+      },
+      {
+        "fips": "02122",
+        "name": "Kenai Peninsula",
+        "percentage": 0.2
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "name": "Anchorage"
+    },
+    "county": "Anchorage",
+    "fips": "02020"
+  },
+  {
+    "zip": "99621",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "name": "Bethel",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "name": "Bethel"
+    },
+    "county": "Bethel",
+    "fips": "02050"
+  },
+  {
+    "zip": "99634",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "name": "Bethel",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "name": "Bethel"
+    },
+    "county": "Bethel",
+    "fips": "02050"
+  },
+  {
+    "zip": "99622",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "name": "Bethel",
+        "percentage": 97.8
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "name": "Bethel"
+    },
+    "county": "Bethel",
+    "fips": "02050"
+  },
+  {
+    "zip": "99561",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "name": "Bethel",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "name": "Bethel"
+    },
+    "county": "Bethel",
+    "fips": "02050"
+  },
+  {
+    "zip": "99628",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02070",
+        "name": "Dillingham",
+        "percentage": 99.7
+      }
+    ],
+    "primary_county": {
+      "fips": "02070",
+      "name": "Dillingham"
+    },
+    "county": "Dillingham",
+    "fips": "02070"
+  },
+  {
+    "zip": "99580",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02070",
+        "name": "Dillingham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02070",
+      "name": "Dillingham"
+    },
+    "county": "Dillingham",
+    "fips": "02070"
+  },
+  {
+    "zip": "99605",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "name": "Kenai Peninsula",
+        "percentage": 91.8
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "name": "Kenai Peninsula"
+    },
+    "county": "Kenai Peninsula",
+    "fips": "02122"
+  },
+  {
+    "zip": "99615",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02150",
+        "name": "Kodiak Island",
+        "percentage": 91.3
+      }
+    ],
+    "primary_county": {
+      "fips": "02150",
+      "name": "Kodiak Island"
+    },
+    "county": "Kodiak Island",
+    "fips": "02150"
+  },
+  {
+    "zip": "99625",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02164",
+        "name": "Lake and Peninsula",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02164",
+      "name": "Lake and Peninsula"
+    },
+    "county": "Lake and Peninsula",
+    "fips": "02164"
+  },
+  {
+    "zip": "99565",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02164",
+        "name": "Lake and Peninsula",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "02164",
+      "name": "Lake and Peninsula"
+    },
+    "county": "Lake and Peninsula",
+    "fips": "02164"
+  },
+  {
+    "zip": "99693",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "02261",
+        "name": "Valdez-Cordova",
+        "percentage": 61.9
+      },
+      {
+        "fips": "02170",
+        "name": "Matanuska-Susitna",
+        "percentage": 15.5
+      }
+    ],
+    "primary_county": {
+      "fips": "02261",
+      "name": "Valdez-Cordova"
+    },
+    "county": "Valdez-Cordova",
+    "fips": "02261"
+  },
+  {
+    "zip": "99778",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02180",
+        "name": "Nome",
+        "percentage": 98.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02180",
+      "name": "Nome"
+    },
+    "county": "Nome",
+    "fips": "02180"
+  },
+  {
+    "zip": "99721",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02185",
+        "name": "North Slope",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02185",
+      "name": "North Slope"
+    },
+    "county": "North Slope",
+    "fips": "02185"
+  },
+  {
+    "zip": "99766",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02185",
+        "name": "North Slope",
+        "percentage": 99.8
+      }
+    ],
+    "primary_county": {
+      "fips": "02185",
+      "name": "North Slope"
+    },
+    "county": "North Slope",
+    "fips": "02185"
+  },
+  {
+    "zip": "99510",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02185",
+        "name": "North Slope",
+        "percentage": 90.3
+      }
+    ],
+    "primary_county": {
+      "fips": "02185",
+      "name": "North Slope"
+    },
+    "county": "North Slope",
+    "fips": "02185"
+  },
+  {
+    "zip": "99773",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02188",
+        "name": "Northwest Arctic",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02188",
+      "name": "Northwest Arctic"
+    },
+    "county": "Northwest Arctic",
+    "fips": "02188"
+  },
+  {
+    "zip": "99836",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "02195",
+        "name": "Petersburg",
+        "percentage": 91.0
+      },
+      {
+        "fips": "02220",
+        "name": "Sitka",
+        "percentage": 0.2
+      }
+    ],
+    "primary_county": {
+      "fips": "02195",
+      "name": "Petersburg"
+    },
+    "county": "Petersburg",
+    "fips": "02195"
+  },
+  {
+    "zip": "99918",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02198",
+        "name": "Prince of Wales-Hyder",
+        "percentage": 86.1
+      }
+    ],
+    "primary_county": {
+      "fips": "02198",
+      "name": "Prince of Wales-Hyder"
+    },
+    "county": "Prince of Wales-Hyder",
+    "fips": "02198"
+  },
+  {
+    "zip": "99738",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "02240",
+        "name": "Southeast Fairbanks",
+        "percentage": 56.3
+      },
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 43.7
+      }
+    ],
+    "primary_county": {
+      "fips": "02240",
+      "name": "Southeast Fairbanks"
+    },
+    "county": "Southeast Fairbanks",
+    "fips": "02240"
+  },
+  {
+    "zip": "99574",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02261",
+        "name": "Valdez-Cordova",
+        "percentage": 95.9
+      }
+    ],
+    "primary_county": {
+      "fips": "02261",
+      "name": "Valdez-Cordova"
+    },
+    "county": "Valdez-Cordova",
+    "fips": "02261"
+  },
+  {
+    "zip": "99666",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02270",
+        "name": "Wade Hampton",
+        "percentage": 99.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02270",
+      "name": "Wade Hampton"
+    },
+    "county": "Wade Hampton",
+    "fips": "02270"
+  },
+  {
+    "zip": "99903",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "02275",
+        "name": "Wrangell",
+        "percentage": 84.6
+      },
+      {
+        "fips": "02130",
+        "name": "Ketchikan Gateway",
+        "percentage": 10.3
+      }
+    ],
+    "primary_county": {
+      "fips": "02275",
+      "name": "Wrangell"
+    },
+    "county": "Wrangell",
+    "fips": "02275"
+  },
+  {
+    "zip": "99777",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99691",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99745",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99754",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99583",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02013",
+        "name": "Aleutians East",
+        "percentage": 98.6
+      }
+    ],
+    "primary_county": {
+      "fips": "02013",
+      "name": "Aleutians East"
+    },
+    "county": "Aleutians East",
+    "fips": "02013"
+  },
+  {
+    "zip": "99516",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "name": "Anchorage",
+        "percentage": 99.7
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "name": "Anchorage"
+    },
+    "county": "Anchorage",
+    "fips": "02020"
+  },
+  {
+    "zip": "99609",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "name": "Bethel",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "name": "Bethel"
+    },
+    "county": "Bethel",
+    "fips": "02050"
+  },
+  {
+    "zip": "99551",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "name": "Bethel",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "name": "Bethel"
+    },
+    "county": "Bethel",
+    "fips": "02050"
+  },
+  {
+    "zip": "99636",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02070",
+        "name": "Dillingham",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02070",
+      "name": "Dillingham"
+    },
+    "county": "Dillingham",
+    "fips": "02070"
+  },
+  {
+    "zip": "99709",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02090",
+        "name": "Fairbanks North Star",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02090",
+      "name": "Fairbanks North Star"
+    },
+    "county": "Fairbanks North Star",
+    "fips": "02090"
+  },
+  {
+    "zip": "99826",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "02105",
+        "name": "Hoonah-Angoon",
+        "percentage": 96.7
+      },
+      {
+        "fips": "02100",
+        "name": "Haines",
+        "percentage": 1.9
+      }
+    ],
+    "primary_county": {
+      "fips": "02105",
+      "name": "Hoonah-Angoon"
+    },
+    "county": "Hoonah-Angoon",
+    "fips": "02105"
+  },
+  {
+    "zip": "99672",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "name": "Kenai Peninsula",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "name": "Kenai Peninsula"
+    },
+    "county": "Kenai Peninsula",
+    "fips": "02122"
+  },
+  {
+    "zip": "99901",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "02130",
+        "name": "Ketchikan Gateway",
+        "percentage": 89.9
+      },
+      {
+        "fips": "02198",
+        "name": "Prince of Wales-Hyder",
+        "percentage": 5.4
+      },
+      {
+        "fips": "02275",
+        "name": "Wrangell",
+        "percentage": 0.7
+      }
+    ],
+    "primary_county": {
+      "fips": "02130",
+      "name": "Ketchikan Gateway"
+    },
+    "county": "Ketchikan Gateway",
+    "fips": "02130"
+  },
+  {
+    "zip": "99640",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02164",
+        "name": "Lake and Peninsula",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02164",
+      "name": "Lake and Peninsula"
+    },
+    "county": "Lake and Peninsula",
+    "fips": "02164"
+  },
+  {
+    "zip": "99564",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02164",
+        "name": "Lake and Peninsula",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02164",
+      "name": "Lake and Peninsula"
+    },
+    "county": "Lake and Peninsula",
+    "fips": "02164"
+  },
+  {
+    "zip": "99579",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02164",
+        "name": "Lake and Peninsula",
+        "percentage": 53.7
+      }
+    ],
+    "primary_county": {
+      "fips": "02164",
+      "name": "Lake and Peninsula"
+    },
+    "county": "Lake and Peninsula",
+    "fips": "02164"
+  },
+  {
+    "zip": "99674",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02170",
+        "name": "Matanuska-Susitna",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "02170",
+      "name": "Matanuska-Susitna"
+    },
+    "county": "Matanuska-Susitna",
+    "fips": "02170"
+  },
+  {
+    "zip": "99769",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02180",
+        "name": "Nome",
+        "percentage": 95.3
+      }
+    ],
+    "primary_county": {
+      "fips": "02180",
+      "name": "Nome"
+    },
+    "county": "Nome",
+    "fips": "02180"
+  },
+  {
+    "zip": "99753",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02180",
+        "name": "Nome",
+        "percentage": 98.9
+      }
+    ],
+    "primary_county": {
+      "fips": "02180",
+      "name": "Nome"
+    },
+    "county": "Nome",
+    "fips": "02180"
+  },
+  {
+    "zip": "99785",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02180",
+        "name": "Nome",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02180",
+      "name": "Nome"
+    },
+    "county": "Nome",
+    "fips": "02180"
+  },
+  {
+    "zip": "99519",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02185",
+        "name": "North Slope",
+        "percentage": 99.7
+      }
+    ],
+    "primary_county": {
+      "fips": "02185",
+      "name": "North Slope"
+    },
+    "county": "North Slope",
+    "fips": "02185"
+  },
+  {
+    "zip": "99782",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02185",
+        "name": "North Slope",
+        "percentage": 98.8
+      }
+    ],
+    "primary_county": {
+      "fips": "02185",
+      "name": "North Slope"
+    },
+    "county": "North Slope",
+    "fips": "02185"
+  },
+  {
+    "zip": "99780",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "02240",
+        "name": "Southeast Fairbanks",
+        "percentage": 88.3
+      },
+      {
+        "fips": "02261",
+        "name": "Valdez-Cordova",
+        "percentage": 11.7
+      }
+    ],
+    "primary_county": {
+      "fips": "02240",
+      "name": "Southeast Fairbanks"
+    },
+    "county": "Southeast Fairbanks",
+    "fips": "02240"
+  },
+  {
+    "zip": "99632",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02270",
+        "name": "Wade Hampton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02270",
+      "name": "Wade Hampton"
+    },
+    "county": "Wade Hampton",
+    "fips": "02270"
+  },
+  {
+    "zip": "99662",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02270",
+        "name": "Wade Hampton",
+        "percentage": 99.6
+      }
+    ],
+    "primary_county": {
+      "fips": "02270",
+      "name": "Wade Hampton"
+    },
+    "county": "Wade Hampton",
+    "fips": "02270"
+  },
+  {
+    "zip": "99620",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02270",
+        "name": "Wade Hampton",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02270",
+      "name": "Wade Hampton"
+    },
+    "county": "Wade Hampton",
+    "fips": "02270"
+  },
+  {
+    "zip": "99590",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99790",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99758",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99505",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "name": "Anchorage",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "name": "Anchorage"
+    },
+    "county": "Anchorage",
+    "fips": "02020"
+  },
+  {
+    "zip": "99518",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "name": "Anchorage",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "name": "Anchorage"
+    },
+    "county": "Anchorage",
+    "fips": "02020"
+  },
+  {
+    "zip": "99503",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "02050",
+        "name": "Bethel",
+        "percentage": 83.8
+      },
+      {
+        "fips": "02020",
+        "name": "Anchorage",
+        "percentage": 16.2
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "name": "Bethel"
+    },
+    "county": "Bethel",
+    "fips": "02050"
+  },
+  {
+    "zip": "99515",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "name": "Anchorage",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "name": "Anchorage"
+    },
+    "county": "Anchorage",
+    "fips": "02020"
+  },
+  {
+    "zip": "99641",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "name": "Bethel",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "name": "Bethel"
+    },
+    "county": "Bethel",
+    "fips": "02050"
+  },
+  {
+    "zip": "99630",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "name": "Bethel",
+        "percentage": 98.1
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "name": "Bethel"
+    },
+    "county": "Bethel",
+    "fips": "02050"
+  },
+  {
+    "zip": "99690",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "name": "Bethel",
+        "percentage": 99.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "name": "Bethel"
+    },
+    "county": "Bethel",
+    "fips": "02050"
+  },
+  {
+    "zip": "99589",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "name": "Bethel",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "name": "Bethel"
+    },
+    "county": "Bethel",
+    "fips": "02050"
+  },
+  {
+    "zip": "99651",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "name": "Bethel",
+        "percentage": 97.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "name": "Bethel"
+    },
+    "county": "Bethel",
+    "fips": "02050"
+  },
+  {
+    "zip": "99670",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02060",
+        "name": "Bristol Bay",
+        "percentage": 99.1
+      }
+    ],
+    "primary_county": {
+      "fips": "02060",
+      "name": "Bristol Bay"
+    },
+    "county": "Bristol Bay",
+    "fips": "02060"
+  },
+  {
+    "zip": "99743",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02068",
+        "name": "Denali",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02068",
+      "name": "Denali"
+    },
+    "county": "Denali",
+    "fips": "02068"
+  },
+  {
+    "zip": "99755",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02068",
+        "name": "Denali",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02068",
+      "name": "Denali"
+    },
+    "county": "Denali",
+    "fips": "02068"
+  },
+  {
+    "zip": "99678",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02070",
+        "name": "Dillingham",
+        "percentage": 98.6
+      }
+    ],
+    "primary_county": {
+      "fips": "02070",
+      "name": "Dillingham"
+    },
+    "county": "Dillingham",
+    "fips": "02070"
+  },
+  {
+    "zip": "99714",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "02090",
+        "name": "Fairbanks North Star",
+        "percentage": 99.9
+      },
+      {
+        "fips": "02240",
+        "name": "Southeast Fairbanks",
+        "percentage": 0.1
+      }
+    ],
+    "primary_county": {
+      "fips": "02090",
+      "name": "Fairbanks North Star"
+    },
+    "county": "Fairbanks North Star",
+    "fips": "02090"
+  },
+  {
+    "zip": "99664",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "name": "Kenai Peninsula",
+        "percentage": 84.8
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "name": "Kenai Peninsula"
+    },
+    "county": "Kenai Peninsula",
+    "fips": "02122"
+  },
+  {
+    "zip": "99556",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "name": "Kenai Peninsula",
+        "percentage": 99.9
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "name": "Kenai Peninsula"
+    },
+    "county": "Kenai Peninsula",
+    "fips": "02122"
+  },
+  {
+    "zip": "99624",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02150",
+        "name": "Kodiak Island",
+        "percentage": 33.5
+      }
+    ],
+    "primary_county": {
+      "fips": "02150",
+      "name": "Kodiak Island"
+    },
+    "county": "Kodiak Island",
+    "fips": "02150"
+  },
+  {
+    "zip": "99606",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02164",
+        "name": "Lake and Peninsula",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02164",
+      "name": "Lake and Peninsula"
+    },
+    "county": "Lake and Peninsula",
+    "fips": "02164"
+  },
+  {
+    "zip": "99588",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "02170",
+        "name": "Matanuska-Susitna",
+        "percentage": 67.4
+      },
+      {
+        "fips": "02261",
+        "name": "Valdez-Cordova",
+        "percentage": 32.6
+      }
+    ],
+    "primary_county": {
+      "fips": "02170",
+      "name": "Matanuska-Susitna"
+    },
+    "county": "Matanuska-Susitna",
+    "fips": "02170"
+  },
+  {
+    "zip": "99683",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02170",
+        "name": "Matanuska-Susitna",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02170",
+      "name": "Matanuska-Susitna"
+    },
+    "county": "Matanuska-Susitna",
+    "fips": "02170"
+  },
+  {
+    "zip": "99667",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02170",
+        "name": "Matanuska-Susitna",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02170",
+      "name": "Matanuska-Susitna"
+    },
+    "county": "Matanuska-Susitna",
+    "fips": "02170"
+  },
+  {
+    "zip": "99671",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02180",
+        "name": "Nome",
+        "percentage": 94.6
+      }
+    ],
+    "primary_county": {
+      "fips": "02180",
+      "name": "Nome"
+    },
+    "county": "Nome",
+    "fips": "02180"
+  },
+  {
+    "zip": "99791",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02185",
+        "name": "North Slope",
+        "percentage": 99.4
+      }
+    ],
+    "primary_county": {
+      "fips": "02185",
+      "name": "North Slope"
+    },
+    "county": "North Slope",
+    "fips": "02185"
+  },
+  {
+    "zip": "99706",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02240",
+        "name": "Southeast Fairbanks",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02240",
+      "name": "Southeast Fairbanks"
+    },
+    "county": "Southeast Fairbanks",
+    "fips": "02240"
+  },
+  {
+    "zip": "99677",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02261",
+        "name": "Valdez-Cordova",
+        "percentage": 90.3
+      }
+    ],
+    "primary_county": {
+      "fips": "02261",
+      "name": "Valdez-Cordova"
+    },
+    "county": "Valdez-Cordova",
+    "fips": "02261"
+  },
+  {
+    "zip": "99788",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99748",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99602",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99746",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99774",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99733",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  },
+  {
+    "zip": "99558",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "name": "Yukon-Koyukuk",
+        "percentage": 100.0
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "name": "Yukon-Koyukuk"
+    },
+    "county": "Yukon-Koyukuk",
+    "fips": "02290"
+  }
+]

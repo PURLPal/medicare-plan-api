@@ -1,0 +1,144 @@
+{
+  "plan_info": {
+    "name": "Humana USAA Honor Giveback (PPO)",
+    "organization": "Humana",
+    "type": "Medicare Advantage (without drug coverage)",
+    "id": "H5216-236-0"
+  },
+  "premiums": {
+    "Total monthly premium": "$0.00",
+    "Health premium": "$0.00",
+    "Standard Part B premium": "$202.90",
+    "Part B premium reduction": "−$95.00 reduction"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00"
+  },
+  "maximum_out_of_pocket": {
+    "Maximum you pay for health servicesOnce you spend this amount for covered services in a year, your plan pays 100% for your care.": "$6,300 In and Out-of-network\n$4,150 In-network"
+  },
+  "contact_info": {
+    "Plan address": "101 E Main Street\nLouisville, KY 40202"
+  },
+  "benefits": {
+    "Doctor services": {
+      "Primary doctor visit": "In-network: $0 copay\nOut-of-network: 30% coinsurance",
+      "Specialist visit": "In-network: $35 copay\nOut-of-network: 30% coinsurance"
+    },
+    "Tests, labs, & imaging": {
+      "Diagnostic tests & proceduresTests done to confirm or uncover the presence of an illness or disease.": "In-network: $0-$65 copay\nOut-of-network: 30% coinsurance",
+      "Lab services": "In-network: $0-$65 copay\nOut-of-network: 30% coinsurance",
+      "Diagnostic radiology services (like MRI)": "In-network: $0-$335 copay\nOut-of-network: $0 copay, 30% coinsurance",
+      "Outpatient x-rays": "In-network: $0-$130 copay\nOut-of-network: 30% coinsurance",
+      "Emergency care": "$150 copay",
+      "Urgent care": "$65 copay"
+    },
+    "Hospital services": {
+      "Inpatient hospital coverage": "In-network:\nTier 1\n$325 per day for days 1-5\n$0 per day for days 6-90\n$0 per stay\nOut-of-network:\n30% per stay",
+      "Outpatient hospital coverage": "In-network: $0-$295 copay\nOut-of-network: $0 copay, 30% coinsurance"
+    },
+    "Skilled nursing facility": {
+      "Skilled nursing facility": "In-network:\nTier 1\n$0 per day for days 1-20\n$218 per day for days 21-100\nOut-of-network:\n30% per stay"
+    },
+    "Preventive services": {
+      "Preventive services": "In-network: $0 copay\nOut-of-network: $0 copay"
+    },
+    "Ambulance": {
+      "Ground ambulance": "In-network: $335 copay\nOut-of-network: $335 copay"
+    },
+    "Therapy services": {
+      "Occupational therapy visit": "In-network: $20 copay\nOut-of-network: 30% coinsurance",
+      "Physical therapy & speech & language therapy visit": "In-network: $20 copay\nOut-of-network: 30% coinsurance"
+    },
+    "Mental health services": {
+      "Outpatient group therapy with a psychiatrist": "In-network: $0 copay\nOut-of-network: 30% coinsurance",
+      "Outpatient individual therapy with a psychiatrist": "In-network: $0 copay\nOut-of-network: 30% coinsurance",
+      "Outpatient group therapy visit": "In-network: $0 copay\nOut-of-network: 30% coinsurance",
+      "Outpatient individual therapy visit": "In-network: $0 copay\nOut-of-network: 30% coinsurance"
+    },
+    "Opioid treatment program services": {
+      "Opioid treatment program services": "In-network: $0 copay\nOut-of-network: 30% coinsurance"
+    },
+    "Other services": {
+      "Durable medical equipment (like wheelchairs & oxygen)": "In-network: $0 copay, 20% coinsurance\nOut-of-network: $0 copay, 50% coinsurance",
+      "Prosthetics (like braces, artificial limbs)": "In-network: 20% coinsurance\nOut-of-network: 30% coinsurance",
+      "Dialysis": "In-network: 20% coinsurance\nOut-of-network: 20% coinsurance",
+      "Diabetes supplies": "In-network: $0 copay, 10%-20% coinsurance\nOut-of-network: 30% coinsurance"
+    },
+    "Medically-approved non-opioid pain management services": {
+      "Chiropractic services": "Not covered",
+      "Acupuncture": "In-network: $35 copay\nOut-of-network: $35 copay",
+      "Massage therapy": "Not covered",
+      "Alternative therapies": "Not covered"
+    },
+    "More benefits": {
+      "Health Education": "Not covered",
+      "Counseling Services": "Not covered",
+      "Support for Caregivers of Enrollees": "Not covered",
+      "Personal Emergency Response System (PERS)": "Not covered",
+      "Fitness benefit": "In-network: $0 copay\nOut-of-network: $0 copay",
+      "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+      "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+      "Over the counter drug benefits": "Not covered",
+      "In-home support services": "In-network: $0 copay\nOut-of-network: $0 copay",
+      "Home and bathroom safety devices": "Not covered",
+      "Meals for short duration": "In-network: $0 copay\nOut-of-network: $0 copay",
+      "Annual physical exams": "In-network: $0 copay",
+      "Telehealth": "In-network: $0-$65 copay",
+      "Worldwide emergency": "$150 copay",
+      "Post discharge in-home medication reconciliation": "Not covered",
+      "Re-admission prevention": "Not covered",
+      "Wigs for hair loss related to chemotherapy": "Not covered",
+      "Weight management programs": "Not covered",
+      "Adult day health services": "Not covered",
+      "Home-based palliative care": "Not covered"
+    }
+  },
+  "drug_coverage": {
+    "drug_tables": {
+      "Part B drugs": {
+        "Part B insulin": "In-network: 0%-20% coinsurance\nOut-of-network: 20% coinsurance",
+        "Chemotherapy drugs": "In-network: 0%-20% coinsurance\nOut-of-network: 30% coinsurance",
+        "Other Part B drugs": "In-network: 0%-20% coinsurance\nOut-of-network: 20% coinsurance"
+      }
+    }
+  },
+  "extra_benefits": {
+    "Hearing": {
+      "Hearing exam": "In-network: $0 copay\nOut-of-network: $0 copay",
+      "Fitting/evaluation": "In-network: $0 copay\nOut-of-network: $0 copay",
+      "Hearing aids - prescription": "In-network: $499-$799 copay\nOut-of-network: $499-$799 copay",
+      "Hearing aids - over the counter": "Not covered"
+    },
+    "Preventive dental": {
+      "Oral exam": "In-network: $0 copay\nOut-of-network: $0 copay",
+      "Cleaning": "In-network: $0 copay\nOut-of-network: $0 copay",
+      "Fluoride treatment": "Not covered",
+      "Dental x-rays": "In-network: $0 copay\nOut-of-network: $0 copay"
+    },
+    "Comprehensive dental": {
+      "Restorative services": "In-network: $0 copay, 30%-40% coinsurance\nOut-of-network: $0 copay, 30%-40% coinsurance",
+      "Endodontics": "In-network: $0 copay\nOut-of-network: $0 copay",
+      "Periodontics": "In-network: $0 copay\nOut-of-network: $0 copay",
+      "Prosthodontics, removable": "In-network: $0 copay, 30% coinsurance\nOut-of-network: $0 copay, 30% coinsurance",
+      "Prosthodontics, fixed": "In-network: $0 copay, 30%-40% coinsurance\nOut-of-network: $0 copay, 30%-40% coinsurance",
+      "Maxillofacial prosthetics": "Not covered",
+      "Implant services": "Not covered",
+      "Oral and maxillofacial surgery": "In-network: $0 copay\nOut-of-network: $0 copay",
+      "Orthodontics": "Not covered",
+      "Adjunctive general services": "In-network: $0 copay\nOut-of-network: $0 copay"
+    },
+    "Vision": {
+      "Routine eye exam": "In-network: $0 copay\nOut-of-network: $0 copay",
+      "Contact lenses": "In-network: $0 copay\nOut-of-network: $0 copay",
+      "Eyeglasses (frames & lenses)": "In-network: $0 copay\nOut-of-network: $0 copay",
+      "Eyeglass frames only": "Not covered",
+      "Eyeglass lenses only": "Not covered",
+      "Upgrades": "Not covered"
+    }
+  },
+  "source_file": "scraped_html_all/Alabama-H5216_236_0.html",
+  "state": "Alabama",
+  "plan_id": "H5216_236_0",
+  "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H5216-236-0?year=2026&lang=en"
+}

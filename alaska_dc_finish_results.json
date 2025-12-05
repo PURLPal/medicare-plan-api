@@ -1,0 +1,38 @@
+[
+  {
+    "success": true,
+    "plan_id": "S5617_227_0",
+    "state": "Alaska",
+    "address_ok": true
+  },
+  {
+    "success": true,
+    "plan_id": "H5521_480_0",
+    "state": "District_of_Columbia",
+    "address_ok": true
+  },
+  {
+    "success": true,
+    "plan_id": "H7379_002_0",
+    "state": "District_of_Columbia",
+    "address_ok": true
+  },
+  {
+    "success": true,
+    "plan_id": "H7379_003_0",
+    "state": "District_of_Columbia",
+    "address_ok": true
+  },
+  {
+    "success": true,
+    "plan_id": "H7464_010_0",
+    "state": "District_of_Columbia",
+    "address_ok": true
+  },
+  {
+    "success": true,
+    "plan_id": "H7849_142_0",
+    "state": "District_of_Columbia",
+    "address_ok": true
+  }
+]

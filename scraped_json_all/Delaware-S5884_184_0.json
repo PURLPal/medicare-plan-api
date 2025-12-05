@@ -1,0 +1,30 @@
+{
+  "plan_info": {
+    "name": "Humana Value Rx Plan (PDP)",
+    "organization": "Humana",
+    "type": "Drug plan (Part D)",
+    "id": "S5884-184-0"
+  },
+  "premiums": {
+    "Total monthly premium": "$4.30"
+  },
+  "deductibles": {
+    "Drug deductible": "$601.00"
+  },
+  "maximum_out_of_pocket": {},
+  "contact_info": {
+    "Plan address": "101 E Main Street\nLouisville, KY 40202"
+  },
+  "benefits": {
+    "Pharmacies": {},
+    "Costs by drug tier - Preferred retail pharmacy drug cost for 1 month": {
+      "Preferred Generic": "$0.00 copay",
+      "Generic": "$0.00 copay",
+      "Preferred Brand": "20% coinsurance",
+      "Non-Preferred Drug": "33% coinsurance",
+      "Specialty Tier": "26% coinsurance"
+    }
+  },
+  "drug_coverage": {},
+  "extra_benefits": {}
+}

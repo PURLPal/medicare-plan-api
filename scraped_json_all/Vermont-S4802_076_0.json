@@ -1,0 +1,30 @@
+{
+  "plan_info": {
+    "name": "Wellcare Classic (PDP)",
+    "organization": "Wellcare",
+    "type": "Drug plan (Part D)",
+    "id": "S4802-076-0"
+  },
+  "premiums": {
+    "Total monthly premium": "$21.70"
+  },
+  "deductibles": {
+    "Drug deductible": "$615.00"
+  },
+  "maximum_out_of_pocket": {},
+  "contact_info": {
+    "Plan address": "PO Box 31411\nTampa, FL 33631"
+  },
+  "benefits": {
+    "Pharmacies": {},
+    "Costs by drug tier - Preferred retail pharmacy drug cost for 1 month": {
+      "Preferred Generic": "$0.00 copay",
+      "Generic": "$10.00 copay",
+      "Preferred Brand": "25% coinsurance",
+      "Non-Preferred Drug": "29% coinsurance",
+      "Specialty Tier": "25% coinsurance"
+    }
+  },
+  "drug_coverage": {},
+  "extra_benefits": {}
+}

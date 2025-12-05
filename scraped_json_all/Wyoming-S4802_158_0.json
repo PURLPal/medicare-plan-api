@@ -1,0 +1,31 @@
+{
+  "plan_info": {
+    "name": "Wellcare Value Script (PDP)",
+    "organization": "Wellcare",
+    "type": "Drug plan (Part D)",
+    "id": "S4802-158-0"
+  },
+  "premiums": {
+    "Total monthly premium": "$9.60"
+  },
+  "deductibles": {
+    "Drug deductible": "$615.00"
+  },
+  "maximum_out_of_pocket": {},
+  "contact_info": {
+    "Plan address": "PO Box 31411\nTampa, FL 33631"
+  },
+  "benefits": {
+    "Pharmacies": {},
+    "Costs by drug tier - Preferred retail pharmacy drug cost for 1 month": {
+      "Preferred Generic": "$0.00 copay",
+      "Generic": "$3.00 copay",
+      "Preferred Brand": "25% coinsurance",
+      "Non-Preferred Drug": "40% coinsurance",
+      "Specialty Tier": "25% coinsurance",
+      "Select Care Drugs": "$11.00 copay"
+    }
+  },
+  "drug_coverage": {},
+  "extra_benefits": {}
+}
