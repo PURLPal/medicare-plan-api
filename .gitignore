@@ -37,3 +37,11 @@ lambda_package.zip
 # Keep the county cache files - they're needed for deployment
 !mock_api/*/counties/*.json
 !mock_api/*/zip_to_county_multi.json
+
+# Generated API files (deployment artifacts, not source)
+static_api/
+static_api_minified/
+
+# Raw scraping files
+raw_sc_plans/
+test_sc_scrape_output/
