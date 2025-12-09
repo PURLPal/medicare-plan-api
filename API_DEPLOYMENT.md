@@ -107,6 +107,53 @@ GET /medicare/plan/{PLAN_ID}.json
 GET /medicare/plan/S4802_075_0.json
 ```
 
+## Filtering Plans by Category
+
+Each plan includes a `category` field that you can use to filter:
+
+- **MAPD** - Medicare Advantage with drug coverage (Part C + Part D)
+- **MA** - Medicare Advantage only (Part C, no drug coverage)
+- **PD** - Prescription Drug plan only (Part D)
+
+### Filter MAPD Plans (Medicare Advantage with drugs)
+```bash
+curl https://medicare.purlpal-api.com/medicare/zip/03462.json | \
+  jq '.plans | map(select(.category == "MAPD"))'
+```
+
+### Filter MA Plans (Medicare Advantage without drugs)
+```bash
+curl https://medicare.purlpal-api.com/medicare/zip/03462.json | \
+  jq '.plans | map(select(.category == "MA"))'
+```
+
+### Filter PD Plans (Part D drug plans only)
+```bash
+curl https://medicare.purlpal-api.com/medicare/zip/03462.json | \
+  jq '.plans | map(select(.category == "PD"))'
+```
+
+### Count Plans by Category
+```bash
+curl https://medicare.purlpal-api.com/medicare/zip/03462.json | jq '{
+  total: (.plans | length),
+  mapd: (.plans | map(select(.category == "MAPD")) | length),
+  ma: (.plans | map(select(.category == "MA")) | length),
+  pd: (.plans | map(select(.category == "PD")) | length)
+}'
+```
+
+### Filter by Premium Range
+```bash
+# Find plans with $0 premium
+curl https://medicare.purlpal-api.com/medicare/zip/03462.json | \
+  jq '.plans | map(select(.premiums["Total monthly premium"] == "$0.00"))'
+
+# Find MAPD plans with $0 premium
+curl https://medicare.purlpal-api.com/medicare/zip/03462.json | \
+  jq '.plans | map(select(.category == "MAPD" and .premiums["Total monthly premium"] == "$0.00"))'
+```
+
 ## Optimizations
 
 ### S3 Sync
@@ -127,6 +174,12 @@ GET /medicare/plan/S4802_075_0.json
 
 ## Monitoring
 
+### Quick Test Script
+Run comprehensive API tests with filtering examples:
+```bash
+./test_cloudfront_api.sh
+```
+
 ### Test Endpoints
 ```bash
 # List states
@@ -137,6 +190,10 @@ curl https://medicare.purlpal-api.com/medicare/state/NH/plans.json
 
 # Get specific ZIP
 curl https://medicare.purlpal-api.com/medicare/zip/03462.json
+
+# Filter MAPD plans only
+curl https://medicare.purlpal-api.com/medicare/zip/03462.json | \
+  jq '.plans | map(select(.category == "MAPD"))'
 ```
 
 ### Check CloudFront Status
