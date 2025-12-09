@@ -15,18 +15,36 @@ echo ""
 
 # Step 1: Build static API (only changed files)
 echo "Step 1: Building static API..."
-time python3 build_static_api.py
+echo "  (This may take 2-5 minutes...)"
+echo ""
+START_BUILD=$(date +%s)
+python3 build_static_api.py 2>&1 | tee /tmp/build_api.log
+END_BUILD=$(date +%s)
+BUILD_TIME=$((END_BUILD - START_BUILD))
+echo ""
+echo "  ✓ Build completed in ${BUILD_TIME}s"
 echo ""
 
 # Step 2: Sync to S3 (only changed files)
 echo "Step 2: Syncing to S3..."
+FILE_COUNT=$(find "$OUTPUT_DIR" -type f | wc -l | tr -d ' ')
+TOTAL_SIZE=$(du -sh "$OUTPUT_DIR" | cut -f1)
+echo "  Files to check: $FILE_COUNT"
+echo "  Total size: $TOTAL_SIZE"
+echo "  (This may take 5-10 minutes for large updates...)"
+echo ""
+
+START_TIME=$(date +%s)
 aws s3 sync "$OUTPUT_DIR/" "s3://$BUCKET_NAME/" \
     --delete \
     --size-only \
     --content-type "application/json" \
-    --cache-control "max-age=3600"
+    --cache-control "max-age=3600" 2>&1 | tee /tmp/s3_sync.log
 
-FILE_COUNT=$(find "$OUTPUT_DIR" -type f | wc -l | tr -d ' ')
+END_TIME=$(date +%s)
+ELAPSED=$((END_TIME - START_TIME))
+echo ""
+echo "  ✓ S3 sync completed in ${ELAPSED}s"
 echo "  ✓ Synced $FILE_COUNT files to S3"
 echo ""
 
