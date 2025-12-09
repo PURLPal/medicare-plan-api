@@ -1,0 +1,32 @@
+{
+  "plan_info": {
+    "name": "Molina Medicare Complete Care Plus (HMO D-SNP)"
+  },
+  "premiums": {},
+  "deductibles": {},
+  "maximum_out_of_pocket": {},
+  "contact_info": {},
+  "benefits": {
+    "Benefits & Costs": {
+      "In-network: $0 copay": "Limits apply(Other services|Diabetes supplies)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+      "$0 copay": "",
+      "Tier 1$0 per day for days 1-60$0 per day for days 61-90$0 per day for days 91-150": "Limits apply(Hospital services|Inpatient hospital coverage)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+      "Tier 1$0 per day for days 1-20$217 per day for days 21-100": "Limits apply(Skilled nursing facility|Skilled nursing facility)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization."
+    },
+    "Extra Benefits": {
+      "In-network: $0 copay": "Limits apply(Chronic illness services|General supports for living)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+      "Not covered": "",
+      "$0 copay": "Limits apply(Emergency care|Worldwide emergency)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details."
+    }
+  },
+  "drug_coverage": {
+    "$0.00 copay": "$0 copay",
+    "20% coinsurance": "$0 copay",
+    "30% coinsurance": "$0 copay",
+    "25% coinsurance": "$0 copay",
+    "In-network: $0 copay": "Limits apply(Part B drugs|Other Part B drugs)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization."
+  },
+  "extra_benefits": {},
+  "plan_id": "H8176_004_2",
+  "state": "South_Carolina"
+}

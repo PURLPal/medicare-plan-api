@@ -1,0 +1,267 @@
+{
+  "zip_code": "29401",
+  "location": "Charleston, South Carolina",
+  "custom_endpoint": "ebony",
+  "description": "3 Priority Medicare Advantage Plans for ZIP 29401",
+  "multi_county": false,
+  "multi_state": false,
+  "states": [
+    "SC"
+  ],
+  "primary_state": "SC",
+  "counties": [
+    {
+      "fips": "45019",
+      "name": "Charleston County",
+      "state": "SC",
+      "ratio": 1.0,
+      "plans_available": true,
+      "plan_count": 69
+    }
+  ],
+  "plans": [
+    {
+      "plan_id": "H5322_043_0",
+      "category": "MA",
+      "plan_type": null,
+      "plan_info": {
+        "name": "",
+        "found": true,
+        "organization": "UnitedHealthcare",
+        "type": "Medicare Advantage (without drug coverage)",
+        "id": "H5322-043-0"
+      },
+      "premiums": {
+        "Total monthly premium": "$0.00",
+        "Health premium": "$0.00",
+        "Part B premium reduction": "$What's the Part B premium reduction?"
+      },
+      "deductibles": {
+        "Health deductible": "$0.00"
+      },
+      "maximum_out_of_pocket": {
+        "Maximum you pay for health services": "$6,700 In-network"
+      },
+      "contact_info": {
+        "Plan address": "P.O. Box 30770\nSalt Lake City, UT 84130"
+      },
+      "benefits": {
+        "Doctor Services": {
+          "Primary doctor visit In-network: $0 copay": "Specialist visit In-network: $0-$55 copay",
+          "Diagnostic tests & procedures": "In-network: $50 copay",
+          "Emergency care $130 copay": "Urgent care $0-$50 copay"
+        },
+        "Tests, Labs, & Imaging": {
+          "Diagnostic tests & procedures": "In-network: $50 copay",
+          "Emergency care $130 copay": "Urgent care $0-$50 copay"
+        },
+        "Hospital Services": {
+          "Inpatient hospital coverage": "In-network:",
+          "Tier 1": "$435 per day for days 1-6",
+          "$0 per day for days 7-90": "$0 per stay"
+        },
+        "Preventive Services": {
+          "Learn more about your costs for preventive services": "Preventive services In-network: $0 copay"
+        },
+        "Vision": {
+          "Eyeglasses (frames & lenses) Not covered": "Eyeglass frames only In-network: $0 copay"
+        },
+        "Hearing": {
+          "Fitting/evaluation Not covered": "Hearing aids - prescription In-network: $199-$1249 copay"
+        },
+        "Preventive Dental": {
+          "Care to prevent or find problems with your teeth and gums.": "Oral exam In-network: $0 copay",
+          "Cleaning In-network: $0 copay": "Out-of-network: $0 copay",
+          "Fluoride treatment In-network: $0 copay": "Out-of-network: $0 copay",
+          "Dental x-rays In-network: $0 copay": "Out-of-network: $0 copay"
+        },
+        "Dental": {
+          "Care to prevent or find problems with your teeth and gums.": "Oral exam In-network: $0 copay",
+          "Cleaning In-network: $0 copay": "Out-of-network: $0 copay",
+          "Fluoride treatment In-network: $0 copay": "Out-of-network: $0 copay",
+          "Dental x-rays In-network: $0 copay": "Out-of-network: $0 copay"
+        },
+        "Skilled Nursing Facility": {
+          "Skilled nursing facility": "In-network:",
+          "Tier 1": "$0 per day for days 1-20"
+        }
+      },
+      "drug_coverage": {},
+      "extra_benefits": {}
+    },
+    {
+      "plan_id": "H5322_044_0",
+      "category": "MAPD",
+      "plan_type": null,
+      "plan_info": {
+        "name": "",
+        "found": true,
+        "organization": "UnitedHealthcare",
+        "type": "Medicare Advantage with drug coverage",
+        "id": "H5322-044-0"
+      },
+      "premiums": {
+        "Total monthly premium": "$45.00",
+        "Health premium": "$0.00",
+        "Drug premium": "$45.00",
+        "Part B premium reduction": "$What's the Part B premium reduction?"
+      },
+      "deductibles": {
+        "Health deductible": "$0.00",
+        "Drug deductible": "$440.00"
+      },
+      "maximum_out_of_pocket": {
+        "Maximum you pay for health services": "$6,700 In-network"
+      },
+      "contact_info": {
+        "Plan address": "P.O. Box 30770\nSalt Lake City, UT 84130"
+      },
+      "benefits": {
+        "Doctor Services": {
+          "Primary doctor visit In-network: $0 copay": "Specialist visit In-network: $0-$35 copay",
+          "Diagnostic tests & procedures": "In-network: $50 copay",
+          "Emergency care $130 copay": "Urgent care $0-$50 copay"
+        },
+        "Tests, Labs, & Imaging": {
+          "Diagnostic tests & procedures": "In-network: $50 copay",
+          "Emergency care $130 copay": "Urgent care $0-$50 copay"
+        },
+        "Hospital Services": {
+          "Inpatient hospital coverage": "In-network:",
+          "Tier 1": "$395 per day for days 1-6",
+          "$0 per day for days 7-90": "$0 per stay"
+        },
+        "Preventive Services": {
+          "Learn more about your costs for preventive services": "Preventive services In-network: $0 copay"
+        },
+        "Vision": {
+          "Eyeglasses (frames & lenses) Not covered": "Eyeglass frames only In-network: $0 copay"
+        },
+        "Hearing": {
+          "Fitting/evaluation Not covered": "Hearing aids - prescription In-network: $199-$1249 copay"
+        },
+        "Preventive Dental": {
+          "Care to prevent or find problems with your teeth and gums.": "Oral exam In-network: $0 copay",
+          "Cleaning In-network: $0 copay": "Out-of-network: $0 copay",
+          "Fluoride treatment In-network: $0 copay": "Out-of-network: $0 copay",
+          "Dental x-rays In-network: $0 copay": "Out-of-network: $0 copay"
+        },
+        "Comprehensive Dental": {
+          "Care to maintain or treat problems with your teeth and gums.": "Restorative services In-network: 50% coinsurance",
+          "Endodontics In-network: 50% coinsurance": "Out-of-network: 50% coinsurance",
+          "Periodontics In-network: 50% coinsurance": "Out-of-network: 50% coinsurance",
+          "Prosthodontics, removable In-network: 50% coinsurance": "Out-of-network: 50% coinsurance",
+          "Prosthodontics, fixed In-network: 50% coinsurance": "Out-of-network: 50% coinsurance",
+          "Maxillofacial prosthetics In-network: 50% coinsurance": "Out-of-network: 50% coinsurance",
+          "Implant services Not covered": "Oral and maxillofacial surgery In-network: 50% coinsurance",
+          "Orthodontics Not covered": "Adjunctive general services In-network: 50% coinsurance"
+        },
+        "Dental": {
+          "Care to prevent or find problems with your teeth and gums.": "Oral exam In-network: $0 copay",
+          "Cleaning In-network: $0 copay": "Out-of-network: $0 copay",
+          "Fluoride treatment In-network: $0 copay": "Out-of-network: $0 copay",
+          "Dental x-rays In-network: $0 copay": "Out-of-network: $0 copay"
+        },
+        "Skilled Nursing Facility": {
+          "Skilled nursing facility": "In-network:",
+          "Tier 1": "$0 per day for days 1-20"
+        }
+      },
+      "drug_coverage": {},
+      "extra_benefits": {}
+    },
+    {
+      "plan_id": "R2604_005_0",
+      "category": "MAPD",
+      "plan_type": null,
+      "plan_info": {
+        "name": "",
+        "found": true,
+        "organization": "UnitedHealthcare",
+        "type": "Regional PPO",
+        "id": "R2604-005-0"
+      },
+      "premiums": {
+        "Total monthly premium": "$0.00",
+        "Health premium": "$0.00",
+        "Part B premium reduction": "$What's the Part B premium reduction?"
+      },
+      "deductibles": {
+        "Health deductible": "$0.00"
+      },
+      "maximum_out_of_pocket": {
+        "Maximum you pay for health services": "$9,250 In and Out-of-network"
+      },
+      "contact_info": {
+        "Plan address": "P.O. Box 30770\nSalt Lake City, UT 84130"
+      },
+      "benefits": {
+        "Doctor Services": {
+          "Primary doctor visit In-network: $0 copay": "Out-of-network: $0 copay",
+          "Specialist visit In-network: $0-$55 copay": "Out-of-network: $55 copay",
+          "Diagnostic tests & procedures": "In-network: $50 copay",
+          "Lab services In-network: $0 copay": "Out-of-network: $0 copay",
+          "Diagnostic radiology services (like MRI) In-network: $0-$260 copay": "Out-of-network: $0-$260 copay",
+          "Outpatient x-rays In-network: $30 copay": "Out-of-network: $30 copay",
+          "Emergency care $115 copay": "Urgent care $0-$40 copay"
+        },
+        "Tests, Labs, & Imaging": {
+          "Diagnostic tests & procedures": "In-network: $50 copay",
+          "Lab services In-network: $0 copay": "Out-of-network: $0 copay",
+          "Diagnostic radiology services (like MRI) In-network: $0-$260 copay": "Out-of-network: $0-$260 copay",
+          "Outpatient x-rays In-network: $30 copay": "Out-of-network: $30 copay",
+          "Emergency care $115 copay": "Urgent care $0-$40 copay"
+        },
+        "Hospital Services": {
+          "Inpatient hospital coverage": "In-network:",
+          "Tier 1": "$470 per day for days 1-5",
+          "$0 per day for days 6-90": "$0 per stay",
+          "Out-of-network:": "$470 per day for days 1-5",
+          "$0 per day for days 6-999": "$0 per stay",
+          "Outpatient hospital coverage In-network: $0-$470 copay": "Out-of-network: $0-$470 copay"
+        },
+        "Preventive Services": {
+          "Learn more about your costs for preventive services": "Preventive services In-network: $0 copay"
+        },
+        "Vision": {
+          "Routine eye exam In-network: $0 copay": "Out-of-network: $0 copay",
+          "Contact lenses In-network: $0 copay": "Out-of-network: $0 copay",
+          "Eyeglasses (frames & lenses) Not covered": "Eyeglass frames only In-network: $0 copay",
+          "Eyeglass lenses only In-network: $0-$153 copay": "Out-of-network: $0-$153 copay"
+        },
+        "Hearing": {
+          "Hearing exam In-network: $0 copay": "Out-of-network: $55 copay",
+          "Fitting/evaluation Not covered": "Hearing aids - prescription In-network: $199-$1249 copay",
+          "Hearing aids - over the counter In-network: $199-$829 copay": "Out-of-network: $199-$829 copay"
+        },
+        "Preventive Dental": {
+          "Care to prevent or find problems with your teeth and gums.": "Oral exam In-network: $0 copay",
+          "Cleaning In-network: $0 copay": "Out-of-network: $0 copay",
+          "Fluoride treatment In-network: $0 copay": "Out-of-network: $0 copay",
+          "Dental x-rays In-network: $0 copay": "Out-of-network: $0 copay"
+        },
+        "Dental": {
+          "Care to prevent or find problems with your teeth and gums.": "Oral exam In-network: $0 copay",
+          "Cleaning In-network: $0 copay": "Out-of-network: $0 copay",
+          "Fluoride treatment In-network: $0 copay": "Out-of-network: $0 copay",
+          "Dental x-rays In-network: $0 copay": "Out-of-network: $0 copay"
+        },
+        "Skilled Nursing Facility": {
+          "Skilled nursing facility": "In-network:",
+          "Tier 1": "$0 per day for days 1-20",
+          "Out-of-network:": "$250 per day for days 1-100"
+        }
+      },
+      "drug_coverage": {},
+      "extra_benefits": {}
+    }
+  ],
+  "plan_count": 3,
+  "plan_counts_by_category": {
+    "MAPD": 2,
+    "MA": 1,
+    "PD": 0
+  },
+  "generated_at": "2025-12-09T17:20:57.531877+00:00",
+  "note": "This is a curated subset of Medicare plans for specific comparison purposes."
+}

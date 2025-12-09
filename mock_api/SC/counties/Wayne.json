@@ -1,0 +1,665 @@
+[
+  {
+    "plan_info": {
+      "name": "Humana Full Access R0110-020 (Regional PPO)"
+    },
+    "premiums": {},
+    "deductibles": {},
+    "maximum_out_of_pocket": {},
+    "contact_info": {},
+    "benefits": {
+      "Benefits & Costs": {
+        "In-network: $0 copayOut-of-network: $0 copay": "",
+        "In-network: $45 copayOut-of-network: $45 copay": "Limits apply(Doctor services|Specialist visit)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$120 copayOut-of-network: $0-$120 copay": "Limits apply(Tests, labs, & imaging|Diagnostic tests & procedures)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$50 copayOut-of-network: $0-$50 copay": "Limits apply(Tests, labs, & imaging|Lab services)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$335 copayOut-of-network: $0-$335 copay": "Limits apply(Tests, labs, & imaging|Diagnostic radiology services (like MRI))Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$130 copayOut-of-network: $0-$130 copay": "Limits apply(Tests, labs, & imaging|Outpatient x-rays)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "$115 copay": "",
+        "$40 copay": "",
+        "In-network:Tier 1$375 per day for days 1-7$0 per day for days 8-90$0 per stayOut-of-network:$375 per day for days 1-7$0 per day for days 8-90$0 per stay": "Limits apply(Hospital services|Inpatient hospital coverage)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$450 copayOut-of-network: $0-$450 copay": "Limits apply(Hospital services|Outpatient hospital coverage)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network:Tier 1$0 per day for days 1-20$218 per day for days 21-100Out-of-network:$0 per day for days 1-20$218 per day for days 21-100$0 per stay": "Limits apply(Skilled nursing facility|Skilled nursing facility)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $335 copayOut-of-network: $335 copay": "Limits apply(Ambulance|Ground ambulance)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $25 copayOut-of-network: $25 copay": "Limits apply(Therapy services|Physical therapy & speech & language therapy visit)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $35 copayOut-of-network: $35 copay": "Limits apply(Opioid treatment program services|Opioid treatment program services)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0 copay, 20% coinsuranceOut-of-network: $0 copay, 20% coinsurance": "Limits apply(Other services|Durable medical equipment (like wheelchairs & oxygen))Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: 20% coinsuranceOut-of-network: 20% coinsurance": "Limits apply(Other services|Dialysis)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0 copay, 10%-20% coinsuranceOut-of-network: 10%-20% coinsurance": "Limits apply(Other services|Diabetes supplies)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization."
+      },
+      "Extra Benefits": {
+        "In-network: $0 copayOut-of-network: $0 copay": "Limits apply(Vision|Eyeglasses (frames & lenses))Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.Plan limits- There may be limits on how much the plan will provide.",
+        "In-network: $699-$999 copayOut-of-network: $699-$999 copay": "Limits apply(Hearing|Hearing aids - prescription)Plan limits- There may be limits on how much the plan will provide.",
+        "Not covered": "",
+        "In-network: $25 copayOut-of-network: $25 copay": "Limits apply(Comprehensive dental|Restorative services)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.Plan limits- There may be limits on how much the plan will provide.",
+        "In-network: $45 copayOut-of-network: $45 copay": "Limits apply(Acupuncture)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "In-network: $0 copay": "Limits apply(Preventive services|Annual physical exams)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "In-network: $0-$45 copay": "Limits apply(Professional services|Telehealth)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "$115 copay": "Limits apply(Emergency care|Worldwide emergency)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details."
+      }
+    },
+    "drug_coverage": {
+      "$0.00 copay": "$0 copay",
+      "$5.00 copay": "$0 copay",
+      "$47.00 copay": "$0 copay",
+      "33% coinsurance": "$0 copay",
+      "25% coinsurance": "$0 copay",
+      "In-network: 0%-20% coinsuranceOut-of-network: 20% coinsurance": "Limits apply(Part B drugs|Other Part B drugs)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization."
+    },
+    "extra_benefits": {},
+    "plan_id": "R0110_020_0",
+    "state": "South_Carolina"
+  },
+  {
+    "plan_info": {
+      "name": "Humana USAA Honor Giveback (PPO)"
+    },
+    "premiums": {},
+    "deductibles": {},
+    "maximum_out_of_pocket": {},
+    "contact_info": {},
+    "benefits": {
+      "Benefits & Costs": {
+        "In-network: $0 copayOut-of-network: 35% coinsurance": "Limits apply(Opioid treatment program services|Opioid treatment program services)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $50 copayOut-of-network: 35% coinsurance": "Limits apply(Doctor services|Specialist visit)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$120 copayOut-of-network: 35% coinsurance": "Limits apply(Tests, labs, & imaging|Diagnostic tests & procedures)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$50 copayOut-of-network: 35% coinsurance": "Limits apply(Tests, labs, & imaging|Lab services)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$335 copayOut-of-network: $0 copay, 35% coinsurance": "Limits apply(Tests, labs, & imaging|Diagnostic radiology services (like MRI))Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$100 copayOut-of-network: 35% coinsurance": "Limits apply(Tests, labs, & imaging|Outpatient x-rays)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "$115 copay": "",
+        "$50 copay": "",
+        "In-network:Tier 1$245 per day for days 1-6$0 per day for days 7-90$0 per stayOut-of-network:35% per stay": "Limits apply(Hospital services|Inpatient hospital coverage)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$450 copayOut-of-network: $0 copay, 35% coinsurance": "Limits apply(Hospital services|Outpatient hospital coverage)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network:Tier 1$0 per day for days 1-20$218 per day for days 21-100Out-of-network:35% per stay": "Limits apply(Skilled nursing facility|Skilled nursing facility)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0 copayOut-of-network: $0 copay": "",
+        "In-network: $335 copayOut-of-network: $335 copay": "Limits apply(Ambulance|Ground ambulance)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $25 copayOut-of-network: 35% coinsurance": "Limits apply(Therapy services|Physical therapy & speech & language therapy visit)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0 copay, 20% coinsuranceOut-of-network: $0 copay, 20% coinsurance": "Limits apply(Other services|Durable medical equipment (like wheelchairs & oxygen))Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: 20% coinsuranceOut-of-network: 20% coinsurance": "Limits apply(Other services|Dialysis)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0 copay, 10%-20% coinsuranceOut-of-network: 35% coinsurance": "Limits apply(Other services|Diabetes supplies)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization."
+      },
+      "Extra Benefits": {
+        "In-network: $0 copayOut-of-network: $0 copay": "Limits apply(Preventive services|Fitness benefit)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "In-network: $699-$999 copayOut-of-network: $699-$999 copay": "Limits apply(Hearing|Hearing aids - prescription)Plan limits- There may be limits on how much the plan will provide.",
+        "Not covered": "",
+        "In-network: $50 copayOut-of-network: $50 copay": "Limits apply(Acupuncture)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "In-network: $0 copay": "Limits apply(Preventive services|Annual physical exams)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "In-network: $0-$50 copay": "Limits apply(Professional services|Telehealth)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "$115 copay": "Limits apply(Emergency care|Worldwide emergency)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details."
+      }
+    },
+    "drug_coverage": {
+      "In-network: 0%-20% coinsuranceOut-of-network: 20% coinsurance": "Limits apply(Part B drugs|Other Part B drugs)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization."
+    },
+    "extra_benefits": {},
+    "plan_id": "H5216_217_0",
+    "state": "South_Carolina"
+  },
+  {
+    "plan_info": {
+      "name": "HumanaChoice H5216-157 (PPO)"
+    },
+    "premiums": {},
+    "deductibles": {},
+    "maximum_out_of_pocket": {},
+    "contact_info": {},
+    "benefits": {
+      "Benefits & Costs": {
+        "In-network: $0 copayOut-of-network: 35% coinsurance": "",
+        "In-network: $45 copayOut-of-network: 35% coinsurance": "Limits apply(Doctor services|Specialist visit)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$120 copayOut-of-network: 35%-50% coinsurance": "Limits apply(Tests, labs, & imaging|Diagnostic tests & procedures)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$50 copayOut-of-network: 35%-50% coinsurance": "Limits apply(Tests, labs, & imaging|Lab services)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$335 copayOut-of-network: $0 copay, 50% coinsurance": "Limits apply(Tests, labs, & imaging|Diagnostic radiology services (like MRI))Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$130 copayOut-of-network: 35%-50% coinsurance": "Limits apply(Tests, labs, & imaging|Outpatient x-rays)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "$115 copay": "",
+        "$40 copay": "",
+        "In-network:Tier 1$375 per day for days 1-7$0 per day for days 8-90$0 per stayOut-of-network:50% per stay": "Limits apply(Hospital services|Inpatient hospital coverage)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$450 copayOut-of-network: $0 copay, 50% coinsurance": "Limits apply(Hospital services|Outpatient hospital coverage)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network:Tier 1$0 per day for days 1-20$218 per day for days 21-100Out-of-network:50% per stay": "Limits apply(Skilled nursing facility|Skilled nursing facility)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0 copayOut-of-network: $0 copay": "",
+        "In-network: $335 copayOut-of-network: $335 copay": "Limits apply(Ambulance|Ground ambulance)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $25 copayOut-of-network: 35% coinsurance": "Limits apply(Therapy services|Physical therapy & speech & language therapy visit)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $35 copayOut-of-network: 35% coinsurance": "Limits apply(Mental health services|Outpatient individual therapy visit)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $35 copayOut-of-network: 35%-50% coinsurance": "Limits apply(Opioid treatment program services|Opioid treatment program services)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0 copay, 20% coinsuranceOut-of-network: $0 copay, 20% coinsurance": "Limits apply(Other services|Durable medical equipment (like wheelchairs & oxygen))Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: 20% coinsuranceOut-of-network: 50% coinsurance": "Limits apply(Other services|Prosthetics (like braces, artificial limbs))Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: 20% coinsuranceOut-of-network: 20% coinsurance": "Limits apply(Other services|Dialysis)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0 copay, 10%-20% coinsuranceOut-of-network: 50% coinsurance": "Limits apply(Other services|Diabetes supplies)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization."
+      },
+      "Extra Benefits": {
+        "In-network: $0 copayOut-of-network: $0 copay": "Limits apply(Other services|Over the counter drug benefits)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "In-network: $699-$999 copayOut-of-network: $699-$999 copay": "Limits apply(Hearing|Hearing aids - prescription)Plan limits- There may be limits on how much the plan will provide.",
+        "Not covered": "",
+        "In-network: $0 copay, 30%-40% coinsuranceOut-of-network: $0 copay, 30%-40% coinsurance": "Limits apply(Comprehensive dental|Prosthodontics, fixed)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.Plan limits- There may be limits on how much the plan will provide.",
+        "In-network: $0 copay, 30% coinsuranceOut-of-network: $0 copay, 30% coinsurance": "Limits apply(Comprehensive dental|Prosthodontics, removable)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.Plan limits- There may be limits on how much the plan will provide.",
+        "In-network: $45 copayOut-of-network: $45 copay": "Limits apply(Acupuncture)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "In-network: $0 copay": "Limits apply(Preventive services|Annual physical exams)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "In-network: $0-$45 copay": "Limits apply(Professional services|Telehealth)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "$115 copay": "Limits apply(Emergency care|Worldwide emergency)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details."
+      }
+    },
+    "drug_coverage": {
+      "In-network: 0%-20% coinsuranceOut-of-network: 50% coinsurance": "Limits apply(Part B drugs|Other Part B drugs)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization."
+    },
+    "extra_benefits": {},
+    "plan_id": "H5216_157_0",
+    "state": "South_Carolina"
+  },
+  {
+    "plan_id": "H5141_056_0",
+    "scraped_at": "2025-12-09T02:12:05.919566",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-H5141-056-0?year=2026&lang=en",
+    "raw_content": "An official website of the United States government\nHere's how you know\n\n\nMenu\nBack to search results\nClover Health Valor (PPO)\nClover Health\nPlan type: Medicare Advantage (without drug coverage)\nPlan ID: H5141-056-0\nPrint\nPlan website\nNon-members:\nphone number\n1-888-466-5044\nMembers:\nphone number\n1-888-778-1478\nEnroll\nWhat you'll pay\nTotal monthly premium\n$0.00\nHealth deductible\n$0.00\nPrimary doctor\n$0\ncopay\nOverview\nPREMIUMS\nTotal monthly premium\n$0.00\nHealth premium\n$0.00\nStandard Part B premium\nWhat's the standard Part B premium?\n$202.90\nPart B premium reduction\nWhat's the Part B premium reduction?\n\u2212$140.00 reduction\nDEDUCTIBLES\nThe amount you must pay each year before your plan starts to pay for covered services or drugs.\nHealth deductible\n$0.00\nMAXIMUM YOU PAY FOR HEALTH SERVICES\nMaximum you pay for health services\n$11,999 In and Out-of-network\n$7,499 In-network\nCONTACT INFORMATION\nPlan address\nPO Box 21164\nEagan, MN 55121\nBenefits & Costs\nDOCTOR SERVICES\nView Provider Network Directory\nPrimary doctor visit\nIn-network: $0 copay\nOut-of-network: $15 copay\nSpecialist visit\nIn-network: $25 copay\nOut-of-network: $50 copay\nTESTS, LABS, & IMAGING\nDiagnostic tests & procedures\nIn-network: $0-$250 copay\nOut-of-network: 0%-30% coinsurance\nLimits apply\n(Tests, labs, & imaging|Diagnostic tests & procedures)\nLab services\nIn-network: $0-$20 copay\nOut-of-network: $40 copay\nLimits apply\n(Tests, labs, & imaging|Lab services)\nDiagnostic radiology services (like MRI)\nIn-network: $50-$250 copay\nOut-of-network: 30% coinsurance\nLimits apply\n(Tests, labs, & imaging|Diagnostic radiology services (like MRI))\nOutpatient x-rays\nIn-network: $40 copay\nOut-of-network: 30% coinsurance\nLimits apply\n(Tests, labs, & imaging|Outpatient x-rays)\nEmergency care\n$115 copay\nUrgent care\n$25 copay\nHOSPITAL SERVICES\nInpatient hospital coverage\nIn-network:\nTier 1\n$360 per day for days 1-6\n$0 per day for days 7-90\n$0 per stay\nOut-of-network:\n$495 per day for days 1-6\n$0 per day for days 7-90\n$0 per stay\nLimits apply\n(Hospital services|Inpatient hospital coverage)\nOutpatient hospital coverage\nIn-network: 20% coinsurance\nOut-of-network: 30% coinsurance\nLimits apply\n(Hospital services|Outpatient hospital coverage)\nSKILLED NURSING FACILITY\nSkilled nursing facility\nIn-network:\nTier 1\n$0 per day for days 1-20\n$218 per day for days 21-100\nOut-of-network:\n30% per stay\nLimits apply\n(Skilled nursing facility|Skilled nursing facility)\nPREVENTIVE SERVICES\nHealth care to prevent illness or detect illness at an early stage, when treatment is likely to work best (like Pap tests, flu shots, and screening mammograms).\nLearn more about your costs for preventive services\nPreventive services\nIn-network: $0 copay\nOut-of-network: $0 copay, 0% coinsurance\nAMBULANCE\nGround ambulance\nIn-network: $350 copay\nOut-of-network: $350 copay\nLimits apply\n(Ambulance|Ground ambulance)\nTHERAPY SERVICES\nOccupational therapy visit\nIn-network: $35 copay\nOut-of-network: 30% coinsurance\nLimits apply\n(Therapy services|Occupational therapy visit)\nPhysical therapy & speech & language therapy visit\nIn-network: $35 copay\nOut-of-network: 30% coinsurance\nLimits apply\n(Therapy services|Physical therapy & speech & language therapy visit)\nView more benefits & costs\n\n\n\n\n\n\n\n\n\nDrug Coverage\nSee if there's help to lower costs for drugs you take.\nPART B DRUGS\nThese are drugs you usually get at a doctor's office or hospital outpatient setting, like the flu shot, chemotherapy, or other shots.\nPart B insulin\nIn-network: $35 copay\nOut-of-network: 40% coinsurance\nLimits apply\n(Part B drugs|Part B insulin)\nChemotherapy drugs\nIn-network: 0%-20% coinsurance\nOut-of-network: 40% coinsurance\nLimits apply\n(Part B drugs|Chemotherapy drugs)\nOther Part B drugs\nIn-network: 0%-20% coinsurance\nOut-of-network: 40% coinsurance\nLimits apply\n(Part B drugs|Other Part B drugs)\nExtra Benefits\nHEARING\nHearing exam\nIn-network: $0 copay\nOut-of-network: $0 copay, 0% coinsurance\nLimits apply\n(Hearing|Hearing exam)\nFitting/evaluation\nIn-network: $0 copay\nOut-of-network: $0 copay, 0% coinsurance\nHearing aids - prescription\nIn-network: $499-$999 copay\nOut-of-network: $5000 copay\nLimits apply\n(Hearing|Hearing aids - prescription)\nHearing aids - over the counter\nNot covered\nPREVENTIVE DENTAL\nCare to prevent or find problems with your teeth and gums.\nOral exam\nIn-network: $0 copay\nOut-of-network: $0 copay, 0% coinsurance\nLimits apply\n(Preventive dental|Oral exam)\nCleaning\nIn-network: $0 copay\nOut-of-network: $0 copay, 0% coinsurance\nLimits apply\n(Preventive dental|Cleaning)\nFluoride treatment\nIn-network: $0 copay\nOut-of-network: $0 copay, 0% coinsurance\nLimits apply\n(Preventive dental|Fluoride treatment)\nDental x-rays\nIn-network: $0 copay\nOut-of-network: $0 copay, 0% coinsurance\nLimits apply\n(Preventive dental|Dental x-rays)\nCOMPREHENSIVE DENTAL\nCare to maintain or treat problems with your teeth and gums.\nRestorative services\nIn-network: $20 copay\nOut-of-network: $40 copay\nLimits apply\n(Comprehensive dental|Restorative services)\nEndodontics\nIn-network: $20 copay\nOut-of-network: $40 copay\nLimits apply\n(Comprehensive dental|Endodontics)\nPeriodontics\nIn-network: $20 copay\nOut-of-network: $40 copay\nLimits apply\n(Comprehensive dental|Periodontics)\nProsthodontics, removable\nIn-network: 50% coinsurance\nOut-of-network: 50% coinsurance\nLimits apply\n(Comprehensive dental|Prosthodontics, removable)\nProsthodontics, fixed\nIn-network: $20 copay\nOut-of-network: $40 copay\nLimits apply\n(Comprehensive dental|Prosthodontics, fixed)\nMaxillofacial prosthetics\nIn-network: $20 copay\nOut-of-network: $40 copay\nLimits apply\n(Comprehensive dental|Maxillofacial prosthetics)\nImplant services\nIn-network: $20 copay\nOut-of-network: $40 copay\nLimits apply\n(Comprehensive dental|Implant services)\nOral and maxillofacial surgery\nIn-network: $20 copay\nOut-of-network: $40 copay\nLimits apply\n(Comprehensive dental|Oral and maxillofacial surgery)\nOrthodontics\nNot covered\nAdjunctive general services\nIn-network: $20 copay\nOut-of-network: $40 copay\nLimits apply\n(Comprehensive dental|Adjunctive general services)\nVISION\nRoutine eye exam\nIn-network: $0 copay\nOut-of-network: $0 copay, 0% coinsurance\nLimits apply\n(Vision|Routine eye exam)\nContact lenses\nIn-network: $0 copay\nOut-of-network: $0 copay, 0% coinsurance\nLimits apply\n(Vision|Contact lenses)\nEyeglasses (frames & lenses)\nIn-network: $0 copay\nOut-of-network: $0 copay, 0% coinsurance\nLimits apply\n(Vision|Eyeglasses (frames & lenses))\nEyeglass frames only\nNot covered\nEyeglass lenses only\nNot covered\nUpgrades\nNot covered\nCollapse more extra benefits\nMEDICALLY-APPROVED NON-OPIOID PAIN MANAGEMENT SERVICES\nChiropractic services\nNot covered\nAcupuncture\nNot covered\nMassage therapy\nNot covered\nAlternative therapies\nNot covered\nMORE BENEFITS\nHealth Education\nNot covered\nCounseling Services\nNot covered\nSupport for Caregivers of Enrollees\nNot covered\nPersonal Emergency Response System (PERS)\nNot covered\nFitness benefit\nIn-network: $0 copay\nOut-of-network: $0 copay, 0% coinsurance\nLimits apply\n(Preventive services|Fitness benefit)\nPlan limits - There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.\nTransportation services for non-emergency care: Any health-related locations\nNot covered\nTransportation services for non-emergency care: Plan-approved locations\nNot covered\nOver the counter drug benefits\nIn-network: $0 copay\nOut-of-network: $0 copay, 0% coinsurance\nLimits apply\n(Other services|Over the counter drug benefits)\nPlan limits - There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.\nIn-home support services\nNot covered\nHome and bathroom safety devices\nNot covered\nMeals for short duration\nNot covered\nAnnual physical exams\nIn-network: $0 copay\nLimits apply\n(Preventive services|Annual physical exams)\nPlan limits - There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.\nTelehealth\nIn-network: $0-$25 copay\nLimits apply\n(Professional services|Telehealth)\nPlan limits - There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.\nWorldwide emergency\n$115 copay\nLimits apply\n(Emergency care|Worldwide emergency)\nPlan limits - There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.\nPost discharge in-home medication reconciliation\nNot covered\nRe-admission prevention\nNot covered\nWigs for hair loss related to chemotherapy\nNot covered\nWeight management programs\nNot covered\nAdult day health services\nNot covered\nHome-based palliative care\nNot covered\nStar Ratings\nExpand All Ratings\nOverall star rating\nOverall rating is based on the categories below.\nstars\nHealth plan star rating\nSummary rating of health plan quality\nstars\nProviders\nView Provider Network Directory\nFind participating providers\nAdd your providers to find out if they participate in this plan.\nAdd Provider\nAbout Medicare\nNondiscrimination/Accessibility\nPrivacy Policy\nPrivacy Setting\nLinking Policy\nUsing this site\nPlain Writing\nA federal government website managed and paid for by the U.S. Centers for Medicare & Medicaid Services.\n7500 Security Boulevard, Baltimore, MD 21244\n\nGive Feedback",
+    "plan_info": {
+      "name": "Clover Health Valor (PPO)\nClover Health",
+      "found": true,
+      "organization": "Clover Health",
+      "type": "Medicare Advantage (without drug coverage)",
+      "id": "H5141-056-0"
+    },
+    "premiums": {
+      "Total monthly premium": "$0.00",
+      "Health premium": "$0.00",
+      "Part B premium reduction": "$What's the Part B premium reduction?"
+    },
+    "deductibles": {
+      "Health deductible": "$0.00"
+    },
+    "maximum_out_of_pocket": {
+      "Maximum you pay for health services": "$11,999 In and Out-of-network"
+    },
+    "contact_info": {
+      "Plan address": "PO Box 21164\nEagan, MN 55121"
+    },
+    "benefits": {
+      "Doctor Services": {
+        "Primary doctor visit": "In-network: $0 copay",
+        "Specialist visit": "In-network: $25 copay",
+        "Diagnostic tests & procedures": "In-network: $0-$250 copay",
+        "Lab services": "In-network: $0-$20 copay",
+        "Diagnostic radiology services (like MRI)": "In-network: $50-$250 copay",
+        "Outpatient x-rays": "In-network: $40 copay",
+        "Emergency care": "$115 copay",
+        "Urgent care": "$25 copay"
+      },
+      "Tests, Labs, & Imaging": {
+        "Diagnostic tests & procedures": "In-network: $0-$250 copay",
+        "Lab services": "In-network: $0-$20 copay",
+        "Diagnostic radiology services (like MRI)": "In-network: $50-$250 copay",
+        "Outpatient x-rays": "In-network: $40 copay",
+        "Emergency care": "$115 copay",
+        "Urgent care": "$25 copay"
+      },
+      "Hospital Services": {
+        "Inpatient hospital coverage": "In-network:",
+        "Tier 1": "$360 per day for days 1-6",
+        "$0 per day for days 7-90": "$0 per stay",
+        "Out-of-network:": "$495 per day for days 1-6",
+        "Outpatient hospital coverage": "In-network: 20% coinsurance"
+      },
+      "Preventive Services": {
+        "Preventive services": "In-network: $0 copay"
+      },
+      "Vision": {
+        "Routine eye exam": "In-network: $0 copay",
+        "Contact lenses": "In-network: $0 copay",
+        "Eyeglasses (frames & lenses)": "In-network: $0 copay",
+        "Eyeglass frames only": "Not covered",
+        "Eyeglass lenses only": "Not covered",
+        "Upgrades": "Not covered",
+        "Chiropractic services": "Not covered",
+        "Acupuncture": "Not covered",
+        "Massage therapy": "Not covered",
+        "Alternative therapies": "Not covered"
+      },
+      "Hearing": {
+        "Hearing exam": "In-network: $0 copay",
+        "Fitting/evaluation": "In-network: $0 copay",
+        "Hearing aids - prescription": "In-network: $499-$999 copay",
+        "Hearing aids - over the counter": "Not covered"
+      },
+      "Preventive Dental": {
+        "Oral exam": "In-network: $0 copay",
+        "Cleaning": "In-network: $0 copay",
+        "Fluoride treatment": "In-network: $0 copay",
+        "Dental x-rays": "In-network: $0 copay"
+      },
+      "Comprehensive Dental": {
+        "Restorative services": "In-network: $20 copay",
+        "Endodontics": "In-network: $20 copay",
+        "Periodontics": "In-network: $20 copay",
+        "Prosthodontics, removable": "In-network: 50% coinsurance",
+        "Prosthodontics, fixed": "In-network: $20 copay",
+        "Maxillofacial prosthetics": "In-network: $20 copay",
+        "Implant services": "In-network: $20 copay",
+        "Oral and maxillofacial surgery": "In-network: $20 copay",
+        "Orthodontics": "Not covered",
+        "Adjunctive general services": "In-network: $20 copay"
+      },
+      "Dental": {
+        "Oral exam": "In-network: $0 copay",
+        "Cleaning": "In-network: $0 copay",
+        "Fluoride treatment": "In-network: $0 copay",
+        "Dental x-rays": "In-network: $0 copay"
+      },
+      "Skilled Nursing Facility": {
+        "Skilled nursing facility": "In-network:",
+        "Tier 1": "$0 per day for days 1-20"
+      }
+    }
+  },
+  {
+    "plan_id": "R2604_005_0",
+    "scraped_at": "2025-12-09T08:18:30",
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-R2604-005-0?year=2026&lang=en",
+    "raw_content": "An official website of the United States government\nHere's how you know\nCambiar a espa\u00f1ol\n\n\nBasics\nHealth & Drug Plans\nProviders & Services\nChat\nLog in\nBack to search results\nUHC Medicare Advantage Patriot No Rx GS-MA01 (Regional PPO)\nUnitedHealthcare\nPlan type: Regional PPO\nPlan ID: R2604-005-0\nPrint\nPlan website\nNon-members:\nphone number\n1-800-555-5757\nMembers:\nphone number\n1-877-370-4892\nEnroll\nWhat you'll pay\nTotal monthly premium\n$0.00\nHealth deductible\n$0.00\nPrimary doctor\n$0\ncopay\nOverview\nBenefits & Costs\nDrug Coverage\nExtra Benefits\nOptional Packages\nStar Ratings\nProviders\nOverview\nPREMIUMS\nTotal monthly premium $0.00\nHealth premium $0.00\nStandard Part B premium\nWhat's the standard Part B premium?\n$202.90\nPart B premium reduction\nWhat's the Part B premium reduction?\nNot offered\nDEDUCTIBLES\nThe amount you must pay each year before your plan starts to pay for covered services or drugs.\nHealth deductible\n$0.00\nMAXIMUM YOU PAY FOR HEALTH SERVICES\nMaximum you pay for health services\n$9,250 In and Out-of-network\n$9,250 In-network\nCONTACT INFORMATION\nPlan address\nP.O. Box 30770\nSalt Lake City, UT 84130\nBenefits & Costs\nDOCTOR SERVICES\nView Provider Network Directory\nPrimary doctor visit In-network: $0 copay\nOut-of-network: $0 copay\nSpecialist visit In-network: $0-$55 copay\nOut-of-network: $55 copay\nLimits apply\n(Doctor services|Specialist visit)\nTESTS, LABS, & IMAGING\nDiagnostic tests & procedures\nIn-network: $50 copay\nOut-of-network: $50 copay\nLimits apply\n(Tests, labs, & imaging|Diagnostic tests & procedures)\nLab services In-network: $0 copay\nOut-of-network: $0 copay\nLimits apply\n(Tests, labs, & imaging|Lab services)\nDiagnostic radiology services (like MRI) In-network: $0-$260 copay\nOut-of-network: $0-$260 copay\nLimits apply\n(Tests, labs, & imaging|Diagnostic radiology services (like MRI))\nOutpatient x-rays In-network: $30 copay\nOut-of-network: $30 copay\nLimits apply\n(Tests, labs, & imaging|Outpatient x-rays)\nEmergency care $115 copay\nUrgent care $0-$40 copay\nHOSPITAL SERVICES\nInpatient hospital coverage\nIn-network:\nTier 1\n$470 per day for days 1-5\n$0 per day for days 6-90\n$0 per stay\nOut-of-network:\n$470 per day for days 1-5\n$0 per day for days 6-999\n$0 per stay\nLimits apply\n(Hospital services|Inpatient hospital coverage)\nOutpatient hospital coverage In-network: $0-$470 copay\nOut-of-network: $0-$470 copay\nLimits apply\n(Hospital services|Outpatient hospital coverage)\nSKILLED NURSING FACILITY\nSkilled nursing facility\nIn-network:\nTier 1\n$0 per day for days 1-20\n$218 per day for days 21-100\nOut-of-network:\n$250 per day for days 1-100\n$0 per stay\nLimits apply\n(Skilled nursing facility|Skilled nursing facility)\nPREVENTIVE SERVICES\nHealth care to prevent illness or detect illness at an early stage, when treatment is likely to work best (like Pap tests, flu shots, and screening mammograms).\nLearn more about your costs for preventive services\nPreventive services In-network: $0 copay\nOut-of-network: $0 copay\nAMBULANCE\nGround ambulance In-network: $290 copay\nOut-of-network: $290 copay\nLimits apply\n(Ambulance|Ground ambulance)\nTHERAPY SERVICES\nOccupational therapy visit In-network: $35 copay\nOut-of-network: $35 copay\nLimits apply\n(Therapy services|Occupational therapy visit)\nPhysical therapy & speech & language therapy visit In-network: $55 copay\nOut-of-network: $55 copay\nLimits apply\n(Therapy services|Physical therapy & speech & language therapy visit)\nView more benefits & costs\n\n\n\n\n\n\n\n\n\nDrug Coverage\nSee if there's help to lower costs for drugs you take.\nPART B DRUGS\nThese are drugs you usually get at a doctor's office or hospital outpatient setting, like the flu shot, chemotherapy, or other shots.\nPart B insulin In-network: 0%-20% coinsurance\nOut-of-network: 20% coinsurance\nLimits apply\n(Part B drugs|Part B insulin)\nChemotherapy drugs In-network: 0%-20% coinsurance\nOut-of-network: 20% coinsurance\nLimits apply\n(Part B drugs|Chemotherapy drugs)\nOther Part B drugs In-network: 0%-20% coinsurance\nOut-of-network: 0%-20% coinsurance\nLimits apply\n(Part B drugs|Other Part B drugs)\nExtra Benefits\nHEARING\nHearing exam In-network: $0 copay\nOut-of-network: $55 copay\nLimits apply\n(Hearing|Hearing exam)\nFitting/evaluation Not covered\nHearing aids - prescription In-network: $199-$1249 copay\nOut-of-network: $199-$1249 copay\nLimits apply\n(Hearing|Hearing aids - prescription)\nHearing aids - over the counter In-network: $199-$829 copay\nOut-of-network: $199-$829 copay\nLimits apply\n(Hearing|Hearing aids - over the counter)\nPREVENTIVE DENTAL\nCare to prevent or find problems with your teeth and gums.\nOral exam In-network: $0 copay\nOut-of-network: $0 copay\nLimits apply\n(Preventive dental|Oral exam)\nCleaning In-network: $0 copay\nOut-of-network: $0 copay\nLimits apply\n(Preventive dental|Cleaning)\nFluoride treatment In-network: $0 copay\nOut-of-network: $0 copay\nLimits apply\n(Preventive dental|Fluoride treatment)\nDental x-rays In-network: $0 copay\nOut-of-network: $0 copay\nLimits apply\n(Preventive dental|Dental x-rays)\nCOMPREHENSIVE DENTAL\nCare to maintain or treat problems with your teeth and gums.\nRestorative services Not covered\nEndodontics Not covered\nPeriodontics Not covered\nProsthodontics, removable Not covered\nProsthodontics, fixed Not covered\nMaxillofacial prosthetics Not covered\nImplant services Not covered\nOral and maxillofacial surgery Not covered\nOrthodontics Not covered\nAdjunctive general services Not covered\nVISION\nRoutine eye exam In-network: $0 copay\nOut-of-network: $0 copay\nLimits apply\n(Vision|Routine eye exam)\nContact lenses In-network: $0 copay\nOut-of-network: $0 copay\nLimits apply\n(Vision|Contact lenses)\nEyeglasses (frames & lenses) Not covered\nEyeglass frames only In-network: $0 copay\nOut-of-network: $0 copay\nLimits apply\n(Vision|Eyeglass frames only)\nEyeglass lenses only In-network: $0-$153 copay\nOut-of-network: $0-$153 copay\nLimits apply\n(Vision|Eyeglass lenses only)\nUpgrades Not covered\nCollapse more extra benefits\nMEDICALLY-APPROVED NON-OPIOID PAIN MANAGEMENT SERVICES\nChiropractic services Not covered\nAcupuncture Not covered\nMassage therapy Not covered\nAlternative therapies Not covered\nMORE BENEFITS\nHealth Education Not covered\nCounseling Services Not covered\nSupport for Caregivers of Enrollees Not covered\nPersonal Emergency Response System (PERS) Not covered\nFitness benefit In-network: $0 copay\nOut-of-network: $0 copay\nLimits apply\n(Preventive services|Fitness benefit)\nPlan limits - There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.\nTransportation services for non-emergency care: Any health-related locations Not covered\nTransportation services for non-emergency care: Plan-approved locations Not covered\nOver the counter drug benefits In-network: $0 copay\nOut-of-network: $0 copay\nLimits apply\n(Other services|Over the counter drug benefits)\nPlan limits - There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.\nIn-home support services Not covered\nHome and bathroom safety devices In-network: $0 copay\nOut-of-network: $0 copay\nLimits apply\n(Preventive services|Home and bathroom safety devices)\nPlan limits - There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.\nMeals for short duration Not covered\nAnnual physical exams In-network: $0 copay\nLimits apply\n(Preventive services|Annual physical exams)\nPlan limits - There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.\nTelehealth In-network: $0 copay\nLimits apply\n(Professional services|Telehealth)\nPlan limits - There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.\nWorldwide emergency $0 copay\nLimits apply\n(Emergency care|Worldwide emergency)\nPlan limits - There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.\nPost discharge in-home medication reconciliation Not covered\nRe-admission prevention Not covered\nWigs for hair loss related to chemotherapy Not covered\nWeight management programs Not covered\nAdult day health services Not covered\nHome-based palliative care Not covered\nOptional Packages\nOptional Packages\nThis plan includes optional benefits you can add to your coverage at an additional cost.\nPackage #1 Includes preventive dental services, and comprehensive dental services\nMonthly premium: $44.00\nDeductible: N/A\nStar Ratings\nExpand All Ratings\nOverall star rating\nOverall rating is based on the categories below.\nstars\nHealth plan star rating\nSummary rating of health plan quality\nstars\nProviders\nView Provider Network Directory\nFind participating providers\nAdd your providers to find out if they participate in this plan.\nAdd Provider\nAbout Medicare\nNondiscrimination/Accessibility\nPrivacy Policy\nPrivacy Setting\nLinking Policy\nUsing this site\nPlain Writing\nA federal government website managed and paid for by the U.S. Centers for Medicare & Medicaid Services.\n7500 Security Boulevard, Baltimore, MD 21244",
+    "plan_info": {
+      "name": "",
+      "found": true,
+      "organization": "UnitedHealthcare",
+      "type": "Regional PPO",
+      "id": "R2604-005-0"
+    },
+    "premiums": {
+      "Total monthly premium": "$0.00",
+      "Health premium": "$0.00",
+      "Part B premium reduction": "$What's the Part B premium reduction?"
+    },
+    "deductibles": {
+      "Health deductible": "$0.00"
+    },
+    "maximum_out_of_pocket": {
+      "Maximum you pay for health services": "$9,250 In and Out-of-network"
+    },
+    "contact_info": {
+      "Plan address": "P.O. Box 30770\nSalt Lake City, UT 84130"
+    },
+    "benefits": {
+      "Doctor Services": {
+        "Primary doctor visit In-network: $0 copay": "Out-of-network: $0 copay",
+        "Specialist visit In-network: $0-$55 copay": "Out-of-network: $55 copay",
+        "Diagnostic tests & procedures": "In-network: $50 copay",
+        "Lab services In-network: $0 copay": "Out-of-network: $0 copay",
+        "Diagnostic radiology services (like MRI) In-network: $0-$260 copay": "Out-of-network: $0-$260 copay",
+        "Outpatient x-rays In-network: $30 copay": "Out-of-network: $30 copay",
+        "Emergency care $115 copay": "Urgent care $0-$40 copay"
+      },
+      "Tests, Labs, & Imaging": {
+        "Diagnostic tests & procedures": "In-network: $50 copay",
+        "Lab services In-network: $0 copay": "Out-of-network: $0 copay",
+        "Diagnostic radiology services (like MRI) In-network: $0-$260 copay": "Out-of-network: $0-$260 copay",
+        "Outpatient x-rays In-network: $30 copay": "Out-of-network: $30 copay",
+        "Emergency care $115 copay": "Urgent care $0-$40 copay"
+      },
+      "Hospital Services": {
+        "Inpatient hospital coverage": "In-network:",
+        "Tier 1": "$470 per day for days 1-5",
+        "$0 per day for days 6-90": "$0 per stay",
+        "Out-of-network:": "$470 per day for days 1-5",
+        "$0 per day for days 6-999": "$0 per stay",
+        "Outpatient hospital coverage In-network: $0-$470 copay": "Out-of-network: $0-$470 copay"
+      },
+      "Preventive Services": {
+        "Learn more about your costs for preventive services": "Preventive services In-network: $0 copay"
+      },
+      "Vision": {
+        "Routine eye exam In-network: $0 copay": "Out-of-network: $0 copay",
+        "Contact lenses In-network: $0 copay": "Out-of-network: $0 copay",
+        "Eyeglasses (frames & lenses) Not covered": "Eyeglass frames only In-network: $0 copay",
+        "Eyeglass lenses only In-network: $0-$153 copay": "Out-of-network: $0-$153 copay"
+      },
+      "Hearing": {
+        "Hearing exam In-network: $0 copay": "Out-of-network: $55 copay",
+        "Fitting/evaluation Not covered": "Hearing aids - prescription In-network: $199-$1249 copay",
+        "Hearing aids - over the counter In-network: $199-$829 copay": "Out-of-network: $199-$829 copay"
+      },
+      "Preventive Dental": {
+        "Care to prevent or find problems with your teeth and gums.": "Oral exam In-network: $0 copay",
+        "Cleaning In-network: $0 copay": "Out-of-network: $0 copay",
+        "Fluoride treatment In-network: $0 copay": "Out-of-network: $0 copay",
+        "Dental x-rays In-network: $0 copay": "Out-of-network: $0 copay"
+      },
+      "Dental": {
+        "Care to prevent or find problems with your teeth and gums.": "Oral exam In-network: $0 copay",
+        "Cleaning In-network: $0 copay": "Out-of-network: $0 copay",
+        "Fluoride treatment In-network: $0 copay": "Out-of-network: $0 copay",
+        "Dental x-rays In-network: $0 copay": "Out-of-network: $0 copay"
+      },
+      "Skilled Nursing Facility": {
+        "Skilled nursing facility": "In-network:",
+        "Tier 1": "$0 per day for days 1-20",
+        "Out-of-network:": "$250 per day for days 1-100"
+      }
+    }
+  },
+  {
+    "plan_info": {
+      "name": "Humana USAA Honor Giveback (PPO)"
+    },
+    "premiums": {},
+    "deductibles": {},
+    "maximum_out_of_pocket": {},
+    "contact_info": {},
+    "benefits": {
+      "Benefits & Costs": {
+        "In-network: $0 copayOut-of-network: 30% coinsurance": "Limits apply(Mental health services|Outpatient individual therapy visit)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $40 copayOut-of-network: 30% coinsurance": "Limits apply(Doctor services|Specialist visit)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$120 copayOut-of-network: 30%-50% coinsurance": "Limits apply(Tests, labs, & imaging|Diagnostic tests & procedures)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$50 copayOut-of-network: 30%-50% coinsurance": "Limits apply(Tests, labs, & imaging|Lab services)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$335 copayOut-of-network: $0 copay, 50% coinsurance": "Limits apply(Tests, labs, & imaging|Diagnostic radiology services (like MRI))Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$130 copayOut-of-network: 30%-50% coinsurance": "Limits apply(Tests, labs, & imaging|Outpatient x-rays)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "$115 copay": "",
+        "$40 copay": "",
+        "In-network:Tier 1$375 per day for days 1-7$0 per day for days 8-90$0 per stayOut-of-network:40% per stay": "Limits apply(Hospital services|Inpatient hospital coverage)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$450 copayOut-of-network: $0 copay, 50% coinsurance": "Limits apply(Hospital services|Outpatient hospital coverage)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network:Tier 1$0 per day for days 1-20$218 per day for days 21-100Out-of-network:40% per stay": "Limits apply(Skilled nursing facility|Skilled nursing facility)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0 copayOut-of-network: $0 copay": "",
+        "In-network: $335 copayOut-of-network: $335 copay": "Limits apply(Ambulance|Ground ambulance)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $25 copayOut-of-network: 30% coinsurance": "Limits apply(Therapy services|Physical therapy & speech & language therapy visit)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0 copayOut-of-network: 30%-50% coinsurance": "Limits apply(Opioid treatment program services|Opioid treatment program services)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0 copay, 20% coinsuranceOut-of-network: $0 copay, 20% coinsurance": "Limits apply(Other services|Durable medical equipment (like wheelchairs & oxygen))Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: 20% coinsuranceOut-of-network: 20% coinsurance": "Limits apply(Other services|Dialysis)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0 copay, 10%-20% coinsuranceOut-of-network: 50% coinsurance": "Limits apply(Other services|Diabetes supplies)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization."
+      },
+      "Extra Benefits": {
+        "In-network: $0 copayOut-of-network: $0 copay": "Limits apply(Preventive services|Fitness benefit)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "In-network: $699-$999 copayOut-of-network: $699-$999 copay": "Limits apply(Hearing|Hearing aids - prescription)Plan limits- There may be limits on how much the plan will provide.",
+        "Not covered": "",
+        "In-network: $40 copayOut-of-network: $40 copay": "Limits apply(Acupuncture)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "In-network: $0 copay": "Limits apply(Preventive services|Annual physical exams)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "In-network: $0-$40 copay": "Limits apply(Professional services|Telehealth)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "$115 copay": "Limits apply(Emergency care|Worldwide emergency)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details."
+      }
+    },
+    "drug_coverage": {
+      "In-network: 0%-20% coinsuranceOut-of-network: 20% coinsurance": "Limits apply(Part B drugs|Other Part B drugs)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization."
+    },
+    "extra_benefits": {},
+    "plan_id": "H7617_096_0",
+    "state": "South_Carolina"
+  },
+  {
+    "plan_info": {
+      "name": "HumanaChoice R0110-019 (Regional PPO)"
+    },
+    "premiums": {},
+    "deductibles": {},
+    "maximum_out_of_pocket": {},
+    "contact_info": {},
+    "benefits": {
+      "Benefits & Costs": {
+        "In-network: $0 copayOut-of-network: 30% coinsurance": "",
+        "In-network: $40 copayOut-of-network: 30% coinsurance": "Limits apply(Doctor services|Specialist visit)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$120 copayOut-of-network: 30% coinsurance": "Limits apply(Tests, labs, & imaging|Diagnostic tests & procedures)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$50 copayOut-of-network: 30% coinsurance": "Limits apply(Tests, labs, & imaging|Lab services)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$335 copayOut-of-network: $0 copay, 30% coinsurance": "Limits apply(Tests, labs, & imaging|Diagnostic radiology services (like MRI))Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$130 copayOut-of-network: 30% coinsurance": "Limits apply(Tests, labs, & imaging|Outpatient x-rays)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "$115 copay": "",
+        "$40 copay": "",
+        "In-network:Tier 1$300 per day for days 1-6$0 per day for days 7-90$0 per stayOut-of-network:30% per stay": "Limits apply(Hospital services|Inpatient hospital coverage)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$375 copayOut-of-network: $0 copay, 30% coinsurance": "Limits apply(Hospital services|Outpatient hospital coverage)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network:Tier 1$0 per day for days 1-20$218 per day for days 21-100Out-of-network:30% per stay": "Limits apply(Skilled nursing facility|Skilled nursing facility)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0 copayOut-of-network: $0 copay": "",
+        "In-network: $335 copayOut-of-network: $335 copay": "Limits apply(Ambulance|Ground ambulance)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $25 copayOut-of-network: 30% coinsurance": "Limits apply(Therapy services|Physical therapy & speech & language therapy visit)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $35 copayOut-of-network: 30% coinsurance": "Limits apply(Opioid treatment program services|Opioid treatment program services)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0 copay, 20% coinsuranceOut-of-network: $0 copay, 20% coinsurance": "Limits apply(Other services|Durable medical equipment (like wheelchairs & oxygen))Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: 20% coinsuranceOut-of-network: 20% coinsurance": "Limits apply(Other services|Dialysis)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0 copay, 10%-20% coinsuranceOut-of-network: 30% coinsurance": "Limits apply(Other services|Diabetes supplies)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization."
+      },
+      "Extra Benefits": {
+        "In-network: $0 copayOut-of-network: $0 copay": "Limits apply(Other services|Meals for short duration)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "In-network: $99-$699 copayOut-of-network: $99-$699 copay": "Limits apply(Hearing|Hearing aids - prescription)Plan limits- There may be limits on how much the plan will provide.",
+        "Not covered": "",
+        "In-network: $40 copayOut-of-network: $40 copay": "Limits apply(Acupuncture)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "In-network: $0 copay": "Limits apply(Preventive services|Annual physical exams)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "In-network: $0-$40 copay": "Limits apply(Professional services|Telehealth)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "$115 copay": "Limits apply(Emergency care|Worldwide emergency)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details."
+      }
+    },
+    "drug_coverage": {
+      "In-network: 0%-20% coinsuranceOut-of-network: 30% coinsurance": "Limits apply(Part B drugs|Other Part B drugs)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization."
+    },
+    "extra_benefits": {},
+    "plan_id": "R0110_019_0",
+    "state": "South_Carolina"
+  },
+  {
+    "plan_info": {
+      "name": "UHC Complete Care Support GS-1A (Regional PPO C-SNP)"
+    },
+    "premiums": {},
+    "deductibles": {},
+    "maximum_out_of_pocket": {},
+    "contact_info": {},
+    "benefits": {
+      "Benefits & Costs": {
+        "In-network: 0%-20% coinsuranceOut-of-network: 20% coinsurance": "Limits apply(Mental health services|Outpatient individual therapy visit)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: 20% coinsuranceOut-of-network: 20% coinsurance": "Limits apply(Other services|Dialysis)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0 copayOut-of-network: $0 copay": "Limits apply(Opioid treatment program services|Opioid treatment program services)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: 0%-20% coinsuranceOut-of-network: 0%-20% coinsurance": "Limits apply(Hospital services|Outpatient hospital coverage)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "$115 copay": "",
+        "$0-$40 copay": "",
+        "In-network:Tier 1$1,800 per stayOut-of-network:$1,800 per stay": "Limits apply(Hospital services|Inpatient hospital coverage)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network:Tier 1$0 per day for days 1-20$217 per day for days 21-100Out-of-network:20% per stay": "Limits apply(Skilled nursing facility|Skilled nursing facility)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: 20% coinsuranceOut-of-network: 40% coinsurance": "Limits apply(Other services|Prosthetics (like braces, artificial limbs))Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0 copayOut-of-network: 40% coinsurance": "Limits apply(Other services|Diabetes supplies)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization."
+      },
+      "Extra Benefits": {
+        "In-network: $0 copayOut-of-network: 20% coinsurance": "Limits apply(Hearing|Hearing exam)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.Plan limits- There may be limits on how much the plan will provide.",
+        "Not covered": "",
+        "In-network: $0 copayOut-of-network: $0 copay": "Limits apply(Other services|Meals for short duration)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "In-network: $0 copayOut-of-network: 75% coinsurance": "Limits apply(Transportation|Transportation services for non-emergency care: Plan-approved locations)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "In-network: $0 copay": "Limits apply(Chronic illness services|Food & produce)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "$0 copay": "Limits apply(Emergency care|Worldwide emergency)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details."
+      }
+    },
+    "drug_coverage": {
+      "25% coinsurance": "0% coinsurance",
+      "In-network: 0%-20% coinsuranceOut-of-network: 20% coinsurance": "Limits apply(Part B drugs|Chemotherapy drugs)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+      "In-network: 0%-20% coinsuranceOut-of-network: 0%-20% coinsurance": "Limits apply(Part B drugs|Other Part B drugs)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization."
+    },
+    "extra_benefits": {},
+    "plan_id": "R2604_002_0",
+    "state": "South_Carolina"
+  },
+  {
+    "plan_info": {
+      "name": "Aetna Medicare Eagle Giveback (PPO)"
+    },
+    "premiums": {},
+    "deductibles": {},
+    "maximum_out_of_pocket": {},
+    "contact_info": {},
+    "benefits": {
+      "Benefits & Costs": {
+        "In-network: $0 copayOut-of-network: $10 copay": "",
+        "In-network: $0-$35 copayOut-of-network: $45 copay": "",
+        "In-network: $0-$200 copayOut-of-network: 20% coinsurance": "Limits apply(Tests, labs, & imaging|Diagnostic tests & procedures)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0 copayOut-of-network: 20% coinsurance": "Limits apply(Tests, labs, & imaging|Lab services)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$300 copayOut-of-network: 20% coinsurance": "Limits apply(Tests, labs, & imaging|Diagnostic radiology services (like MRI))Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$14 copayOut-of-network: 20% coinsurance": "Limits apply(Tests, labs, & imaging|Outpatient x-rays)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "$115 copay": "",
+        "$40 copay": "",
+        "In-network:Tier 1$388 per day for days 1-7$0 per day for days 8-90$0 per stayOut-of-network:$488 per day for days 1-7$0 per day for days 8-90$0 per stay": "Limits apply(Hospital services|Inpatient hospital coverage)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$388 copayOut-of-network: 50% coinsurance": "Limits apply(Hospital services|Outpatient hospital coverage)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network:Tier 1$0 per day for days 1-20$218 per day for days 21-100Out-of-network:20% per stay": "Limits apply(Skilled nursing facility|Skilled nursing facility)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0 copayOut-of-network: $0 copay": "",
+        "In-network: $275 copayOut-of-network: $275 copay": "Limits apply(Ambulance|Ground ambulance)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $30 copayOut-of-network: 50% coinsurance": "",
+        "In-network: $40 copayOut-of-network: 20% coinsurance": "Limits apply(Opioid treatment program services|Opioid treatment program services)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: 0%-20% coinsuranceOut-of-network: 20% coinsurance": "Limits apply(Other services|Durable medical equipment (like wheelchairs & oxygen))Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: 20% coinsuranceOut-of-network: 20% coinsurance": "Limits apply(Other services|Dialysis)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: 0%-20% coinsuranceOut-of-network: 0%-20% coinsurance": "Limits apply(Other services|Diabetes supplies)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization."
+      },
+      "Extra Benefits": {
+        "In-network: $0 copayOut-of-network: $45 copay": "Limits apply(Hearing|Hearing exam)Plan limits- There may be limits on how much the plan will provide.",
+        "In-network: $0 copayOut-of-network: $0 copay": "Limits apply(Preventive services|Wigs for hair loss related to chemotherapy)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "Not covered": "",
+        "In-network: $0 copayOut-of-network: 50% coinsurance": "Limits apply(Comprehensive dental|Adjunctive general services)Plan limits- There may be limits on how much the plan will provide.",
+        "In-network: $0 copay": "Limits apply(Preventive services|Annual physical exams)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "In-network: $0-$40 copay, 20% coinsurance": "Limits apply(Professional services|Telehealth)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "$115 copay": "Limits apply(Emergency care|Worldwide emergency)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details."
+      }
+    },
+    "drug_coverage": {
+      "In-network: $35 copayOut-of-network: $35 copay": "Limits apply(Part B drugs|Part B insulin)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+      "In-network: 0%-20% coinsuranceOut-of-network: 20% coinsurance": "Limits apply(Part B drugs|Other Part B drugs)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization."
+    },
+    "extra_benefits": {},
+    "plan_id": "H5521_279_0",
+    "state": "South_Carolina"
+  },
+  {
+    "plan_info": {
+      "name": "Humana USAA Honor Giveback (PPO)"
+    },
+    "premiums": {},
+    "deductibles": {},
+    "maximum_out_of_pocket": {},
+    "contact_info": {},
+    "benefits": {
+      "Benefits & Costs": {
+        "In-network: $0 copayOut-of-network: 30% coinsurance": "Limits apply(Mental health services|Outpatient individual therapy visit)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $40 copayOut-of-network: 30% coinsurance": "Limits apply(Doctor services|Specialist visit)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$120 copayOut-of-network: 30%-50% coinsurance": "Limits apply(Tests, labs, & imaging|Diagnostic tests & procedures)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$50 copayOut-of-network: 30%-50% coinsurance": "Limits apply(Tests, labs, & imaging|Lab services)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$335 copayOut-of-network: $0 copay, 50% coinsurance": "Limits apply(Tests, labs, & imaging|Diagnostic radiology services (like MRI))Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$130 copayOut-of-network: 30%-50% coinsurance": "Limits apply(Tests, labs, & imaging|Outpatient x-rays)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "$115 copay": "",
+        "$40 copay": "",
+        "In-network:Tier 1$375 per day for days 1-7$0 per day for days 8-90$0 per stayOut-of-network:40% per stay": "Limits apply(Hospital services|Inpatient hospital coverage)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$450 copayOut-of-network: $0 copay, 50% coinsurance": "Limits apply(Hospital services|Outpatient hospital coverage)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network:Tier 1$0 per day for days 1-20$218 per day for days 21-100Out-of-network:40% per stay": "Limits apply(Skilled nursing facility|Skilled nursing facility)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0 copayOut-of-network: $0 copay": "",
+        "In-network: $335 copayOut-of-network: $335 copay": "Limits apply(Ambulance|Ground ambulance)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $25 copayOut-of-network: 30% coinsurance": "Limits apply(Therapy services|Physical therapy & speech & language therapy visit)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0 copayOut-of-network: 30%-50% coinsurance": "Limits apply(Opioid treatment program services|Opioid treatment program services)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0 copay, 20% coinsuranceOut-of-network: $0 copay, 20% coinsurance": "Limits apply(Other services|Durable medical equipment (like wheelchairs & oxygen))Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: 20% coinsuranceOut-of-network: 20% coinsurance": "Limits apply(Other services|Dialysis)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0 copay, 10%-20% coinsuranceOut-of-network: 50% coinsurance": "Limits apply(Other services|Diabetes supplies)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization."
+      },
+      "Extra Benefits": {
+        "In-network: $0 copayOut-of-network: $0 copay": "Limits apply(Preventive services|Fitness benefit)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "In-network: $699-$999 copayOut-of-network: $699-$999 copay": "Limits apply(Hearing|Hearing aids - prescription)Plan limits- There may be limits on how much the plan will provide.",
+        "Not covered": "",
+        "In-network: $40 copayOut-of-network: $40 copay": "Limits apply(Acupuncture)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "In-network: $0 copay": "Limits apply(Preventive services|Annual physical exams)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "In-network: $0-$40 copay": "Limits apply(Professional services|Telehealth)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "$115 copay": "Limits apply(Emergency care|Worldwide emergency)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details."
+      }
+    },
+    "drug_coverage": {
+      "In-network: 0%-20% coinsuranceOut-of-network: 20% coinsurance": "Limits apply(Part B drugs|Other Part B drugs)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization."
+    },
+    "extra_benefits": {},
+    "plan_id": "H5216_286_0",
+    "state": "South_Carolina"
+  },
+  {
+    "plan_info": {
+      "name": "HumanaChoice Giveback H5216-154 (PPO)"
+    },
+    "premiums": {},
+    "deductibles": {},
+    "maximum_out_of_pocket": {},
+    "contact_info": {},
+    "benefits": {
+      "Benefits & Costs": {
+        "In-network: $0 copayOut-of-network: 25% coinsurance": "",
+        "In-network: $45 copayOut-of-network: 25% coinsurance": "Limits apply(Doctor services|Specialist visit)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$120 copayOut-of-network: 25%-50% coinsurance": "Limits apply(Tests, labs, & imaging|Diagnostic tests & procedures)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$50 copayOut-of-network: 25%-50% coinsurance": "Limits apply(Tests, labs, & imaging|Lab services)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$335 copayOut-of-network: $0 copay, 45% coinsurance": "Limits apply(Tests, labs, & imaging|Diagnostic radiology services (like MRI))Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$130 copayOut-of-network: 25%-45% coinsurance": "Limits apply(Tests, labs, & imaging|Outpatient x-rays)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "$115 copay": "",
+        "$40 copay": "",
+        "In-network:Tier 1$375 per day for days 1-7$0 per day for days 8-90$0 per stayOut-of-network:50% per stay": "Limits apply(Hospital services|Inpatient hospital coverage)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0-$450 copayOut-of-network: $0 copay, 25%-45% coinsurance": "Limits apply(Hospital services|Outpatient hospital coverage)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network:Tier 1$0 per day for days 1-20$218 per day for days 21-100Out-of-network:50% per stay": "Limits apply(Skilled nursing facility|Skilled nursing facility)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0 copayOut-of-network: $0 copay": "",
+        "In-network: $335 copayOut-of-network: $335 copay": "Limits apply(Ambulance|Ground ambulance)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $25 copayOut-of-network: 25% coinsurance": "Limits apply(Therapy services|Physical therapy & speech & language therapy visit)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $35 copayOut-of-network: 25% coinsurance": "Limits apply(Mental health services|Outpatient individual therapy visit)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $35 copayOut-of-network: 25%-45% coinsurance": "Limits apply(Opioid treatment program services|Opioid treatment program services)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0 copay, 20% coinsuranceOut-of-network: $0 copay, 20% coinsurance": "Limits apply(Other services|Durable medical equipment (like wheelchairs & oxygen))Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: 20% coinsuranceOut-of-network: 25% coinsurance": "Limits apply(Other services|Prosthetics (like braces, artificial limbs))Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: 20% coinsuranceOut-of-network: 20% coinsurance": "Limits apply(Other services|Dialysis)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0 copay, 10%-20% coinsuranceOut-of-network: 50% coinsurance": "Limits apply(Other services|Diabetes supplies)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization."
+      },
+      "Extra Benefits": {
+        "In-network: $0 copayOut-of-network: $0 copay": "Limits apply(Other services|Meals for short duration)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "In-network: $699-$999 copayOut-of-network: $699-$999 copay": "Limits apply(Hearing|Hearing aids - prescription)Plan limits- There may be limits on how much the plan will provide.",
+        "Not covered": "",
+        "In-network: $45 copayOut-of-network: $45 copay": "Limits apply(Acupuncture)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "In-network: $0 copay": "Limits apply(Preventive services|Annual physical exams)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "In-network: $0-$45 copay": "Limits apply(Professional services|Telehealth)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "$115 copay": "Limits apply(Emergency care|Worldwide emergency)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details."
+      }
+    },
+    "drug_coverage": {
+      "$0.00 copay": "$0 copay",
+      "$5.00 copay": "$0 copay",
+      "$47.00 copay": "$0 copay",
+      "31% coinsurance": "$0 copay",
+      "25% coinsurance": "$0 copay",
+      "In-network: 0%-20% coinsuranceOut-of-network: 45%-50% coinsurance": "Limits apply(Part B drugs|Other Part B drugs)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+      "In-network: 0%-20% coinsuranceOut-of-network: 45% coinsurance": "Limits apply(Part B drugs|Chemotherapy drugs)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization."
+    },
+    "extra_benefits": {},
+    "plan_id": "H5216_154_0",
+    "state": "South_Carolina"
+  },
+  {
+    "plan_info": {
+      "name": "Clover Health LiveHealthy Giveback (PPO)"
+    },
+    "premiums": {},
+    "deductibles": {},
+    "maximum_out_of_pocket": {},
+    "contact_info": {},
+    "benefits": {
+      "Benefits & Costs": {
+        "In-network: $0 copayOut-of-network: $10 copay": "",
+        "In-network: $40 copayOut-of-network: $60 copay": "",
+        "In-network: $0-$350 copayOut-of-network: $0-$600 copay": "Limits apply(Tests, labs, & imaging|Diagnostic tests & procedures)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $10-$45 copayOut-of-network: $65 copay": "Limits apply(Tests, labs, & imaging|Lab services)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $50-$350 copayOut-of-network: $80-$600 copay": "Limits apply(Tests, labs, & imaging|Diagnostic radiology services (like MRI))Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $45 copayOut-of-network: $65 copay": "Limits apply(Tests, labs, & imaging|Outpatient x-rays)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "$115 copay": "",
+        "$40 copay": "",
+        "In-network:Tier 1$385 per day for days 1-6$0 per day for days 7-90$0 per stayOut-of-network:$485 per day for days 1-6$0 per day for days 7-90$0 per stay": "Limits apply(Hospital services|Inpatient hospital coverage)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $450 copayOut-of-network: $595 copay": "Limits apply(Hospital services|Outpatient hospital coverage)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network:Tier 1$0 per day for days 1-20$218 per day for days 21-100Out-of-network:40% per stay": "Limits apply(Skilled nursing facility|Skilled nursing facility)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $0 copayOut-of-network: $0 copay, 0% coinsurance": "",
+        "In-network: $350 copayOut-of-network: $350 copay": "Limits apply(Ambulance|Ground ambulance)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $25 copayOut-of-network: $60 copay": "Limits apply(Opioid treatment program services|Opioid treatment program services)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: $35 copayOut-of-network: $65 copay": "",
+        "In-network: $45 copayOut-of-network: $75 copay": "",
+        "In-network: 20% coinsuranceOut-of-network: 20% coinsurance": "Limits apply(Other services|Prosthetics (like braces, artificial limbs))Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+        "In-network: 20% coinsuranceOut-of-network: 40% coinsurance": ""
+      },
+      "Extra Benefits": {
+        "In-network: $0 copayOut-of-network: $0 copay, 0% coinsurance": "Limits apply(Other services|Over the counter drug benefits)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "In-network: $499-$999 copayOut-of-network: $5000 copay": "Limits apply(Hearing|Hearing aids - prescription)Plan limits- There may be limits on how much the plan will provide.",
+        "Not covered": "",
+        "In-network: $0 copayOut-of-network: 40% coinsurance": "Limits apply(Vision|Routine eye exam)Plan limits- There may be limits on how much the plan will provide.",
+        "In-network: $0 copay": "Limits apply(Preventive services|Annual physical exams)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "In-network: $0-$40 copay": "Limits apply(Professional services|Telehealth)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+        "$115 copay": "Limits apply(Emergency care|Worldwide emergency)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details."
+      }
+    },
+    "drug_coverage": {
+      "$0.00 copay": "$0 copay",
+      "$5.00 copay": "$0 copay",
+      "$47.00 copay": "$0 copay",
+      "$100.00 copay": "$0 copay",
+      "26% coinsurance": "$0 copay",
+      "In-network: $35 copayOut-of-network: 40% coinsurance": "Limits apply(Part B drugs|Part B insulin)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+      "In-network: 0%-20% coinsuranceOut-of-network: 40% coinsurance": "Limits apply(Part B drugs|Other Part B drugs)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization."
+    },
+    "extra_benefits": {},
+    "plan_id": "H5141_063_0",
+    "state": "South_Carolina"
+  }
+]

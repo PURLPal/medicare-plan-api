@@ -1,0 +1,290 @@
+[
+  {
+    "plan_id": "H3146_047_0",
+    "name": "Aetna Medicare Enhanced (HMO)",
+    "type": "HMO",
+    "org": "Aetna Medicare"
+  },
+  {
+    "plan_id": "H4172_001_0",
+    "name": "NHC Advantage (HMO I-SNP)",
+    "type": "HMO I-SNP",
+    "org": "NHC Advantage"
+  },
+  {
+    "plan_id": "H5141_063_0",
+    "name": "Clover Health LiveHealthy Giveback (PPO)",
+    "type": "PPO",
+    "org": "Clover Health"
+  },
+  {
+    "plan_id": "H5216_154_0",
+    "name": "HumanaChoice Giveback H5216-154 (PPO)",
+    "type": "PPO",
+    "org": "Humana"
+  },
+  {
+    "plan_id": "H5216_157_0",
+    "name": "HumanaChoice H5216-157 (PPO)",
+    "type": "PPO",
+    "org": "Humana"
+  },
+  {
+    "plan_id": "H5216_217_0",
+    "name": "Humana USAA Honor Giveback (PPO)",
+    "type": "PPO",
+    "org": "Humana"
+  },
+  {
+    "plan_id": "H5216_243_0",
+    "name": "Humana Together in Health (PPO I-SNP)",
+    "type": "PPO I-SNP",
+    "org": "Humana"
+  },
+  {
+    "plan_id": "H5216_244_0",
+    "name": "HumanaChoice - Diabetes and Heart (PPO C-SNP)",
+    "type": "PPO C-SNP",
+    "org": "Humana"
+  },
+  {
+    "plan_id": "H5216_277_0",
+    "name": "HumanaChoice SNP-DE H5216-277 (PPO D-SNP)",
+    "type": "PPO D-SNP",
+    "org": "Humana"
+  },
+  {
+    "plan_id": "H5216_280_2",
+    "name": "HumanaChoice H5216-280 (PPO)",
+    "type": "PPO",
+    "org": "Humana"
+  },
+  {
+    "plan_id": "H5216_286_0",
+    "name": "Humana USAA Honor Giveback (PPO)",
+    "type": "PPO",
+    "org": "Humana"
+  },
+  {
+    "plan_id": "H5216_345_0",
+    "name": "HumanaChoice Giveback H5216-345 (PPO)",
+    "type": "PPO",
+    "org": "Humana"
+  },
+  {
+    "plan_id": "H5216_347_0",
+    "name": "HumanaChoice H5216-347 (PPO)",
+    "type": "PPO",
+    "org": "Humana"
+  },
+  {
+    "plan_id": "H5216_423_0",
+    "name": "HumanaChoice H5216-423 (PPO)",
+    "type": "PPO",
+    "org": "Humana"
+  },
+  {
+    "plan_id": "H5272_001_0",
+    "name": "Wellcare Absolute Total Care Dual Align (HMO D-SNP)",
+    "type": "HMO D-SNP",
+    "org": "Wellcare"
+  },
+  {
+    "plan_id": "H5322_040_0",
+    "name": "AARP Medicare Advantage from UHC SC-0005 (HMO-POS)",
+    "type": "HMO-POS",
+    "org": "UnitedHealthcare"
+  },
+  {
+    "plan_id": "H5322_043_0",
+    "name": "AARP Medicare Advantage Patriot No Rx SC-MA01 (HMO-POS)",
+    "type": "HMO-POS",
+    "org": "UnitedHealthcare"
+  },
+  {
+    "plan_id": "H5322_044_0",
+    "name": "AARP Medicare Advantage from UHC SC-0006 (HMO-POS)",
+    "type": "HMO-POS",
+    "org": "UnitedHealthcare"
+  },
+  {
+    "plan_id": "H5521_279_0",
+    "name": "Aetna Medicare Eagle Giveback (PPO)",
+    "type": "PPO",
+    "org": "Aetna Medicare"
+  },
+  {
+    "plan_id": "H5619_083_0",
+    "name": "Humana Gold Plus H5619-083 (HMO)",
+    "type": "HMO",
+    "org": "Humana"
+  },
+  {
+    "plan_id": "H5619_152_0",
+    "name": "Humana Gold Plus H5619-152 (HMO)",
+    "type": "HMO",
+    "org": "Humana"
+  },
+  {
+    "plan_id": "H5619_161_0",
+    "name": "Humana Gold Plus - Diabetes and Heart (HMO C-SNP)",
+    "type": "HMO C-SNP",
+    "org": "Humana"
+  },
+  {
+    "plan_id": "H5619_169_0",
+    "name": "Humana Gold Plus Giveback H5619-169 (HMO)",
+    "type": "HMO",
+    "org": "Humana"
+  },
+  {
+    "plan_id": "H5619_171_0",
+    "name": "Humana Gold Plus H5619-171 (HMO)",
+    "type": "HMO",
+    "org": "Humana"
+  },
+  {
+    "plan_id": "H7020_005_0",
+    "name": "HealthSpring Courage (HMO)",
+    "type": "HMO",
+    "org": "HealthSpring"
+  },
+  {
+    "plan_id": "H7020_010_3",
+    "name": "HealthSpring Preferred Savings (HMO)",
+    "type": "HMO",
+    "org": "HealthSpring"
+  },
+  {
+    "plan_id": "H7020_011_3",
+    "name": "HealthSpring Preferred (HMO)",
+    "type": "HMO",
+    "org": "HealthSpring"
+  },
+  {
+    "plan_id": "H7028_001_0",
+    "name": "DEVOTED CHOICE 001 SC (PPO)",
+    "type": "PPO",
+    "org": "Devoted Health"
+  },
+  {
+    "plan_id": "H7028_002_0",
+    "name": "DEVOTED CHOICE GIVEBACK 002 SC (PPO)",
+    "type": "PPO",
+    "org": "Devoted Health"
+  },
+  {
+    "plan_id": "H7028_003_0",
+    "name": "DEVOTED CHOICE MA ONLY 003 SC (PPO)",
+    "type": "PPO",
+    "org": "Devoted Health"
+  },
+  {
+    "plan_id": "H7028_004_0",
+    "name": "DEVOTED C-SNP CHOICE 004 SC (PPO C-SNP)",
+    "type": "PPO C-SNP",
+    "org": "Devoted Health"
+  },
+  {
+    "plan_id": "H7028_005_0",
+    "name": "DEVOTED C-SNP CHOICE PREMIUM 005 SC (PPO C-SNP)",
+    "type": "PPO C-SNP",
+    "org": "Devoted Health"
+  },
+  {
+    "plan_id": "H7028_006_0",
+    "name": "DEVOTED C-SNP CHOICE PLUS 006 SC (PPO C-SNP)",
+    "type": "PPO C-SNP",
+    "org": "Devoted Health"
+  },
+  {
+    "plan_id": "H7326_001_0",
+    "name": "Wellcare Simple Open (PPO)",
+    "type": "PPO",
+    "org": "Wellcare"
+  },
+  {
+    "plan_id": "H7326_007_0",
+    "name": "Wellcare Assist Open (PPO)",
+    "type": "PPO",
+    "org": "Wellcare"
+  },
+  {
+    "plan_id": "H7617_094_0",
+    "name": "HumanaChoice Giveback H7617-094 (PPO)",
+    "type": "PPO",
+    "org": "Humana"
+  },
+  {
+    "plan_id": "H7617_095_0",
+    "name": "HumanaChoice H7617-095 (PPO)",
+    "type": "PPO",
+    "org": "Humana"
+  },
+  {
+    "plan_id": "H7617_096_0",
+    "name": "Humana USAA Honor Giveback (PPO)",
+    "type": "PPO",
+    "org": "Humana"
+  },
+  {
+    "plan_id": "H7849_114_0",
+    "name": "HealthSpring True Choice Plus (PPO)",
+    "type": "PPO",
+    "org": "HealthSpring"
+  },
+  {
+    "plan_id": "H7849_136_3",
+    "name": "HealthSpring True Choice (PPO)",
+    "type": "PPO",
+    "org": "HealthSpring"
+  },
+  {
+    "plan_id": "H8003_003_0",
+    "name": "BlueCross Total (PPO)",
+    "type": "PPO",
+    "org": "Blue Cross Blue Shield of South Carolina"
+  },
+  {
+    "plan_id": "H8003_006_0",
+    "name": "BlueCross Total Value (PPO)",
+    "type": "PPO",
+    "org": "Blue Cross Blue Shield of South Carolina"
+  },
+  {
+    "plan_id": "H8003_007_0",
+    "name": "BlueCross Blue Basic (PPO)",
+    "type": "PPO",
+    "org": "Blue Cross Blue Shield of South Carolina"
+  },
+  {
+    "plan_id": "H8176_004_2",
+    "name": "Molina Medicare Complete Care Plus (HMO D-SNP)",
+    "type": "HMO D-SNP",
+    "org": "Molina Healthcare of South Carolina"
+  },
+  {
+    "plan_id": "R0110_019_0",
+    "name": "HumanaChoice R0110-019 (Regional PPO)",
+    "type": "Regional PPO",
+    "org": "Humana"
+  },
+  {
+    "plan_id": "R0110_020_0",
+    "name": "Humana Full Access R0110-020 (Regional PPO)",
+    "type": "Regional PPO",
+    "org": "Humana"
+  },
+  {
+    "plan_id": "R2604_002_0",
+    "name": "UHC Complete Care Support GS-1A (Regional PPO C-SNP)",
+    "type": "Regional PPO C-SNP",
+    "org": "UnitedHealthcare"
+  },
+  {
+    "plan_id": "R2604_005_0",
+    "name": "UHC Medicare Advantage Patriot No Rx GS-MA01 (Regional PPO)",
+    "type": "Regional PPO",
+    "org": "UnitedHealthcare"
+  }
+]

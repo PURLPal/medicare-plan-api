@@ -1,0 +1,32 @@
+{
+  "plan_info": {
+    "name": "NHC Advantage (HMO I-SNP)"
+  },
+  "premiums": {},
+  "deductibles": {},
+  "maximum_out_of_pocket": {},
+  "contact_info": {},
+  "benefits": {
+    "Benefits & Costs": {
+      "In-network: $0 copay": "Limits apply(Opioid treatment program services|Opioid treatment program services)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+      "In-network: 20% coinsurance": "",
+      "$90 copay": "",
+      "20% coinsurance": "",
+      "Tier 1$0 per day for days 1-60$434 per day for days 61-90$868 per day for days 91-150": "Limits apply(Hospital services|Inpatient hospital coverage)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+      "$0 copay": "Limits apply(Skilled nursing facility|Skilled nursing facility)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization.",
+      "In-network: 15% coinsurance": ""
+    },
+    "Extra Benefits": {
+      "In-network: $0 copay": "Limits apply(Other services|Over the counter drug benefits)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details.",
+      "Not covered": "",
+      "In-network: 0%-20% coinsurance": "Limits apply(Professional services|Telehealth)Plan limits- There may be limits, like the number of times you can use the item or service or how much the plan will cover. Contact the plan for details."
+    }
+  },
+  "drug_coverage": {
+    "25% coinsurance": "0% coinsurance",
+    "In-network: 0%-20% coinsurance": "Limits apply(Part B drugs|Other Part B drugs)Advanced Plan Approval Required- A process through which the physician or other health care provider is required to obtain advance approval from the plan that payment will be made for a service or item furnished to an enrollee. Unless specified otherwise with respect to a particular item or service, the enrollee is not responsible for obtaining (prior) authorization."
+  },
+  "extra_benefits": {},
+  "plan_id": "H4172_001_0",
+  "state": "South_Carolina"
+}
