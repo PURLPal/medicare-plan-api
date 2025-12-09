@@ -1,8 +1,10 @@
 # Medicare Plan API - Complete Reference
 
 ## Base URL
-- **Production:** https://medicare.purlpal-api.com/medicare/
-- **CloudFront:** https://d11vrs9xl9u4t7.cloudfront.net/medicare/
+- **Primary (Use This):** https://medicare.purlpal-api.com/medicare/
+- **CloudFront (Alternate):** https://d11vrs9xl9u4t7.cloudfront.net/medicare/
+
+**Important:** Always use the `medicare.purlpal-api.com` domain for CORS compatibility with Chrome extensions.
 
 ## Quick Start
 
@@ -375,10 +377,55 @@ This will test:
 
 ## CORS Support
 
-The API supports CORS for client-side JavaScript applications:
-- All origins allowed
-- GET method supported
-- Standard headers allowed
+The API fully supports CORS for client-side JavaScript applications and Chrome extensions:
+
+### Allowed Origins
+- `*` (all origins, including `chrome-extension://`)
+
+### Allowed Methods
+- `GET`
+- `OPTIONS` (preflight)
+
+### Allowed Headers
+- `Content-Type`
+- `Authorization`
+- `X-Requested-With`
+- `Accept`
+
+### Exposed Headers
+- `Content-Length`
+- `Content-Type`
+
+### Configuration
+- **Max Age:** 3600 seconds (1 hour)
+- **Credentials:** Not allowed (Access-Control-Allow-Credentials: false)
+
+### Chrome Extension Example
+```javascript
+// Works from any Chrome extension
+fetch('https://medicare.purlpal-api.com/medicare/zip/03462.json')
+  .then(response => response.json())
+  .then(data => {
+    // Filter MAPD plans
+    const mapdPlans = data.plans.filter(plan => plan.category === 'MAPD');
+    console.log('MAPD Plans:', mapdPlans);
+  });
+```
+
+### Testing CORS
+```bash
+# Test CORS preflight
+curl -I -X OPTIONS \
+  -H "Origin: chrome-extension://abcdefghijklmnop" \
+  -H "Access-Control-Request-Method: GET" \
+  -H "Access-Control-Request-Headers: Content-Type" \
+  https://medicare.purlpal-api.com/medicare/states.json
+
+# Should return:
+# Access-Control-Allow-Origin: *
+# Access-Control-Allow-Methods: GET, OPTIONS
+# Access-Control-Allow-Headers: Content-Type, Authorization, X-Requested-With, Accept
+```
 
 ## Performance
 

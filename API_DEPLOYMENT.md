@@ -3,8 +3,8 @@
 ## Current Architecture
 
 **Production API:** CloudFront + S3 (Static JSON)
-**URL:** https://medicare.purlpal-api.com/medicare/
-**Alternate:** https://d11vrs9xl9u4t7.cloudfront.net/medicare/
+**Primary URL:** https://medicare.purlpal-api.com/medicare/
+**CloudFront URL:** https://d11vrs9xl9u4t7.cloudfront.net/medicare/
 
 ### Why CloudFront?
 - ✅ Scales to all 50 states + territories
@@ -12,6 +12,8 @@
 - ✅ Simple updates (just sync new JSON files)
 - ✅ Cost-effective (~$1-2/month for typical usage)
 - ✅ No deployment package size limits
+- ✅ **CORS enabled** for Chrome extension compatibility
+- ✅ **Custom domain** (purlpal-api.com) for consistent branding
 
 ## Quick Update (Recommended)
 
