@@ -1,0 +1,23 @@
+{
+  "plan_info": {
+    "name": "Blue Rx PDP Complete (PDP)",
+    "contract_id": "S5593_003",
+    "plan_type": "PDP",
+    "organization": "Highmark Blue Shield"
+  },
+  "premiums": {
+    "Total monthly premium": "$164.80"
+  },
+  "deductibles": {
+    "Drug deductible": "200.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$200.00",
+    "Non-Preferred Drug": "25% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S5593_003_0",
+  "state": "West_Virginia"
+}

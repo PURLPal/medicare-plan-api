@@ -1,0 +1,38 @@
+{
+  "plan_info": {
+    "name": "Tufts Medicare Preferred HMO Basic No Rx (HMO)"
+  },
+  "premiums": {
+    "Total monthly premium": "$40.00",
+    "Health premium": "40.00",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "3,850"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $10 copay",
+    "Specialist visit": "In-network: $40 copay",
+    "Emergency care": "$125 copay",
+    "Inpatient hospital coverage": "Tier 1$275 per day for days 1-5$0 per day for days 6-90$0 per stay",
+    "Outpatient hospital coverage": "In-network: $0-$270 copay",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "In-network: $0 copay",
+    "Worldwide emergency": "$125 copay"
+  },
+  "drug_coverage": {
+    "Chemotherapy drugs": "In-network: 0%-20% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsurance",
+    "Over the counter drug benefits": "Not covered"
+  },
+  "extra_benefits": [],
+  "plan_id": "H2256_041_0",
+  "state": "Massachusetts"
+}

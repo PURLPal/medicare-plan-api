@@ -1,0 +1,23 @@
+{
+  "plan_info": {
+    "name": "Blue MedicareRx Plus (PDP)",
+    "contract_id": "S5726_014",
+    "plan_type": "PDP",
+    "organization": "Blue Cross and Blue Shield of Kansas"
+  },
+  "premiums": {
+    "Total monthly premium": "$67.40"
+  },
+  "deductibles": {
+    "Drug deductible": "0.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$0.00",
+    "Non-Preferred Drug": "40% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S5726_014_0",
+  "state": "Kansas"
+}

@@ -1,0 +1,47 @@
+{
+  "plan_info": {
+    "name": "Alterwood Advantage Choice Plus (HMO)",
+    "contract_id": "H9306_002",
+    "plan_type": "HMO",
+    "organization": "Alterwood Advantage"
+  },
+  "premiums": {
+    "Total monthly premium": "$122.00",
+    "Health premium": "31.30",
+    "Drug premium": "90.70",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00",
+    "Drug deductible": "0.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "6,500"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copay",
+    "Specialist visit": "In-network: $0 copay",
+    "Emergency care": "$115 copay",
+    "Inpatient hospital coverage": "Tier 1$325 per stayTier 2$810 per stay",
+    "Outpatient hospital coverage": "In-network: $195-$490 copay",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "In-network: $0 copay",
+    "Worldwide emergency": "Not covered"
+  },
+  "drug_coverage": {
+    "Drug premium": "$90.70",
+    "Drug deductible": "$0.00",
+    "Non-Preferred Drug": "$100.00 copay",
+    "Supplemental Drugs": "$10.00 copay",
+    "Chemotherapy drugs": "In-network: 0%-20% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsurance",
+    "Over the counter drug benefits": "In-network: $0 copay"
+  },
+  "extra_benefits": [],
+  "plan_id": "H9306_002_0",
+  "state": "Maryland"
+}

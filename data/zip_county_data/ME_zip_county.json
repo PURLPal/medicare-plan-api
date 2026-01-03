@@ -1,0 +1,8933 @@
+[
+  {
+    "zip": "03804",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "03901",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "03902",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "03903",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "03904",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "03905",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "03906",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "03907",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "03908",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "03909",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "03910",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "03911",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04001",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04002",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04003",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04004",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04005",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04006",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04008",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23023",
+        "ratio": 1.0,
+        "name": "Sagadahoc County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23023",
+      "ratio": 1.0,
+      "name": "Sagadahoc County"
+    }
+  },
+  {
+    "zip": "04009",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04010",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 1.0,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 1.0,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04011",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 0.9999,
+        "name": "Cumberland County"
+      },
+      {
+        "fips": "23023",
+        "ratio": 0.0001,
+        "name": "Sagadahoc County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 0.9999,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04013",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04014",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04015",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04016",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 1.0,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 1.0,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04017",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04019",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04020",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04021",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04022",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 0.9977,
+        "name": "Oxford County"
+      },
+      {
+        "fips": "23005",
+        "ratio": 0.0023,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 0.9977,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04024",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04027",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04028",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04029",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04030",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04032",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04033",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04034",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04037",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 1.0,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 1.0,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04038",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 0.9991,
+        "name": "Cumberland County"
+      },
+      {
+        "fips": "23031",
+        "ratio": 0.0009,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 0.9991,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04039",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04040",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 0.8505,
+        "name": "Cumberland County"
+      },
+      {
+        "fips": "23017",
+        "ratio": 0.1495,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 0.8505,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04041",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 1.0,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 1.0,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04042",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04043",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04046",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04047",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04048",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04049",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04050",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04051",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 1.0,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 1.0,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04054",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04055",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04056",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04057",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04061",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04062",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04063",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04064",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04066",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04068",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 1.0,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 1.0,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04069",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04070",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04071",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04072",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 0.9872,
+        "name": "York County"
+      },
+      {
+        "fips": "23005",
+        "ratio": 0.0128,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 0.9872,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04073",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04074",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04076",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04077",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04078",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04079",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04082",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04083",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04084",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 0.9967,
+        "name": "Cumberland County"
+      },
+      {
+        "fips": "23031",
+        "ratio": 0.0033,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 0.9967,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04085",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04086",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23023",
+        "ratio": 1.0,
+        "name": "Sagadahoc County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23023",
+      "ratio": 1.0,
+      "name": "Sagadahoc County"
+    }
+  },
+  {
+    "zip": "04087",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04088",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 1.0,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 1.0,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04090",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04091",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04092",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04093",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 0.9986,
+        "name": "York County"
+      },
+      {
+        "fips": "23005",
+        "ratio": 0.0014,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 0.9986,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04094",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04095",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23031",
+        "ratio": 1.0,
+        "name": "York County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23031",
+      "ratio": 1.0,
+      "name": "York County"
+    }
+  },
+  {
+    "zip": "04096",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04097",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04098",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04101",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04102",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04103",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04104",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04105",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04106",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04107",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04108",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04109",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04110",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04112",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04116",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04122",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04123",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04124",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 1.0,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 1.0,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04210",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23001",
+        "ratio": 1.0,
+        "name": "Androscoggin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23001",
+      "ratio": 1.0,
+      "name": "Androscoggin County"
+    }
+  },
+  {
+    "zip": "04211",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23001",
+        "ratio": 1.0,
+        "name": "Androscoggin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23001",
+      "ratio": 1.0,
+      "name": "Androscoggin County"
+    }
+  },
+  {
+    "zip": "04212",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23001",
+        "ratio": 1.0,
+        "name": "Androscoggin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23001",
+      "ratio": 1.0,
+      "name": "Androscoggin County"
+    }
+  },
+  {
+    "zip": "04216",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 1.0,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 1.0,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04217",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 1.0,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 1.0,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04219",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 1.0,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 1.0,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04220",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 0.9975,
+        "name": "Oxford County"
+      },
+      {
+        "fips": "23001",
+        "ratio": 0.0025,
+        "name": "Androscoggin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 0.9975,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04221",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 1.0,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 1.0,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04222",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23001",
+        "ratio": 0.9848,
+        "name": "Androscoggin County"
+      },
+      {
+        "fips": "23005",
+        "ratio": 0.0152,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23001",
+      "ratio": 0.9848,
+      "name": "Androscoggin County"
+    }
+  },
+  {
+    "zip": "04223",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23001",
+        "ratio": 1.0,
+        "name": "Androscoggin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23001",
+      "ratio": 1.0,
+      "name": "Androscoggin County"
+    }
+  },
+  {
+    "zip": "04224",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 0.7485,
+        "name": "Oxford County"
+      },
+      {
+        "fips": "23007",
+        "ratio": 0.2515,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 0.7485,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04225",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23007",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23007",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "04226",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 1.0,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 1.0,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04227",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23007",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23007",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "04228",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23001",
+        "ratio": 1.0,
+        "name": "Androscoggin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23001",
+      "ratio": 1.0,
+      "name": "Androscoggin County"
+    }
+  },
+  {
+    "zip": "04230",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23001",
+        "ratio": 1.0,
+        "name": "Androscoggin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23001",
+      "ratio": 1.0,
+      "name": "Androscoggin County"
+    }
+  },
+  {
+    "zip": "04231",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 1.0,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 1.0,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04234",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23007",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23007",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "04236",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23001",
+        "ratio": 1.0,
+        "name": "Androscoggin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23001",
+      "ratio": 1.0,
+      "name": "Androscoggin County"
+    }
+  },
+  {
+    "zip": "04237",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 1.0,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 1.0,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04238",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 0.9962,
+        "name": "Oxford County"
+      },
+      {
+        "fips": "23001",
+        "ratio": 0.0038,
+        "name": "Androscoggin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 0.9962,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04239",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "23007",
+        "ratio": 0.9946,
+        "name": "Franklin County"
+      },
+      {
+        "fips": "23001",
+        "ratio": 0.0027,
+        "name": "Androscoggin County"
+      },
+      {
+        "fips": "23017",
+        "ratio": 0.0027,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23007",
+      "ratio": 0.9946,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "04240",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23001",
+        "ratio": 1.0,
+        "name": "Androscoggin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23001",
+      "ratio": 1.0,
+      "name": "Androscoggin County"
+    }
+  },
+  {
+    "zip": "04241",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23001",
+        "ratio": 1.0,
+        "name": "Androscoggin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23001",
+      "ratio": 1.0,
+      "name": "Androscoggin County"
+    }
+  },
+  {
+    "zip": "04243",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23001",
+        "ratio": 1.0,
+        "name": "Androscoggin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23001",
+      "ratio": 1.0,
+      "name": "Androscoggin County"
+    }
+  },
+  {
+    "zip": "04250",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23001",
+        "ratio": 1.0,
+        "name": "Androscoggin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23001",
+      "ratio": 1.0,
+      "name": "Androscoggin County"
+    }
+  },
+  {
+    "zip": "04252",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23001",
+        "ratio": 0.9981,
+        "name": "Androscoggin County"
+      },
+      {
+        "fips": "23023",
+        "ratio": 0.0019,
+        "name": "Sagadahoc County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23001",
+      "ratio": 0.9981,
+      "name": "Androscoggin County"
+    }
+  },
+  {
+    "zip": "04253",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23001",
+        "ratio": 1.0,
+        "name": "Androscoggin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23001",
+      "ratio": 1.0,
+      "name": "Androscoggin County"
+    }
+  },
+  {
+    "zip": "04254",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23001",
+        "ratio": 0.9995,
+        "name": "Androscoggin County"
+      },
+      {
+        "fips": "23011",
+        "ratio": 0.0005,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23001",
+      "ratio": 0.9995,
+      "name": "Androscoggin County"
+    }
+  },
+  {
+    "zip": "04255",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 1.0,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 1.0,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04256",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23001",
+        "ratio": 1.0,
+        "name": "Androscoggin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23001",
+      "ratio": 1.0,
+      "name": "Androscoggin County"
+    }
+  },
+  {
+    "zip": "04257",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 1.0,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 1.0,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04258",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23001",
+        "ratio": 0.9991,
+        "name": "Androscoggin County"
+      },
+      {
+        "fips": "23017",
+        "ratio": 0.0009,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23001",
+      "ratio": 0.9991,
+      "name": "Androscoggin County"
+    }
+  },
+  {
+    "zip": "04259",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 1.0,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 1.0,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04260",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23005",
+        "ratio": 0.997,
+        "name": "Cumberland County"
+      },
+      {
+        "fips": "23001",
+        "ratio": 0.003,
+        "name": "Androscoggin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23005",
+      "ratio": 0.997,
+      "name": "Cumberland County"
+    }
+  },
+  {
+    "zip": "04261",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 1.0,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 1.0,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04262",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23007",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23007",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "04263",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23001",
+        "ratio": 1.0,
+        "name": "Androscoggin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23001",
+      "ratio": 1.0,
+      "name": "Androscoggin County"
+    }
+  },
+  {
+    "zip": "04265",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 1.0,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 1.0,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04266",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23001",
+        "ratio": 1.0,
+        "name": "Androscoggin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23001",
+      "ratio": 1.0,
+      "name": "Androscoggin County"
+    }
+  },
+  {
+    "zip": "04267",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 1.0,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 1.0,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04268",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 1.0,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 1.0,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04270",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 0.9965,
+        "name": "Oxford County"
+      },
+      {
+        "fips": "23001",
+        "ratio": 0.0035,
+        "name": "Androscoggin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 0.9965,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04271",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 1.0,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 1.0,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04274",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23001",
+        "ratio": 0.9986,
+        "name": "Androscoggin County"
+      },
+      {
+        "fips": "23005",
+        "ratio": 0.0014,
+        "name": "Cumberland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23001",
+      "ratio": 0.9986,
+      "name": "Androscoggin County"
+    }
+  },
+  {
+    "zip": "04275",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 1.0,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 1.0,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04276",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 1.0,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 1.0,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04280",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23001",
+        "ratio": 0.9997,
+        "name": "Androscoggin County"
+      },
+      {
+        "fips": "23023",
+        "ratio": 0.0003,
+        "name": "Sagadahoc County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23001",
+      "ratio": 0.9997,
+      "name": "Androscoggin County"
+    }
+  },
+  {
+    "zip": "04281",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 1.0,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 1.0,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04282",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23001",
+        "ratio": 1.0,
+        "name": "Androscoggin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23001",
+      "ratio": 1.0,
+      "name": "Androscoggin County"
+    }
+  },
+  {
+    "zip": "04284",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 1.0,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 1.0,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04285",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23007",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23007",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "04286",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 1.0,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 1.0,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04287",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23023",
+        "ratio": 1.0,
+        "name": "Sagadahoc County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23023",
+      "ratio": 1.0,
+      "name": "Sagadahoc County"
+    }
+  },
+  {
+    "zip": "04288",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23001",
+        "ratio": 1.0,
+        "name": "Androscoggin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23001",
+      "ratio": 1.0,
+      "name": "Androscoggin County"
+    }
+  },
+  {
+    "zip": "04289",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 1.0,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 1.0,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04290",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 1.0,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 1.0,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04291",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23001",
+        "ratio": 1.0,
+        "name": "Androscoggin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23001",
+      "ratio": 1.0,
+      "name": "Androscoggin County"
+    }
+  },
+  {
+    "zip": "04292",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23017",
+        "ratio": 1.0,
+        "name": "Oxford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23017",
+      "ratio": 1.0,
+      "name": "Oxford County"
+    }
+  },
+  {
+    "zip": "04294",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23007",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23007",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "04330",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 0.9998,
+        "name": "Kennebec County"
+      },
+      {
+        "fips": "23015",
+        "ratio": 0.0002,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 0.9998,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04332",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 1.0,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 1.0,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04333",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 1.0,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 1.0,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04336",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 1.0,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 1.0,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04338",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 1.0,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 1.0,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04341",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23015",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23015",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "04342",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23015",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23015",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "04343",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 1.0,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 1.0,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04344",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 1.0,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 1.0,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04345",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 0.9993,
+        "name": "Kennebec County"
+      },
+      {
+        "fips": "23023",
+        "ratio": 0.0007,
+        "name": "Sagadahoc County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 0.9993,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04346",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 1.0,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 1.0,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04347",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 1.0,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 1.0,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04348",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23015",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23015",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "04349",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 1.0,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 1.0,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04350",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 1.0,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 1.0,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04351",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 1.0,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 1.0,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04352",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 1.0,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 1.0,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04353",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23015",
+        "ratio": 0.9991,
+        "name": "Lincoln County"
+      },
+      {
+        "fips": "23011",
+        "ratio": 0.0009,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23015",
+      "ratio": 0.9991,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "04354",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23027",
+        "ratio": 0.9989,
+        "name": "Waldo County"
+      },
+      {
+        "fips": "23015",
+        "ratio": 0.0011,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23027",
+      "ratio": 0.9989,
+      "name": "Waldo County"
+    }
+  },
+  {
+    "zip": "04355",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 1.0,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 1.0,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04357",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23023",
+        "ratio": 0.9995,
+        "name": "Sagadahoc County"
+      },
+      {
+        "fips": "23011",
+        "ratio": 0.0005,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23023",
+      "ratio": 0.9995,
+      "name": "Sagadahoc County"
+    }
+  },
+  {
+    "zip": "04358",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 0.9955,
+        "name": "Kennebec County"
+      },
+      {
+        "fips": "23027",
+        "ratio": 0.0045,
+        "name": "Waldo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 0.9955,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04359",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 1.0,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 1.0,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04360",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 1.0,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 1.0,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04363",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 0.9915,
+        "name": "Kennebec County"
+      },
+      {
+        "fips": "23015",
+        "ratio": 0.0085,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 0.9915,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04364",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 1.0,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 1.0,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04401",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04402",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04406",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23021",
+        "ratio": 1.0,
+        "name": "Piscataquis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23021",
+      "ratio": 1.0,
+      "name": "Piscataquis County"
+    }
+  },
+  {
+    "zip": "04408",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04410",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04411",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04412",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04413",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04414",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23021",
+        "ratio": 1.0,
+        "name": "Piscataquis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23021",
+      "ratio": 1.0,
+      "name": "Piscataquis County"
+    }
+  },
+  {
+    "zip": "04415",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23021",
+        "ratio": 1.0,
+        "name": "Piscataquis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23021",
+      "ratio": 1.0,
+      "name": "Piscataquis County"
+    }
+  },
+  {
+    "zip": "04416",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04417",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04418",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04419",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04420",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04421",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04422",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04424",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 0.5924,
+        "name": "Washington County"
+      },
+      {
+        "fips": "23003",
+        "ratio": 0.4076,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 0.5924,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04426",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23021",
+        "ratio": 1.0,
+        "name": "Piscataquis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23021",
+      "ratio": 1.0,
+      "name": "Piscataquis County"
+    }
+  },
+  {
+    "zip": "04427",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04428",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 0.9988,
+        "name": "Penobscot County"
+      },
+      {
+        "fips": "23009",
+        "ratio": 0.0012,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 0.9988,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04429",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 0.6517,
+        "name": "Penobscot County"
+      },
+      {
+        "fips": "23009",
+        "ratio": 0.3483,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 0.6517,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04430",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04431",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04434",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04435",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04438",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23027",
+        "ratio": 1.0,
+        "name": "Waldo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23027",
+      "ratio": 1.0,
+      "name": "Waldo County"
+    }
+  },
+  {
+    "zip": "04441",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23021",
+        "ratio": 1.0,
+        "name": "Piscataquis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23021",
+      "ratio": 1.0,
+      "name": "Piscataquis County"
+    }
+  },
+  {
+    "zip": "04442",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23021",
+        "ratio": 1.0,
+        "name": "Piscataquis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23021",
+      "ratio": 1.0,
+      "name": "Piscataquis County"
+    }
+  },
+  {
+    "zip": "04443",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23021",
+        "ratio": 1.0,
+        "name": "Piscataquis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23021",
+      "ratio": 1.0,
+      "name": "Piscataquis County"
+    }
+  },
+  {
+    "zip": "04444",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04448",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04449",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04450",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04451",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 0.6471,
+        "name": "Penobscot County"
+      },
+      {
+        "fips": "23003",
+        "ratio": 0.3529,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 0.6471,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04453",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04454",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04455",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04456",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04457",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04459",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 0.8658,
+        "name": "Penobscot County"
+      },
+      {
+        "fips": "23003",
+        "ratio": 0.1342,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 0.8658,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04460",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04461",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04462",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04463",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23021",
+        "ratio": 1.0,
+        "name": "Piscataquis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23021",
+      "ratio": 1.0,
+      "name": "Piscataquis County"
+    }
+  },
+  {
+    "zip": "04464",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23021",
+        "ratio": 1.0,
+        "name": "Piscataquis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23021",
+      "ratio": 1.0,
+      "name": "Piscataquis County"
+    }
+  },
+  {
+    "zip": "04468",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04469",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04471",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04472",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04473",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04474",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04475",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04476",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04478",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23025",
+        "ratio": 1.0,
+        "name": "Somerset County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23025",
+      "ratio": 1.0,
+      "name": "Somerset County"
+    }
+  },
+  {
+    "zip": "04479",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23021",
+        "ratio": 1.0,
+        "name": "Piscataquis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23021",
+      "ratio": 1.0,
+      "name": "Piscataquis County"
+    }
+  },
+  {
+    "zip": "04481",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23021",
+        "ratio": 1.0,
+        "name": "Piscataquis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23021",
+      "ratio": 1.0,
+      "name": "Piscataquis County"
+    }
+  },
+  {
+    "zip": "04485",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23021",
+        "ratio": 1.0,
+        "name": "Piscataquis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23021",
+      "ratio": 1.0,
+      "name": "Piscataquis County"
+    }
+  },
+  {
+    "zip": "04487",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 0.9972,
+        "name": "Penobscot County"
+      },
+      {
+        "fips": "23003",
+        "ratio": 0.0028,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 0.9972,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04488",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04489",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04490",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04491",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04492",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04493",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04495",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04496",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23027",
+        "ratio": 1.0,
+        "name": "Waldo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23027",
+      "ratio": 1.0,
+      "name": "Waldo County"
+    }
+  },
+  {
+    "zip": "04497",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 0.8828,
+        "name": "Aroostook County"
+      },
+      {
+        "fips": "23019",
+        "ratio": 0.1172,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 0.8828,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04530",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23023",
+        "ratio": 1.0,
+        "name": "Sagadahoc County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23023",
+      "ratio": 1.0,
+      "name": "Sagadahoc County"
+    }
+  },
+  {
+    "zip": "04535",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23015",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23015",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "04537",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23015",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23015",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "04538",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23015",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23015",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "04539",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23015",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23015",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "04541",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23015",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23015",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "04543",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23015",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23015",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "04544",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23015",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23015",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "04547",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23013",
+        "ratio": 1.0,
+        "name": "Knox County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23013",
+      "ratio": 1.0,
+      "name": "Knox County"
+    }
+  },
+  {
+    "zip": "04548",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23023",
+        "ratio": 1.0,
+        "name": "Sagadahoc County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23023",
+      "ratio": 1.0,
+      "name": "Sagadahoc County"
+    }
+  },
+  {
+    "zip": "04551",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23015",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23015",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "04553",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23015",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23015",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "04554",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23015",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23015",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "04555",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23015",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23015",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "04556",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23015",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23015",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "04558",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23015",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23015",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "04562",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23023",
+        "ratio": 1.0,
+        "name": "Sagadahoc County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23023",
+      "ratio": 1.0,
+      "name": "Sagadahoc County"
+    }
+  },
+  {
+    "zip": "04563",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23013",
+        "ratio": 1.0,
+        "name": "Knox County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23013",
+      "ratio": 1.0,
+      "name": "Knox County"
+    }
+  },
+  {
+    "zip": "04564",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23015",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23015",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "04565",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23023",
+        "ratio": 1.0,
+        "name": "Sagadahoc County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23023",
+      "ratio": 1.0,
+      "name": "Sagadahoc County"
+    }
+  },
+  {
+    "zip": "04568",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23015",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23015",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "04570",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23015",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23015",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "04571",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23015",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23015",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "04572",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23015",
+        "ratio": 0.9996,
+        "name": "Lincoln County"
+      },
+      {
+        "fips": "23013",
+        "ratio": 0.0004,
+        "name": "Knox County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23015",
+      "ratio": 0.9996,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "04573",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23015",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23015",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "04574",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23013",
+        "ratio": 1.0,
+        "name": "Knox County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23013",
+      "ratio": 1.0,
+      "name": "Knox County"
+    }
+  },
+  {
+    "zip": "04575",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23015",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23015",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "04576",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23015",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23015",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "04578",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23015",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23015",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "04579",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23023",
+        "ratio": 1.0,
+        "name": "Sagadahoc County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23023",
+      "ratio": 1.0,
+      "name": "Sagadahoc County"
+    }
+  },
+  {
+    "zip": "04605",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04606",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04607",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04609",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04611",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04612",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04613",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04614",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04616",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04617",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04619",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04622",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 0.9889,
+        "name": "Washington County"
+      },
+      {
+        "fips": "23009",
+        "ratio": 0.0111,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 0.9889,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04623",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04624",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04625",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04626",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04627",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04628",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04629",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04630",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04631",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04634",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04635",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04637",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04640",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04642",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04643",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04644",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04645",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23013",
+        "ratio": 1.0,
+        "name": "Knox County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23013",
+      "ratio": 1.0,
+      "name": "Knox County"
+    }
+  },
+  {
+    "zip": "04646",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04648",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04649",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04650",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04652",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04653",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04654",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04655",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04657",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04658",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04660",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04662",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04664",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04666",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04667",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04668",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04669",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04671",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04672",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04673",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04674",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04675",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04676",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04677",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04679",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04680",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04681",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04683",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04684",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04685",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04686",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04691",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04693",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23009",
+        "ratio": 1.0,
+        "name": "Hancock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23009",
+      "ratio": 1.0,
+      "name": "Hancock County"
+    }
+  },
+  {
+    "zip": "04694",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23029",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23029",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "04730",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04732",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04733",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 0.9231,
+        "name": "Aroostook County"
+      },
+      {
+        "fips": "23019",
+        "ratio": 0.0769,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 0.9231,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04734",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04735",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04736",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04737",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04738",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04739",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04740",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04742",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04743",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04744",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04745",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04746",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04747",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04750",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04751",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04756",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04757",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04758",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04760",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04761",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04762",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04763",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04764",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04765",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04766",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04768",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04769",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04772",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04773",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04774",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04775",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04776",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04777",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04779",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04780",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04781",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04783",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04785",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04786",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04787",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23003",
+        "ratio": 1.0,
+        "name": "Aroostook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23003",
+      "ratio": 1.0,
+      "name": "Aroostook County"
+    }
+  },
+  {
+    "zip": "04841",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23013",
+        "ratio": 1.0,
+        "name": "Knox County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23013",
+      "ratio": 1.0,
+      "name": "Knox County"
+    }
+  },
+  {
+    "zip": "04843",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23013",
+        "ratio": 1.0,
+        "name": "Knox County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23013",
+      "ratio": 1.0,
+      "name": "Knox County"
+    }
+  },
+  {
+    "zip": "04847",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23013",
+        "ratio": 1.0,
+        "name": "Knox County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23013",
+      "ratio": 1.0,
+      "name": "Knox County"
+    }
+  },
+  {
+    "zip": "04848",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23027",
+        "ratio": 1.0,
+        "name": "Waldo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23027",
+      "ratio": 1.0,
+      "name": "Waldo County"
+    }
+  },
+  {
+    "zip": "04849",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23027",
+        "ratio": 1.0,
+        "name": "Waldo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23027",
+      "ratio": 1.0,
+      "name": "Waldo County"
+    }
+  },
+  {
+    "zip": "04850",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23027",
+        "ratio": 1.0,
+        "name": "Waldo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23027",
+      "ratio": 1.0,
+      "name": "Waldo County"
+    }
+  },
+  {
+    "zip": "04851",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23013",
+        "ratio": 1.0,
+        "name": "Knox County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23013",
+      "ratio": 1.0,
+      "name": "Knox County"
+    }
+  },
+  {
+    "zip": "04852",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23015",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23015",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "04853",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23013",
+        "ratio": 1.0,
+        "name": "Knox County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23013",
+      "ratio": 1.0,
+      "name": "Knox County"
+    }
+  },
+  {
+    "zip": "04854",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23013",
+        "ratio": 1.0,
+        "name": "Knox County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23013",
+      "ratio": 1.0,
+      "name": "Knox County"
+    }
+  },
+  {
+    "zip": "04855",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23013",
+        "ratio": 1.0,
+        "name": "Knox County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23013",
+      "ratio": 1.0,
+      "name": "Knox County"
+    }
+  },
+  {
+    "zip": "04856",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23013",
+        "ratio": 1.0,
+        "name": "Knox County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23013",
+      "ratio": 1.0,
+      "name": "Knox County"
+    }
+  },
+  {
+    "zip": "04858",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23013",
+        "ratio": 1.0,
+        "name": "Knox County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23013",
+      "ratio": 1.0,
+      "name": "Knox County"
+    }
+  },
+  {
+    "zip": "04859",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23013",
+        "ratio": 1.0,
+        "name": "Knox County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23013",
+      "ratio": 1.0,
+      "name": "Knox County"
+    }
+  },
+  {
+    "zip": "04860",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23013",
+        "ratio": 1.0,
+        "name": "Knox County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23013",
+      "ratio": 1.0,
+      "name": "Knox County"
+    }
+  },
+  {
+    "zip": "04861",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23013",
+        "ratio": 1.0,
+        "name": "Knox County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23013",
+      "ratio": 1.0,
+      "name": "Knox County"
+    }
+  },
+  {
+    "zip": "04862",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23013",
+        "ratio": 0.999,
+        "name": "Knox County"
+      },
+      {
+        "fips": "23015",
+        "ratio": 0.001,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23013",
+      "ratio": 0.999,
+      "name": "Knox County"
+    }
+  },
+  {
+    "zip": "04863",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23013",
+        "ratio": 1.0,
+        "name": "Knox County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23013",
+      "ratio": 1.0,
+      "name": "Knox County"
+    }
+  },
+  {
+    "zip": "04864",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23013",
+        "ratio": 0.9986,
+        "name": "Knox County"
+      },
+      {
+        "fips": "23015",
+        "ratio": 0.0014,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23013",
+      "ratio": 0.9986,
+      "name": "Knox County"
+    }
+  },
+  {
+    "zip": "04865",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23013",
+        "ratio": 1.0,
+        "name": "Knox County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23013",
+      "ratio": 1.0,
+      "name": "Knox County"
+    }
+  },
+  {
+    "zip": "04901",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 1.0,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 1.0,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04903",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 1.0,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 1.0,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04910",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 1.0,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 1.0,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04911",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23025",
+        "ratio": 1.0,
+        "name": "Somerset County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23025",
+      "ratio": 1.0,
+      "name": "Somerset County"
+    }
+  },
+  {
+    "zip": "04912",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23025",
+        "ratio": 1.0,
+        "name": "Somerset County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23025",
+      "ratio": 1.0,
+      "name": "Somerset County"
+    }
+  },
+  {
+    "zip": "04915",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23027",
+        "ratio": 1.0,
+        "name": "Waldo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23027",
+      "ratio": 1.0,
+      "name": "Waldo County"
+    }
+  },
+  {
+    "zip": "04917",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 1.0,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 1.0,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04918",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 1.0,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 1.0,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04920",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23025",
+        "ratio": 1.0,
+        "name": "Somerset County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23025",
+      "ratio": 1.0,
+      "name": "Somerset County"
+    }
+  },
+  {
+    "zip": "04921",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23027",
+        "ratio": 0.9955,
+        "name": "Waldo County"
+      },
+      {
+        "fips": "23019",
+        "ratio": 0.0045,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23027",
+      "ratio": 0.9955,
+      "name": "Waldo County"
+    }
+  },
+  {
+    "zip": "04922",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23027",
+        "ratio": 1.0,
+        "name": "Waldo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23027",
+      "ratio": 1.0,
+      "name": "Waldo County"
+    }
+  },
+  {
+    "zip": "04923",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23025",
+        "ratio": 1.0,
+        "name": "Somerset County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23025",
+      "ratio": 1.0,
+      "name": "Somerset County"
+    }
+  },
+  {
+    "zip": "04924",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23025",
+        "ratio": 1.0,
+        "name": "Somerset County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23025",
+      "ratio": 1.0,
+      "name": "Somerset County"
+    }
+  },
+  {
+    "zip": "04925",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23025",
+        "ratio": 1.0,
+        "name": "Somerset County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23025",
+      "ratio": 1.0,
+      "name": "Somerset County"
+    }
+  },
+  {
+    "zip": "04926",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 1.0,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 1.0,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04927",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 0.9929,
+        "name": "Kennebec County"
+      },
+      {
+        "fips": "23025",
+        "ratio": 0.0071,
+        "name": "Somerset County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 0.9929,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04928",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04929",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23025",
+        "ratio": 1.0,
+        "name": "Somerset County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23025",
+      "ratio": 1.0,
+      "name": "Somerset County"
+    }
+  },
+  {
+    "zip": "04930",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 0.8879,
+        "name": "Penobscot County"
+      },
+      {
+        "fips": "23025",
+        "ratio": 0.1117,
+        "name": "Somerset County"
+      },
+      {
+        "fips": "23021",
+        "ratio": 0.0004,
+        "name": "Piscataquis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 0.8879,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04932",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 0.9969,
+        "name": "Penobscot County"
+      },
+      {
+        "fips": "23027",
+        "ratio": 0.0031,
+        "name": "Waldo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 0.9969,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04933",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04935",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 1.0,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 1.0,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04936",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23007",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23007",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "04937",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23025",
+        "ratio": 0.9983,
+        "name": "Somerset County"
+      },
+      {
+        "fips": "23011",
+        "ratio": 0.0017,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23025",
+      "ratio": 0.9983,
+      "name": "Somerset County"
+    }
+  },
+  {
+    "zip": "04938",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23007",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23007",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "04939",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04940",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23007",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23007",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "04941",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23027",
+        "ratio": 1.0,
+        "name": "Waldo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23027",
+      "ratio": 1.0,
+      "name": "Waldo County"
+    }
+  },
+  {
+    "zip": "04942",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23025",
+        "ratio": 0.7285,
+        "name": "Somerset County"
+      },
+      {
+        "fips": "23021",
+        "ratio": 0.2715,
+        "name": "Piscataquis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23025",
+      "ratio": 0.7285,
+      "name": "Somerset County"
+    }
+  },
+  {
+    "zip": "04943",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23025",
+        "ratio": 1.0,
+        "name": "Somerset County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23025",
+      "ratio": 1.0,
+      "name": "Somerset County"
+    }
+  },
+  {
+    "zip": "04944",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23025",
+        "ratio": 1.0,
+        "name": "Somerset County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23025",
+      "ratio": 1.0,
+      "name": "Somerset County"
+    }
+  },
+  {
+    "zip": "04945",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23025",
+        "ratio": 1.0,
+        "name": "Somerset County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23025",
+      "ratio": 1.0,
+      "name": "Somerset County"
+    }
+  },
+  {
+    "zip": "04947",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23007",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23007",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "04949",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23027",
+        "ratio": 0.9969,
+        "name": "Waldo County"
+      },
+      {
+        "fips": "23013",
+        "ratio": 0.0031,
+        "name": "Knox County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23027",
+      "ratio": 0.9969,
+      "name": "Waldo County"
+    }
+  },
+  {
+    "zip": "04950",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23025",
+        "ratio": 1.0,
+        "name": "Somerset County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23025",
+      "ratio": 1.0,
+      "name": "Somerset County"
+    }
+  },
+  {
+    "zip": "04951",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23027",
+        "ratio": 1.0,
+        "name": "Waldo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23027",
+      "ratio": 1.0,
+      "name": "Waldo County"
+    }
+  },
+  {
+    "zip": "04952",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23027",
+        "ratio": 1.0,
+        "name": "Waldo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23027",
+      "ratio": 1.0,
+      "name": "Waldo County"
+    }
+  },
+  {
+    "zip": "04953",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04954",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23025",
+        "ratio": 1.0,
+        "name": "Somerset County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23025",
+      "ratio": 1.0,
+      "name": "Somerset County"
+    }
+  },
+  {
+    "zip": "04955",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23007",
+        "ratio": 0.9949,
+        "name": "Franklin County"
+      },
+      {
+        "fips": "23025",
+        "ratio": 0.0051,
+        "name": "Somerset County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23007",
+      "ratio": 0.9949,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "04956",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23007",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23007",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "04957",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23025",
+        "ratio": 1.0,
+        "name": "Somerset County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23025",
+      "ratio": 1.0,
+      "name": "Somerset County"
+    }
+  },
+  {
+    "zip": "04958",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23025",
+        "ratio": 1.0,
+        "name": "Somerset County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23025",
+      "ratio": 1.0,
+      "name": "Somerset County"
+    }
+  },
+  {
+    "zip": "04961",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23025",
+        "ratio": 0.9904,
+        "name": "Somerset County"
+      },
+      {
+        "fips": "23007",
+        "ratio": 0.0096,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23025",
+      "ratio": 0.9904,
+      "name": "Somerset County"
+    }
+  },
+  {
+    "zip": "04962",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 1.0,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 1.0,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04963",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 0.9996,
+        "name": "Kennebec County"
+      },
+      {
+        "fips": "23025",
+        "ratio": 0.0004,
+        "name": "Somerset County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 0.9996,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04964",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23007",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23007",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "04965",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23025",
+        "ratio": 1.0,
+        "name": "Somerset County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23025",
+      "ratio": 1.0,
+      "name": "Somerset County"
+    }
+  },
+  {
+    "zip": "04966",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23007",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23007",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "04967",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23025",
+        "ratio": 1.0,
+        "name": "Somerset County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23025",
+      "ratio": 1.0,
+      "name": "Somerset County"
+    }
+  },
+  {
+    "zip": "04969",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23019",
+        "ratio": 1.0,
+        "name": "Penobscot County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23019",
+      "ratio": 1.0,
+      "name": "Penobscot County"
+    }
+  },
+  {
+    "zip": "04970",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23007",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23007",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "04971",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23025",
+        "ratio": 1.0,
+        "name": "Somerset County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23025",
+      "ratio": 1.0,
+      "name": "Somerset County"
+    }
+  },
+  {
+    "zip": "04973",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23027",
+        "ratio": 1.0,
+        "name": "Waldo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23027",
+      "ratio": 1.0,
+      "name": "Waldo County"
+    }
+  },
+  {
+    "zip": "04974",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23027",
+        "ratio": 1.0,
+        "name": "Waldo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23027",
+      "ratio": 1.0,
+      "name": "Waldo County"
+    }
+  },
+  {
+    "zip": "04975",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23025",
+        "ratio": 1.0,
+        "name": "Somerset County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23025",
+      "ratio": 1.0,
+      "name": "Somerset County"
+    }
+  },
+  {
+    "zip": "04976",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23025",
+        "ratio": 1.0,
+        "name": "Somerset County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23025",
+      "ratio": 1.0,
+      "name": "Somerset County"
+    }
+  },
+  {
+    "zip": "04978",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23025",
+        "ratio": 1.0,
+        "name": "Somerset County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23025",
+      "ratio": 1.0,
+      "name": "Somerset County"
+    }
+  },
+  {
+    "zip": "04979",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23025",
+        "ratio": 1.0,
+        "name": "Somerset County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23025",
+      "ratio": 1.0,
+      "name": "Somerset County"
+    }
+  },
+  {
+    "zip": "04981",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23027",
+        "ratio": 1.0,
+        "name": "Waldo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23027",
+      "ratio": 1.0,
+      "name": "Waldo County"
+    }
+  },
+  {
+    "zip": "04982",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23007",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23007",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "04983",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23007",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23007",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "04984",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23007",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23007",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "04985",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23025",
+        "ratio": 1.0,
+        "name": "Somerset County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23025",
+      "ratio": 1.0,
+      "name": "Somerset County"
+    }
+  },
+  {
+    "zip": "04986",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23027",
+        "ratio": 1.0,
+        "name": "Waldo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23027",
+      "ratio": 1.0,
+      "name": "Waldo County"
+    }
+  },
+  {
+    "zip": "04987",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23027",
+        "ratio": 1.0,
+        "name": "Waldo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23027",
+      "ratio": 1.0,
+      "name": "Waldo County"
+    }
+  },
+  {
+    "zip": "04988",
+    "state": "ME",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "23027",
+        "ratio": 0.984,
+        "name": "Waldo County"
+      },
+      {
+        "fips": "23011",
+        "ratio": 0.016,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23027",
+      "ratio": 0.984,
+      "name": "Waldo County"
+    }
+  },
+  {
+    "zip": "04989",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23011",
+        "ratio": 1.0,
+        "name": "Kennebec County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23011",
+      "ratio": 1.0,
+      "name": "Kennebec County"
+    }
+  },
+  {
+    "zip": "04992",
+    "state": "ME",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "23007",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "23007",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  }
+]

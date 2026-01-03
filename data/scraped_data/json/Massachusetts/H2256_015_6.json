@@ -1,0 +1,43 @@
+{
+  "plan_info": {
+    "name": "Tufts Medicare Preferred HMO Prime Rx (HMO)"
+  },
+  "premiums": {
+    "Total monthly premium": "$116.00",
+    "Health premium": "74.70",
+    "Drug premium": "41.30",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00",
+    "Drug deductible": "0.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "3,850"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $10 copay",
+    "Specialist visit": "In-network: $15 copay",
+    "Emergency care": "$110 copay",
+    "Inpatient hospital coverage": "Tier 1$300 per stay",
+    "Outpatient hospital coverage": "In-network: $0-$100 copay",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "In-network: $0 copay",
+    "Worldwide emergency": "$110 copay"
+  },
+  "drug_coverage": {
+    "Drug premium": "$41.30",
+    "Drug deductible": "$0.00",
+    "Non-Preferred Drug": "40% coinsurance",
+    "Chemotherapy drugs": "In-network: $0 copay",
+    "Other Part B drugs": "In-network: $0 copay",
+    "Over the counter drug benefits": "Not covered"
+  },
+  "extra_benefits": [],
+  "plan_id": "H2256_015_6",
+  "state": "Massachusetts"
+}

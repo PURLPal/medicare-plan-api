@@ -1,0 +1,3678 @@
+[
+  {
+    "zip": "00601",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72001",
+        "ratio": 0.9971,
+        "name": "Adjuntas Municipio"
+      },
+      {
+        "fips": "72081",
+        "ratio": 0.0029,
+        "name": "Lares Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72001",
+      "ratio": 0.9971,
+      "name": "Adjuntas Municipio"
+    }
+  },
+  {
+    "zip": "00602",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "72003",
+        "ratio": 0.9994,
+        "name": "Aguada Municipio"
+      },
+      {
+        "fips": "72117",
+        "ratio": 0.0005,
+        "name": "Rinc\u00f3n Municipio"
+      },
+      {
+        "fips": "72005",
+        "ratio": 0.0001,
+        "name": "Aguadilla Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72003",
+      "ratio": 0.9994,
+      "name": "Aguada Municipio"
+    }
+  },
+  {
+    "zip": "00603",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "72005",
+        "ratio": 0.9985,
+        "name": "Aguadilla Municipio"
+      },
+      {
+        "fips": "72071",
+        "ratio": 0.0008,
+        "name": "Isabela Municipio"
+      },
+      {
+        "fips": "72099",
+        "ratio": 0.0006,
+        "name": "Moca Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72005",
+      "ratio": 0.9985,
+      "name": "Aguadilla Municipio"
+    }
+  },
+  {
+    "zip": "00604",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72005",
+        "ratio": 1.0,
+        "name": "Aguadilla Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72005",
+      "ratio": 1.0,
+      "name": "Aguadilla Municipio"
+    }
+  },
+  {
+    "zip": "00605",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72005",
+        "ratio": 1.0,
+        "name": "Aguadilla Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72005",
+      "ratio": 1.0,
+      "name": "Aguadilla Municipio"
+    }
+  },
+  {
+    "zip": "00606",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72093",
+        "ratio": 1.0,
+        "name": "Maricao Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72093",
+      "ratio": 1.0,
+      "name": "Maricao Municipio"
+    }
+  },
+  {
+    "zip": "00610",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72011",
+        "ratio": 1.0,
+        "name": "A\u00f1asco Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72011",
+      "ratio": 1.0,
+      "name": "A\u00f1asco Municipio"
+    }
+  },
+  {
+    "zip": "00611",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72141",
+        "ratio": 1.0,
+        "name": "Utuado Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72141",
+      "ratio": 1.0,
+      "name": "Utuado Municipio"
+    }
+  },
+  {
+    "zip": "00612",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 5,
+    "counties": [
+      {
+        "fips": "72013",
+        "ratio": 0.9914,
+        "name": "Arecibo Municipio"
+      },
+      {
+        "fips": "72065",
+        "ratio": 0.0059,
+        "name": "Hatillo Municipio"
+      },
+      {
+        "fips": "72054",
+        "ratio": 0.0014,
+        "name": "Florida Municipio"
+      },
+      {
+        "fips": "72017",
+        "ratio": 0.001,
+        "name": "Barceloneta Municipio"
+      },
+      {
+        "fips": "72141",
+        "ratio": 0.0002,
+        "name": "Utuado Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72013",
+      "ratio": 0.9914,
+      "name": "Arecibo Municipio"
+    }
+  },
+  {
+    "zip": "00613",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72013",
+        "ratio": 1.0,
+        "name": "Arecibo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72013",
+      "ratio": 1.0,
+      "name": "Arecibo Municipio"
+    }
+  },
+  {
+    "zip": "00614",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72013",
+        "ratio": 1.0,
+        "name": "Arecibo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72013",
+      "ratio": 1.0,
+      "name": "Arecibo Municipio"
+    }
+  },
+  {
+    "zip": "00616",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72013",
+        "ratio": 1.0,
+        "name": "Arecibo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72013",
+      "ratio": 1.0,
+      "name": "Arecibo Municipio"
+    }
+  },
+  {
+    "zip": "00617",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "72017",
+        "ratio": 0.9991,
+        "name": "Barceloneta Municipio"
+      },
+      {
+        "fips": "72091",
+        "ratio": 0.0007,
+        "name": "Manat\u00ed Municipio"
+      },
+      {
+        "fips": "72054",
+        "ratio": 0.0003,
+        "name": "Florida Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72017",
+      "ratio": 0.9991,
+      "name": "Barceloneta Municipio"
+    }
+  },
+  {
+    "zip": "00622",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72023",
+        "ratio": 1.0,
+        "name": "Cabo Rojo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72023",
+      "ratio": 1.0,
+      "name": "Cabo Rojo Municipio"
+    }
+  },
+  {
+    "zip": "00623",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72023",
+        "ratio": 0.9987,
+        "name": "Cabo Rojo Municipio"
+      },
+      {
+        "fips": "72097",
+        "ratio": 0.0013,
+        "name": "Mayag\u00fcez Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72023",
+      "ratio": 0.9987,
+      "name": "Cabo Rojo Municipio"
+    }
+  },
+  {
+    "zip": "00624",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "72111",
+        "ratio": 0.998,
+        "name": "Pe\u00f1uelas Municipio"
+      },
+      {
+        "fips": "72113",
+        "ratio": 0.001,
+        "name": "Ponce Municipio"
+      },
+      {
+        "fips": "72059",
+        "ratio": 0.001,
+        "name": "Guayanilla Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72111",
+      "ratio": 0.998,
+      "name": "Pe\u00f1uelas Municipio"
+    }
+  },
+  {
+    "zip": "00627",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72027",
+        "ratio": 1.0,
+        "name": "Camuy Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72027",
+      "ratio": 1.0,
+      "name": "Camuy Municipio"
+    }
+  },
+  {
+    "zip": "00631",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72081",
+        "ratio": 1.0,
+        "name": "Lares Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72081",
+      "ratio": 1.0,
+      "name": "Lares Municipio"
+    }
+  },
+  {
+    "zip": "00637",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72121",
+        "ratio": 1.0,
+        "name": "Sabana Grande Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72121",
+      "ratio": 1.0,
+      "name": "Sabana Grande Municipio"
+    }
+  },
+  {
+    "zip": "00638",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72039",
+        "ratio": 0.6857,
+        "name": "Ciales Municipio"
+      },
+      {
+        "fips": "72107",
+        "ratio": 0.3143,
+        "name": "Orocovis Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72039",
+      "ratio": 0.6857,
+      "name": "Ciales Municipio"
+    }
+  },
+  {
+    "zip": "00641",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72141",
+        "ratio": 0.9964,
+        "name": "Utuado Municipio"
+      },
+      {
+        "fips": "72113",
+        "ratio": 0.0036,
+        "name": "Ponce Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72141",
+      "ratio": 0.9964,
+      "name": "Utuado Municipio"
+    }
+  },
+  {
+    "zip": "00646",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "72051",
+        "ratio": 0.995,
+        "name": "Dorado Municipio"
+      },
+      {
+        "fips": "72143",
+        "ratio": 0.0029,
+        "name": "Vega Alta Municipio"
+      },
+      {
+        "fips": "72137",
+        "ratio": 0.0012,
+        "name": "Toa Baja Municipio"
+      },
+      {
+        "fips": "72135",
+        "ratio": 0.0009,
+        "name": "Toa Alta Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72051",
+      "ratio": 0.995,
+      "name": "Dorado Municipio"
+    }
+  },
+  {
+    "zip": "00647",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72055",
+        "ratio": 0.9961,
+        "name": "Gu\u00e1nica Municipio"
+      },
+      {
+        "fips": "72121",
+        "ratio": 0.0039,
+        "name": "Sabana Grande Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72055",
+      "ratio": 0.9961,
+      "name": "Gu\u00e1nica Municipio"
+    }
+  },
+  {
+    "zip": "00650",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72054",
+        "ratio": 0.999,
+        "name": "Florida Municipio"
+      },
+      {
+        "fips": "72013",
+        "ratio": 0.001,
+        "name": "Arecibo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72054",
+      "ratio": 0.999,
+      "name": "Florida Municipio"
+    }
+  },
+  {
+    "zip": "00652",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72013",
+        "ratio": 1.0,
+        "name": "Arecibo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72013",
+      "ratio": 1.0,
+      "name": "Arecibo Municipio"
+    }
+  },
+  {
+    "zip": "00653",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72055",
+        "ratio": 0.9968,
+        "name": "Gu\u00e1nica Municipio"
+      },
+      {
+        "fips": "72153",
+        "ratio": 0.0032,
+        "name": "Yauco Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72055",
+      "ratio": 0.9968,
+      "name": "Gu\u00e1nica Municipio"
+    }
+  },
+  {
+    "zip": "00656",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72059",
+        "ratio": 1.0,
+        "name": "Guayanilla Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72059",
+      "ratio": 1.0,
+      "name": "Guayanilla Municipio"
+    }
+  },
+  {
+    "zip": "00659",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72065",
+        "ratio": 0.9885,
+        "name": "Hatillo Municipio"
+      },
+      {
+        "fips": "72013",
+        "ratio": 0.0115,
+        "name": "Arecibo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72065",
+      "ratio": 0.9885,
+      "name": "Hatillo Municipio"
+    }
+  },
+  {
+    "zip": "00660",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72067",
+        "ratio": 0.9995,
+        "name": "Hormigueros Municipio"
+      },
+      {
+        "fips": "72097",
+        "ratio": 0.0005,
+        "name": "Mayag\u00fcez Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72067",
+      "ratio": 0.9995,
+      "name": "Hormigueros Municipio"
+    }
+  },
+  {
+    "zip": "00662",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "72071",
+        "ratio": 0.9893,
+        "name": "Isabela Municipio"
+      },
+      {
+        "fips": "72099",
+        "ratio": 0.0086,
+        "name": "Moca Municipio"
+      },
+      {
+        "fips": "72005",
+        "ratio": 0.0013,
+        "name": "Aguadilla Municipio"
+      },
+      {
+        "fips": "72115",
+        "ratio": 0.0008,
+        "name": "Quebradillas Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72071",
+      "ratio": 0.9893,
+      "name": "Isabela Municipio"
+    }
+  },
+  {
+    "zip": "00664",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72073",
+        "ratio": 1.0,
+        "name": "Jayuya Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72073",
+      "ratio": 1.0,
+      "name": "Jayuya Municipio"
+    }
+  },
+  {
+    "zip": "00667",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72079",
+        "ratio": 0.9989,
+        "name": "Lajas Municipio"
+      },
+      {
+        "fips": "72121",
+        "ratio": 0.0011,
+        "name": "Sabana Grande Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72079",
+      "ratio": 0.9989,
+      "name": "Lajas Municipio"
+    }
+  },
+  {
+    "zip": "00669",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72081",
+        "ratio": 1.0,
+        "name": "Lares Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72081",
+      "ratio": 1.0,
+      "name": "Lares Municipio"
+    }
+  },
+  {
+    "zip": "00670",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72083",
+        "ratio": 1.0,
+        "name": "Las Mar\u00edas Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72083",
+      "ratio": 1.0,
+      "name": "Las Mar\u00edas Municipio"
+    }
+  },
+  {
+    "zip": "00674",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "72091",
+        "ratio": 0.9734,
+        "name": "Manat\u00ed Municipio"
+      },
+      {
+        "fips": "72145",
+        "ratio": 0.0157,
+        "name": "Vega Baja Municipio"
+      },
+      {
+        "fips": "72101",
+        "ratio": 0.0104,
+        "name": "Morovis Municipio"
+      },
+      {
+        "fips": "72017",
+        "ratio": 0.0006,
+        "name": "Barceloneta Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72091",
+      "ratio": 0.9734,
+      "name": "Manat\u00ed Municipio"
+    }
+  },
+  {
+    "zip": "00676",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72099",
+        "ratio": 0.9989,
+        "name": "Moca Municipio"
+      },
+      {
+        "fips": "72131",
+        "ratio": 0.0011,
+        "name": "San Sebasti\u00e1n Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72099",
+      "ratio": 0.9989,
+      "name": "Moca Municipio"
+    }
+  },
+  {
+    "zip": "00677",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72117",
+        "ratio": 1.0,
+        "name": "Rinc\u00f3n Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72117",
+      "ratio": 1.0,
+      "name": "Rinc\u00f3n Municipio"
+    }
+  },
+  {
+    "zip": "00678",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72115",
+        "ratio": 1.0,
+        "name": "Quebradillas Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72115",
+      "ratio": 1.0,
+      "name": "Quebradillas Municipio"
+    }
+  },
+  {
+    "zip": "00680",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "72097",
+        "ratio": 0.9984,
+        "name": "Mayag\u00fcez Municipio"
+      },
+      {
+        "fips": "72067",
+        "ratio": 0.0016,
+        "name": "Hormigueros Municipio"
+      },
+      {
+        "fips": "72023",
+        "ratio": 0.0,
+        "name": "Cabo Rojo Municipio"
+      },
+      {
+        "fips": "72011",
+        "ratio": 0.0,
+        "name": "A\u00f1asco Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72097",
+      "ratio": 0.9984,
+      "name": "Mayag\u00fcez Municipio"
+    }
+  },
+  {
+    "zip": "00681",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72097",
+        "ratio": 1.0,
+        "name": "Mayag\u00fcez Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72097",
+      "ratio": 1.0,
+      "name": "Mayag\u00fcez Municipio"
+    }
+  },
+  {
+    "zip": "00682",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72097",
+        "ratio": 1.0,
+        "name": "Mayag\u00fcez Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72097",
+      "ratio": 1.0,
+      "name": "Mayag\u00fcez Municipio"
+    }
+  },
+  {
+    "zip": "00683",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 5,
+    "counties": [
+      {
+        "fips": "72125",
+        "ratio": 0.9859,
+        "name": "San Germ\u00e1n Municipio"
+      },
+      {
+        "fips": "72067",
+        "ratio": 0.0075,
+        "name": "Hormigueros Municipio"
+      },
+      {
+        "fips": "72121",
+        "ratio": 0.0057,
+        "name": "Sabana Grande Municipio"
+      },
+      {
+        "fips": "72023",
+        "ratio": 0.0008,
+        "name": "Cabo Rojo Municipio"
+      },
+      {
+        "fips": "72097",
+        "ratio": 0.0001,
+        "name": "Mayag\u00fcez Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72125",
+      "ratio": 0.9859,
+      "name": "San Germ\u00e1n Municipio"
+    }
+  },
+  {
+    "zip": "00685",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72131",
+        "ratio": 1.0,
+        "name": "San Sebasti\u00e1n Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72131",
+      "ratio": 1.0,
+      "name": "San Sebasti\u00e1n Municipio"
+    }
+  },
+  {
+    "zip": "00687",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "72101",
+        "ratio": 0.9988,
+        "name": "Morovis Municipio"
+      },
+      {
+        "fips": "72145",
+        "ratio": 0.001,
+        "name": "Vega Baja Municipio"
+      },
+      {
+        "fips": "72047",
+        "ratio": 0.0002,
+        "name": "Corozal Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72101",
+      "ratio": 0.9988,
+      "name": "Morovis Municipio"
+    }
+  },
+  {
+    "zip": "00688",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72013",
+        "ratio": 1.0,
+        "name": "Arecibo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72013",
+      "ratio": 1.0,
+      "name": "Arecibo Municipio"
+    }
+  },
+  {
+    "zip": "00690",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72005",
+        "ratio": 1.0,
+        "name": "Aguadilla Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72005",
+      "ratio": 1.0,
+      "name": "Aguadilla Municipio"
+    }
+  },
+  {
+    "zip": "00692",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "72143",
+        "ratio": 0.9924,
+        "name": "Vega Alta Municipio"
+      },
+      {
+        "fips": "72145",
+        "ratio": 0.0061,
+        "name": "Vega Baja Municipio"
+      },
+      {
+        "fips": "72101",
+        "ratio": 0.0012,
+        "name": "Morovis Municipio"
+      },
+      {
+        "fips": "72051",
+        "ratio": 0.0003,
+        "name": "Dorado Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72143",
+      "ratio": 0.9924,
+      "name": "Vega Alta Municipio"
+    }
+  },
+  {
+    "zip": "00693",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "72145",
+        "ratio": 0.9965,
+        "name": "Vega Baja Municipio"
+      },
+      {
+        "fips": "72091",
+        "ratio": 0.0024,
+        "name": "Manat\u00ed Municipio"
+      },
+      {
+        "fips": "72143",
+        "ratio": 0.0011,
+        "name": "Vega Alta Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72145",
+      "ratio": 0.9965,
+      "name": "Vega Baja Municipio"
+    }
+  },
+  {
+    "zip": "00694",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72145",
+        "ratio": 1.0,
+        "name": "Vega Baja Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72145",
+      "ratio": 1.0,
+      "name": "Vega Baja Municipio"
+    }
+  },
+  {
+    "zip": "00698",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "72153",
+        "ratio": 0.9996,
+        "name": "Yauco Municipio"
+      },
+      {
+        "fips": "72121",
+        "ratio": 0.0003,
+        "name": "Sabana Grande Municipio"
+      },
+      {
+        "fips": "72059",
+        "ratio": 0.0001,
+        "name": "Guayanilla Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72153",
+      "ratio": 0.9996,
+      "name": "Yauco Municipio"
+    }
+  },
+  {
+    "zip": "00703",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72007",
+        "ratio": 1.0,
+        "name": "Aguas Buenas Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72007",
+      "ratio": 1.0,
+      "name": "Aguas Buenas Municipio"
+    }
+  },
+  {
+    "zip": "00704",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72123",
+        "ratio": 1.0,
+        "name": "Salinas Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72123",
+      "ratio": 1.0,
+      "name": "Salinas Municipio"
+    }
+  },
+  {
+    "zip": "00705",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72009",
+        "ratio": 1.0,
+        "name": "Aibonito Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72009",
+      "ratio": 1.0,
+      "name": "Aibonito Municipio"
+    }
+  },
+  {
+    "zip": "00707",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72095",
+        "ratio": 1.0,
+        "name": "Maunabo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72095",
+      "ratio": 1.0,
+      "name": "Maunabo Municipio"
+    }
+  },
+  {
+    "zip": "00714",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72015",
+        "ratio": 1.0,
+        "name": "Arroyo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72015",
+      "ratio": 1.0,
+      "name": "Arroyo Municipio"
+    }
+  },
+  {
+    "zip": "00715",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72113",
+        "ratio": 0.8147,
+        "name": "Ponce Municipio"
+      },
+      {
+        "fips": "72075",
+        "ratio": 0.1853,
+        "name": "Juana D\u00edaz Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72113",
+      "ratio": 0.8147,
+      "name": "Ponce Municipio"
+    }
+  },
+  {
+    "zip": "00716",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72113",
+        "ratio": 1.0,
+        "name": "Ponce Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72113",
+      "ratio": 1.0,
+      "name": "Ponce Municipio"
+    }
+  },
+  {
+    "zip": "00717",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72113",
+        "ratio": 1.0,
+        "name": "Ponce Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72113",
+      "ratio": 1.0,
+      "name": "Ponce Municipio"
+    }
+  },
+  {
+    "zip": "00718",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72103",
+        "ratio": 1.0,
+        "name": "Naguabo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72103",
+      "ratio": 1.0,
+      "name": "Naguabo Municipio"
+    }
+  },
+  {
+    "zip": "00719",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72105",
+        "ratio": 0.9818,
+        "name": "Naranjito Municipio"
+      },
+      {
+        "fips": "72019",
+        "ratio": 0.0182,
+        "name": "Barranquitas Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72105",
+      "ratio": 0.9818,
+      "name": "Naranjito Municipio"
+    }
+  },
+  {
+    "zip": "00720",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72107",
+        "ratio": 0.9972,
+        "name": "Orocovis Municipio"
+      },
+      {
+        "fips": "72075",
+        "ratio": 0.0028,
+        "name": "Juana D\u00edaz Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72107",
+      "ratio": 0.9972,
+      "name": "Orocovis Municipio"
+    }
+  },
+  {
+    "zip": "00721",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72119",
+        "ratio": 1.0,
+        "name": "R\u00edo Grande Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72119",
+      "ratio": 1.0,
+      "name": "R\u00edo Grande Municipio"
+    }
+  },
+  {
+    "zip": "00723",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72109",
+        "ratio": 1.0,
+        "name": "Patillas Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72109",
+      "ratio": 1.0,
+      "name": "Patillas Municipio"
+    }
+  },
+  {
+    "zip": "00725",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "72025",
+        "ratio": 0.9979,
+        "name": "Caguas Municipio"
+      },
+      {
+        "fips": "72007",
+        "ratio": 0.0012,
+        "name": "Aguas Buenas Municipio"
+      },
+      {
+        "fips": "72063",
+        "ratio": 0.0005,
+        "name": "Gurabo Municipio"
+      },
+      {
+        "fips": "72129",
+        "ratio": 0.0004,
+        "name": "San Lorenzo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72025",
+      "ratio": 0.9979,
+      "name": "Caguas Municipio"
+    }
+  },
+  {
+    "zip": "00726",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72025",
+        "ratio": 1.0,
+        "name": "Caguas Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72025",
+      "ratio": 1.0,
+      "name": "Caguas Municipio"
+    }
+  },
+  {
+    "zip": "00727",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72025",
+        "ratio": 1.0,
+        "name": "Caguas Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72025",
+      "ratio": 1.0,
+      "name": "Caguas Municipio"
+    }
+  },
+  {
+    "zip": "00728",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72113",
+        "ratio": 1.0,
+        "name": "Ponce Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72113",
+      "ratio": 1.0,
+      "name": "Ponce Municipio"
+    }
+  },
+  {
+    "zip": "00729",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 5,
+    "counties": [
+      {
+        "fips": "72029",
+        "ratio": 0.8855,
+        "name": "Can\u00f3vanas Municipio"
+      },
+      {
+        "fips": "72087",
+        "ratio": 0.1055,
+        "name": "Lo\u00edza Municipio"
+      },
+      {
+        "fips": "72031",
+        "ratio": 0.0066,
+        "name": "Carolina Municipio"
+      },
+      {
+        "fips": "72119",
+        "ratio": 0.0013,
+        "name": "R\u00edo Grande Municipio"
+      },
+      {
+        "fips": "72063",
+        "ratio": 0.0011,
+        "name": "Gurabo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72029",
+      "ratio": 0.8855,
+      "name": "Can\u00f3vanas Municipio"
+    }
+  },
+  {
+    "zip": "00730",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72113",
+        "ratio": 1.0,
+        "name": "Ponce Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72113",
+      "ratio": 1.0,
+      "name": "Ponce Municipio"
+    }
+  },
+  {
+    "zip": "00731",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72113",
+        "ratio": 1.0,
+        "name": "Ponce Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72113",
+      "ratio": 1.0,
+      "name": "Ponce Municipio"
+    }
+  },
+  {
+    "zip": "00732",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72113",
+        "ratio": 1.0,
+        "name": "Ponce Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72113",
+      "ratio": 1.0,
+      "name": "Ponce Municipio"
+    }
+  },
+  {
+    "zip": "00733",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72113",
+        "ratio": 1.0,
+        "name": "Ponce Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72113",
+      "ratio": 1.0,
+      "name": "Ponce Municipio"
+    }
+  },
+  {
+    "zip": "00735",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72037",
+        "ratio": 0.9993,
+        "name": "Ceiba Municipio"
+      },
+      {
+        "fips": "72053",
+        "ratio": 0.0007,
+        "name": "Fajardo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72037",
+      "ratio": 0.9993,
+      "name": "Ceiba Municipio"
+    }
+  },
+  {
+    "zip": "00736",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72035",
+        "ratio": 1.0,
+        "name": "Cayey Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72035",
+      "ratio": 1.0,
+      "name": "Cayey Municipio"
+    }
+  },
+  {
+    "zip": "00737",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72035",
+        "ratio": 1.0,
+        "name": "Cayey Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72035",
+      "ratio": 1.0,
+      "name": "Cayey Municipio"
+    }
+  },
+  {
+    "zip": "00738",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "72053",
+        "ratio": 0.9927,
+        "name": "Fajardo Municipio"
+      },
+      {
+        "fips": "72037",
+        "ratio": 0.0044,
+        "name": "Ceiba Municipio"
+      },
+      {
+        "fips": "72089",
+        "ratio": 0.0028,
+        "name": "Luquillo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72053",
+      "ratio": 0.9927,
+      "name": "Fajardo Municipio"
+    }
+  },
+  {
+    "zip": "00739",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "72041",
+        "ratio": 0.9737,
+        "name": "Cidra Municipio"
+      },
+      {
+        "fips": "72025",
+        "ratio": 0.0237,
+        "name": "Caguas Municipio"
+      },
+      {
+        "fips": "72035",
+        "ratio": 0.0017,
+        "name": "Cayey Municipio"
+      },
+      {
+        "fips": "72045",
+        "ratio": 0.0009,
+        "name": "Comer\u00edo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72041",
+      "ratio": 0.9737,
+      "name": "Cidra Municipio"
+    }
+  },
+  {
+    "zip": "00740",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72053",
+        "ratio": 1.0,
+        "name": "Fajardo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72053",
+      "ratio": 1.0,
+      "name": "Fajardo Municipio"
+    }
+  },
+  {
+    "zip": "00741",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72069",
+        "ratio": 1.0,
+        "name": "Humacao Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72069",
+      "ratio": 1.0,
+      "name": "Humacao Municipio"
+    }
+  },
+  {
+    "zip": "00744",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72103",
+        "ratio": 1.0,
+        "name": "Naguabo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72103",
+      "ratio": 1.0,
+      "name": "Naguabo Municipio"
+    }
+  },
+  {
+    "zip": "00745",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "72119",
+        "ratio": 0.9968,
+        "name": "R\u00edo Grande Municipio"
+      },
+      {
+        "fips": "72029",
+        "ratio": 0.0027,
+        "name": "Can\u00f3vanas Municipio"
+      },
+      {
+        "fips": "72087",
+        "ratio": 0.0005,
+        "name": "Lo\u00edza Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72119",
+      "ratio": 0.9968,
+      "name": "R\u00edo Grande Municipio"
+    }
+  },
+  {
+    "zip": "00751",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72123",
+        "ratio": 1.0,
+        "name": "Salinas Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72123",
+      "ratio": 1.0,
+      "name": "Salinas Municipio"
+    }
+  },
+  {
+    "zip": "00754",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72129",
+        "ratio": 0.9983,
+        "name": "San Lorenzo Municipio"
+      },
+      {
+        "fips": "72063",
+        "ratio": 0.0017,
+        "name": "Gurabo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72129",
+      "ratio": 0.9983,
+      "name": "San Lorenzo Municipio"
+    }
+  },
+  {
+    "zip": "00757",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72133",
+        "ratio": 0.9985,
+        "name": "Santa Isabel Municipio"
+      },
+      {
+        "fips": "72043",
+        "ratio": 0.0015,
+        "name": "Coamo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72133",
+      "ratio": 0.9985,
+      "name": "Santa Isabel Municipio"
+    }
+  },
+  {
+    "zip": "00765",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72147",
+        "ratio": 1.0,
+        "name": "Vieques Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72147",
+      "ratio": 1.0,
+      "name": "Vieques Municipio"
+    }
+  },
+  {
+    "zip": "00766",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72149",
+        "ratio": 0.995,
+        "name": "Villalba Municipio"
+      },
+      {
+        "fips": "72075",
+        "ratio": 0.005,
+        "name": "Juana D\u00edaz Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72149",
+      "ratio": 0.995,
+      "name": "Villalba Municipio"
+    }
+  },
+  {
+    "zip": "00767",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72151",
+        "ratio": 1.0,
+        "name": "Yabucoa Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72151",
+      "ratio": 1.0,
+      "name": "Yabucoa Municipio"
+    }
+  },
+  {
+    "zip": "00769",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72043",
+        "ratio": 1.0,
+        "name": "Coamo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72043",
+      "ratio": 1.0,
+      "name": "Coamo Municipio"
+    }
+  },
+  {
+    "zip": "00771",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72085",
+        "ratio": 0.9824,
+        "name": "Las Piedras Municipio"
+      },
+      {
+        "fips": "72077",
+        "ratio": 0.0176,
+        "name": "Juncos Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72085",
+      "ratio": 0.9824,
+      "name": "Las Piedras Municipio"
+    }
+  },
+  {
+    "zip": "00772",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72087",
+        "ratio": 0.9816,
+        "name": "Lo\u00edza Municipio"
+      },
+      {
+        "fips": "72029",
+        "ratio": 0.0184,
+        "name": "Can\u00f3vanas Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72087",
+      "ratio": 0.9816,
+      "name": "Lo\u00edza Municipio"
+    }
+  },
+  {
+    "zip": "00773",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72089",
+        "ratio": 0.9996,
+        "name": "Luquillo Municipio"
+      },
+      {
+        "fips": "72053",
+        "ratio": 0.0004,
+        "name": "Fajardo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72089",
+      "ratio": 0.9996,
+      "name": "Luquillo Municipio"
+    }
+  },
+  {
+    "zip": "00775",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72049",
+        "ratio": 1.0,
+        "name": "Culebra Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72049",
+      "ratio": 1.0,
+      "name": "Culebra Municipio"
+    }
+  },
+  {
+    "zip": "00777",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "72077",
+        "ratio": 0.9692,
+        "name": "Juncos Municipio"
+      },
+      {
+        "fips": "72085",
+        "ratio": 0.0302,
+        "name": "Las Piedras Municipio"
+      },
+      {
+        "fips": "72129",
+        "ratio": 0.0006,
+        "name": "San Lorenzo Municipio"
+      },
+      {
+        "fips": "72063",
+        "ratio": 0.0001,
+        "name": "Gurabo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72077",
+      "ratio": 0.9692,
+      "name": "Juncos Municipio"
+    }
+  },
+  {
+    "zip": "00778",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "72063",
+        "ratio": 0.9624,
+        "name": "Gurabo Municipio"
+      },
+      {
+        "fips": "72129",
+        "ratio": 0.0327,
+        "name": "San Lorenzo Municipio"
+      },
+      {
+        "fips": "72025",
+        "ratio": 0.0048,
+        "name": "Caguas Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72063",
+      "ratio": 0.9624,
+      "name": "Gurabo Municipio"
+    }
+  },
+  {
+    "zip": "00780",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72113",
+        "ratio": 1.0,
+        "name": "Ponce Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72113",
+      "ratio": 1.0,
+      "name": "Ponce Municipio"
+    }
+  },
+  {
+    "zip": "00782",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72045",
+        "ratio": 0.9954,
+        "name": "Comer\u00edo Municipio"
+      },
+      {
+        "fips": "72127",
+        "ratio": 0.0046,
+        "name": "San Juan Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72045",
+      "ratio": 0.9954,
+      "name": "Comer\u00edo Municipio"
+    }
+  },
+  {
+    "zip": "00783",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72047",
+        "ratio": 0.9995,
+        "name": "Corozal Municipio"
+      },
+      {
+        "fips": "72135",
+        "ratio": 0.0005,
+        "name": "Toa Alta Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72047",
+      "ratio": 0.9995,
+      "name": "Corozal Municipio"
+    }
+  },
+  {
+    "zip": "00784",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72057",
+        "ratio": 0.9983,
+        "name": "Guayama Municipio"
+      },
+      {
+        "fips": "72015",
+        "ratio": 0.0017,
+        "name": "Arroyo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72057",
+      "ratio": 0.9983,
+      "name": "Guayama Municipio"
+    }
+  },
+  {
+    "zip": "00785",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72057",
+        "ratio": 1.0,
+        "name": "Guayama Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72057",
+      "ratio": 1.0,
+      "name": "Guayama Municipio"
+    }
+  },
+  {
+    "zip": "00786",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72009",
+        "ratio": 1.0,
+        "name": "Aibonito Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72009",
+      "ratio": 1.0,
+      "name": "Aibonito Municipio"
+    }
+  },
+  {
+    "zip": "00791",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "72069",
+        "ratio": 0.9961,
+        "name": "Humacao Municipio"
+      },
+      {
+        "fips": "72085",
+        "ratio": 0.0025,
+        "name": "Las Piedras Municipio"
+      },
+      {
+        "fips": "72151",
+        "ratio": 0.0013,
+        "name": "Yabucoa Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72069",
+      "ratio": 0.9961,
+      "name": "Humacao Municipio"
+    }
+  },
+  {
+    "zip": "00792",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72069",
+        "ratio": 1.0,
+        "name": "Humacao Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72069",
+      "ratio": 1.0,
+      "name": "Humacao Municipio"
+    }
+  },
+  {
+    "zip": "00794",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72019",
+        "ratio": 0.9907,
+        "name": "Barranquitas Municipio"
+      },
+      {
+        "fips": "72047",
+        "ratio": 0.0093,
+        "name": "Corozal Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72019",
+      "ratio": 0.9907,
+      "name": "Barranquitas Municipio"
+    }
+  },
+  {
+    "zip": "00795",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72075",
+        "ratio": 0.9977,
+        "name": "Juana D\u00edaz Municipio"
+      },
+      {
+        "fips": "72113",
+        "ratio": 0.0023,
+        "name": "Ponce Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72075",
+      "ratio": 0.9977,
+      "name": "Juana D\u00edaz Municipio"
+    }
+  },
+  {
+    "zip": "00901",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 1.0,
+        "name": "San Juan Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 1.0,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00902",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 1.0,
+        "name": "San Juan Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 1.0,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00907",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 1.0,
+        "name": "San Juan Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 1.0,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00908",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 1.0,
+        "name": "San Juan Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 1.0,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00909",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 1.0,
+        "name": "San Juan Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 1.0,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00910",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 1.0,
+        "name": "San Juan Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 1.0,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00911",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 1.0,
+        "name": "San Juan Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 1.0,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00912",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 1.0,
+        "name": "San Juan Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 1.0,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00913",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 1.0,
+        "name": "San Juan Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 1.0,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00914",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 1.0,
+        "name": "San Juan Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 1.0,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00915",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 1.0,
+        "name": "San Juan Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 1.0,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00916",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 1.0,
+        "name": "San Juan Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 1.0,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00917",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 1.0,
+        "name": "San Juan Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 1.0,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00918",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 1.0,
+        "name": "San Juan Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 1.0,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00919",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 1.0,
+        "name": "San Juan Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 1.0,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00920",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 0.9991,
+        "name": "San Juan Municipio"
+      },
+      {
+        "fips": "72061",
+        "ratio": 0.0009,
+        "name": "Guaynabo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 0.9991,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00921",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 0.9936,
+        "name": "San Juan Municipio"
+      },
+      {
+        "fips": "72061",
+        "ratio": 0.0056,
+        "name": "Guaynabo Municipio"
+      },
+      {
+        "fips": "72031",
+        "ratio": 0.0008,
+        "name": "Carolina Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 0.9936,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00922",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72061",
+        "ratio": 1.0,
+        "name": "Guaynabo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72061",
+      "ratio": 1.0,
+      "name": "Guaynabo Municipio"
+    }
+  },
+  {
+    "zip": "00923",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 1.0,
+        "name": "San Juan Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 1.0,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00924",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 0.9585,
+        "name": "San Juan Municipio"
+      },
+      {
+        "fips": "72031",
+        "ratio": 0.0412,
+        "name": "Carolina Municipio"
+      },
+      {
+        "fips": "72021",
+        "ratio": 0.0003,
+        "name": "Bayam\u00f3n Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 0.9585,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00925",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 1.0,
+        "name": "San Juan Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 1.0,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00926",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 7,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 0.9794,
+        "name": "San Juan Municipio"
+      },
+      {
+        "fips": "72139",
+        "ratio": 0.013,
+        "name": "Trujillo Alto Municipio"
+      },
+      {
+        "fips": "72061",
+        "ratio": 0.004,
+        "name": "Guaynabo Municipio"
+      },
+      {
+        "fips": "72031",
+        "ratio": 0.0021,
+        "name": "Carolina Municipio"
+      },
+      {
+        "fips": "72021",
+        "ratio": 0.0009,
+        "name": "Bayam\u00f3n Municipio"
+      },
+      {
+        "fips": "72033",
+        "ratio": 0.0005,
+        "name": "Cata\u00f1o Municipio"
+      },
+      {
+        "fips": "72025",
+        "ratio": 0.0001,
+        "name": "Caguas Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 0.9794,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00927",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 1.0,
+        "name": "San Juan Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 1.0,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00928",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 1.0,
+        "name": "San Juan Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 1.0,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00929",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 1.0,
+        "name": "San Juan Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 1.0,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00931",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 1.0,
+        "name": "San Juan Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 1.0,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00934",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72021",
+        "ratio": 0.8584,
+        "name": "Bayam\u00f3n Municipio"
+      },
+      {
+        "fips": "72061",
+        "ratio": 0.1416,
+        "name": "Guaynabo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72021",
+      "ratio": 0.8584,
+      "name": "Bayam\u00f3n Municipio"
+    }
+  },
+  {
+    "zip": "00935",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 1.0,
+        "name": "San Juan Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 1.0,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00936",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 1.0,
+        "name": "San Juan Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 1.0,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00937",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72031",
+        "ratio": 1.0,
+        "name": "Carolina Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72031",
+      "ratio": 1.0,
+      "name": "Carolina Municipio"
+    }
+  },
+  {
+    "zip": "00940",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 1.0,
+        "name": "San Juan Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 1.0,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00949",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "72137",
+        "ratio": 0.9561,
+        "name": "Toa Baja Municipio"
+      },
+      {
+        "fips": "72051",
+        "ratio": 0.0401,
+        "name": "Dorado Municipio"
+      },
+      {
+        "fips": "72021",
+        "ratio": 0.0028,
+        "name": "Bayam\u00f3n Municipio"
+      },
+      {
+        "fips": "72135",
+        "ratio": 0.001,
+        "name": "Toa Alta Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72137",
+      "ratio": 0.9561,
+      "name": "Toa Baja Municipio"
+    }
+  },
+  {
+    "zip": "00950",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72137",
+        "ratio": 1.0,
+        "name": "Toa Baja Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72137",
+      "ratio": 1.0,
+      "name": "Toa Baja Municipio"
+    }
+  },
+  {
+    "zip": "00951",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72137",
+        "ratio": 1.0,
+        "name": "Toa Baja Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72137",
+      "ratio": 1.0,
+      "name": "Toa Baja Municipio"
+    }
+  },
+  {
+    "zip": "00952",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72137",
+        "ratio": 1.0,
+        "name": "Toa Baja Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72137",
+      "ratio": 1.0,
+      "name": "Toa Baja Municipio"
+    }
+  },
+  {
+    "zip": "00953",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "72135",
+        "ratio": 0.9627,
+        "name": "Toa Alta Municipio"
+      },
+      {
+        "fips": "72137",
+        "ratio": 0.0244,
+        "name": "Toa Baja Municipio"
+      },
+      {
+        "fips": "72021",
+        "ratio": 0.0122,
+        "name": "Bayam\u00f3n Municipio"
+      },
+      {
+        "fips": "72047",
+        "ratio": 0.0007,
+        "name": "Corozal Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72135",
+      "ratio": 0.9627,
+      "name": "Toa Alta Municipio"
+    }
+  },
+  {
+    "zip": "00954",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72135",
+        "ratio": 1.0,
+        "name": "Toa Alta Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72135",
+      "ratio": 1.0,
+      "name": "Toa Alta Municipio"
+    }
+  },
+  {
+    "zip": "00956",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 5,
+    "counties": [
+      {
+        "fips": "72021",
+        "ratio": 0.9746,
+        "name": "Bayam\u00f3n Municipio"
+      },
+      {
+        "fips": "72007",
+        "ratio": 0.014,
+        "name": "Aguas Buenas Municipio"
+      },
+      {
+        "fips": "72127",
+        "ratio": 0.0098,
+        "name": "San Juan Municipio"
+      },
+      {
+        "fips": "72025",
+        "ratio": 0.0009,
+        "name": "Caguas Municipio"
+      },
+      {
+        "fips": "72033",
+        "ratio": 0.0007,
+        "name": "Cata\u00f1o Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72021",
+      "ratio": 0.9746,
+      "name": "Bayam\u00f3n Municipio"
+    }
+  },
+  {
+    "zip": "00957",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 5,
+    "counties": [
+      {
+        "fips": "72021",
+        "ratio": 0.9765,
+        "name": "Bayam\u00f3n Municipio"
+      },
+      {
+        "fips": "72135",
+        "ratio": 0.0112,
+        "name": "Toa Alta Municipio"
+      },
+      {
+        "fips": "72127",
+        "ratio": 0.0109,
+        "name": "San Juan Municipio"
+      },
+      {
+        "fips": "72033",
+        "ratio": 0.0007,
+        "name": "Cata\u00f1o Municipio"
+      },
+      {
+        "fips": "72139",
+        "ratio": 0.0007,
+        "name": "Trujillo Alto Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72021",
+      "ratio": 0.9765,
+      "name": "Bayam\u00f3n Municipio"
+    }
+  },
+  {
+    "zip": "00958",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72021",
+        "ratio": 1.0,
+        "name": "Bayam\u00f3n Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72021",
+      "ratio": 1.0,
+      "name": "Bayam\u00f3n Municipio"
+    }
+  },
+  {
+    "zip": "00959",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "72021",
+        "ratio": 0.9331,
+        "name": "Bayam\u00f3n Municipio"
+      },
+      {
+        "fips": "72127",
+        "ratio": 0.0614,
+        "name": "San Juan Municipio"
+      },
+      {
+        "fips": "72061",
+        "ratio": 0.0041,
+        "name": "Guaynabo Municipio"
+      },
+      {
+        "fips": "72139",
+        "ratio": 0.0013,
+        "name": "Trujillo Alto Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72021",
+      "ratio": 0.9331,
+      "name": "Bayam\u00f3n Municipio"
+    }
+  },
+  {
+    "zip": "00960",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72021",
+        "ratio": 1.0,
+        "name": "Bayam\u00f3n Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72021",
+      "ratio": 1.0,
+      "name": "Bayam\u00f3n Municipio"
+    }
+  },
+  {
+    "zip": "00961",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 5,
+    "counties": [
+      {
+        "fips": "72021",
+        "ratio": 0.9763,
+        "name": "Bayam\u00f3n Municipio"
+      },
+      {
+        "fips": "72033",
+        "ratio": 0.0178,
+        "name": "Cata\u00f1o Municipio"
+      },
+      {
+        "fips": "72137",
+        "ratio": 0.0028,
+        "name": "Toa Baja Municipio"
+      },
+      {
+        "fips": "72127",
+        "ratio": 0.0025,
+        "name": "San Juan Municipio"
+      },
+      {
+        "fips": "72139",
+        "ratio": 0.0005,
+        "name": "Trujillo Alto Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72021",
+      "ratio": 0.9763,
+      "name": "Bayam\u00f3n Municipio"
+    }
+  },
+  {
+    "zip": "00962",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 5,
+    "counties": [
+      {
+        "fips": "72033",
+        "ratio": 0.9745,
+        "name": "Cata\u00f1o Municipio"
+      },
+      {
+        "fips": "72061",
+        "ratio": 0.0136,
+        "name": "Guaynabo Municipio"
+      },
+      {
+        "fips": "72021",
+        "ratio": 0.0068,
+        "name": "Bayam\u00f3n Municipio"
+      },
+      {
+        "fips": "72127",
+        "ratio": 0.0047,
+        "name": "San Juan Municipio"
+      },
+      {
+        "fips": "72139",
+        "ratio": 0.0004,
+        "name": "Trujillo Alto Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72033",
+      "ratio": 0.9745,
+      "name": "Cata\u00f1o Municipio"
+    }
+  },
+  {
+    "zip": "00963",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72033",
+        "ratio": 1.0,
+        "name": "Cata\u00f1o Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72033",
+      "ratio": 1.0,
+      "name": "Cata\u00f1o Municipio"
+    }
+  },
+  {
+    "zip": "00965",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72061",
+        "ratio": 0.9979,
+        "name": "Guaynabo Municipio"
+      },
+      {
+        "fips": "72033",
+        "ratio": 0.0021,
+        "name": "Cata\u00f1o Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72061",
+      "ratio": 0.9979,
+      "name": "Guaynabo Municipio"
+    }
+  },
+  {
+    "zip": "00966",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72061",
+        "ratio": 0.9992,
+        "name": "Guaynabo Municipio"
+      },
+      {
+        "fips": "72021",
+        "ratio": 0.0008,
+        "name": "Bayam\u00f3n Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72061",
+      "ratio": 0.9992,
+      "name": "Guaynabo Municipio"
+    }
+  },
+  {
+    "zip": "00968",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "72061",
+        "ratio": 0.9809,
+        "name": "Guaynabo Municipio"
+      },
+      {
+        "fips": "72127",
+        "ratio": 0.0191,
+        "name": "San Juan Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72061",
+      "ratio": 0.9809,
+      "name": "Guaynabo Municipio"
+    }
+  },
+  {
+    "zip": "00969",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "72061",
+        "ratio": 0.8802,
+        "name": "Guaynabo Municipio"
+      },
+      {
+        "fips": "72127",
+        "ratio": 0.1123,
+        "name": "San Juan Municipio"
+      },
+      {
+        "fips": "72021",
+        "ratio": 0.007,
+        "name": "Bayam\u00f3n Municipio"
+      },
+      {
+        "fips": "72139",
+        "ratio": 0.0006,
+        "name": "Trujillo Alto Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72061",
+      "ratio": 0.8802,
+      "name": "Guaynabo Municipio"
+    }
+  },
+  {
+    "zip": "00970",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72061",
+        "ratio": 1.0,
+        "name": "Guaynabo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72061",
+      "ratio": 1.0,
+      "name": "Guaynabo Municipio"
+    }
+  },
+  {
+    "zip": "00971",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72061",
+        "ratio": 1.0,
+        "name": "Guaynabo Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72061",
+      "ratio": 1.0,
+      "name": "Guaynabo Municipio"
+    }
+  },
+  {
+    "zip": "00975",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72127",
+        "ratio": 1.0,
+        "name": "San Juan Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72127",
+      "ratio": 1.0,
+      "name": "San Juan Municipio"
+    }
+  },
+  {
+    "zip": "00976",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 5,
+    "counties": [
+      {
+        "fips": "72139",
+        "ratio": 0.9661,
+        "name": "Trujillo Alto Municipio"
+      },
+      {
+        "fips": "72127",
+        "ratio": 0.0191,
+        "name": "San Juan Municipio"
+      },
+      {
+        "fips": "72031",
+        "ratio": 0.0076,
+        "name": "Carolina Municipio"
+      },
+      {
+        "fips": "72021",
+        "ratio": 0.007,
+        "name": "Bayam\u00f3n Municipio"
+      },
+      {
+        "fips": "72033",
+        "ratio": 0.0002,
+        "name": "Cata\u00f1o Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72139",
+      "ratio": 0.9661,
+      "name": "Trujillo Alto Municipio"
+    }
+  },
+  {
+    "zip": "00977",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72033",
+        "ratio": 1.0,
+        "name": "Cata\u00f1o Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72033",
+      "ratio": 1.0,
+      "name": "Cata\u00f1o Municipio"
+    }
+  },
+  {
+    "zip": "00979",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72031",
+        "ratio": 1.0,
+        "name": "Carolina Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72031",
+      "ratio": 1.0,
+      "name": "Carolina Municipio"
+    }
+  },
+  {
+    "zip": "00981",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72031",
+        "ratio": 1.0,
+        "name": "Carolina Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72031",
+      "ratio": 1.0,
+      "name": "Carolina Municipio"
+    }
+  },
+  {
+    "zip": "00982",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72031",
+        "ratio": 1.0,
+        "name": "Carolina Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72031",
+      "ratio": 1.0,
+      "name": "Carolina Municipio"
+    }
+  },
+  {
+    "zip": "00983",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72031",
+        "ratio": 1.0,
+        "name": "Carolina Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72031",
+      "ratio": 1.0,
+      "name": "Carolina Municipio"
+    }
+  },
+  {
+    "zip": "00984",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72031",
+        "ratio": 1.0,
+        "name": "Carolina Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72031",
+      "ratio": 1.0,
+      "name": "Carolina Municipio"
+    }
+  },
+  {
+    "zip": "00985",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72031",
+        "ratio": 1.0,
+        "name": "Carolina Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72031",
+      "ratio": 1.0,
+      "name": "Carolina Municipio"
+    }
+  },
+  {
+    "zip": "00986",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72031",
+        "ratio": 1.0,
+        "name": "Carolina Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72031",
+      "ratio": 1.0,
+      "name": "Carolina Municipio"
+    }
+  },
+  {
+    "zip": "00987",
+    "state": "PR",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "72031",
+        "ratio": 0.9825,
+        "name": "Carolina Municipio"
+      },
+      {
+        "fips": "72139",
+        "ratio": 0.0086,
+        "name": "Trujillo Alto Municipio"
+      },
+      {
+        "fips": "72029",
+        "ratio": 0.0075,
+        "name": "Can\u00f3vanas Municipio"
+      },
+      {
+        "fips": "72127",
+        "ratio": 0.0014,
+        "name": "San Juan Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72031",
+      "ratio": 0.9825,
+      "name": "Carolina Municipio"
+    }
+  },
+  {
+    "zip": "00988",
+    "state": "PR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "72031",
+        "ratio": 1.0,
+        "name": "Carolina Municipio"
+      }
+    ],
+    "primary_county": {
+      "fips": "72031",
+      "ratio": 1.0,
+      "name": "Carolina Municipio"
+    }
+  }
+]

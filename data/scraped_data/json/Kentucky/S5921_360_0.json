@@ -1,0 +1,20 @@
+{
+  "plan_info": {
+    "name": "AARP Medicare Rx Saver from UHC (PDP)"
+  },
+  "premiums": {
+    "Total monthly premium": "$90.30"
+  },
+  "deductibles": {
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "42% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S5921_360_0",
+  "state": "Kentucky"
+}

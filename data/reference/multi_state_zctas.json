@@ -1,0 +1,3646 @@
+{
+  "02861": {
+    "counties": [
+      {
+        "fips": "44007",
+        "name": "Providence County",
+        "state": "RI",
+        "area": 9207555,
+        "ratio": 0.9954
+      },
+      {
+        "fips": "25005",
+        "name": "Bristol County",
+        "state": "MA",
+        "area": 42976,
+        "ratio": 0.0046
+      }
+    ],
+    "states": [
+      "MA",
+      "RI"
+    ],
+    "multi_state": true
+  },
+  "03579": {
+    "counties": [
+      {
+        "fips": "23017",
+        "name": "Oxford County",
+        "state": "ME",
+        "area": 846017376,
+        "ratio": 0.5807
+      },
+      {
+        "fips": "33007",
+        "name": "Coos County",
+        "state": "NH",
+        "area": 610782331,
+        "ratio": 0.4193
+      }
+    ],
+    "states": [
+      "ME",
+      "NH"
+    ],
+    "multi_state": true
+  },
+  "19973": {
+    "counties": [
+      {
+        "fips": "10005",
+        "name": "Sussex County",
+        "state": "DE",
+        "area": 201647634,
+        "ratio": 0.9269
+      },
+      {
+        "fips": "24019",
+        "name": "Dorchester County",
+        "state": "MD",
+        "area": 15901281,
+        "ratio": 0.0731
+      }
+    ],
+    "states": [
+      "DE",
+      "MD"
+    ],
+    "multi_state": true
+  },
+  "20135": {
+    "counties": [
+      {
+        "fips": "51043",
+        "name": "Clarke County",
+        "state": "VA",
+        "area": 60768383,
+        "ratio": 0.6074
+      },
+      {
+        "fips": "51107",
+        "name": "Loudoun County",
+        "state": "VA",
+        "area": 38569612,
+        "ratio": 0.3855
+      },
+      {
+        "fips": "54037",
+        "name": "Jefferson County",
+        "state": "WV",
+        "area": 715291,
+        "ratio": 0.0071
+      }
+    ],
+    "states": [
+      "VA",
+      "WV"
+    ],
+    "multi_state": true
+  },
+  "21874": {
+    "counties": [
+      {
+        "fips": "24045",
+        "name": "Wicomico County",
+        "state": "MD",
+        "area": 72829550,
+        "ratio": 0.9947
+      },
+      {
+        "fips": "10005",
+        "name": "Sussex County",
+        "state": "DE",
+        "area": 386811,
+        "ratio": 0.0053
+      }
+    ],
+    "states": [
+      "DE",
+      "MD"
+    ],
+    "multi_state": true
+  },
+  "21912": {
+    "counties": [
+      {
+        "fips": "24015",
+        "name": "Cecil County",
+        "state": "MD",
+        "area": 87513246,
+        "ratio": 0.9976
+      },
+      {
+        "fips": "10003",
+        "name": "New Castle County",
+        "state": "DE",
+        "area": 212877,
+        "ratio": 0.0024
+      }
+    ],
+    "states": [
+      "DE",
+      "MD"
+    ],
+    "multi_state": true
+  },
+  "24604": {
+    "counties": [
+      {
+        "fips": "51185",
+        "name": "Tazewell County",
+        "state": "VA",
+        "area": 7796340,
+        "ratio": 0.7995
+      },
+      {
+        "fips": "54047",
+        "name": "McDowell County",
+        "state": "WV",
+        "area": 1954658,
+        "ratio": 0.2005
+      }
+    ],
+    "states": [
+      "VA",
+      "WV"
+    ],
+    "multi_state": true
+  },
+  "24622": {
+    "counties": [
+      {
+        "fips": "51027",
+        "name": "Buchanan County",
+        "state": "VA",
+        "area": 74437030,
+        "ratio": 0.5316
+      },
+      {
+        "fips": "51185",
+        "name": "Tazewell County",
+        "state": "VA",
+        "area": 47880363,
+        "ratio": 0.3419
+      },
+      {
+        "fips": "54047",
+        "name": "McDowell County",
+        "state": "WV",
+        "area": 17708787,
+        "ratio": 0.1265
+      }
+    ],
+    "states": [
+      "VA",
+      "WV"
+    ],
+    "multi_state": true
+  },
+  "27048": {
+    "counties": [
+      {
+        "fips": "37157",
+        "name": "Rockingham County",
+        "state": "NC",
+        "area": 212653644,
+        "ratio": 0.9857
+      },
+      {
+        "fips": "51089",
+        "name": "Henry County",
+        "state": "VA",
+        "area": 3080396,
+        "ratio": 0.0143
+      }
+    ],
+    "states": [
+      "NC",
+      "VA"
+    ],
+    "multi_state": true
+  },
+  "28675": {
+    "counties": [
+      {
+        "fips": "37005",
+        "name": "Alleghany County",
+        "state": "NC",
+        "area": 275558467,
+        "ratio": 0.9909
+      },
+      {
+        "fips": "51077",
+        "name": "Grayson County",
+        "state": "VA",
+        "area": 1983389,
+        "ratio": 0.0071
+      },
+      {
+        "fips": "37193",
+        "name": "Wilkes County",
+        "state": "NC",
+        "area": 538377,
+        "ratio": 0.0019
+      }
+    ],
+    "states": [
+      "NC",
+      "VA"
+    ],
+    "multi_state": true
+  },
+  "30165": {
+    "counties": [
+      {
+        "fips": "13115",
+        "name": "Floyd County",
+        "state": "GA",
+        "area": 424163087,
+        "ratio": 0.9809
+      },
+      {
+        "fips": "01019",
+        "name": "Cherokee County",
+        "state": "AL",
+        "area": 4205501,
+        "ratio": 0.0097
+      },
+      {
+        "fips": "13055",
+        "name": "Chattooga County",
+        "state": "GA",
+        "area": 4070856,
+        "ratio": 0.0094
+      }
+    ],
+    "states": [
+      "AL",
+      "GA"
+    ],
+    "multi_state": true
+  },
+  "30741": {
+    "counties": [
+      {
+        "fips": "13295",
+        "name": "Walker County",
+        "state": "GA",
+        "area": 46578289,
+        "ratio": 0.7232
+      },
+      {
+        "fips": "13047",
+        "name": "Catoosa County",
+        "state": "GA",
+        "area": 17795889,
+        "ratio": 0.2763
+      },
+      {
+        "fips": "47065",
+        "name": "Hamilton County",
+        "state": "TN",
+        "area": 33487,
+        "ratio": 0.0005
+      }
+    ],
+    "states": [
+      "GA",
+      "TN"
+    ],
+    "multi_state": true
+  },
+  "36855": {
+    "counties": [
+      {
+        "fips": "01017",
+        "name": "Chambers County",
+        "state": "AL",
+        "area": 184469083,
+        "ratio": 0.989
+      },
+      {
+        "fips": "13285",
+        "name": "Troup County",
+        "state": "GA",
+        "area": 2055230,
+        "ratio": 0.011
+      }
+    ],
+    "states": [
+      "AL",
+      "GA"
+    ],
+    "multi_state": true
+  },
+  "37642": {
+    "counties": [
+      {
+        "fips": "47073",
+        "name": "Hawkins County",
+        "state": "TN",
+        "area": 144847934,
+        "ratio": 0.9946
+      },
+      {
+        "fips": "51169",
+        "name": "Scott County",
+        "state": "VA",
+        "area": 780059,
+        "ratio": 0.0054
+      }
+    ],
+    "states": [
+      "TN",
+      "VA"
+    ],
+    "multi_state": true
+  },
+  "37752": {
+    "counties": [
+      {
+        "fips": "47025",
+        "name": "Claiborne County",
+        "state": "TN",
+        "area": 121528126,
+        "ratio": 0.9941
+      },
+      {
+        "fips": "51105",
+        "name": "Lee County",
+        "state": "VA",
+        "area": 722383,
+        "ratio": 0.0059
+      }
+    ],
+    "states": [
+      "TN",
+      "VA"
+    ],
+    "multi_state": true
+  },
+  "38079": {
+    "counties": [
+      {
+        "fips": "47095",
+        "name": "Lake County",
+        "state": "TN",
+        "area": 242631070,
+        "ratio": 0.8478
+      },
+      {
+        "fips": "21075",
+        "name": "Fulton County",
+        "state": "KY",
+        "area": 43552785,
+        "ratio": 0.1522
+      }
+    ],
+    "states": [
+      "KY",
+      "TN"
+    ],
+    "multi_state": true
+  },
+  "38326": {
+    "counties": [
+      {
+        "fips": "47071",
+        "name": "Hardin County",
+        "state": "TN",
+        "area": 109233706,
+        "ratio": 0.9904
+      },
+      {
+        "fips": "28141",
+        "name": "Tishomingo County",
+        "state": "MS",
+        "area": 1055182,
+        "ratio": 0.0096
+      }
+    ],
+    "states": [
+      "MS",
+      "TN"
+    ],
+    "multi_state": true
+  },
+  "38549": {
+    "counties": [
+      {
+        "fips": "47137",
+        "name": "Pickett County",
+        "state": "TN",
+        "area": 178459575,
+        "ratio": 0.9349
+      },
+      {
+        "fips": "47049",
+        "name": "Fentress County",
+        "state": "TN",
+        "area": 9369217,
+        "ratio": 0.0491
+      },
+      {
+        "fips": "21053",
+        "name": "Clinton County",
+        "state": "KY",
+        "area": 3057145,
+        "ratio": 0.016
+      }
+    ],
+    "states": [
+      "KY",
+      "TN"
+    ],
+    "multi_state": true
+  },
+  "38769": {
+    "counties": [
+      {
+        "fips": "28011",
+        "name": "Bolivar County",
+        "state": "MS",
+        "area": 169244051,
+        "ratio": 0.9251
+      },
+      {
+        "fips": "05041",
+        "name": "Desha County",
+        "state": "AR",
+        "area": 13708459,
+        "ratio": 0.0749
+      }
+    ],
+    "states": [
+      "AR",
+      "MS"
+    ],
+    "multi_state": true
+  },
+  "38852": {
+    "counties": [
+      {
+        "fips": "28141",
+        "name": "Tishomingo County",
+        "state": "MS",
+        "area": 511274456,
+        "ratio": 0.9969
+      },
+      {
+        "fips": "01033",
+        "name": "Colbert County",
+        "state": "AL",
+        "area": 1591618,
+        "ratio": 0.0031
+      }
+    ],
+    "states": [
+      "AL",
+      "MS"
+    ],
+    "multi_state": true
+  },
+  "40965": {
+    "counties": [
+      {
+        "fips": "21013",
+        "name": "Bell County",
+        "state": "KY",
+        "area": 189847747,
+        "ratio": 0.8494
+      },
+      {
+        "fips": "47025",
+        "name": "Claiborne County",
+        "state": "TN",
+        "area": 33649370,
+        "ratio": 0.1506
+      }
+    ],
+    "states": [
+      "KY",
+      "TN"
+    ],
+    "multi_state": true
+  },
+  "42223": {
+    "counties": [
+      {
+        "fips": "47125",
+        "name": "Montgomery County",
+        "state": "TN",
+        "area": 31013818,
+        "ratio": 0.5514
+      },
+      {
+        "fips": "21047",
+        "name": "Christian County",
+        "state": "KY",
+        "area": 25233712,
+        "ratio": 0.4486
+      }
+    ],
+    "states": [
+      "KY",
+      "TN"
+    ],
+    "multi_state": true
+  },
+  "42602": {
+    "counties": [
+      {
+        "fips": "21053",
+        "name": "Clinton County",
+        "state": "KY",
+        "area": 478226107,
+        "ratio": 0.9768
+      },
+      {
+        "fips": "21207",
+        "name": "Russell County",
+        "state": "KY",
+        "area": 6295696,
+        "ratio": 0.0129
+      },
+      {
+        "fips": "21231",
+        "name": "Wayne County",
+        "state": "KY",
+        "area": 4261027,
+        "ratio": 0.0087
+      },
+      {
+        "fips": "47137",
+        "name": "Pickett County",
+        "state": "TN",
+        "area": 790930,
+        "ratio": 0.0016
+      }
+    ],
+    "states": [
+      "KY",
+      "TN"
+    ],
+    "multi_state": true
+  },
+  "51001": {
+    "counties": [
+      {
+        "fips": "19149",
+        "name": "Plymouth County",
+        "state": "IA",
+        "area": 257617679,
+        "ratio": 0.6021
+      },
+      {
+        "fips": "46127",
+        "name": "Union County",
+        "state": "SD",
+        "area": 170253188,
+        "ratio": 0.3979
+      }
+    ],
+    "states": [
+      "IA",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "51023": {
+    "counties": [
+      {
+        "fips": "19167",
+        "name": "Sioux County",
+        "state": "IA",
+        "area": 217933385,
+        "ratio": 0.702
+      },
+      {
+        "fips": "46127",
+        "name": "Union County",
+        "state": "SD",
+        "area": 92520521,
+        "ratio": 0.298
+      }
+    ],
+    "states": [
+      "IA",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "51360": {
+    "counties": [
+      {
+        "fips": "19059",
+        "name": "Dickinson County",
+        "state": "IA",
+        "area": 264393460,
+        "ratio": 0.9702
+      },
+      {
+        "fips": "27063",
+        "name": "Jackson County",
+        "state": "MN",
+        "area": 8131677,
+        "ratio": 0.0298
+      }
+    ],
+    "states": [
+      "IA",
+      "MN"
+    ],
+    "multi_state": true
+  },
+  "51557": {
+    "counties": [
+      {
+        "fips": "19085",
+        "name": "Harrison County",
+        "state": "IA",
+        "area": 174882510,
+        "ratio": 0.897
+      },
+      {
+        "fips": "31021",
+        "name": "Burt County",
+        "state": "NE",
+        "area": 20086663,
+        "ratio": 0.103
+      }
+    ],
+    "states": [
+      "IA",
+      "NE"
+    ],
+    "multi_state": true
+  },
+  "51640": {
+    "counties": [
+      {
+        "fips": "19071",
+        "name": "Fremont County",
+        "state": "IA",
+        "area": 244925671,
+        "ratio": 0.8194
+      },
+      {
+        "fips": "29005",
+        "name": "Atchison County",
+        "state": "MO",
+        "area": 53988253,
+        "ratio": 0.1806
+      }
+    ],
+    "states": [
+      "IA",
+      "MO"
+    ],
+    "multi_state": true
+  },
+  "52542": {
+    "counties": [
+      {
+        "fips": "19177",
+        "name": "Van Buren County",
+        "state": "IA",
+        "area": 97576894,
+        "ratio": 0.8047
+      },
+      {
+        "fips": "29199",
+        "name": "Scotland County",
+        "state": "MO",
+        "area": 23687905,
+        "ratio": 0.1953
+      }
+    ],
+    "states": [
+      "IA",
+      "MO"
+    ],
+    "multi_state": true
+  },
+  "52573": {
+    "counties": [
+      {
+        "fips": "19177",
+        "name": "Van Buren County",
+        "state": "IA",
+        "area": 63102310,
+        "ratio": 0.6527
+      },
+      {
+        "fips": "29045",
+        "name": "Clark County",
+        "state": "MO",
+        "area": 23023703,
+        "ratio": 0.2381
+      },
+      {
+        "fips": "29199",
+        "name": "Scotland County",
+        "state": "MO",
+        "area": 10557350,
+        "ratio": 0.1092
+      }
+    ],
+    "states": [
+      "IA",
+      "MO"
+    ],
+    "multi_state": true
+  },
+  "52626": {
+    "counties": [
+      {
+        "fips": "19111",
+        "name": "Lee County",
+        "state": "IA",
+        "area": 124513495,
+        "ratio": 0.5454
+      },
+      {
+        "fips": "19177",
+        "name": "Van Buren County",
+        "state": "IA",
+        "area": 54569977,
+        "ratio": 0.239
+      },
+      {
+        "fips": "29045",
+        "name": "Clark County",
+        "state": "MO",
+        "area": 49229289,
+        "ratio": 0.2156
+      }
+    ],
+    "states": [
+      "IA",
+      "MO"
+    ],
+    "multi_state": true
+  },
+  "54540": {
+    "counties": [
+      {
+        "fips": "55125",
+        "name": "Vilas County",
+        "state": "WI",
+        "area": 206148792,
+        "ratio": 0.9965
+      },
+      {
+        "fips": "26053",
+        "name": "Gogebic County",
+        "state": "MI",
+        "area": 725553,
+        "ratio": 0.0035
+      }
+    ],
+    "states": [
+      "MI",
+      "WI"
+    ],
+    "multi_state": true
+  },
+  "56027": {
+    "counties": [
+      {
+        "fips": "27043",
+        "name": "Faribault County",
+        "state": "MN",
+        "area": 126547405,
+        "ratio": 0.7714
+      },
+      {
+        "fips": "19109",
+        "name": "Kossuth County",
+        "state": "IA",
+        "area": 21919185,
+        "ratio": 0.1336
+      },
+      {
+        "fips": "27091",
+        "name": "Martin County",
+        "state": "MN",
+        "area": 15581305,
+        "ratio": 0.095
+      }
+    ],
+    "states": [
+      "IA",
+      "MN"
+    ],
+    "multi_state": true
+  },
+  "56136": {
+    "counties": [
+      {
+        "fips": "27081",
+        "name": "Lincoln County",
+        "state": "MN",
+        "area": 232597869,
+        "ratio": 0.7887
+      },
+      {
+        "fips": "46011",
+        "name": "Brookings County",
+        "state": "SD",
+        "area": 62307207,
+        "ratio": 0.2113
+      }
+    ],
+    "states": [
+      "MN",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "56144": {
+    "counties": [
+      {
+        "fips": "27133",
+        "name": "Rock County",
+        "state": "MN",
+        "area": 149607592,
+        "ratio": 0.4806
+      },
+      {
+        "fips": "27117",
+        "name": "Pipestone County",
+        "state": "MN",
+        "area": 120765969,
+        "ratio": 0.388
+      },
+      {
+        "fips": "46101",
+        "name": "Moody County",
+        "state": "SD",
+        "area": 40892375,
+        "ratio": 0.1314
+      }
+    ],
+    "states": [
+      "MN",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "56164": {
+    "counties": [
+      {
+        "fips": "27117",
+        "name": "Pipestone County",
+        "state": "MN",
+        "area": 543867712,
+        "ratio": 0.8731
+      },
+      {
+        "fips": "27081",
+        "name": "Lincoln County",
+        "state": "MN",
+        "area": 58109137,
+        "ratio": 0.0933
+      },
+      {
+        "fips": "46101",
+        "name": "Moody County",
+        "state": "SD",
+        "area": 20953299,
+        "ratio": 0.0336
+      }
+    ],
+    "states": [
+      "MN",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "56219": {
+    "counties": [
+      {
+        "fips": "46109",
+        "name": "Roberts County",
+        "state": "SD",
+        "area": 127800589,
+        "ratio": 0.5524
+      },
+      {
+        "fips": "27155",
+        "name": "Traverse County",
+        "state": "MN",
+        "area": 83523405,
+        "ratio": 0.3611
+      },
+      {
+        "fips": "27011",
+        "name": "Big Stone County",
+        "state": "MN",
+        "area": 20010672,
+        "ratio": 0.0865
+      }
+    ],
+    "states": [
+      "MN",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "56220": {
+    "counties": [
+      {
+        "fips": "27173",
+        "name": "Yellow Medicine County",
+        "state": "MN",
+        "area": 484551622,
+        "ratio": 0.681
+      },
+      {
+        "fips": "27073",
+        "name": "Lac qui Parle County",
+        "state": "MN",
+        "area": 137498265,
+        "ratio": 0.1932
+      },
+      {
+        "fips": "27081",
+        "name": "Lincoln County",
+        "state": "MN",
+        "area": 87911110,
+        "ratio": 0.1235
+      },
+      {
+        "fips": "46039",
+        "name": "Deuel County",
+        "state": "SD",
+        "area": 1582329,
+        "ratio": 0.0022
+      }
+    ],
+    "states": [
+      "MN",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "56257": {
+    "counties": [
+      {
+        "fips": "27073",
+        "name": "Lac qui Parle County",
+        "state": "MN",
+        "area": 226593251,
+        "ratio": 0.95
+      },
+      {
+        "fips": "46039",
+        "name": "Deuel County",
+        "state": "SD",
+        "area": 11930501,
+        "ratio": 0.05
+      }
+    ],
+    "states": [
+      "MN",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "56744": {
+    "counties": [
+      {
+        "fips": "27089",
+        "name": "Marshall County",
+        "state": "MN",
+        "area": 124244165,
+        "ratio": 0.4994
+      },
+      {
+        "fips": "27119",
+        "name": "Polk County",
+        "state": "MN",
+        "area": 58732915,
+        "ratio": 0.2361
+      },
+      {
+        "fips": "38099",
+        "name": "Walsh County",
+        "state": "ND",
+        "area": 56679246,
+        "ratio": 0.2278
+      },
+      {
+        "fips": "38035",
+        "name": "Grand Forks County",
+        "state": "ND",
+        "area": 9121674,
+        "ratio": 0.0367
+      }
+    ],
+    "states": [
+      "MN",
+      "ND"
+    ],
+    "multi_state": true
+  },
+  "57026": {
+    "counties": [
+      {
+        "fips": "46011",
+        "name": "Brookings County",
+        "state": "SD",
+        "area": 261643845,
+        "ratio": 0.5676
+      },
+      {
+        "fips": "46101",
+        "name": "Moody County",
+        "state": "SD",
+        "area": 91994074,
+        "ratio": 0.1996
+      },
+      {
+        "fips": "27081",
+        "name": "Lincoln County",
+        "state": "MN",
+        "area": 62677594,
+        "ratio": 0.136
+      },
+      {
+        "fips": "27117",
+        "name": "Pipestone County",
+        "state": "MN",
+        "area": 44622665,
+        "ratio": 0.0968
+      }
+    ],
+    "states": [
+      "MN",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "57030": {
+    "counties": [
+      {
+        "fips": "46099",
+        "name": "Minnehaha County",
+        "state": "SD",
+        "area": 309295608,
+        "ratio": 0.8993
+      },
+      {
+        "fips": "27133",
+        "name": "Rock County",
+        "state": "MN",
+        "area": 34630032,
+        "ratio": 0.1007
+      }
+    ],
+    "states": [
+      "MN",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "57034": {
+    "counties": [
+      {
+        "fips": "46083",
+        "name": "Lincoln County",
+        "state": "SD",
+        "area": 165309210,
+        "ratio": 0.8364
+      },
+      {
+        "fips": "46127",
+        "name": "Union County",
+        "state": "SD",
+        "area": 17092301,
+        "ratio": 0.0865
+      },
+      {
+        "fips": "19167",
+        "name": "Sioux County",
+        "state": "IA",
+        "area": 15238913,
+        "ratio": 0.0771
+      }
+    ],
+    "states": [
+      "IA",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "57068": {
+    "counties": [
+      {
+        "fips": "46099",
+        "name": "Minnehaha County",
+        "state": "SD",
+        "area": 111351152,
+        "ratio": 0.9319
+      },
+      {
+        "fips": "27133",
+        "name": "Rock County",
+        "state": "MN",
+        "area": 8140812,
+        "ratio": 0.0681
+      }
+    ],
+    "states": [
+      "MN",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "57255": {
+    "counties": [
+      {
+        "fips": "46109",
+        "name": "Roberts County",
+        "state": "SD",
+        "area": 257865851,
+        "ratio": 0.9552
+      },
+      {
+        "fips": "38077",
+        "name": "Richland County",
+        "state": "ND",
+        "area": 12096756,
+        "ratio": 0.0448
+      }
+    ],
+    "states": [
+      "ND",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "57430": {
+    "counties": [
+      {
+        "fips": "46091",
+        "name": "Marshall County",
+        "state": "SD",
+        "area": 890251553,
+        "ratio": 0.9913
+      },
+      {
+        "fips": "38081",
+        "name": "Sargent County",
+        "state": "ND",
+        "area": 7821866,
+        "ratio": 0.0087
+      }
+    ],
+    "states": [
+      "ND",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "57638": {
+    "counties": [
+      {
+        "fips": "46105",
+        "name": "Perkins County",
+        "state": "SD",
+        "area": 1577913693,
+        "ratio": 0.6018
+      },
+      {
+        "fips": "38001",
+        "name": "Adams County",
+        "state": "ND",
+        "area": 664126649,
+        "ratio": 0.2533
+      },
+      {
+        "fips": "38037",
+        "name": "Grant County",
+        "state": "ND",
+        "area": 134555788,
+        "ratio": 0.0513
+      },
+      {
+        "fips": "38085",
+        "name": "Sioux County",
+        "state": "ND",
+        "area": 122844974,
+        "ratio": 0.0469
+      },
+      {
+        "fips": "46031",
+        "name": "Corson County",
+        "state": "SD",
+        "area": 122600444,
+        "ratio": 0.0468
+      }
+    ],
+    "states": [
+      "ND",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "57641": {
+    "counties": [
+      {
+        "fips": "46031",
+        "name": "Corson County",
+        "state": "SD",
+        "area": 774953202,
+        "ratio": 0.6243
+      },
+      {
+        "fips": "38085",
+        "name": "Sioux County",
+        "state": "ND",
+        "area": 345451943,
+        "ratio": 0.2783
+      },
+      {
+        "fips": "38037",
+        "name": "Grant County",
+        "state": "ND",
+        "area": 120933377,
+        "ratio": 0.0974
+      }
+    ],
+    "states": [
+      "ND",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "57642": {
+    "counties": [
+      {
+        "fips": "46031",
+        "name": "Corson County",
+        "state": "SD",
+        "area": 1742488129,
+        "ratio": 0.9704
+      },
+      {
+        "fips": "38085",
+        "name": "Sioux County",
+        "state": "ND",
+        "area": 53086896,
+        "ratio": 0.0296
+      }
+    ],
+    "states": [
+      "ND",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "57645": {
+    "counties": [
+      {
+        "fips": "46031",
+        "name": "Corson County",
+        "state": "SD",
+        "area": 406234331,
+        "ratio": 0.5191
+      },
+      {
+        "fips": "38037",
+        "name": "Grant County",
+        "state": "ND",
+        "area": 209695373,
+        "ratio": 0.268
+      },
+      {
+        "fips": "38085",
+        "name": "Sioux County",
+        "state": "ND",
+        "area": 166624995,
+        "ratio": 0.2129
+      }
+    ],
+    "states": [
+      "ND",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "57648": {
+    "counties": [
+      {
+        "fips": "38029",
+        "name": "Emmons County",
+        "state": "ND",
+        "area": 314229222,
+        "ratio": 0.511
+      },
+      {
+        "fips": "46021",
+        "name": "Campbell County",
+        "state": "SD",
+        "area": 300732792,
+        "ratio": 0.489
+      }
+    ],
+    "states": [
+      "ND",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "57660": {
+    "counties": [
+      {
+        "fips": "46031",
+        "name": "Corson County",
+        "state": "SD",
+        "area": 450745772,
+        "ratio": 0.8803
+      },
+      {
+        "fips": "38085",
+        "name": "Sioux County",
+        "state": "ND",
+        "area": 61298757,
+        "ratio": 0.1197
+      }
+    ],
+    "states": [
+      "ND",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "57717": {
+    "counties": [
+      {
+        "fips": "46019",
+        "name": "Butte County",
+        "state": "SD",
+        "area": 2313301381,
+        "ratio": 0.6546
+      },
+      {
+        "fips": "56011",
+        "name": "Crook County",
+        "state": "WY",
+        "area": 536353529,
+        "ratio": 0.1518
+      },
+      {
+        "fips": "30011",
+        "name": "Carter County",
+        "state": "MT",
+        "area": 359499080,
+        "ratio": 0.1017
+      },
+      {
+        "fips": "46063",
+        "name": "Harding County",
+        "state": "SD",
+        "area": 304800050,
+        "ratio": 0.0863
+      },
+      {
+        "fips": "46081",
+        "name": "Lawrence County",
+        "state": "SD",
+        "area": 19892211,
+        "ratio": 0.0056
+      }
+    ],
+    "states": [
+      "MT",
+      "SD",
+      "WY"
+    ],
+    "multi_state": true
+  },
+  "57724": {
+    "counties": [
+      {
+        "fips": "46063",
+        "name": "Harding County",
+        "state": "SD",
+        "area": 586573263,
+        "ratio": 0.6264
+      },
+      {
+        "fips": "30011",
+        "name": "Carter County",
+        "state": "MT",
+        "area": 349859945,
+        "ratio": 0.3736
+      }
+    ],
+    "states": [
+      "MT",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "57735": {
+    "counties": [
+      {
+        "fips": "46047",
+        "name": "Fall River County",
+        "state": "SD",
+        "area": 1814052941,
+        "ratio": 0.7743
+      },
+      {
+        "fips": "46033",
+        "name": "Custer County",
+        "state": "SD",
+        "area": 484698030,
+        "ratio": 0.2069
+      },
+      {
+        "fips": "31165",
+        "name": "Sioux County",
+        "state": "NE",
+        "area": 44017438,
+        "ratio": 0.0188
+      }
+    ],
+    "states": [
+      "NE",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "58030": {
+    "counties": [
+      {
+        "fips": "38077",
+        "name": "Richland County",
+        "state": "ND",
+        "area": 335606969,
+        "ratio": 0.9867
+      },
+      {
+        "fips": "27167",
+        "name": "Wilkin County",
+        "state": "MN",
+        "area": 4526627,
+        "ratio": 0.0133
+      }
+    ],
+    "states": [
+      "MN",
+      "ND"
+    ],
+    "multi_state": true
+  },
+  "58041": {
+    "counties": [
+      {
+        "fips": "38077",
+        "name": "Richland County",
+        "state": "ND",
+        "area": 507317564,
+        "ratio": 0.9922
+      },
+      {
+        "fips": "46109",
+        "name": "Roberts County",
+        "state": "SD",
+        "area": 3979807,
+        "ratio": 0.0078
+      }
+    ],
+    "states": [
+      "ND",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "58043": {
+    "counties": [
+      {
+        "fips": "38081",
+        "name": "Sargent County",
+        "state": "ND",
+        "area": 147983857,
+        "ratio": 0.9508
+      },
+      {
+        "fips": "46091",
+        "name": "Marshall County",
+        "state": "SD",
+        "area": 7651770,
+        "ratio": 0.0492
+      }
+    ],
+    "states": [
+      "ND",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "58053": {
+    "counties": [
+      {
+        "fips": "38077",
+        "name": "Richland County",
+        "state": "ND",
+        "area": 431196724,
+        "ratio": 0.7109
+      },
+      {
+        "fips": "38081",
+        "name": "Sargent County",
+        "state": "ND",
+        "area": 126943423,
+        "ratio": 0.2093
+      },
+      {
+        "fips": "46109",
+        "name": "Roberts County",
+        "state": "SD",
+        "area": 35973423,
+        "ratio": 0.0593
+      },
+      {
+        "fips": "46091",
+        "name": "Marshall County",
+        "state": "SD",
+        "area": 12460217,
+        "ratio": 0.0205
+      }
+    ],
+    "states": [
+      "ND",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "58225": {
+    "counties": [
+      {
+        "fips": "38067",
+        "name": "Pembina County",
+        "state": "ND",
+        "area": 399390936,
+        "ratio": 0.6589
+      },
+      {
+        "fips": "38099",
+        "name": "Walsh County",
+        "state": "ND",
+        "area": 137901662,
+        "ratio": 0.2275
+      },
+      {
+        "fips": "27069",
+        "name": "Kittson County",
+        "state": "MN",
+        "area": 68832749,
+        "ratio": 0.1136
+      }
+    ],
+    "states": [
+      "MN",
+      "ND"
+    ],
+    "multi_state": true
+  },
+  "58413": {
+    "counties": [
+      {
+        "fips": "38051",
+        "name": "McIntosh County",
+        "state": "ND",
+        "area": 1086359731,
+        "ratio": 0.8519
+      },
+      {
+        "fips": "38021",
+        "name": "Dickey County",
+        "state": "ND",
+        "area": 102807916,
+        "ratio": 0.0806
+      },
+      {
+        "fips": "46089",
+        "name": "McPherson County",
+        "state": "SD",
+        "area": 86064448,
+        "ratio": 0.0675
+      }
+    ],
+    "states": [
+      "ND",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "58436": {
+    "counties": [
+      {
+        "fips": "38021",
+        "name": "Dickey County",
+        "state": "ND",
+        "area": 792409568,
+        "ratio": 0.9543
+      },
+      {
+        "fips": "46013",
+        "name": "Brown County",
+        "state": "SD",
+        "area": 37976462,
+        "ratio": 0.0457
+      }
+    ],
+    "states": [
+      "ND",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "58439": {
+    "counties": [
+      {
+        "fips": "38021",
+        "name": "Dickey County",
+        "state": "ND",
+        "area": 302488009,
+        "ratio": 0.628
+      },
+      {
+        "fips": "46089",
+        "name": "McPherson County",
+        "state": "SD",
+        "area": 169059783,
+        "ratio": 0.351
+      },
+      {
+        "fips": "46013",
+        "name": "Brown County",
+        "state": "SD",
+        "area": 10120624,
+        "ratio": 0.021
+      }
+    ],
+    "states": [
+      "ND",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "58568": {
+    "counties": [
+      {
+        "fips": "38085",
+        "name": "Sioux County",
+        "state": "ND",
+        "area": 1083193780,
+        "ratio": 0.9962
+      },
+      {
+        "fips": "46031",
+        "name": "Corson County",
+        "state": "SD",
+        "area": 4102113,
+        "ratio": 0.0038
+      }
+    ],
+    "states": [
+      "ND",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "58621": {
+    "counties": [
+      {
+        "fips": "38033",
+        "name": "Golden Valley County",
+        "state": "ND",
+        "area": 1006591097,
+        "ratio": 0.9067
+      },
+      {
+        "fips": "30109",
+        "name": "Wibaux County",
+        "state": "MT",
+        "area": 48714295,
+        "ratio": 0.0439
+      },
+      {
+        "fips": "38053",
+        "name": "McKenzie County",
+        "state": "ND",
+        "area": 31542517,
+        "ratio": 0.0284
+      },
+      {
+        "fips": "38007",
+        "name": "Billings County",
+        "state": "ND",
+        "area": 23283618,
+        "ratio": 0.021
+      }
+    ],
+    "states": [
+      "MT",
+      "ND"
+    ],
+    "multi_state": true
+  },
+  "58623": {
+    "counties": [
+      {
+        "fips": "38011",
+        "name": "Bowman County",
+        "state": "ND",
+        "area": 1018923564,
+        "ratio": 0.727
+      },
+      {
+        "fips": "38087",
+        "name": "Slope County",
+        "state": "ND",
+        "area": 355254328,
+        "ratio": 0.2535
+      },
+      {
+        "fips": "46063",
+        "name": "Harding County",
+        "state": "SD",
+        "area": 27299872,
+        "ratio": 0.0195
+      }
+    ],
+    "states": [
+      "ND",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "58639": {
+    "counties": [
+      {
+        "fips": "38001",
+        "name": "Adams County",
+        "state": "ND",
+        "area": 1162275393,
+        "ratio": 0.7877
+      },
+      {
+        "fips": "46105",
+        "name": "Perkins County",
+        "state": "SD",
+        "area": 313336136,
+        "ratio": 0.2123
+      }
+    ],
+    "states": [
+      "ND",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "58649": {
+    "counties": [
+      {
+        "fips": "38001",
+        "name": "Adams County",
+        "state": "ND",
+        "area": 480276077,
+        "ratio": 0.7268
+      },
+      {
+        "fips": "38041",
+        "name": "Hettinger County",
+        "state": "ND",
+        "area": 73257435,
+        "ratio": 0.1109
+      },
+      {
+        "fips": "46063",
+        "name": "Harding County",
+        "state": "SD",
+        "area": 62421115,
+        "ratio": 0.0945
+      },
+      {
+        "fips": "38011",
+        "name": "Bowman County",
+        "state": "ND",
+        "area": 31115373,
+        "ratio": 0.0471
+      },
+      {
+        "fips": "38087",
+        "name": "Slope County",
+        "state": "ND",
+        "area": 13745094,
+        "ratio": 0.0208
+      }
+    ],
+    "states": [
+      "ND",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "58653": {
+    "counties": [
+      {
+        "fips": "38011",
+        "name": "Bowman County",
+        "state": "ND",
+        "area": 676683086,
+        "ratio": 0.711
+      },
+      {
+        "fips": "46063",
+        "name": "Harding County",
+        "state": "SD",
+        "area": 140436509,
+        "ratio": 0.1476
+      },
+      {
+        "fips": "38087",
+        "name": "Slope County",
+        "state": "ND",
+        "area": 134627844,
+        "ratio": 0.1415
+      }
+    ],
+    "states": [
+      "ND",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "59221": {
+    "counties": [
+      {
+        "fips": "30083",
+        "name": "Richland County",
+        "state": "MT",
+        "area": 575800594,
+        "ratio": 0.8471
+      },
+      {
+        "fips": "38053",
+        "name": "McKenzie County",
+        "state": "ND",
+        "area": 103961643,
+        "ratio": 0.1529
+      }
+    ],
+    "states": [
+      "MT",
+      "ND"
+    ],
+    "multi_state": true
+  },
+  "59270": {
+    "counties": [
+      {
+        "fips": "30083",
+        "name": "Richland County",
+        "state": "MT",
+        "area": 1393850480,
+        "ratio": 0.604
+      },
+      {
+        "fips": "38053",
+        "name": "McKenzie County",
+        "state": "ND",
+        "area": 913907932,
+        "ratio": 0.396
+      }
+    ],
+    "states": [
+      "MT",
+      "ND"
+    ],
+    "multi_state": true
+  },
+  "59275": {
+    "counties": [
+      {
+        "fips": "30091",
+        "name": "Sheridan County",
+        "state": "MT",
+        "area": 743213806,
+        "ratio": 0.7625
+      },
+      {
+        "fips": "38023",
+        "name": "Divide County",
+        "state": "ND",
+        "area": 231521368,
+        "ratio": 0.2375
+      }
+    ],
+    "states": [
+      "MT",
+      "ND"
+    ],
+    "multi_state": true
+  },
+  "59847": {
+    "counties": [
+      {
+        "fips": "30063",
+        "name": "Missoula County",
+        "state": "MT",
+        "area": 739658166,
+        "ratio": 0.9483
+      },
+      {
+        "fips": "16049",
+        "name": "Idaho County",
+        "state": "ID",
+        "area": 40361881,
+        "ratio": 0.0517
+      }
+    ],
+    "states": [
+      "ID",
+      "MT"
+    ],
+    "multi_state": true
+  },
+  "63673": {
+    "counties": [
+      {
+        "fips": "29186",
+        "name": "Ste. Genevieve County",
+        "state": "MO",
+        "area": 147656117,
+        "ratio": 0.4949
+      },
+      {
+        "fips": "29157",
+        "name": "Perry County",
+        "state": "MO",
+        "area": 90115042,
+        "ratio": 0.3021
+      },
+      {
+        "fips": "17157",
+        "name": "Randolph County",
+        "state": "IL",
+        "area": 60565498,
+        "ratio": 0.203
+      }
+    ],
+    "states": [
+      "IL",
+      "MO"
+    ],
+    "multi_state": true
+  },
+  "65729": {
+    "counties": [
+      {
+        "fips": "29153",
+        "name": "Ozark County",
+        "state": "MO",
+        "area": 46228692,
+        "ratio": 0.8854
+      },
+      {
+        "fips": "05089",
+        "name": "Marion County",
+        "state": "AR",
+        "area": 5982922,
+        "ratio": 0.1146
+      }
+    ],
+    "states": [
+      "AR",
+      "MO"
+    ],
+    "multi_state": true
+  },
+  "65733": {
+    "counties": [
+      {
+        "fips": "29213",
+        "name": "Taney County",
+        "state": "MO",
+        "area": 143921157,
+        "ratio": 0.8546
+      },
+      {
+        "fips": "05089",
+        "name": "Marion County",
+        "state": "AR",
+        "area": 14133819,
+        "ratio": 0.0839
+      },
+      {
+        "fips": "29153",
+        "name": "Ozark County",
+        "state": "MO",
+        "area": 5299665,
+        "ratio": 0.0315
+      },
+      {
+        "fips": "05009",
+        "name": "Boone County",
+        "state": "AR",
+        "area": 5046723,
+        "ratio": 0.03
+      }
+    ],
+    "states": [
+      "AR",
+      "MO"
+    ],
+    "multi_state": true
+  },
+  "65761": {
+    "counties": [
+      {
+        "fips": "29153",
+        "name": "Ozark County",
+        "state": "MO",
+        "area": 192641041,
+        "ratio": 0.6489
+      },
+      {
+        "fips": "29213",
+        "name": "Taney County",
+        "state": "MO",
+        "area": 67863105,
+        "ratio": 0.2286
+      },
+      {
+        "fips": "05089",
+        "name": "Marion County",
+        "state": "AR",
+        "area": 36387735,
+        "ratio": 0.1226
+      }
+    ],
+    "states": [
+      "AR",
+      "MO"
+    ],
+    "multi_state": true
+  },
+  "66541": {
+    "counties": [
+      {
+        "fips": "20117",
+        "name": "Marshall County",
+        "state": "KS",
+        "area": 93267120,
+        "ratio": 0.7196
+      },
+      {
+        "fips": "31133",
+        "name": "Pawnee County",
+        "state": "NE",
+        "area": 36341567,
+        "ratio": 0.2804
+      }
+    ],
+    "states": [
+      "KS",
+      "NE"
+    ],
+    "multi_state": true
+  },
+  "66955": {
+    "counties": [
+      {
+        "fips": "20201",
+        "name": "Washington County",
+        "state": "KS",
+        "area": 107017639,
+        "ratio": 0.7788
+      },
+      {
+        "fips": "31169",
+        "name": "Thayer County",
+        "state": "NE",
+        "area": 30396453,
+        "ratio": 0.2212
+      }
+    ],
+    "states": [
+      "KS",
+      "NE"
+    ],
+    "multi_state": true
+  },
+  "68325": {
+    "counties": [
+      {
+        "fips": "31169",
+        "name": "Thayer County",
+        "state": "NE",
+        "area": 70230191,
+        "ratio": 0.5509
+      },
+      {
+        "fips": "20157",
+        "name": "Republic County",
+        "state": "KS",
+        "area": 57254605,
+        "ratio": 0.4491
+      }
+    ],
+    "states": [
+      "KS",
+      "NE"
+    ],
+    "multi_state": true
+  },
+  "68327": {
+    "counties": [
+      {
+        "fips": "31169",
+        "name": "Thayer County",
+        "state": "NE",
+        "area": 82040938,
+        "ratio": 0.6592
+      },
+      {
+        "fips": "20157",
+        "name": "Republic County",
+        "state": "KS",
+        "area": 42406180,
+        "ratio": 0.3408
+      }
+    ],
+    "states": [
+      "KS",
+      "NE"
+    ],
+    "multi_state": true
+  },
+  "68420": {
+    "counties": [
+      {
+        "fips": "31133",
+        "name": "Pawnee County",
+        "state": "NE",
+        "area": 328538311,
+        "ratio": 0.9762
+      },
+      {
+        "fips": "20131",
+        "name": "Nemaha County",
+        "state": "KS",
+        "area": 8011190,
+        "ratio": 0.0238
+      }
+    ],
+    "states": [
+      "KS",
+      "NE"
+    ],
+    "multi_state": true
+  },
+  "68719": {
+    "counties": [
+      {
+        "fips": "31015",
+        "name": "Boyd County",
+        "state": "NE",
+        "area": 81121965,
+        "ratio": 0.6106
+      },
+      {
+        "fips": "46053",
+        "name": "Gregory County",
+        "state": "SD",
+        "area": 51743249,
+        "ratio": 0.3894
+      }
+    ],
+    "states": [
+      "NE",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "68755": {
+    "counties": [
+      {
+        "fips": "31015",
+        "name": "Boyd County",
+        "state": "NE",
+        "area": 373518232,
+        "ratio": 0.9957
+      },
+      {
+        "fips": "46053",
+        "name": "Gregory County",
+        "state": "SD",
+        "area": 1617641,
+        "ratio": 0.0043
+      }
+    ],
+    "states": [
+      "NE",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "68943": {
+    "counties": [
+      {
+        "fips": "31129",
+        "name": "Nuckolls County",
+        "state": "NE",
+        "area": 127137399,
+        "ratio": 0.8402
+      },
+      {
+        "fips": "20157",
+        "name": "Republic County",
+        "state": "KS",
+        "area": 17960813,
+        "ratio": 0.1187
+      },
+      {
+        "fips": "31169",
+        "name": "Thayer County",
+        "state": "NE",
+        "area": 6211128,
+        "ratio": 0.041
+      }
+    ],
+    "states": [
+      "KS",
+      "NE"
+    ],
+    "multi_state": true
+  },
+  "68978": {
+    "counties": [
+      {
+        "fips": "31129",
+        "name": "Nuckolls County",
+        "state": "NE",
+        "area": 333638967,
+        "ratio": 0.8467
+      },
+      {
+        "fips": "20089",
+        "name": "Jewell County",
+        "state": "KS",
+        "area": 60391535,
+        "ratio": 0.1533
+      }
+    ],
+    "states": [
+      "KS",
+      "NE"
+    ],
+    "multi_state": true
+  },
+  "69026": {
+    "counties": [
+      {
+        "fips": "31145",
+        "name": "Red Willow County",
+        "state": "NE",
+        "area": 131825648,
+        "ratio": 0.6434
+      },
+      {
+        "fips": "20039",
+        "name": "Decatur County",
+        "state": "KS",
+        "area": 73053072,
+        "ratio": 0.3566
+      }
+    ],
+    "states": [
+      "KS",
+      "NE"
+    ],
+    "multi_state": true
+  },
+  "69168": {
+    "counties": [
+      {
+        "fips": "31135",
+        "name": "Perkins County",
+        "state": "NE",
+        "area": 233761204,
+        "ratio": 0.6126
+      },
+      {
+        "fips": "31029",
+        "name": "Chase County",
+        "state": "NE",
+        "area": 130932253,
+        "ratio": 0.3431
+      },
+      {
+        "fips": "08115",
+        "name": "Sedgwick County",
+        "state": "CO",
+        "area": 16885024,
+        "ratio": 0.0443
+      }
+    ],
+    "states": [
+      "CO",
+      "NE"
+    ],
+    "multi_state": true
+  },
+  "69201": {
+    "counties": [
+      {
+        "fips": "31031",
+        "name": "Cherry County",
+        "state": "NE",
+        "area": 3456413614,
+        "ratio": 0.8311
+      },
+      {
+        "fips": "46121",
+        "name": "Todd County",
+        "state": "SD",
+        "area": 702183487,
+        "ratio": 0.1689
+      }
+    ],
+    "states": [
+      "NE",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "69212": {
+    "counties": [
+      {
+        "fips": "31031",
+        "name": "Cherry County",
+        "state": "NE",
+        "area": 353899983,
+        "ratio": 0.5712
+      },
+      {
+        "fips": "46121",
+        "name": "Todd County",
+        "state": "SD",
+        "area": 265692470,
+        "ratio": 0.4288
+      }
+    ],
+    "states": [
+      "NE",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "69216": {
+    "counties": [
+      {
+        "fips": "31031",
+        "name": "Cherry County",
+        "state": "NE",
+        "area": 370273438,
+        "ratio": 0.7086
+      },
+      {
+        "fips": "46121",
+        "name": "Todd County",
+        "state": "SD",
+        "area": 152275965,
+        "ratio": 0.2914
+      }
+    ],
+    "states": [
+      "NE",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "69337": {
+    "counties": [
+      {
+        "fips": "31045",
+        "name": "Dawes County",
+        "state": "NE",
+        "area": 1585942369,
+        "ratio": 0.79
+      },
+      {
+        "fips": "46102",
+        "name": "Oglala Lakota County",
+        "state": "SD",
+        "area": 228145535,
+        "ratio": 0.1137
+      },
+      {
+        "fips": "31161",
+        "name": "Sheridan County",
+        "state": "NE",
+        "area": 131263374,
+        "ratio": 0.0654
+      },
+      {
+        "fips": "46047",
+        "name": "Fall River County",
+        "state": "SD",
+        "area": 62059813,
+        "ratio": 0.0309
+      }
+    ],
+    "states": [
+      "NE",
+      "SD"
+    ],
+    "multi_state": true
+  },
+  "71749": {
+    "counties": [
+      {
+        "fips": "05139",
+        "name": "Union County",
+        "state": "AR",
+        "area": 406994392,
+        "ratio": 0.982
+      },
+      {
+        "fips": "22027",
+        "name": "Claiborne Parish",
+        "state": "LA",
+        "area": 6863045,
+        "ratio": 0.0166
+      },
+      {
+        "fips": "22111",
+        "name": "Union Parish",
+        "state": "LA",
+        "area": 580102,
+        "ratio": 0.0014
+      }
+    ],
+    "states": [
+      "AR",
+      "LA"
+    ],
+    "multi_state": true
+  },
+  "71937": {
+    "counties": [
+      {
+        "fips": "05113",
+        "name": "Polk County",
+        "state": "AR",
+        "area": 197558930,
+        "ratio": 0.9375
+      },
+      {
+        "fips": "40089",
+        "name": "McCurtain County",
+        "state": "OK",
+        "area": 13160258,
+        "ratio": 0.0625
+      }
+    ],
+    "states": [
+      "AR",
+      "OK"
+    ],
+    "multi_state": true
+  },
+  "71953": {
+    "counties": [
+      {
+        "fips": "05113",
+        "name": "Polk County",
+        "state": "AR",
+        "area": 1334132684,
+        "ratio": 0.7532
+      },
+      {
+        "fips": "05127",
+        "name": "Scott County",
+        "state": "AR",
+        "area": 345709039,
+        "ratio": 0.1952
+      },
+      {
+        "fips": "40079",
+        "name": "Le Flore County",
+        "state": "OK",
+        "area": 91411324,
+        "ratio": 0.0516
+      }
+    ],
+    "states": [
+      "AR",
+      "OK"
+    ],
+    "multi_state": true
+  },
+  "72338": {
+    "counties": [
+      {
+        "fips": "47167",
+        "name": "Tipton County",
+        "state": "TN",
+        "area": 60221041,
+        "ratio": 0.6631
+      },
+      {
+        "fips": "05093",
+        "name": "Mississippi County",
+        "state": "AR",
+        "area": 30593638,
+        "ratio": 0.3369
+      }
+    ],
+    "states": [
+      "AR",
+      "TN"
+    ],
+    "multi_state": true
+  },
+  "72644": {
+    "counties": [
+      {
+        "fips": "05009",
+        "name": "Boone County",
+        "state": "AR",
+        "area": 207455662,
+        "ratio": 0.9114
+      },
+      {
+        "fips": "05089",
+        "name": "Marion County",
+        "state": "AR",
+        "area": 17194103,
+        "ratio": 0.0755
+      },
+      {
+        "fips": "29213",
+        "name": "Taney County",
+        "state": "MO",
+        "area": 2973376,
+        "ratio": 0.0131
+      }
+    ],
+    "states": [
+      "AR",
+      "MO"
+    ],
+    "multi_state": true
+  },
+  "73949": {
+    "counties": [
+      {
+        "fips": "40139",
+        "name": "Texas County",
+        "state": "OK",
+        "area": 691218399,
+        "ratio": 0.5902
+      },
+      {
+        "fips": "40025",
+        "name": "Cimarron County",
+        "state": "OK",
+        "area": 319907736,
+        "ratio": 0.2731
+      },
+      {
+        "fips": "48421",
+        "name": "Sherman County",
+        "state": "TX",
+        "area": 160073891,
+        "ratio": 0.1367
+      }
+    ],
+    "states": [
+      "OK",
+      "TX"
+    ],
+    "multi_state": true
+  },
+  "75556": {
+    "counties": [
+      {
+        "fips": "48067",
+        "name": "Cass County",
+        "state": "TX",
+        "area": 61102944,
+        "ratio": 0.9913
+      },
+      {
+        "fips": "05091",
+        "name": "Miller County",
+        "state": "AR",
+        "area": 535337,
+        "ratio": 0.0087
+      }
+    ],
+    "states": [
+      "AR",
+      "TX"
+    ],
+    "multi_state": true
+  },
+  "79835": {
+    "counties": [
+      {
+        "fips": "48141",
+        "name": "El Paso County",
+        "state": "TX",
+        "area": 22654149,
+        "ratio": 0.9876
+      },
+      {
+        "fips": "35013",
+        "name": "Do\u00f1a Ana County",
+        "state": "NM",
+        "area": 283289,
+        "ratio": 0.0124
+      }
+    ],
+    "states": [
+      "NM",
+      "TX"
+    ],
+    "multi_state": true
+  },
+  "79837": {
+    "counties": [
+      {
+        "fips": "35035",
+        "name": "Otero County",
+        "state": "NM",
+        "area": 2300722966,
+        "ratio": 0.8168
+      },
+      {
+        "fips": "48229",
+        "name": "Hudspeth County",
+        "state": "TX",
+        "area": 515862567,
+        "ratio": 0.1832
+      }
+    ],
+    "states": [
+      "NM",
+      "TX"
+    ],
+    "multi_state": true
+  },
+  "79922": {
+    "counties": [
+      {
+        "fips": "48141",
+        "name": "El Paso County",
+        "state": "TX",
+        "area": 17302860,
+        "ratio": 0.8291
+      },
+      {
+        "fips": "35013",
+        "name": "Do\u00f1a Ana County",
+        "state": "NM",
+        "area": 3565738,
+        "ratio": 0.1709
+      }
+    ],
+    "states": [
+      "NM",
+      "TX"
+    ],
+    "multi_state": true
+  },
+  "80737": {
+    "counties": [
+      {
+        "fips": "08115",
+        "name": "Sedgwick County",
+        "state": "CO",
+        "area": 622289929,
+        "ratio": 0.9617
+      },
+      {
+        "fips": "31049",
+        "name": "Deuel County",
+        "state": "NE",
+        "area": 24810215,
+        "ratio": 0.0383
+      }
+    ],
+    "states": [
+      "CO",
+      "NE"
+    ],
+    "multi_state": true
+  },
+  "81120": {
+    "counties": [
+      {
+        "fips": "08021",
+        "name": "Conejos County",
+        "state": "CO",
+        "area": 2131082337,
+        "ratio": 0.9209
+      },
+      {
+        "fips": "35039",
+        "name": "Rio Arriba County",
+        "state": "NM",
+        "area": 183153621,
+        "ratio": 0.0791
+      }
+    ],
+    "states": [
+      "CO",
+      "NM"
+    ],
+    "multi_state": true
+  },
+  "81137": {
+    "counties": [
+      {
+        "fips": "08067",
+        "name": "La Plata County",
+        "state": "CO",
+        "area": 532684052,
+        "ratio": 0.7964
+      },
+      {
+        "fips": "35045",
+        "name": "San Juan County",
+        "state": "NM",
+        "area": 115624255,
+        "ratio": 0.1729
+      },
+      {
+        "fips": "08007",
+        "name": "Archuleta County",
+        "state": "CO",
+        "area": 20525790,
+        "ratio": 0.0307
+      }
+    ],
+    "states": [
+      "CO",
+      "NM"
+    ],
+    "multi_state": true
+  },
+  "81324": {
+    "counties": [
+      {
+        "fips": "08033",
+        "name": "Dolores County",
+        "state": "CO",
+        "area": 589046562,
+        "ratio": 0.5292
+      },
+      {
+        "fips": "49037",
+        "name": "San Juan County",
+        "state": "UT",
+        "area": 523970644,
+        "ratio": 0.4708
+      }
+    ],
+    "states": [
+      "CO",
+      "UT"
+    ],
+    "multi_state": true
+  },
+  "82063": {
+    "counties": [
+      {
+        "fips": "08069",
+        "name": "Larimer County",
+        "state": "CO",
+        "area": 725230666,
+        "ratio": 0.7973
+      },
+      {
+        "fips": "56001",
+        "name": "Albany County",
+        "state": "WY",
+        "area": 184340537,
+        "ratio": 0.2027
+      }
+    ],
+    "states": [
+      "CO",
+      "WY"
+    ],
+    "multi_state": true
+  },
+  "82082": {
+    "counties": [
+      {
+        "fips": "56021",
+        "name": "Laramie County",
+        "state": "WY",
+        "area": 585576066,
+        "ratio": 0.7066
+      },
+      {
+        "fips": "31007",
+        "name": "Banner County",
+        "state": "NE",
+        "area": 139495021,
+        "ratio": 0.1683
+      },
+      {
+        "fips": "31105",
+        "name": "Kimball County",
+        "state": "NE",
+        "area": 88607368,
+        "ratio": 0.1069
+      },
+      {
+        "fips": "08123",
+        "name": "Weld County",
+        "state": "CO",
+        "area": 15015903,
+        "ratio": 0.0181
+      }
+    ],
+    "states": [
+      "CO",
+      "NE",
+      "WY"
+    ],
+    "multi_state": true
+  },
+  "82701": {
+    "counties": [
+      {
+        "fips": "56045",
+        "name": "Weston County",
+        "state": "WY",
+        "area": 3567083341,
+        "ratio": 0.7658
+      },
+      {
+        "fips": "56027",
+        "name": "Niobrara County",
+        "state": "WY",
+        "area": 437042516,
+        "ratio": 0.0938
+      },
+      {
+        "fips": "56005",
+        "name": "Campbell County",
+        "state": "WY",
+        "area": 287831058,
+        "ratio": 0.0618
+      },
+      {
+        "fips": "46033",
+        "name": "Custer County",
+        "state": "SD",
+        "area": 203718209,
+        "ratio": 0.0437
+      },
+      {
+        "fips": "46103",
+        "name": "Pennington County",
+        "state": "SD",
+        "area": 162406794,
+        "ratio": 0.0349
+      }
+    ],
+    "states": [
+      "SD",
+      "WY"
+    ],
+    "multi_state": true
+  },
+  "82801": {
+    "counties": [
+      {
+        "fips": "56033",
+        "name": "Sheridan County",
+        "state": "WY",
+        "area": 1329321820,
+        "ratio": 0.9744
+      },
+      {
+        "fips": "30003",
+        "name": "Big Horn County",
+        "state": "MT",
+        "area": 34855144,
+        "ratio": 0.0256
+      }
+    ],
+    "states": [
+      "MT",
+      "WY"
+    ],
+    "multi_state": true
+  },
+  "82930": {
+    "counties": [
+      {
+        "fips": "49043",
+        "name": "Summit County",
+        "state": "UT",
+        "area": 1748098625,
+        "ratio": 0.7057
+      },
+      {
+        "fips": "56041",
+        "name": "Uinta County",
+        "state": "WY",
+        "area": 729096688,
+        "ratio": 0.2943
+      }
+    ],
+    "states": [
+      "UT",
+      "WY"
+    ],
+    "multi_state": true
+  },
+  "83120": {
+    "counties": [
+      {
+        "fips": "16019",
+        "name": "Bonneville County",
+        "state": "ID",
+        "area": 252224709,
+        "ratio": 0.7109
+      },
+      {
+        "fips": "16029",
+        "name": "Caribou County",
+        "state": "ID",
+        "area": 66912900,
+        "ratio": 0.1886
+      },
+      {
+        "fips": "56023",
+        "name": "Lincoln County",
+        "state": "WY",
+        "area": 35648939,
+        "ratio": 0.1005
+      }
+    ],
+    "states": [
+      "ID",
+      "WY"
+    ],
+    "multi_state": true
+  },
+  "83127": {
+    "counties": [
+      {
+        "fips": "56023",
+        "name": "Lincoln County",
+        "state": "WY",
+        "area": 312411308,
+        "ratio": 0.5219
+      },
+      {
+        "fips": "16029",
+        "name": "Caribou County",
+        "state": "ID",
+        "area": 286227451,
+        "ratio": 0.4781
+      }
+    ],
+    "states": [
+      "ID",
+      "WY"
+    ],
+    "multi_state": true
+  },
+  "83342": {
+    "counties": [
+      {
+        "fips": "16031",
+        "name": "Cassia County",
+        "state": "ID",
+        "area": 2079664880,
+        "ratio": 0.6534
+      },
+      {
+        "fips": "16071",
+        "name": "Oneida County",
+        "state": "ID",
+        "area": 679356553,
+        "ratio": 0.2135
+      },
+      {
+        "fips": "49003",
+        "name": "Box Elder County",
+        "state": "UT",
+        "area": 423616989,
+        "ratio": 0.1331
+      }
+    ],
+    "states": [
+      "ID",
+      "UT"
+    ],
+    "multi_state": true
+  },
+  "83856": {
+    "counties": [
+      {
+        "fips": "16017",
+        "name": "Bonner County",
+        "state": "ID",
+        "area": 944646768,
+        "ratio": 0.9189
+      },
+      {
+        "fips": "53051",
+        "name": "Pend Oreille County",
+        "state": "WA",
+        "area": 83376539,
+        "ratio": 0.0811
+      }
+    ],
+    "states": [
+      "ID",
+      "WA"
+    ],
+    "multi_state": true
+  },
+  "84034": {
+    "counties": [
+      {
+        "fips": "49045",
+        "name": "Tooele County",
+        "state": "UT",
+        "area": 643360150,
+        "ratio": 0.6975
+      },
+      {
+        "fips": "49023",
+        "name": "Juab County",
+        "state": "UT",
+        "area": 194297495,
+        "ratio": 0.2107
+      },
+      {
+        "fips": "32033",
+        "name": "White Pine County",
+        "state": "NV",
+        "area": 84686724,
+        "ratio": 0.0918
+      }
+    ],
+    "states": [
+      "NV",
+      "UT"
+    ],
+    "multi_state": true
+  },
+  "84531": {
+    "counties": [
+      {
+        "fips": "49037",
+        "name": "San Juan County",
+        "state": "UT",
+        "area": 556318488,
+        "ratio": 0.787
+      },
+      {
+        "fips": "04001",
+        "name": "Apache County",
+        "state": "AZ",
+        "area": 150604350,
+        "ratio": 0.213
+      }
+    ],
+    "states": [
+      "AZ",
+      "UT"
+    ],
+    "multi_state": true
+  },
+  "84536": {
+    "counties": [
+      {
+        "fips": "49037",
+        "name": "San Juan County",
+        "state": "UT",
+        "area": 1444259346,
+        "ratio": 0.9727
+      },
+      {
+        "fips": "04017",
+        "name": "Navajo County",
+        "state": "AZ",
+        "area": 40543504,
+        "ratio": 0.0273
+      }
+    ],
+    "states": [
+      "AZ",
+      "UT"
+    ],
+    "multi_state": true
+  },
+  "86044": {
+    "counties": [
+      {
+        "fips": "04005",
+        "name": "Coconino County",
+        "state": "AZ",
+        "area": 1646355806,
+        "ratio": 0.5547
+      },
+      {
+        "fips": "49037",
+        "name": "San Juan County",
+        "state": "UT",
+        "area": 933797551,
+        "ratio": 0.3146
+      },
+      {
+        "fips": "04017",
+        "name": "Navajo County",
+        "state": "AZ",
+        "area": 388005280,
+        "ratio": 0.1307
+      }
+    ],
+    "states": [
+      "AZ",
+      "UT"
+    ],
+    "multi_state": true
+  },
+  "86504": {
+    "counties": [
+      {
+        "fips": "04001",
+        "name": "Apache County",
+        "state": "AZ",
+        "area": 515653145,
+        "ratio": 0.9875
+      },
+      {
+        "fips": "35031",
+        "name": "McKinley County",
+        "state": "NM",
+        "area": 6543746,
+        "ratio": 0.0125
+      }
+    ],
+    "states": [
+      "AZ",
+      "NM"
+    ],
+    "multi_state": true
+  },
+  "86514": {
+    "counties": [
+      {
+        "fips": "04001",
+        "name": "Apache County",
+        "state": "AZ",
+        "area": 1505441676,
+        "ratio": 0.8395
+      },
+      {
+        "fips": "49037",
+        "name": "San Juan County",
+        "state": "UT",
+        "area": 270517199,
+        "ratio": 0.1508
+      },
+      {
+        "fips": "35045",
+        "name": "San Juan County",
+        "state": "NM",
+        "area": 17351531,
+        "ratio": 0.0097
+      }
+    ],
+    "states": [
+      "AZ",
+      "NM",
+      "UT"
+    ],
+    "multi_state": true
+  },
+  "86515": {
+    "counties": [
+      {
+        "fips": "35031",
+        "name": "McKinley County",
+        "state": "NM",
+        "area": 264019920,
+        "ratio": 0.8816
+      },
+      {
+        "fips": "04001",
+        "name": "Apache County",
+        "state": "AZ",
+        "area": 35469447,
+        "ratio": 0.1184
+      }
+    ],
+    "states": [
+      "AZ",
+      "NM"
+    ],
+    "multi_state": true
+  },
+  "87328": {
+    "counties": [
+      {
+        "fips": "04001",
+        "name": "Apache County",
+        "state": "AZ",
+        "area": 354471105,
+        "ratio": 0.388
+      },
+      {
+        "fips": "35031",
+        "name": "McKinley County",
+        "state": "NM",
+        "area": 287932256,
+        "ratio": 0.3151
+      },
+      {
+        "fips": "35045",
+        "name": "San Juan County",
+        "state": "NM",
+        "area": 271278809,
+        "ratio": 0.2969
+      }
+    ],
+    "states": [
+      "AZ",
+      "NM"
+    ],
+    "multi_state": true
+  },
+  "88430": {
+    "counties": [
+      {
+        "fips": "35037",
+        "name": "Quay County",
+        "state": "NM",
+        "area": 831167388,
+        "ratio": 0.7197
+      },
+      {
+        "fips": "35059",
+        "name": "Union County",
+        "state": "NM",
+        "area": 293031190,
+        "ratio": 0.2537
+      },
+      {
+        "fips": "48359",
+        "name": "Oldham County",
+        "state": "TX",
+        "area": 30623762,
+        "ratio": 0.0265
+      }
+    ],
+    "states": [
+      "NM",
+      "TX"
+    ],
+    "multi_state": true
+  },
+  "89010": {
+    "counties": [
+      {
+        "fips": "32009",
+        "name": "Esmeralda County",
+        "state": "NV",
+        "area": 898285769,
+        "ratio": 0.9025
+      },
+      {
+        "fips": "32021",
+        "name": "Mineral County",
+        "state": "NV",
+        "area": 59224464,
+        "ratio": 0.0595
+      },
+      {
+        "fips": "06051",
+        "name": "Mono County",
+        "state": "CA",
+        "area": 37847853,
+        "ratio": 0.038
+      }
+    ],
+    "states": [
+      "CA",
+      "NV"
+    ],
+    "multi_state": true
+  },
+  "89019": {
+    "counties": [
+      {
+        "fips": "32003",
+        "name": "Clark County",
+        "state": "NV",
+        "area": 1003731534,
+        "ratio": 0.7758
+      },
+      {
+        "fips": "06071",
+        "name": "San Bernardino County",
+        "state": "CA",
+        "area": 278510420,
+        "ratio": 0.2153
+      },
+      {
+        "fips": "06027",
+        "name": "Inyo County",
+        "state": "CA",
+        "area": 11635487,
+        "ratio": 0.009
+      }
+    ],
+    "states": [
+      "CA",
+      "NV"
+    ],
+    "multi_state": true
+  },
+  "89060": {
+    "counties": [
+      {
+        "fips": "32023",
+        "name": "Nye County",
+        "state": "NV",
+        "area": 1142058768,
+        "ratio": 0.9811
+      },
+      {
+        "fips": "06027",
+        "name": "Inyo County",
+        "state": "CA",
+        "area": 21970417,
+        "ratio": 0.0189
+      }
+    ],
+    "states": [
+      "CA",
+      "NV"
+    ],
+    "multi_state": true
+  },
+  "89061": {
+    "counties": [
+      {
+        "fips": "32023",
+        "name": "Nye County",
+        "state": "NV",
+        "area": 158485541,
+        "ratio": 0.9556
+      },
+      {
+        "fips": "06027",
+        "name": "Inyo County",
+        "state": "CA",
+        "area": 7370153,
+        "ratio": 0.0444
+      }
+    ],
+    "states": [
+      "CA",
+      "NV"
+    ],
+    "multi_state": true
+  },
+  "89421": {
+    "counties": [
+      {
+        "fips": "41045",
+        "name": "Malheur County",
+        "state": "OR",
+        "area": 1469163485,
+        "ratio": 0.6111
+      },
+      {
+        "fips": "32013",
+        "name": "Humboldt County",
+        "state": "NV",
+        "area": 935124719,
+        "ratio": 0.3889
+      }
+    ],
+    "states": [
+      "NV",
+      "OR"
+    ],
+    "multi_state": true
+  },
+  "89439": {
+    "counties": [
+      {
+        "fips": "32031",
+        "name": "Washoe County",
+        "state": "NV",
+        "area": 31307845,
+        "ratio": 0.7434
+      },
+      {
+        "fips": "06091",
+        "name": "Sierra County",
+        "state": "CA",
+        "area": 10808119,
+        "ratio": 0.2566
+      }
+    ],
+    "states": [
+      "CA",
+      "NV"
+    ],
+    "multi_state": true
+  },
+  "89832": {
+    "counties": [
+      {
+        "fips": "32007",
+        "name": "Elko County",
+        "state": "NV",
+        "area": 305194548,
+        "ratio": 0.6732
+      },
+      {
+        "fips": "16073",
+        "name": "Owyhee County",
+        "state": "ID",
+        "area": 148132161,
+        "ratio": 0.3268
+      }
+    ],
+    "states": [
+      "ID",
+      "NV"
+    ],
+    "multi_state": true
+  },
+  "97635": {
+    "counties": [
+      {
+        "fips": "06049",
+        "name": "Modoc County",
+        "state": "CA",
+        "area": 125370470,
+        "ratio": 0.9282
+      },
+      {
+        "fips": "41037",
+        "name": "Lake County",
+        "state": "OR",
+        "area": 9691501,
+        "ratio": 0.0718
+      }
+    ],
+    "states": [
+      "CA",
+      "OR"
+    ],
+    "multi_state": true
+  },
+  "97910": {
+    "counties": [
+      {
+        "fips": "41045",
+        "name": "Malheur County",
+        "state": "OR",
+        "area": 9405574737,
+        "ratio": 0.9238
+      },
+      {
+        "fips": "16073",
+        "name": "Owyhee County",
+        "state": "ID",
+        "area": 776271126,
+        "ratio": 0.0762
+      }
+    ],
+    "states": [
+      "ID",
+      "OR"
+    ],
+    "multi_state": true
+  },
+  "97913": {
+    "counties": [
+      {
+        "fips": "41045",
+        "name": "Malheur County",
+        "state": "OR",
+        "area": 1014030556,
+        "ratio": 0.9986
+      },
+      {
+        "fips": "16075",
+        "name": "Payette County",
+        "state": "ID",
+        "area": 1438850,
+        "ratio": 0.0014
+      }
+    ],
+    "states": [
+      "ID",
+      "OR"
+    ],
+    "multi_state": true
+  },
+  "99033": {
+    "counties": [
+      {
+        "fips": "53075",
+        "name": "Whitman County",
+        "state": "WA",
+        "area": 84033873,
+        "ratio": 0.82
+      },
+      {
+        "fips": "53063",
+        "name": "Spokane County",
+        "state": "WA",
+        "area": 16518402,
+        "ratio": 0.1612
+      },
+      {
+        "fips": "16009",
+        "name": "Benewah County",
+        "state": "ID",
+        "area": 1928836,
+        "ratio": 0.0188
+      }
+    ],
+    "states": [
+      "ID",
+      "WA"
+    ],
+    "multi_state": true
+  },
+  "99128": {
+    "counties": [
+      {
+        "fips": "53075",
+        "name": "Whitman County",
+        "state": "WA",
+        "area": 142561658,
+        "ratio": 0.9252
+      },
+      {
+        "fips": "16057",
+        "name": "Latah County",
+        "state": "ID",
+        "area": 11527944,
+        "ratio": 0.0748
+      }
+    ],
+    "states": [
+      "ID",
+      "WA"
+    ],
+    "multi_state": true
+  },
+  "99362": {
+    "counties": [
+      {
+        "fips": "53071",
+        "name": "Walla Walla County",
+        "state": "WA",
+        "area": 718771245,
+        "ratio": 0.9155
+      },
+      {
+        "fips": "41059",
+        "name": "Umatilla County",
+        "state": "OR",
+        "area": 66309301,
+        "ratio": 0.0845
+      }
+    ],
+    "states": [
+      "OR",
+      "WA"
+    ],
+    "multi_state": true
+  }
+}

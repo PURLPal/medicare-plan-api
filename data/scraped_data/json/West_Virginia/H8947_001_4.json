@@ -1,0 +1,46 @@
+{
+  "plan_info": {
+    "name": "Peak Advantage Vista (PPO)",
+    "contract_id": "H8947_001",
+    "plan_type": "PPO",
+    "organization": "Peak Health"
+  },
+  "premiums": {
+    "Total monthly premium": "$0.00",
+    "Health premium": "0.00",
+    "Drug premium": "0.00",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00",
+    "Drug deductible": "0.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "10,500"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copayOut-of-network: 35% coinsurance",
+    "Specialist visit": "In-network: $25 copayOut-of-network: $35 copay",
+    "Emergency care": "$95 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$800 Lifetime Reserve Days for days 1-60$615 per stayOut-of-network:35% per stay",
+    "Outpatient hospital coverage": "In-network: $0-$275 copayOut-of-network: 35% coinsurance",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "In-network: $0 copayOut-of-network: 35% coinsurance",
+    "Worldwide emergency": "$95 copay"
+  },
+  "drug_coverage": {
+    "Drug premium": "$0.00",
+    "Drug deductible": "$0.00",
+    "Non-Preferred Drug": "$95.00 copay",
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 35% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 35% coinsurance",
+    "Over the counter drug benefits": "In-network: $0 copayOut-of-network: $0 copay, 0% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "H8947_001_4",
+  "state": "West_Virginia"
+}

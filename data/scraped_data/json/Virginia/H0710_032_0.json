@@ -1,0 +1,44 @@
+{
+  "plan_info": {
+    "name": "UHC Nursing Home Plan EX-F004 (PPO I-SNP)"
+  },
+  "premiums": {
+    "Total monthly premium": "$27.80",
+    "Health premium": "0.00",
+    "Drug premium": "27.80",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "\u2212$1.20",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "\u2212$1.20 reduction"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00",
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "13,900"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: 0%-20% coinsuranceOut-of-network: 30% coinsurance",
+    "Specialist visit": "In-network: 0%-20% coinsuranceOut-of-network: 30% coinsurance",
+    "Emergency care": "$115 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$2,210 per stayOut-of-network:$2,210 per stay",
+    "Outpatient hospital coverage": "In-network: 0%-20% coinsuranceOut-of-network: 30% coinsurance",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "In-network: $0 copayOut-of-network: 75% coinsurance",
+    "Worldwide emergency": "Not covered"
+  },
+  "drug_coverage": {
+    "Drug premium": "$27.80",
+    "Drug deductible": "$615.00",
+    "Brand-name drugs": "25% coinsurance",
+    "Generic drugs": "25% coinsurance",
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 30% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 0%-30% coinsurance",
+    "Over the counter drug benefits": "In-network: $0 copayOut-of-network: $0 copay"
+  },
+  "extra_benefits": [],
+  "plan_id": "H0710_032_0",
+  "state": "Virginia"
+}

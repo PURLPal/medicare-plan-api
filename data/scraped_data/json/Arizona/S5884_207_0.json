@@ -1,0 +1,23 @@
+{
+  "plan_info": {
+    "name": "Humana Value Rx Plan (PDP)",
+    "contract_id": "S5884_207",
+    "plan_type": "PDP",
+    "organization": "Humana"
+  },
+  "premiums": {
+    "Total monthly premium": "$2.50"
+  },
+  "deductibles": {
+    "Drug deductible": "601.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$601.00",
+    "Non-Preferred Drug": "34% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S5884_207_0",
+  "state": "Arizona"
+}

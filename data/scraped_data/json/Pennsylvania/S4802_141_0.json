@@ -1,0 +1,21 @@
+{
+  "plan_info": {
+    "name": "Wellcare Value Script (PDP)"
+  },
+  "premiums": {
+    "Total monthly premium": "$8.20"
+  },
+  "deductibles": {
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "40% coinsurance",
+    "Select Care Drugs": "$11.00 copay"
+  },
+  "extra_benefits": [],
+  "plan_id": "S4802_141_0",
+  "state": "Pennsylvania"
+}

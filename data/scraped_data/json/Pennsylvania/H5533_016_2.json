@@ -1,0 +1,38 @@
+{
+  "plan_info": {
+    "name": "UPMC for Life PPO Salute (PPO)"
+  },
+  "premiums": {
+    "Total monthly premium": "$0.00",
+    "Health premium": "0.00",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "\u2212$45.00",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "\u2212$45.00 reduction"
+  },
+  "deductibles": {
+    "Health deductible": "$2,019per year from in-network and out-of-network providers"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "13,900"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: 20% coinsuranceOut-of-network: 20% coinsurance",
+    "Specialist visit": "In-network: 20% coinsuranceOut-of-network: 20% coinsurance",
+    "Emergency care": "20% coinsurance",
+    "Inpatient hospital coverage": "In-network:Tier 1$0 per day for days 1-60$434 per day for days 61-90$868 per day for days 91-150Out-of-network:$0 per day for days 1-60$434 per day for days 61-90$868 per day for days 91-150",
+    "Outpatient hospital coverage": "In-network: 20% coinsuranceOut-of-network: 20% coinsurance",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "$115 copay"
+  },
+  "drug_coverage": {
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 20% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 20% coinsurance",
+    "Over the counter drug benefits": "In-network: $0 copayOut-of-network: $0 copay, 0% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "H5533_016_2",
+  "state": "Pennsylvania"
+}

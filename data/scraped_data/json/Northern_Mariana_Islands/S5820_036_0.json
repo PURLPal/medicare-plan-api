@@ -1,0 +1,21 @@
+{
+  "plan_info": {
+    "name": "AARP Medicare Rx Preferred from UHC (PDP)"
+  },
+  "premiums": {
+    "Total monthly premium": "$32.10"
+  },
+  "deductibles": {
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$615.00",
+    "Brand-name drugs": "25% coinsurance",
+    "Generic drugs": "25% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S5820_036_0",
+  "state": "Northern_Mariana_Islands"
+}

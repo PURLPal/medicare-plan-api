@@ -1,0 +1,23 @@
+{
+  "plan_info": {
+    "name": "BlueRx Essential (PDP)",
+    "contract_id": "S1030_006",
+    "plan_type": "PDP",
+    "organization": "BlueRx (PDP)"
+  },
+  "premiums": {
+    "Total monthly premium": "$76.20"
+  },
+  "deductibles": {
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "41% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S1030_006_0",
+  "state": "Alabama"
+}

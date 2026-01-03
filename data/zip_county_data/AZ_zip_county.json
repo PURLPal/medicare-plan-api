@@ -1,0 +1,9257 @@
+[
+  {
+    "zip": "85001",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85002",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85003",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85004",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85005",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85006",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85007",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85008",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85009",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85010",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85011",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85012",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85013",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85014",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85015",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85016",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85017",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85018",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85019",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85020",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85021",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85022",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85023",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85024",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85026",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85027",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85028",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85029",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85030",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85031",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85032",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85033",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85034",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85035",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85036",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85037",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85040",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85041",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85042",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85043",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85044",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85045",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85046",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85048",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85050",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85051",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85053",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85054",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85060",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85061",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85063",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85064",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85066",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85067",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85068",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85069",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85070",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85071",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85074",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85076",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85078",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85079",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85080",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85082",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85083",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85085",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85086",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85087",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85117",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 1.0,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 1.0,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85118",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 1.0,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 1.0,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85119",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 0.9994,
+        "name": "Pinal County"
+      },
+      {
+        "fips": "04013",
+        "ratio": 0.0006,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 0.9994,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85120",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 0.8018,
+        "name": "Pinal County"
+      },
+      {
+        "fips": "04013",
+        "ratio": 0.1982,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 0.8018,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85121",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 0.9753,
+        "name": "Maricopa County"
+      },
+      {
+        "fips": "04021",
+        "ratio": 0.0247,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 0.9753,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85122",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 1.0,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 1.0,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85123",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 1.0,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 1.0,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85127",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85128",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 1.0,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 1.0,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85130",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 1.0,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 1.0,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85131",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 1.0,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 1.0,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85132",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 1.0,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 1.0,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85135",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04007",
+        "ratio": 1.0,
+        "name": "Gila County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04007",
+      "ratio": 1.0,
+      "name": "Gila County"
+    }
+  },
+  {
+    "zip": "85137",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 1.0,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 1.0,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85138",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 1.0,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 1.0,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85139",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 0.9942,
+        "name": "Pinal County"
+      },
+      {
+        "fips": "04013",
+        "ratio": 0.0058,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 0.9942,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85140",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 1.0,
+        "name": "Pinal County"
+      },
+      {
+        "fips": "04013",
+        "ratio": 0.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 1.0,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85141",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 1.0,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 1.0,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85142",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 0.9996,
+        "name": "Maricopa County"
+      },
+      {
+        "fips": "04021",
+        "ratio": 0.0004,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 0.9996,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85143",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 0.9999,
+        "name": "Pinal County"
+      },
+      {
+        "fips": "04013",
+        "ratio": 0.0001,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 0.9999,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85144",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 1.0,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 1.0,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85145",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 1.0,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 1.0,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85147",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85172",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 1.0,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 1.0,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85173",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 1.0,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 1.0,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85178",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 1.0,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 1.0,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85191",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 1.0,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 1.0,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85192",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 0.5008,
+        "name": "Pinal County"
+      },
+      {
+        "fips": "04007",
+        "ratio": 0.4992,
+        "name": "Gila County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 0.5008,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85193",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 1.0,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 1.0,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85194",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 1.0,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 1.0,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85201",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85202",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85203",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85204",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85205",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85206",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85207",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85208",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85209",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85210",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85211",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85212",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 0.999,
+        "name": "Maricopa County"
+      },
+      {
+        "fips": "04021",
+        "ratio": 0.001,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 0.999,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85213",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85214",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85215",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85216",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85224",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85225",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85226",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85233",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85234",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85236",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85244",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85246",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85248",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 0.9952,
+        "name": "Maricopa County"
+      },
+      {
+        "fips": "04021",
+        "ratio": 0.0048,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 0.9952,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85249",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85250",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85251",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85252",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85253",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85254",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85255",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85256",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85257",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85258",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85259",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85260",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85261",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85262",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85263",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85264",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85266",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85267",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85268",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85269",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85271",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85274",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85275",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85277",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85280",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85281",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85282",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85283",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85284",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85285",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85286",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85287",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85288",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85295",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85296",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85297",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85298",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85299",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85301",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85302",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85303",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85304",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85305",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85306",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85307",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85308",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85309",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85310",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85311",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85312",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85318",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85320",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85321",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85322",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85323",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85324",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "85325",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04012",
+        "ratio": 1.0,
+        "name": "La Paz County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04012",
+      "ratio": 1.0,
+      "name": "La Paz County"
+    }
+  },
+  {
+    "zip": "85326",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85327",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85328",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04012",
+        "ratio": 1.0,
+        "name": "La Paz County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04012",
+      "ratio": 1.0,
+      "name": "La Paz County"
+    }
+  },
+  {
+    "zip": "85329",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85331",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85332",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "85333",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04027",
+        "ratio": 0.8868,
+        "name": "Yuma County"
+      },
+      {
+        "fips": "04013",
+        "ratio": 0.1132,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04027",
+      "ratio": 0.8868,
+      "name": "Yuma County"
+    }
+  },
+  {
+    "zip": "85334",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04012",
+        "ratio": 1.0,
+        "name": "La Paz County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04012",
+      "ratio": 1.0,
+      "name": "La Paz County"
+    }
+  },
+  {
+    "zip": "85335",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85336",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04027",
+        "ratio": 1.0,
+        "name": "Yuma County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04027",
+      "ratio": 1.0,
+      "name": "Yuma County"
+    }
+  },
+  {
+    "zip": "85337",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85338",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85339",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85340",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85341",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85342",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 0.9712,
+        "name": "Maricopa County"
+      },
+      {
+        "fips": "04025",
+        "ratio": 0.0288,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 0.9712,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85343",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85344",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04012",
+        "ratio": 1.0,
+        "name": "La Paz County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04012",
+      "ratio": 1.0,
+      "name": "La Paz County"
+    }
+  },
+  {
+    "zip": "85345",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85346",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04012",
+        "ratio": 1.0,
+        "name": "La Paz County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04012",
+      "ratio": 1.0,
+      "name": "La Paz County"
+    }
+  },
+  {
+    "zip": "85347",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04027",
+        "ratio": 1.0,
+        "name": "Yuma County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04027",
+      "ratio": 1.0,
+      "name": "Yuma County"
+    }
+  },
+  {
+    "zip": "85348",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04012",
+        "ratio": 1.0,
+        "name": "La Paz County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04012",
+      "ratio": 1.0,
+      "name": "La Paz County"
+    }
+  },
+  {
+    "zip": "85349",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04027",
+        "ratio": 1.0,
+        "name": "Yuma County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04027",
+      "ratio": 1.0,
+      "name": "Yuma County"
+    }
+  },
+  {
+    "zip": "85350",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04027",
+        "ratio": 1.0,
+        "name": "Yuma County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04027",
+      "ratio": 1.0,
+      "name": "Yuma County"
+    }
+  },
+  {
+    "zip": "85351",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85352",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04027",
+        "ratio": 1.0,
+        "name": "Yuma County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04027",
+      "ratio": 1.0,
+      "name": "Yuma County"
+    }
+  },
+  {
+    "zip": "85353",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85354",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85355",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85356",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04027",
+        "ratio": 1.0,
+        "name": "Yuma County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04027",
+      "ratio": 1.0,
+      "name": "Yuma County"
+    }
+  },
+  {
+    "zip": "85357",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04012",
+        "ratio": 1.0,
+        "name": "La Paz County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04012",
+      "ratio": 1.0,
+      "name": "La Paz County"
+    }
+  },
+  {
+    "zip": "85359",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04012",
+        "ratio": 1.0,
+        "name": "La Paz County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04012",
+      "ratio": 1.0,
+      "name": "La Paz County"
+    }
+  },
+  {
+    "zip": "85360",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "85361",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85362",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "85363",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85364",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04027",
+        "ratio": 1.0,
+        "name": "Yuma County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04027",
+      "ratio": 1.0,
+      "name": "Yuma County"
+    }
+  },
+  {
+    "zip": "85365",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04027",
+        "ratio": 1.0,
+        "name": "Yuma County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04027",
+      "ratio": 1.0,
+      "name": "Yuma County"
+    }
+  },
+  {
+    "zip": "85366",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04027",
+        "ratio": 1.0,
+        "name": "Yuma County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04027",
+      "ratio": 1.0,
+      "name": "Yuma County"
+    }
+  },
+  {
+    "zip": "85367",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04027",
+        "ratio": 1.0,
+        "name": "Yuma County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04027",
+      "ratio": 1.0,
+      "name": "Yuma County"
+    }
+  },
+  {
+    "zip": "85372",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85373",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85374",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85375",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85376",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85377",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85378",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85379",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85380",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85381",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85382",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85383",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85385",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85387",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85388",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85390",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 0.7453,
+        "name": "Maricopa County"
+      },
+      {
+        "fips": "04025",
+        "ratio": 0.2547,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 0.7453,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85392",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85395",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85396",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04013",
+        "ratio": 1.0,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04013",
+      "ratio": 1.0,
+      "name": "Maricopa County"
+    }
+  },
+  {
+    "zip": "85501",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04007",
+        "ratio": 1.0,
+        "name": "Gila County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04007",
+      "ratio": 1.0,
+      "name": "Gila County"
+    }
+  },
+  {
+    "zip": "85530",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04009",
+        "ratio": 1.0,
+        "name": "Graham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04009",
+      "ratio": 1.0,
+      "name": "Graham County"
+    }
+  },
+  {
+    "zip": "85531",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04009",
+        "ratio": 1.0,
+        "name": "Graham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04009",
+      "ratio": 1.0,
+      "name": "Graham County"
+    }
+  },
+  {
+    "zip": "85532",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04007",
+        "ratio": 1.0,
+        "name": "Gila County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04007",
+      "ratio": 1.0,
+      "name": "Gila County"
+    }
+  },
+  {
+    "zip": "85533",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04011",
+        "ratio": 1.0,
+        "name": "Greenlee County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04011",
+      "ratio": 1.0,
+      "name": "Greenlee County"
+    }
+  },
+  {
+    "zip": "85534",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04011",
+        "ratio": 1.0,
+        "name": "Greenlee County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04011",
+      "ratio": 1.0,
+      "name": "Greenlee County"
+    }
+  },
+  {
+    "zip": "85535",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04009",
+        "ratio": 1.0,
+        "name": "Graham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04009",
+      "ratio": 1.0,
+      "name": "Graham County"
+    }
+  },
+  {
+    "zip": "85536",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04009",
+        "ratio": 1.0,
+        "name": "Graham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04009",
+      "ratio": 1.0,
+      "name": "Graham County"
+    }
+  },
+  {
+    "zip": "85539",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04007",
+        "ratio": 0.9067,
+        "name": "Gila County"
+      },
+      {
+        "fips": "04021",
+        "ratio": 0.0933,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04007",
+      "ratio": 0.9067,
+      "name": "Gila County"
+    }
+  },
+  {
+    "zip": "85540",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04011",
+        "ratio": 1.0,
+        "name": "Greenlee County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04011",
+      "ratio": 1.0,
+      "name": "Greenlee County"
+    }
+  },
+  {
+    "zip": "85541",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04007",
+        "ratio": 1.0,
+        "name": "Gila County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04007",
+      "ratio": 1.0,
+      "name": "Gila County"
+    }
+  },
+  {
+    "zip": "85542",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04007",
+        "ratio": 1.0,
+        "name": "Gila County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04007",
+      "ratio": 1.0,
+      "name": "Gila County"
+    }
+  },
+  {
+    "zip": "85543",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04009",
+        "ratio": 1.0,
+        "name": "Graham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04009",
+      "ratio": 1.0,
+      "name": "Graham County"
+    }
+  },
+  {
+    "zip": "85544",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04007",
+        "ratio": 1.0,
+        "name": "Gila County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04007",
+      "ratio": 1.0,
+      "name": "Gila County"
+    }
+  },
+  {
+    "zip": "85545",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04007",
+        "ratio": 0.9861,
+        "name": "Gila County"
+      },
+      {
+        "fips": "04013",
+        "ratio": 0.0139,
+        "name": "Maricopa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04007",
+      "ratio": 0.9861,
+      "name": "Gila County"
+    }
+  },
+  {
+    "zip": "85546",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04009",
+        "ratio": 1.0,
+        "name": "Graham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04009",
+      "ratio": 1.0,
+      "name": "Graham County"
+    }
+  },
+  {
+    "zip": "85547",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04007",
+        "ratio": 1.0,
+        "name": "Gila County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04007",
+      "ratio": 1.0,
+      "name": "Gila County"
+    }
+  },
+  {
+    "zip": "85548",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04009",
+        "ratio": 1.0,
+        "name": "Graham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04009",
+      "ratio": 1.0,
+      "name": "Graham County"
+    }
+  },
+  {
+    "zip": "85550",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04009",
+        "ratio": 1.0,
+        "name": "Graham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04009",
+      "ratio": 1.0,
+      "name": "Graham County"
+    }
+  },
+  {
+    "zip": "85551",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04009",
+        "ratio": 1.0,
+        "name": "Graham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04009",
+      "ratio": 1.0,
+      "name": "Graham County"
+    }
+  },
+  {
+    "zip": "85552",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04009",
+        "ratio": 1.0,
+        "name": "Graham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04009",
+      "ratio": 1.0,
+      "name": "Graham County"
+    }
+  },
+  {
+    "zip": "85553",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04007",
+        "ratio": 1.0,
+        "name": "Gila County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04007",
+      "ratio": 1.0,
+      "name": "Gila County"
+    }
+  },
+  {
+    "zip": "85554",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04007",
+        "ratio": 1.0,
+        "name": "Gila County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04007",
+      "ratio": 1.0,
+      "name": "Gila County"
+    }
+  },
+  {
+    "zip": "85601",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85602",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "04003",
+        "ratio": 0.9461,
+        "name": "Cochise County"
+      },
+      {
+        "fips": "04019",
+        "ratio": 0.0535,
+        "name": "Pima County"
+      },
+      {
+        "fips": "04021",
+        "ratio": 0.0004,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04003",
+      "ratio": 0.9461,
+      "name": "Cochise County"
+    }
+  },
+  {
+    "zip": "85603",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04003",
+        "ratio": 1.0,
+        "name": "Cochise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04003",
+      "ratio": 1.0,
+      "name": "Cochise County"
+    }
+  },
+  {
+    "zip": "85605",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04003",
+        "ratio": 1.0,
+        "name": "Cochise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04003",
+      "ratio": 1.0,
+      "name": "Cochise County"
+    }
+  },
+  {
+    "zip": "85606",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04003",
+        "ratio": 1.0,
+        "name": "Cochise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04003",
+      "ratio": 1.0,
+      "name": "Cochise County"
+    }
+  },
+  {
+    "zip": "85607",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04003",
+        "ratio": 1.0,
+        "name": "Cochise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04003",
+      "ratio": 1.0,
+      "name": "Cochise County"
+    }
+  },
+  {
+    "zip": "85608",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04003",
+        "ratio": 1.0,
+        "name": "Cochise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04003",
+      "ratio": 1.0,
+      "name": "Cochise County"
+    }
+  },
+  {
+    "zip": "85609",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04003",
+        "ratio": 1.0,
+        "name": "Cochise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04003",
+      "ratio": 1.0,
+      "name": "Cochise County"
+    }
+  },
+  {
+    "zip": "85610",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04003",
+        "ratio": 1.0,
+        "name": "Cochise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04003",
+      "ratio": 1.0,
+      "name": "Cochise County"
+    }
+  },
+  {
+    "zip": "85611",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "04023",
+        "ratio": 0.7319,
+        "name": "Santa Cruz County"
+      },
+      {
+        "fips": "04019",
+        "ratio": 0.1636,
+        "name": "Pima County"
+      },
+      {
+        "fips": "04003",
+        "ratio": 0.1046,
+        "name": "Cochise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04023",
+      "ratio": 0.7319,
+      "name": "Santa Cruz County"
+    }
+  },
+  {
+    "zip": "85613",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04003",
+        "ratio": 1.0,
+        "name": "Cochise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04003",
+      "ratio": 1.0,
+      "name": "Cochise County"
+    }
+  },
+  {
+    "zip": "85614",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 0.9992,
+        "name": "Pima County"
+      },
+      {
+        "fips": "04023",
+        "ratio": 0.0008,
+        "name": "Santa Cruz County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 0.9992,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85615",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04003",
+        "ratio": 1.0,
+        "name": "Cochise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04003",
+      "ratio": 1.0,
+      "name": "Cochise County"
+    }
+  },
+  {
+    "zip": "85616",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04003",
+        "ratio": 1.0,
+        "name": "Cochise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04003",
+      "ratio": 1.0,
+      "name": "Cochise County"
+    }
+  },
+  {
+    "zip": "85617",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04003",
+        "ratio": 1.0,
+        "name": "Cochise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04003",
+      "ratio": 1.0,
+      "name": "Cochise County"
+    }
+  },
+  {
+    "zip": "85618",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 1.0,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 1.0,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85619",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85620",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04003",
+        "ratio": 1.0,
+        "name": "Cochise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04003",
+      "ratio": 1.0,
+      "name": "Cochise County"
+    }
+  },
+  {
+    "zip": "85621",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04023",
+        "ratio": 1.0,
+        "name": "Santa Cruz County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04023",
+      "ratio": 1.0,
+      "name": "Santa Cruz County"
+    }
+  },
+  {
+    "zip": "85622",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85623",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 1.0,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 1.0,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85624",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04023",
+        "ratio": 1.0,
+        "name": "Santa Cruz County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04023",
+      "ratio": 1.0,
+      "name": "Santa Cruz County"
+    }
+  },
+  {
+    "zip": "85625",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04003",
+        "ratio": 1.0,
+        "name": "Cochise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04003",
+      "ratio": 1.0,
+      "name": "Cochise County"
+    }
+  },
+  {
+    "zip": "85626",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04003",
+        "ratio": 1.0,
+        "name": "Cochise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04003",
+      "ratio": 1.0,
+      "name": "Cochise County"
+    }
+  },
+  {
+    "zip": "85627",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04003",
+        "ratio": 1.0,
+        "name": "Cochise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04003",
+      "ratio": 1.0,
+      "name": "Cochise County"
+    }
+  },
+  {
+    "zip": "85628",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04023",
+        "ratio": 1.0,
+        "name": "Santa Cruz County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04023",
+      "ratio": 1.0,
+      "name": "Santa Cruz County"
+    }
+  },
+  {
+    "zip": "85629",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85630",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04003",
+        "ratio": 1.0,
+        "name": "Cochise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04003",
+      "ratio": 1.0,
+      "name": "Cochise County"
+    }
+  },
+  {
+    "zip": "85631",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 1.0,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 1.0,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85632",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04003",
+        "ratio": 1.0,
+        "name": "Cochise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04003",
+      "ratio": 1.0,
+      "name": "Cochise County"
+    }
+  },
+  {
+    "zip": "85633",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85634",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85635",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04003",
+        "ratio": 1.0,
+        "name": "Cochise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04003",
+      "ratio": 1.0,
+      "name": "Cochise County"
+    }
+  },
+  {
+    "zip": "85636",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04003",
+        "ratio": 1.0,
+        "name": "Cochise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04003",
+      "ratio": 1.0,
+      "name": "Cochise County"
+    }
+  },
+  {
+    "zip": "85637",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04023",
+        "ratio": 0.6465,
+        "name": "Santa Cruz County"
+      },
+      {
+        "fips": "04019",
+        "ratio": 0.3535,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04023",
+      "ratio": 0.6465,
+      "name": "Santa Cruz County"
+    }
+  },
+  {
+    "zip": "85638",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04003",
+        "ratio": 1.0,
+        "name": "Cochise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04003",
+      "ratio": 1.0,
+      "name": "Cochise County"
+    }
+  },
+  {
+    "zip": "85639",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85640",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04023",
+        "ratio": 1.0,
+        "name": "Santa Cruz County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04023",
+      "ratio": 1.0,
+      "name": "Santa Cruz County"
+    }
+  },
+  {
+    "zip": "85641",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85643",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04003",
+        "ratio": 0.9505,
+        "name": "Cochise County"
+      },
+      {
+        "fips": "04009",
+        "ratio": 0.0495,
+        "name": "Graham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04003",
+      "ratio": 0.9505,
+      "name": "Cochise County"
+    }
+  },
+  {
+    "zip": "85645",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 0.9914,
+        "name": "Pima County"
+      },
+      {
+        "fips": "04023",
+        "ratio": 0.0086,
+        "name": "Santa Cruz County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 0.9914,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85646",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04023",
+        "ratio": 1.0,
+        "name": "Santa Cruz County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04023",
+      "ratio": 1.0,
+      "name": "Santa Cruz County"
+    }
+  },
+  {
+    "zip": "85648",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04023",
+        "ratio": 1.0,
+        "name": "Santa Cruz County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04023",
+      "ratio": 1.0,
+      "name": "Santa Cruz County"
+    }
+  },
+  {
+    "zip": "85650",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04003",
+        "ratio": 1.0,
+        "name": "Cochise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04003",
+      "ratio": 1.0,
+      "name": "Cochise County"
+    }
+  },
+  {
+    "zip": "85652",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85653",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 0.9965,
+        "name": "Pima County"
+      },
+      {
+        "fips": "04021",
+        "ratio": 0.0035,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 0.9965,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85654",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85658",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 0.935,
+        "name": "Pima County"
+      },
+      {
+        "fips": "04021",
+        "ratio": 0.065,
+        "name": "Pinal County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 0.935,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85701",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85702",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85703",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85704",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85705",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85706",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85707",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85708",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85709",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85710",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85711",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85712",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85713",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85714",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85715",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85716",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85717",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85718",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85719",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85721",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85723",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85724",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85725",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85726",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85728",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85730",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85731",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85732",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85733",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85734",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85735",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85736",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85737",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85738",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85739",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04021",
+        "ratio": 0.5891,
+        "name": "Pinal County"
+      },
+      {
+        "fips": "04019",
+        "ratio": 0.4109,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04021",
+      "ratio": 0.5891,
+      "name": "Pinal County"
+    }
+  },
+  {
+    "zip": "85740",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85741",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85742",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85743",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85744",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85745",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85746",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85747",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85748",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85749",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85750",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85751",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85752",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85754",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85755",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85756",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85757",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04019",
+        "ratio": 1.0,
+        "name": "Pima County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04019",
+      "ratio": 1.0,
+      "name": "Pima County"
+    }
+  },
+  {
+    "zip": "85901",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04017",
+        "ratio": 0.9633,
+        "name": "Navajo County"
+      },
+      {
+        "fips": "04001",
+        "ratio": 0.0367,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04017",
+      "ratio": 0.9633,
+      "name": "Navajo County"
+    }
+  },
+  {
+    "zip": "85902",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04017",
+        "ratio": 1.0,
+        "name": "Navajo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04017",
+      "ratio": 1.0,
+      "name": "Navajo County"
+    }
+  },
+  {
+    "zip": "85911",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04017",
+        "ratio": 1.0,
+        "name": "Navajo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04017",
+      "ratio": 1.0,
+      "name": "Navajo County"
+    }
+  },
+  {
+    "zip": "85920",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04001",
+        "ratio": 1.0,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04001",
+      "ratio": 1.0,
+      "name": "Apache County"
+    }
+  },
+  {
+    "zip": "85922",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04011",
+        "ratio": 1.0,
+        "name": "Greenlee County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04011",
+      "ratio": 1.0,
+      "name": "Greenlee County"
+    }
+  },
+  {
+    "zip": "85923",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04017",
+        "ratio": 1.0,
+        "name": "Navajo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04017",
+      "ratio": 1.0,
+      "name": "Navajo County"
+    }
+  },
+  {
+    "zip": "85924",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04001",
+        "ratio": 1.0,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04001",
+      "ratio": 1.0,
+      "name": "Apache County"
+    }
+  },
+  {
+    "zip": "85925",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04001",
+        "ratio": 1.0,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04001",
+      "ratio": 1.0,
+      "name": "Apache County"
+    }
+  },
+  {
+    "zip": "85926",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04017",
+        "ratio": 1.0,
+        "name": "Navajo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04017",
+      "ratio": 1.0,
+      "name": "Navajo County"
+    }
+  },
+  {
+    "zip": "85927",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04001",
+        "ratio": 1.0,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04001",
+      "ratio": 1.0,
+      "name": "Apache County"
+    }
+  },
+  {
+    "zip": "85928",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04017",
+        "ratio": 0.9969,
+        "name": "Navajo County"
+      },
+      {
+        "fips": "04005",
+        "ratio": 0.0031,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04017",
+      "ratio": 0.9969,
+      "name": "Navajo County"
+    }
+  },
+  {
+    "zip": "85929",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04017",
+        "ratio": 1.0,
+        "name": "Navajo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04017",
+      "ratio": 1.0,
+      "name": "Navajo County"
+    }
+  },
+  {
+    "zip": "85930",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04001",
+        "ratio": 1.0,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04001",
+      "ratio": 1.0,
+      "name": "Apache County"
+    }
+  },
+  {
+    "zip": "85931",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04005",
+        "ratio": 1.0,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04005",
+      "ratio": 1.0,
+      "name": "Coconino County"
+    }
+  },
+  {
+    "zip": "85932",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04001",
+        "ratio": 1.0,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04001",
+      "ratio": 1.0,
+      "name": "Apache County"
+    }
+  },
+  {
+    "zip": "85933",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04017",
+        "ratio": 1.0,
+        "name": "Navajo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04017",
+      "ratio": 1.0,
+      "name": "Navajo County"
+    }
+  },
+  {
+    "zip": "85934",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04017",
+        "ratio": 1.0,
+        "name": "Navajo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04017",
+      "ratio": 1.0,
+      "name": "Navajo County"
+    }
+  },
+  {
+    "zip": "85935",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04017",
+        "ratio": 1.0,
+        "name": "Navajo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04017",
+      "ratio": 1.0,
+      "name": "Navajo County"
+    }
+  },
+  {
+    "zip": "85936",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04001",
+        "ratio": 1.0,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04001",
+      "ratio": 1.0,
+      "name": "Apache County"
+    }
+  },
+  {
+    "zip": "85937",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04017",
+        "ratio": 0.998,
+        "name": "Navajo County"
+      },
+      {
+        "fips": "04001",
+        "ratio": 0.002,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04017",
+      "ratio": 0.998,
+      "name": "Navajo County"
+    }
+  },
+  {
+    "zip": "85938",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04001",
+        "ratio": 1.0,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04001",
+      "ratio": 1.0,
+      "name": "Apache County"
+    }
+  },
+  {
+    "zip": "85939",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04017",
+        "ratio": 1.0,
+        "name": "Navajo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04017",
+      "ratio": 1.0,
+      "name": "Navajo County"
+    }
+  },
+  {
+    "zip": "85940",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04001",
+        "ratio": 1.0,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04001",
+      "ratio": 1.0,
+      "name": "Apache County"
+    }
+  },
+  {
+    "zip": "85941",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04017",
+        "ratio": 1.0,
+        "name": "Navajo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04017",
+      "ratio": 1.0,
+      "name": "Navajo County"
+    }
+  },
+  {
+    "zip": "85942",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04017",
+        "ratio": 1.0,
+        "name": "Navajo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04017",
+      "ratio": 1.0,
+      "name": "Navajo County"
+    }
+  },
+  {
+    "zip": "86001",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04005",
+        "ratio": 1.0,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04005",
+      "ratio": 1.0,
+      "name": "Coconino County"
+    }
+  },
+  {
+    "zip": "86002",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04005",
+        "ratio": 1.0,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04005",
+      "ratio": 1.0,
+      "name": "Coconino County"
+    }
+  },
+  {
+    "zip": "86003",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04005",
+        "ratio": 1.0,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04005",
+      "ratio": 1.0,
+      "name": "Coconino County"
+    }
+  },
+  {
+    "zip": "86004",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04005",
+        "ratio": 1.0,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04005",
+      "ratio": 1.0,
+      "name": "Coconino County"
+    }
+  },
+  {
+    "zip": "86005",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04005",
+        "ratio": 1.0,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04005",
+      "ratio": 1.0,
+      "name": "Coconino County"
+    }
+  },
+  {
+    "zip": "86011",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04005",
+        "ratio": 1.0,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04005",
+      "ratio": 1.0,
+      "name": "Coconino County"
+    }
+  },
+  {
+    "zip": "86015",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04005",
+        "ratio": 1.0,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04005",
+      "ratio": 1.0,
+      "name": "Coconino County"
+    }
+  },
+  {
+    "zip": "86016",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04005",
+        "ratio": 1.0,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04005",
+      "ratio": 1.0,
+      "name": "Coconino County"
+    }
+  },
+  {
+    "zip": "86017",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04005",
+        "ratio": 1.0,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04005",
+      "ratio": 1.0,
+      "name": "Coconino County"
+    }
+  },
+  {
+    "zip": "86018",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04005",
+        "ratio": 1.0,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04005",
+      "ratio": 1.0,
+      "name": "Coconino County"
+    }
+  },
+  {
+    "zip": "86020",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04005",
+        "ratio": 1.0,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04005",
+      "ratio": 1.0,
+      "name": "Coconino County"
+    }
+  },
+  {
+    "zip": "86021",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86022",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04005",
+        "ratio": 1.0,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04005",
+      "ratio": 1.0,
+      "name": "Coconino County"
+    }
+  },
+  {
+    "zip": "86023",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04005",
+        "ratio": 1.0,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04005",
+      "ratio": 1.0,
+      "name": "Coconino County"
+    }
+  },
+  {
+    "zip": "86024",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04005",
+        "ratio": 1.0,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04005",
+      "ratio": 1.0,
+      "name": "Coconino County"
+    }
+  },
+  {
+    "zip": "86025",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04017",
+        "ratio": 1.0,
+        "name": "Navajo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04017",
+      "ratio": 1.0,
+      "name": "Navajo County"
+    }
+  },
+  {
+    "zip": "86028",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04001",
+        "ratio": 1.0,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04001",
+      "ratio": 1.0,
+      "name": "Apache County"
+    }
+  },
+  {
+    "zip": "86029",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04017",
+        "ratio": 1.0,
+        "name": "Navajo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04017",
+      "ratio": 1.0,
+      "name": "Navajo County"
+    }
+  },
+  {
+    "zip": "86030",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04017",
+        "ratio": 1.0,
+        "name": "Navajo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04017",
+      "ratio": 1.0,
+      "name": "Navajo County"
+    }
+  },
+  {
+    "zip": "86031",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04017",
+        "ratio": 1.0,
+        "name": "Navajo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04017",
+      "ratio": 1.0,
+      "name": "Navajo County"
+    }
+  },
+  {
+    "zip": "86032",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04017",
+        "ratio": 1.0,
+        "name": "Navajo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04017",
+      "ratio": 1.0,
+      "name": "Navajo County"
+    }
+  },
+  {
+    "zip": "86033",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04017",
+        "ratio": 1.0,
+        "name": "Navajo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04017",
+      "ratio": 1.0,
+      "name": "Navajo County"
+    }
+  },
+  {
+    "zip": "86034",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04017",
+        "ratio": 1.0,
+        "name": "Navajo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04017",
+      "ratio": 1.0,
+      "name": "Navajo County"
+    }
+  },
+  {
+    "zip": "86035",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04005",
+        "ratio": 1.0,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04005",
+      "ratio": 1.0,
+      "name": "Coconino County"
+    }
+  },
+  {
+    "zip": "86036",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04005",
+        "ratio": 1.0,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04005",
+      "ratio": 1.0,
+      "name": "Coconino County"
+    }
+  },
+  {
+    "zip": "86038",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04005",
+        "ratio": 1.0,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04005",
+      "ratio": 1.0,
+      "name": "Coconino County"
+    }
+  },
+  {
+    "zip": "86039",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04017",
+        "ratio": 1.0,
+        "name": "Navajo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04017",
+      "ratio": 1.0,
+      "name": "Navajo County"
+    }
+  },
+  {
+    "zip": "86040",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04005",
+        "ratio": 1.0,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04005",
+      "ratio": 1.0,
+      "name": "Coconino County"
+    }
+  },
+  {
+    "zip": "86042",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04017",
+        "ratio": 1.0,
+        "name": "Navajo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04017",
+      "ratio": 1.0,
+      "name": "Navajo County"
+    }
+  },
+  {
+    "zip": "86043",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04017",
+        "ratio": 1.0,
+        "name": "Navajo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04017",
+      "ratio": 1.0,
+      "name": "Navajo County"
+    }
+  },
+  {
+    "zip": "86044",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04005",
+        "ratio": 1.0,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04005",
+      "ratio": 1.0,
+      "name": "Coconino County"
+    }
+  },
+  {
+    "zip": "86045",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04005",
+        "ratio": 1.0,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04005",
+      "ratio": 1.0,
+      "name": "Coconino County"
+    }
+  },
+  {
+    "zip": "86046",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04005",
+        "ratio": 0.9998,
+        "name": "Coconino County"
+      },
+      {
+        "fips": "04025",
+        "ratio": 0.0002,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04005",
+      "ratio": 0.9998,
+      "name": "Coconino County"
+    }
+  },
+  {
+    "zip": "86047",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04017",
+        "ratio": 0.9884,
+        "name": "Navajo County"
+      },
+      {
+        "fips": "04005",
+        "ratio": 0.0116,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04017",
+      "ratio": 0.9884,
+      "name": "Navajo County"
+    }
+  },
+  {
+    "zip": "86052",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04005",
+        "ratio": 1.0,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04005",
+      "ratio": 1.0,
+      "name": "Coconino County"
+    }
+  },
+  {
+    "zip": "86053",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04005",
+        "ratio": 1.0,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04005",
+      "ratio": 1.0,
+      "name": "Coconino County"
+    }
+  },
+  {
+    "zip": "86054",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04017",
+        "ratio": 1.0,
+        "name": "Navajo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04017",
+      "ratio": 1.0,
+      "name": "Navajo County"
+    }
+  },
+  {
+    "zip": "86301",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86302",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86303",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86304",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86305",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86312",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86313",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86314",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86315",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86320",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 0.8182,
+        "name": "Yavapai County"
+      },
+      {
+        "fips": "04005",
+        "ratio": 0.1818,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 0.8182,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86321",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86322",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86323",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86324",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86325",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86326",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86327",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86329",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86331",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86332",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86333",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86334",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86335",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86336",
+    "state": "AZ",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 0.6931,
+        "name": "Yavapai County"
+      },
+      {
+        "fips": "04005",
+        "ratio": 0.3069,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 0.6931,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86337",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86338",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86339",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04005",
+        "ratio": 1.0,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04005",
+      "ratio": 1.0,
+      "name": "Coconino County"
+    }
+  },
+  {
+    "zip": "86340",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86341",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86342",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86343",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86351",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04025",
+        "ratio": 1.0,
+        "name": "Yavapai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04025",
+      "ratio": 1.0,
+      "name": "Yavapai County"
+    }
+  },
+  {
+    "zip": "86401",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86402",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86403",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86404",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86405",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86406",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86409",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86411",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86413",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86426",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86427",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86429",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86430",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86431",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86432",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86433",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86434",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86435",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04005",
+        "ratio": 1.0,
+        "name": "Coconino County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04005",
+      "ratio": 1.0,
+      "name": "Coconino County"
+    }
+  },
+  {
+    "zip": "86436",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86437",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86438",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86439",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86440",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86441",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86442",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86443",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86444",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86445",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86446",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04015",
+        "ratio": 1.0,
+        "name": "Mohave County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04015",
+      "ratio": 1.0,
+      "name": "Mohave County"
+    }
+  },
+  {
+    "zip": "86502",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04001",
+        "ratio": 1.0,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04001",
+      "ratio": 1.0,
+      "name": "Apache County"
+    }
+  },
+  {
+    "zip": "86503",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04001",
+        "ratio": 1.0,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04001",
+      "ratio": 1.0,
+      "name": "Apache County"
+    }
+  },
+  {
+    "zip": "86504",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04001",
+        "ratio": 1.0,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04001",
+      "ratio": 1.0,
+      "name": "Apache County"
+    }
+  },
+  {
+    "zip": "86505",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04001",
+        "ratio": 1.0,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04001",
+      "ratio": 1.0,
+      "name": "Apache County"
+    }
+  },
+  {
+    "zip": "86506",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04001",
+        "ratio": 1.0,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04001",
+      "ratio": 1.0,
+      "name": "Apache County"
+    }
+  },
+  {
+    "zip": "86507",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04001",
+        "ratio": 1.0,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04001",
+      "ratio": 1.0,
+      "name": "Apache County"
+    }
+  },
+  {
+    "zip": "86508",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04001",
+        "ratio": 1.0,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04001",
+      "ratio": 1.0,
+      "name": "Apache County"
+    }
+  },
+  {
+    "zip": "86510",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04017",
+        "ratio": 1.0,
+        "name": "Navajo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04017",
+      "ratio": 1.0,
+      "name": "Navajo County"
+    }
+  },
+  {
+    "zip": "86511",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04001",
+        "ratio": 1.0,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04001",
+      "ratio": 1.0,
+      "name": "Apache County"
+    }
+  },
+  {
+    "zip": "86512",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04001",
+        "ratio": 1.0,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04001",
+      "ratio": 1.0,
+      "name": "Apache County"
+    }
+  },
+  {
+    "zip": "86514",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04001",
+        "ratio": 1.0,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04001",
+      "ratio": 1.0,
+      "name": "Apache County"
+    }
+  },
+  {
+    "zip": "86515",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04001",
+        "ratio": 1.0,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04001",
+      "ratio": 1.0,
+      "name": "Apache County"
+    }
+  },
+  {
+    "zip": "86520",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04017",
+        "ratio": 1.0,
+        "name": "Navajo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04017",
+      "ratio": 1.0,
+      "name": "Navajo County"
+    }
+  },
+  {
+    "zip": "86535",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04001",
+        "ratio": 1.0,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04001",
+      "ratio": 1.0,
+      "name": "Apache County"
+    }
+  },
+  {
+    "zip": "86538",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04001",
+        "ratio": 1.0,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04001",
+      "ratio": 1.0,
+      "name": "Apache County"
+    }
+  },
+  {
+    "zip": "86540",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04001",
+        "ratio": 1.0,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04001",
+      "ratio": 1.0,
+      "name": "Apache County"
+    }
+  },
+  {
+    "zip": "86544",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04001",
+        "ratio": 1.0,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04001",
+      "ratio": 1.0,
+      "name": "Apache County"
+    }
+  },
+  {
+    "zip": "86545",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04001",
+        "ratio": 1.0,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04001",
+      "ratio": 1.0,
+      "name": "Apache County"
+    }
+  },
+  {
+    "zip": "86547",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04001",
+        "ratio": 1.0,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04001",
+      "ratio": 1.0,
+      "name": "Apache County"
+    }
+  },
+  {
+    "zip": "86556",
+    "state": "AZ",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "04001",
+        "ratio": 1.0,
+        "name": "Apache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "04001",
+      "ratio": 1.0,
+      "name": "Apache County"
+    }
+  }
+]

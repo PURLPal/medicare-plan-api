@@ -1,0 +1,20 @@
+[
+  {
+    "zip": "96799",
+    "state": "AS",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "60010",
+        "ratio": 1.0,
+        "name": "Eastern District"
+      }
+    ],
+    "primary_county": {
+      "fips": "60010",
+      "ratio": 1.0,
+      "name": "Eastern District"
+    }
+  }
+]

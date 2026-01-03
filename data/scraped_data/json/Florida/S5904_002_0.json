@@ -1,0 +1,24 @@
+{
+  "plan_info": {
+    "name": "BlueMedicare Complete Rx (PDP)",
+    "contract_id": "S5904_002",
+    "plan_type": "PDP",
+    "organization": "Florida Blue"
+  },
+  "premiums": {
+    "Total monthly premium": "$217.00"
+  },
+  "deductibles": {
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "29% coinsurance",
+    "Select Care Drugs": "$0.00 copay"
+  },
+  "extra_benefits": [],
+  "plan_id": "S5904_002_0",
+  "state": "Florida"
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "zip": "00801",
+    "state": "VI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "78030",
+        "ratio": 1.0,
+        "name": "St. Thomas Island"
+      }
+    ],
+    "primary_county": {
+      "fips": "78030",
+      "ratio": 1.0,
+      "name": "St. Thomas Island"
+    }
+  },
+  {
+    "zip": "00802",
+    "state": "VI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "78030",
+        "ratio": 1.0,
+        "name": "St. Thomas Island"
+      }
+    ],
+    "primary_county": {
+      "fips": "78030",
+      "ratio": 1.0,
+      "name": "St. Thomas Island"
+    }
+  },
+  {
+    "zip": "00803",
+    "state": "VI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "78030",
+        "ratio": 1.0,
+        "name": "St. Thomas Island"
+      }
+    ],
+    "primary_county": {
+      "fips": "78030",
+      "ratio": 1.0,
+      "name": "St. Thomas Island"
+    }
+  },
+  {
+    "zip": "00804",
+    "state": "VI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "78030",
+        "ratio": 1.0,
+        "name": "St. Thomas Island"
+      }
+    ],
+    "primary_county": {
+      "fips": "78030",
+      "ratio": 1.0,
+      "name": "St. Thomas Island"
+    }
+  },
+  {
+    "zip": "00820",
+    "state": "VI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "78010",
+        "ratio": 1.0,
+        "name": "St. Croix Island"
+      }
+    ],
+    "primary_county": {
+      "fips": "78010",
+      "ratio": 1.0,
+      "name": "St. Croix Island"
+    }
+  },
+  {
+    "zip": "00830",
+    "state": "VI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "78020",
+        "ratio": 1.0,
+        "name": "St. John Island"
+      }
+    ],
+    "primary_county": {
+      "fips": "78020",
+      "ratio": 1.0,
+      "name": "St. John Island"
+    }
+  },
+  {
+    "zip": "00831",
+    "state": "VI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "78020",
+        "ratio": 1.0,
+        "name": "St. John Island"
+      }
+    ],
+    "primary_county": {
+      "fips": "78020",
+      "ratio": 1.0,
+      "name": "St. John Island"
+    }
+  },
+  {
+    "zip": "00840",
+    "state": "VI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "78010",
+        "ratio": 1.0,
+        "name": "St. Croix Island"
+      }
+    ],
+    "primary_county": {
+      "fips": "78010",
+      "ratio": 1.0,
+      "name": "St. Croix Island"
+    }
+  },
+  {
+    "zip": "00850",
+    "state": "VI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "78010",
+        "ratio": 1.0,
+        "name": "St. Croix Island"
+      }
+    ],
+    "primary_county": {
+      "fips": "78010",
+      "ratio": 1.0,
+      "name": "St. Croix Island"
+    }
+  }
+]

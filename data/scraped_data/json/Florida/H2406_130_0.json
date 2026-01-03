@@ -1,0 +1,41 @@
+{
+  "plan_info": {
+    "name": "AARP Medicare Advantage Patriot No Rx FL-MA2 (PPO)",
+    "contract_id": "H2406_130",
+    "plan_type": "PPO",
+    "organization": "UnitedHealthcare"
+  },
+  "premiums": {
+    "Total monthly premium": "$0.00",
+    "Health premium": "0.00",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "\u2212$130.00",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "\u2212$130.00 reduction"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "13,900"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copayOut-of-network: $40 copay",
+    "Specialist visit": "In-network: $0-$55 copayOut-of-network: $85 copay",
+    "Emergency care": "$115 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$535 per day for days 1-4$0 per day for days 5-90$0 per stayOut-of-network:40% per stay",
+    "Outpatient hospital coverage": "In-network: $0-$535 copayOut-of-network: 40% coinsurance",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "$0 copay"
+  },
+  "drug_coverage": {
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 40% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 0%-40% coinsurance",
+    "Over the counter drug benefits": "In-network: $0 copayOut-of-network: $0 copay"
+  },
+  "extra_benefits": [],
+  "plan_id": "H2406_130_0",
+  "state": "Florida"
+}

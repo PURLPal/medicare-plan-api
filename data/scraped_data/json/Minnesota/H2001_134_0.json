@@ -1,0 +1,47 @@
+{
+  "plan_info": {
+    "name": "UHC Complete Care Support MN-8 (PPO C-SNP)",
+    "contract_id": "H2001_134",
+    "plan_type": "PPO C-SNP",
+    "organization": "UnitedHealthcare"
+  },
+  "premiums": {
+    "Total monthly premium": "$16.80",
+    "Health premium": "0.00",
+    "Drug premium": "16.80",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00",
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "10,100"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copayOut-of-network: $15 copay",
+    "Specialist visit": "In-network: $0-$50 copayOut-of-network: $85 copay",
+    "Emergency care": "$130 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$455 per day for days 1-6$0 per day for days 7-90$0 per stayOut-of-network:$555 per day for days 1-19$0 per day for days 20-999$0 per stay",
+    "Outpatient hospital coverage": "In-network: $0-$455 copayOut-of-network: $0-$555 copay",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "$0 copay"
+  },
+  "drug_coverage": {
+    "Drug premium": "$16.80",
+    "Drug deductible": "$615.00",
+    "Brand-name drugs": "25% coinsurance",
+    "Generic drugs": "25% coinsurance",
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 40% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 0%-40% coinsurance",
+    "Over the counter drug benefits": "In-network: $0 copayOut-of-network: $0 copay"
+  },
+  "extra_benefits": [],
+  "plan_id": "H2001_134_0",
+  "state": "Minnesota"
+}

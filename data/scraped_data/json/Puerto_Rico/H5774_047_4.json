@@ -1,0 +1,46 @@
+{
+  "plan_info": {
+    "name": "Ahorro Plus (HMO)",
+    "contract_id": "H5774_047",
+    "plan_type": "HMO",
+    "organization": "Triple S Advantage"
+  },
+  "premiums": {
+    "Total monthly premium": "$0.00",
+    "Health premium": "0.00",
+    "Drug premium": "0.00",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "\u2212$20.00",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "\u2212$20.00 reduction"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00",
+    "Drug deductible": "0.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "4,200"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copay",
+    "Specialist visit": "In-network: $0-$5 copay",
+    "Emergency care": "$50 copay",
+    "Inpatient hospital coverage": "Tier 1$0 per stayTier 2$40 per stay",
+    "Outpatient hospital coverage": "In-network: $25-$50 copay",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "In-network: $0 copay",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "$0 copay"
+  },
+  "drug_coverage": {
+    "Drug premium": "$0.00",
+    "Drug deductible": "$0.00",
+    "Select Care Drugs": "$0.00 copay",
+    "Chemotherapy drugs": "In-network: 0%-20% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsurance",
+    "Over the counter drug benefits": "In-network: $0 copay"
+  },
+  "extra_benefits": [],
+  "plan_id": "H5774_047_4",
+  "state": "Puerto_Rico"
+}

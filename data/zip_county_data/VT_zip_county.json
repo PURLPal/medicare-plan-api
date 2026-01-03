@@ -1,0 +1,5862 @@
+[
+  {
+    "zip": "05001",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05009",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05030",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05031",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05032",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 0.9873,
+        "name": "Windsor County"
+      },
+      {
+        "fips": "50017",
+        "ratio": 0.0127,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 0.9873,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05033",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "ratio": 1.0,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "ratio": 1.0,
+      "name": "Orange County"
+    }
+  },
+  {
+    "zip": "05034",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05035",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05036",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "ratio": 1.0,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "ratio": 1.0,
+      "name": "Orange County"
+    }
+  },
+  {
+    "zip": "05037",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05038",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "ratio": 1.0,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "ratio": 1.0,
+      "name": "Orange County"
+    }
+  },
+  {
+    "zip": "05039",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "ratio": 1.0,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "ratio": 1.0,
+      "name": "Orange County"
+    }
+  },
+  {
+    "zip": "05040",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "ratio": 1.0,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "ratio": 1.0,
+      "name": "Orange County"
+    }
+  },
+  {
+    "zip": "05041",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "ratio": 1.0,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "ratio": 1.0,
+      "name": "Orange County"
+    }
+  },
+  {
+    "zip": "05042",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50005",
+        "ratio": 1.0,
+        "name": "Caledonia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "ratio": 1.0,
+      "name": "Caledonia County"
+    }
+  },
+  {
+    "zip": "05043",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "ratio": 1.0,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "ratio": 1.0,
+      "name": "Orange County"
+    }
+  },
+  {
+    "zip": "05045",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "ratio": 1.0,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "ratio": 1.0,
+      "name": "Orange County"
+    }
+  },
+  {
+    "zip": "05046",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50005",
+        "ratio": 0.9956,
+        "name": "Caledonia County"
+      },
+      {
+        "fips": "50017",
+        "ratio": 0.0044,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "ratio": 0.9956,
+      "name": "Caledonia County"
+    }
+  },
+  {
+    "zip": "05047",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05048",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05049",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05050",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50005",
+        "ratio": 1.0,
+        "name": "Caledonia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "ratio": 1.0,
+      "name": "Caledonia County"
+    }
+  },
+  {
+    "zip": "05051",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "ratio": 1.0,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "ratio": 1.0,
+      "name": "Orange County"
+    }
+  },
+  {
+    "zip": "05052",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05053",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05054",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "ratio": 1.0,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "ratio": 1.0,
+      "name": "Orange County"
+    }
+  },
+  {
+    "zip": "05055",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05056",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05058",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "ratio": 1.0,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "ratio": 1.0,
+      "name": "Orange County"
+    }
+  },
+  {
+    "zip": "05059",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05060",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "50017",
+        "ratio": 0.943,
+        "name": "Orange County"
+      },
+      {
+        "fips": "50027",
+        "ratio": 0.0373,
+        "name": "Windsor County"
+      },
+      {
+        "fips": "50023",
+        "ratio": 0.0197,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "ratio": 0.943,
+      "name": "Orange County"
+    }
+  },
+  {
+    "zip": "05061",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50017",
+        "ratio": 0.9914,
+        "name": "Orange County"
+      },
+      {
+        "fips": "50027",
+        "ratio": 0.0086,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "ratio": 0.9914,
+      "name": "Orange County"
+    }
+  },
+  {
+    "zip": "05062",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05065",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 0.9435,
+        "name": "Windsor County"
+      },
+      {
+        "fips": "50017",
+        "ratio": 0.0565,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 0.9435,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05067",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05068",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 0.9658,
+        "name": "Windsor County"
+      },
+      {
+        "fips": "50017",
+        "ratio": 0.0342,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 0.9658,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05069",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50005",
+        "ratio": 0.6223,
+        "name": "Caledonia County"
+      },
+      {
+        "fips": "50017",
+        "ratio": 0.3777,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "ratio": 0.6223,
+      "name": "Caledonia County"
+    }
+  },
+  {
+    "zip": "05070",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50017",
+        "ratio": 0.875,
+        "name": "Orange County"
+      },
+      {
+        "fips": "50027",
+        "ratio": 0.125,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "ratio": 0.875,
+      "name": "Orange County"
+    }
+  },
+  {
+    "zip": "05071",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05072",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50017",
+        "ratio": 0.9679,
+        "name": "Orange County"
+      },
+      {
+        "fips": "50027",
+        "ratio": 0.0321,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "ratio": 0.9679,
+      "name": "Orange County"
+    }
+  },
+  {
+    "zip": "05073",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05074",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "ratio": 1.0,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "ratio": 1.0,
+      "name": "Orange County"
+    }
+  },
+  {
+    "zip": "05075",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "ratio": 1.0,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "ratio": 1.0,
+      "name": "Orange County"
+    }
+  },
+  {
+    "zip": "05076",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "ratio": 1.0,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "ratio": 1.0,
+      "name": "Orange County"
+    }
+  },
+  {
+    "zip": "05077",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50017",
+        "ratio": 0.9983,
+        "name": "Orange County"
+      },
+      {
+        "fips": "50027",
+        "ratio": 0.0017,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "ratio": 0.9983,
+      "name": "Orange County"
+    }
+  },
+  {
+    "zip": "05079",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "ratio": 1.0,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "ratio": 1.0,
+      "name": "Orange County"
+    }
+  },
+  {
+    "zip": "05081",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50017",
+        "ratio": 0.8258,
+        "name": "Orange County"
+      },
+      {
+        "fips": "50005",
+        "ratio": 0.1742,
+        "name": "Caledonia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "ratio": 0.8258,
+      "name": "Orange County"
+    }
+  },
+  {
+    "zip": "05083",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "ratio": 1.0,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "ratio": 1.0,
+      "name": "Orange County"
+    }
+  },
+  {
+    "zip": "05084",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05085",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "ratio": 1.0,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "ratio": 1.0,
+      "name": "Orange County"
+    }
+  },
+  {
+    "zip": "05086",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "ratio": 1.0,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "ratio": 1.0,
+      "name": "Orange County"
+    }
+  },
+  {
+    "zip": "05088",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05089",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05091",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05101",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "ratio": 1.0,
+        "name": "Windham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "ratio": 1.0,
+      "name": "Windham County"
+    }
+  },
+  {
+    "zip": "05141",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "ratio": 1.0,
+        "name": "Windham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "ratio": 1.0,
+      "name": "Windham County"
+    }
+  },
+  {
+    "zip": "05142",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05143",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 0.8122,
+        "name": "Windsor County"
+      },
+      {
+        "fips": "50025",
+        "ratio": 0.1878,
+        "name": "Windham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 0.8122,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05146",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "ratio": 1.0,
+        "name": "Windham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "ratio": 1.0,
+      "name": "Windham County"
+    }
+  },
+  {
+    "zip": "05148",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "50025",
+        "ratio": 0.8363,
+        "name": "Windham County"
+      },
+      {
+        "fips": "50003",
+        "ratio": 0.1497,
+        "name": "Bennington County"
+      },
+      {
+        "fips": "50027",
+        "ratio": 0.014,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "ratio": 0.8363,
+      "name": "Windham County"
+    }
+  },
+  {
+    "zip": "05149",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05150",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05151",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05152",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50003",
+        "ratio": 1.0,
+        "name": "Bennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "ratio": 1.0,
+      "name": "Bennington County"
+    }
+  },
+  {
+    "zip": "05153",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05154",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "ratio": 1.0,
+        "name": "Windham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "ratio": 1.0,
+      "name": "Windham County"
+    }
+  },
+  {
+    "zip": "05155",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50025",
+        "ratio": 0.9911,
+        "name": "Windham County"
+      },
+      {
+        "fips": "50003",
+        "ratio": 0.0089,
+        "name": "Bennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "ratio": 0.9911,
+      "name": "Windham County"
+    }
+  },
+  {
+    "zip": "05156",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 0.9964,
+        "name": "Windsor County"
+      },
+      {
+        "fips": "50025",
+        "ratio": 0.0036,
+        "name": "Windham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 0.9964,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05158",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "ratio": 1.0,
+        "name": "Windham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "ratio": 1.0,
+      "name": "Windham County"
+    }
+  },
+  {
+    "zip": "05159",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "ratio": 1.0,
+        "name": "Windham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "ratio": 1.0,
+      "name": "Windham County"
+    }
+  },
+  {
+    "zip": "05161",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 0.9895,
+        "name": "Windsor County"
+      },
+      {
+        "fips": "50003",
+        "ratio": 0.0105,
+        "name": "Bennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 0.9895,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05201",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50003",
+        "ratio": 1.0,
+        "name": "Bennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "ratio": 1.0,
+      "name": "Bennington County"
+    }
+  },
+  {
+    "zip": "05250",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50003",
+        "ratio": 1.0,
+        "name": "Bennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "ratio": 1.0,
+      "name": "Bennington County"
+    }
+  },
+  {
+    "zip": "05251",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50003",
+        "ratio": 0.9974,
+        "name": "Bennington County"
+      },
+      {
+        "fips": "50021",
+        "ratio": 0.0026,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "ratio": 0.9974,
+      "name": "Bennington County"
+    }
+  },
+  {
+    "zip": "05252",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50003",
+        "ratio": 1.0,
+        "name": "Bennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "ratio": 1.0,
+      "name": "Bennington County"
+    }
+  },
+  {
+    "zip": "05253",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50003",
+        "ratio": 0.9352,
+        "name": "Bennington County"
+      },
+      {
+        "fips": "50021",
+        "ratio": 0.0648,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "ratio": 0.9352,
+      "name": "Bennington County"
+    }
+  },
+  {
+    "zip": "05254",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50003",
+        "ratio": 1.0,
+        "name": "Bennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "ratio": 1.0,
+      "name": "Bennington County"
+    }
+  },
+  {
+    "zip": "05255",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50003",
+        "ratio": 1.0,
+        "name": "Bennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "ratio": 1.0,
+      "name": "Bennington County"
+    }
+  },
+  {
+    "zip": "05257",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50003",
+        "ratio": 1.0,
+        "name": "Bennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "ratio": 1.0,
+      "name": "Bennington County"
+    }
+  },
+  {
+    "zip": "05260",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50003",
+        "ratio": 1.0,
+        "name": "Bennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "ratio": 1.0,
+      "name": "Bennington County"
+    }
+  },
+  {
+    "zip": "05261",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50003",
+        "ratio": 1.0,
+        "name": "Bennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "ratio": 1.0,
+      "name": "Bennington County"
+    }
+  },
+  {
+    "zip": "05262",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50003",
+        "ratio": 1.0,
+        "name": "Bennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "ratio": 1.0,
+      "name": "Bennington County"
+    }
+  },
+  {
+    "zip": "05301",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "ratio": 1.0,
+        "name": "Windham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "ratio": 1.0,
+      "name": "Windham County"
+    }
+  },
+  {
+    "zip": "05340",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50003",
+        "ratio": 1.0,
+        "name": "Bennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "ratio": 1.0,
+      "name": "Bennington County"
+    }
+  },
+  {
+    "zip": "05341",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "ratio": 1.0,
+        "name": "Windham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "ratio": 1.0,
+      "name": "Windham County"
+    }
+  },
+  {
+    "zip": "05342",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "ratio": 1.0,
+        "name": "Windham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "ratio": 1.0,
+      "name": "Windham County"
+    }
+  },
+  {
+    "zip": "05343",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50025",
+        "ratio": 0.9711,
+        "name": "Windham County"
+      },
+      {
+        "fips": "50003",
+        "ratio": 0.0289,
+        "name": "Bennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "ratio": 0.9711,
+      "name": "Windham County"
+    }
+  },
+  {
+    "zip": "05344",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "ratio": 1.0,
+        "name": "Windham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "ratio": 1.0,
+      "name": "Windham County"
+    }
+  },
+  {
+    "zip": "05345",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "ratio": 1.0,
+        "name": "Windham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "ratio": 1.0,
+      "name": "Windham County"
+    }
+  },
+  {
+    "zip": "05346",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "ratio": 1.0,
+        "name": "Windham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "ratio": 1.0,
+      "name": "Windham County"
+    }
+  },
+  {
+    "zip": "05350",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50003",
+        "ratio": 0.9978,
+        "name": "Bennington County"
+      },
+      {
+        "fips": "50025",
+        "ratio": 0.0022,
+        "name": "Windham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "ratio": 0.9978,
+      "name": "Bennington County"
+    }
+  },
+  {
+    "zip": "05351",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "ratio": 1.0,
+        "name": "Windham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "ratio": 1.0,
+      "name": "Windham County"
+    }
+  },
+  {
+    "zip": "05352",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50003",
+        "ratio": 1.0,
+        "name": "Bennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "ratio": 1.0,
+      "name": "Bennington County"
+    }
+  },
+  {
+    "zip": "05353",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "ratio": 1.0,
+        "name": "Windham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "ratio": 1.0,
+      "name": "Windham County"
+    }
+  },
+  {
+    "zip": "05354",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "ratio": 1.0,
+        "name": "Windham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "ratio": 1.0,
+      "name": "Windham County"
+    }
+  },
+  {
+    "zip": "05355",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "ratio": 1.0,
+        "name": "Windham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "ratio": 1.0,
+      "name": "Windham County"
+    }
+  },
+  {
+    "zip": "05356",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "ratio": 1.0,
+        "name": "Windham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "ratio": 1.0,
+      "name": "Windham County"
+    }
+  },
+  {
+    "zip": "05357",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "ratio": 1.0,
+        "name": "Windham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "ratio": 1.0,
+      "name": "Windham County"
+    }
+  },
+  {
+    "zip": "05358",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "ratio": 1.0,
+        "name": "Windham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "ratio": 1.0,
+      "name": "Windham County"
+    }
+  },
+  {
+    "zip": "05359",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "ratio": 1.0,
+        "name": "Windham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "ratio": 1.0,
+      "name": "Windham County"
+    }
+  },
+  {
+    "zip": "05360",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "ratio": 1.0,
+        "name": "Windham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "ratio": 1.0,
+      "name": "Windham County"
+    }
+  },
+  {
+    "zip": "05361",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "ratio": 1.0,
+        "name": "Windham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "ratio": 1.0,
+      "name": "Windham County"
+    }
+  },
+  {
+    "zip": "05362",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50025",
+        "ratio": 1.0,
+        "name": "Windham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "ratio": 1.0,
+      "name": "Windham County"
+    }
+  },
+  {
+    "zip": "05363",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50025",
+        "ratio": 0.9564,
+        "name": "Windham County"
+      },
+      {
+        "fips": "50003",
+        "ratio": 0.0436,
+        "name": "Bennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50025",
+      "ratio": 0.9564,
+      "name": "Windham County"
+    }
+  },
+  {
+    "zip": "05401",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "ratio": 1.0,
+        "name": "Chittenden County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "ratio": 1.0,
+      "name": "Chittenden County"
+    }
+  },
+  {
+    "zip": "05402",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "ratio": 1.0,
+        "name": "Chittenden County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "ratio": 1.0,
+      "name": "Chittenden County"
+    }
+  },
+  {
+    "zip": "05403",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "ratio": 1.0,
+        "name": "Chittenden County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "ratio": 1.0,
+      "name": "Chittenden County"
+    }
+  },
+  {
+    "zip": "05404",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "ratio": 1.0,
+        "name": "Chittenden County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "ratio": 1.0,
+      "name": "Chittenden County"
+    }
+  },
+  {
+    "zip": "05405",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "ratio": 1.0,
+        "name": "Chittenden County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "ratio": 1.0,
+      "name": "Chittenden County"
+    }
+  },
+  {
+    "zip": "05406",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "ratio": 1.0,
+        "name": "Chittenden County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "ratio": 1.0,
+      "name": "Chittenden County"
+    }
+  },
+  {
+    "zip": "05407",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "ratio": 1.0,
+        "name": "Chittenden County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "ratio": 1.0,
+      "name": "Chittenden County"
+    }
+  },
+  {
+    "zip": "05408",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "ratio": 1.0,
+        "name": "Chittenden County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "ratio": 1.0,
+      "name": "Chittenden County"
+    }
+  },
+  {
+    "zip": "05439",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "ratio": 1.0,
+        "name": "Chittenden County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "ratio": 1.0,
+      "name": "Chittenden County"
+    }
+  },
+  {
+    "zip": "05440",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50013",
+        "ratio": 1.0,
+        "name": "Grand Isle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50013",
+      "ratio": 1.0,
+      "name": "Grand Isle County"
+    }
+  },
+  {
+    "zip": "05441",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50011",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "05442",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50015",
+        "ratio": 1.0,
+        "name": "Lamoille County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50015",
+      "ratio": 1.0,
+      "name": "Lamoille County"
+    }
+  },
+  {
+    "zip": "05443",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50001",
+        "ratio": 1.0,
+        "name": "Addison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "ratio": 1.0,
+      "name": "Addison County"
+    }
+  },
+  {
+    "zip": "05444",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50015",
+        "ratio": 0.5124,
+        "name": "Lamoille County"
+      },
+      {
+        "fips": "50011",
+        "ratio": 0.4876,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50015",
+      "ratio": 0.5124,
+      "name": "Lamoille County"
+    }
+  },
+  {
+    "zip": "05445",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50007",
+        "ratio": 0.9985,
+        "name": "Chittenden County"
+      },
+      {
+        "fips": "50001",
+        "ratio": 0.0015,
+        "name": "Addison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "ratio": 0.9985,
+      "name": "Chittenden County"
+    }
+  },
+  {
+    "zip": "05446",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "ratio": 1.0,
+        "name": "Chittenden County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "ratio": 1.0,
+      "name": "Chittenden County"
+    }
+  },
+  {
+    "zip": "05447",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50011",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "05448",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50011",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "05449",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "ratio": 1.0,
+        "name": "Chittenden County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "ratio": 1.0,
+      "name": "Chittenden County"
+    }
+  },
+  {
+    "zip": "05450",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50011",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "05451",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "ratio": 1.0,
+        "name": "Chittenden County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "ratio": 1.0,
+      "name": "Chittenden County"
+    }
+  },
+  {
+    "zip": "05452",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "ratio": 1.0,
+        "name": "Chittenden County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "ratio": 1.0,
+      "name": "Chittenden County"
+    }
+  },
+  {
+    "zip": "05453",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "ratio": 1.0,
+        "name": "Chittenden County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "ratio": 1.0,
+      "name": "Chittenden County"
+    }
+  },
+  {
+    "zip": "05454",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50011",
+        "ratio": 0.9996,
+        "name": "Franklin County"
+      },
+      {
+        "fips": "50007",
+        "ratio": 0.0004,
+        "name": "Chittenden County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "ratio": 0.9996,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "05455",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50011",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "05456",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50001",
+        "ratio": 1.0,
+        "name": "Addison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "ratio": 1.0,
+      "name": "Addison County"
+    }
+  },
+  {
+    "zip": "05457",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50011",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "05458",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50013",
+        "ratio": 1.0,
+        "name": "Grand Isle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50013",
+      "ratio": 1.0,
+      "name": "Grand Isle County"
+    }
+  },
+  {
+    "zip": "05459",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50011",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "05460",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50011",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "05461",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50007",
+        "ratio": 0.9678,
+        "name": "Chittenden County"
+      },
+      {
+        "fips": "50001",
+        "ratio": 0.0322,
+        "name": "Addison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "ratio": 0.9678,
+      "name": "Chittenden County"
+    }
+  },
+  {
+    "zip": "05462",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50007",
+        "ratio": 0.9737,
+        "name": "Chittenden County"
+      },
+      {
+        "fips": "50001",
+        "ratio": 0.0263,
+        "name": "Addison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "ratio": 0.9737,
+      "name": "Chittenden County"
+    }
+  },
+  {
+    "zip": "05463",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50013",
+        "ratio": 1.0,
+        "name": "Grand Isle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50013",
+      "ratio": 1.0,
+      "name": "Grand Isle County"
+    }
+  },
+  {
+    "zip": "05464",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50015",
+        "ratio": 0.9231,
+        "name": "Lamoille County"
+      },
+      {
+        "fips": "50011",
+        "ratio": 0.0769,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50015",
+      "ratio": 0.9231,
+      "name": "Lamoille County"
+    }
+  },
+  {
+    "zip": "05465",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "ratio": 1.0,
+        "name": "Chittenden County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "ratio": 1.0,
+      "name": "Chittenden County"
+    }
+  },
+  {
+    "zip": "05466",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "ratio": 1.0,
+        "name": "Chittenden County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "ratio": 1.0,
+      "name": "Chittenden County"
+    }
+  },
+  {
+    "zip": "05468",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50007",
+        "ratio": 0.8356,
+        "name": "Chittenden County"
+      },
+      {
+        "fips": "50011",
+        "ratio": 0.1644,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "ratio": 0.8356,
+      "name": "Chittenden County"
+    }
+  },
+  {
+    "zip": "05469",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50001",
+        "ratio": 1.0,
+        "name": "Addison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "ratio": 1.0,
+      "name": "Addison County"
+    }
+  },
+  {
+    "zip": "05470",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50011",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "05471",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50011",
+        "ratio": 0.9008,
+        "name": "Franklin County"
+      },
+      {
+        "fips": "50019",
+        "ratio": 0.0992,
+        "name": "Orleans County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "ratio": 0.9008,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "05472",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50001",
+        "ratio": 1.0,
+        "name": "Addison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "ratio": 1.0,
+      "name": "Addison County"
+    }
+  },
+  {
+    "zip": "05473",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50001",
+        "ratio": 1.0,
+        "name": "Addison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "ratio": 1.0,
+      "name": "Addison County"
+    }
+  },
+  {
+    "zip": "05474",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50013",
+        "ratio": 1.0,
+        "name": "Grand Isle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50013",
+      "ratio": 1.0,
+      "name": "Grand Isle County"
+    }
+  },
+  {
+    "zip": "05476",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50011",
+        "ratio": 0.9904,
+        "name": "Franklin County"
+      },
+      {
+        "fips": "50019",
+        "ratio": 0.0096,
+        "name": "Orleans County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "ratio": 0.9904,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "05477",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "ratio": 1.0,
+        "name": "Chittenden County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "ratio": 1.0,
+      "name": "Chittenden County"
+    }
+  },
+  {
+    "zip": "05478",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50011",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "05479",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50011",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "05481",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50011",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "05482",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "ratio": 1.0,
+        "name": "Chittenden County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "ratio": 1.0,
+      "name": "Chittenden County"
+    }
+  },
+  {
+    "zip": "05483",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50011",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "05485",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50011",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "05486",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50013",
+        "ratio": 1.0,
+        "name": "Grand Isle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50013",
+      "ratio": 1.0,
+      "name": "Grand Isle County"
+    }
+  },
+  {
+    "zip": "05487",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50001",
+        "ratio": 0.98,
+        "name": "Addison County"
+      },
+      {
+        "fips": "50007",
+        "ratio": 0.02,
+        "name": "Chittenden County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "ratio": 0.98,
+      "name": "Addison County"
+    }
+  },
+  {
+    "zip": "05488",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50011",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50011",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "05489",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50007",
+        "ratio": 0.994,
+        "name": "Chittenden County"
+      },
+      {
+        "fips": "50015",
+        "ratio": 0.006,
+        "name": "Lamoille County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "ratio": 0.994,
+      "name": "Chittenden County"
+    }
+  },
+  {
+    "zip": "05490",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "ratio": 1.0,
+        "name": "Chittenden County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "ratio": 1.0,
+      "name": "Chittenden County"
+    }
+  },
+  {
+    "zip": "05491",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50001",
+        "ratio": 1.0,
+        "name": "Addison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "ratio": 1.0,
+      "name": "Addison County"
+    }
+  },
+  {
+    "zip": "05492",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50015",
+        "ratio": 1.0,
+        "name": "Lamoille County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50015",
+      "ratio": 1.0,
+      "name": "Lamoille County"
+    }
+  },
+  {
+    "zip": "05494",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "ratio": 1.0,
+        "name": "Chittenden County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "ratio": 1.0,
+      "name": "Chittenden County"
+    }
+  },
+  {
+    "zip": "05495",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50007",
+        "ratio": 1.0,
+        "name": "Chittenden County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50007",
+      "ratio": 1.0,
+      "name": "Chittenden County"
+    }
+  },
+  {
+    "zip": "05601",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05602",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05603",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05604",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05609",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05620",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05633",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05640",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05641",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 0.9685,
+        "name": "Washington County"
+      },
+      {
+        "fips": "50017",
+        "ratio": 0.0315,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 0.9685,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05647",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 0.9886,
+        "name": "Washington County"
+      },
+      {
+        "fips": "50005",
+        "ratio": 0.0114,
+        "name": "Caledonia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 0.9886,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05648",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05649",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 0.7273,
+        "name": "Washington County"
+      },
+      {
+        "fips": "50017",
+        "ratio": 0.2727,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 0.7273,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05650",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05651",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05652",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50015",
+        "ratio": 1.0,
+        "name": "Lamoille County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50015",
+      "ratio": 1.0,
+      "name": "Lamoille County"
+    }
+  },
+  {
+    "zip": "05653",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50015",
+        "ratio": 1.0,
+        "name": "Lamoille County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50015",
+      "ratio": 1.0,
+      "name": "Lamoille County"
+    }
+  },
+  {
+    "zip": "05654",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 0.7593,
+        "name": "Washington County"
+      },
+      {
+        "fips": "50017",
+        "ratio": 0.2407,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 0.7593,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05655",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50015",
+        "ratio": 1.0,
+        "name": "Lamoille County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50015",
+      "ratio": 1.0,
+      "name": "Lamoille County"
+    }
+  },
+  {
+    "zip": "05656",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50015",
+        "ratio": 1.0,
+        "name": "Lamoille County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50015",
+      "ratio": 1.0,
+      "name": "Lamoille County"
+    }
+  },
+  {
+    "zip": "05657",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50015",
+        "ratio": 1.0,
+        "name": "Lamoille County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50015",
+      "ratio": 1.0,
+      "name": "Lamoille County"
+    }
+  },
+  {
+    "zip": "05658",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 0.9827,
+        "name": "Washington County"
+      },
+      {
+        "fips": "50005",
+        "ratio": 0.0173,
+        "name": "Caledonia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 0.9827,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05660",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05661",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50015",
+        "ratio": 1.0,
+        "name": "Lamoille County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50015",
+      "ratio": 1.0,
+      "name": "Lamoille County"
+    }
+  },
+  {
+    "zip": "05662",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50015",
+        "ratio": 1.0,
+        "name": "Lamoille County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50015",
+      "ratio": 1.0,
+      "name": "Lamoille County"
+    }
+  },
+  {
+    "zip": "05663",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 0.9955,
+        "name": "Washington County"
+      },
+      {
+        "fips": "50017",
+        "ratio": 0.0045,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 0.9955,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05664",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05665",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50015",
+        "ratio": 1.0,
+        "name": "Lamoille County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50015",
+      "ratio": 1.0,
+      "name": "Lamoille County"
+    }
+  },
+  {
+    "zip": "05666",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05667",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05669",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 0.8235,
+        "name": "Washington County"
+      },
+      {
+        "fips": "50017",
+        "ratio": 0.1206,
+        "name": "Orange County"
+      },
+      {
+        "fips": "50001",
+        "ratio": 0.0559,
+        "name": "Addison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 0.8235,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05670",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05671",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05672",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50015",
+        "ratio": 1.0,
+        "name": "Lamoille County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50015",
+      "ratio": 1.0,
+      "name": "Lamoille County"
+    }
+  },
+  {
+    "zip": "05673",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05674",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05675",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "ratio": 1.0,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "ratio": 1.0,
+      "name": "Orange County"
+    }
+  },
+  {
+    "zip": "05676",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 0.9414,
+        "name": "Washington County"
+      },
+      {
+        "fips": "50007",
+        "ratio": 0.0586,
+        "name": "Chittenden County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 0.9414,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05677",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05678",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05679",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50017",
+        "ratio": 1.0,
+        "name": "Orange County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50017",
+      "ratio": 1.0,
+      "name": "Orange County"
+    }
+  },
+  {
+    "zip": "05680",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "50015",
+        "ratio": 0.9671,
+        "name": "Lamoille County"
+      },
+      {
+        "fips": "50023",
+        "ratio": 0.0184,
+        "name": "Washington County"
+      },
+      {
+        "fips": "50019",
+        "ratio": 0.0116,
+        "name": "Orleans County"
+      },
+      {
+        "fips": "50005",
+        "ratio": 0.0029,
+        "name": "Caledonia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50015",
+      "ratio": 0.9671,
+      "name": "Lamoille County"
+    }
+  },
+  {
+    "zip": "05681",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05682",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50023",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50023",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "05701",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 1.0,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 1.0,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05702",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 1.0,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 1.0,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05730",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 1.0,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 1.0,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05731",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 1.0,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 1.0,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05732",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 1.0,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 1.0,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05733",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 0.799,
+        "name": "Rutland County"
+      },
+      {
+        "fips": "50001",
+        "ratio": 0.201,
+        "name": "Addison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 0.799,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05734",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50001",
+        "ratio": 1.0,
+        "name": "Addison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "ratio": 1.0,
+      "name": "Addison County"
+    }
+  },
+  {
+    "zip": "05735",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 1.0,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 1.0,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05736",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 1.0,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 1.0,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05737",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 1.0,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 1.0,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05738",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 1.0,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 1.0,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05739",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 1.0,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 1.0,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05740",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50001",
+        "ratio": 1.0,
+        "name": "Addison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "ratio": 1.0,
+      "name": "Addison County"
+    }
+  },
+  {
+    "zip": "05741",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 1.0,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 1.0,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05742",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 1.0,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 1.0,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05743",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 0.9988,
+        "name": "Rutland County"
+      },
+      {
+        "fips": "50001",
+        "ratio": 0.0012,
+        "name": "Addison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 0.9988,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05744",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 1.0,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 1.0,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05745",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 1.0,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 1.0,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05746",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 1.0,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 1.0,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05747",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50001",
+        "ratio": 1.0,
+        "name": "Addison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "ratio": 1.0,
+      "name": "Addison County"
+    }
+  },
+  {
+    "zip": "05748",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50001",
+        "ratio": 1.0,
+        "name": "Addison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "ratio": 1.0,
+      "name": "Addison County"
+    }
+  },
+  {
+    "zip": "05750",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 1.0,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 1.0,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05751",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 1.0,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 1.0,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05753",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50001",
+        "ratio": 1.0,
+        "name": "Addison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "ratio": 1.0,
+      "name": "Addison County"
+    }
+  },
+  {
+    "zip": "05757",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 1.0,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 1.0,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05758",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 0.9743,
+        "name": "Rutland County"
+      },
+      {
+        "fips": "50027",
+        "ratio": 0.0257,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 0.9743,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05759",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 1.0,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 1.0,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05760",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50001",
+        "ratio": 0.9233,
+        "name": "Addison County"
+      },
+      {
+        "fips": "50021",
+        "ratio": 0.0767,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "ratio": 0.9233,
+      "name": "Addison County"
+    }
+  },
+  {
+    "zip": "05761",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 0.7877,
+        "name": "Rutland County"
+      },
+      {
+        "fips": "50003",
+        "ratio": 0.2123,
+        "name": "Bennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 0.7877,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05762",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 0.944,
+        "name": "Rutland County"
+      },
+      {
+        "fips": "50027",
+        "ratio": 0.056,
+        "name": "Windsor County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 0.944,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05763",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 1.0,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 1.0,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05764",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 1.0,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 1.0,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05765",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 1.0,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 1.0,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05766",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50001",
+        "ratio": 1.0,
+        "name": "Addison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "ratio": 1.0,
+      "name": "Addison County"
+    }
+  },
+  {
+    "zip": "05767",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 0.9821,
+        "name": "Windsor County"
+      },
+      {
+        "fips": "50021",
+        "ratio": 0.0131,
+        "name": "Rutland County"
+      },
+      {
+        "fips": "50001",
+        "ratio": 0.0048,
+        "name": "Addison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 0.9821,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05768",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50003",
+        "ratio": 0.8833,
+        "name": "Bennington County"
+      },
+      {
+        "fips": "50021",
+        "ratio": 0.1167,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "ratio": 0.8833,
+      "name": "Bennington County"
+    }
+  },
+  {
+    "zip": "05769",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50001",
+        "ratio": 1.0,
+        "name": "Addison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "ratio": 1.0,
+      "name": "Addison County"
+    }
+  },
+  {
+    "zip": "05770",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50001",
+        "ratio": 1.0,
+        "name": "Addison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "ratio": 1.0,
+      "name": "Addison County"
+    }
+  },
+  {
+    "zip": "05772",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50027",
+        "ratio": 0.9946,
+        "name": "Windsor County"
+      },
+      {
+        "fips": "50021",
+        "ratio": 0.0054,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50027",
+      "ratio": 0.9946,
+      "name": "Windsor County"
+    }
+  },
+  {
+    "zip": "05773",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 1.0,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 1.0,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05774",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 1.0,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 1.0,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05775",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 0.7913,
+        "name": "Rutland County"
+      },
+      {
+        "fips": "50003",
+        "ratio": 0.2087,
+        "name": "Bennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 0.7913,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05776",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50003",
+        "ratio": 1.0,
+        "name": "Bennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50003",
+      "ratio": 1.0,
+      "name": "Bennington County"
+    }
+  },
+  {
+    "zip": "05777",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50021",
+        "ratio": 1.0,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50021",
+      "ratio": 1.0,
+      "name": "Rutland County"
+    }
+  },
+  {
+    "zip": "05778",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50001",
+        "ratio": 0.9504,
+        "name": "Addison County"
+      },
+      {
+        "fips": "50021",
+        "ratio": 0.0496,
+        "name": "Rutland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50001",
+      "ratio": 0.9504,
+      "name": "Addison County"
+    }
+  },
+  {
+    "zip": "05819",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50005",
+        "ratio": 0.9993,
+        "name": "Caledonia County"
+      },
+      {
+        "fips": "50009",
+        "ratio": 0.0007,
+        "name": "Essex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "ratio": 0.9993,
+      "name": "Caledonia County"
+    }
+  },
+  {
+    "zip": "05820",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "ratio": 1.0,
+        "name": "Orleans County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "ratio": 1.0,
+      "name": "Orleans County"
+    }
+  },
+  {
+    "zip": "05821",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50005",
+        "ratio": 1.0,
+        "name": "Caledonia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "ratio": 1.0,
+      "name": "Caledonia County"
+    }
+  },
+  {
+    "zip": "05822",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50019",
+        "ratio": 0.9991,
+        "name": "Orleans County"
+      },
+      {
+        "fips": "50005",
+        "ratio": 0.0009,
+        "name": "Caledonia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "ratio": 0.9991,
+      "name": "Orleans County"
+    }
+  },
+  {
+    "zip": "05823",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "ratio": 1.0,
+        "name": "Orleans County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "ratio": 1.0,
+      "name": "Orleans County"
+    }
+  },
+  {
+    "zip": "05824",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50009",
+        "ratio": 0.7236,
+        "name": "Essex County"
+      },
+      {
+        "fips": "50005",
+        "ratio": 0.2764,
+        "name": "Caledonia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50009",
+      "ratio": 0.7236,
+      "name": "Essex County"
+    }
+  },
+  {
+    "zip": "05825",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "ratio": 1.0,
+        "name": "Orleans County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "ratio": 1.0,
+      "name": "Orleans County"
+    }
+  },
+  {
+    "zip": "05826",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50019",
+        "ratio": 0.9746,
+        "name": "Orleans County"
+      },
+      {
+        "fips": "50015",
+        "ratio": 0.0254,
+        "name": "Lamoille County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "ratio": 0.9746,
+      "name": "Orleans County"
+    }
+  },
+  {
+    "zip": "05827",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "ratio": 1.0,
+        "name": "Orleans County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "ratio": 1.0,
+      "name": "Orleans County"
+    }
+  },
+  {
+    "zip": "05828",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50005",
+        "ratio": 1.0,
+        "name": "Caledonia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "ratio": 1.0,
+      "name": "Caledonia County"
+    }
+  },
+  {
+    "zip": "05829",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "ratio": 1.0,
+        "name": "Orleans County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "ratio": 1.0,
+      "name": "Orleans County"
+    }
+  },
+  {
+    "zip": "05830",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "ratio": 1.0,
+        "name": "Orleans County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "ratio": 1.0,
+      "name": "Orleans County"
+    }
+  },
+  {
+    "zip": "05832",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50005",
+        "ratio": 1.0,
+        "name": "Caledonia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "ratio": 1.0,
+      "name": "Caledonia County"
+    }
+  },
+  {
+    "zip": "05833",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "ratio": 1.0,
+        "name": "Orleans County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "ratio": 1.0,
+      "name": "Orleans County"
+    }
+  },
+  {
+    "zip": "05836",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50005",
+        "ratio": 0.9636,
+        "name": "Caledonia County"
+      },
+      {
+        "fips": "50019",
+        "ratio": 0.0364,
+        "name": "Orleans County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "ratio": 0.9636,
+      "name": "Caledonia County"
+    }
+  },
+  {
+    "zip": "05837",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50009",
+        "ratio": 0.6202,
+        "name": "Essex County"
+      },
+      {
+        "fips": "50005",
+        "ratio": 0.3798,
+        "name": "Caledonia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50009",
+      "ratio": 0.6202,
+      "name": "Essex County"
+    }
+  },
+  {
+    "zip": "05838",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50005",
+        "ratio": 1.0,
+        "name": "Caledonia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "ratio": 1.0,
+      "name": "Caledonia County"
+    }
+  },
+  {
+    "zip": "05839",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50019",
+        "ratio": 0.9118,
+        "name": "Orleans County"
+      },
+      {
+        "fips": "50005",
+        "ratio": 0.0882,
+        "name": "Caledonia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "ratio": 0.9118,
+      "name": "Orleans County"
+    }
+  },
+  {
+    "zip": "05840",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50009",
+        "ratio": 1.0,
+        "name": "Essex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50009",
+      "ratio": 1.0,
+      "name": "Essex County"
+    }
+  },
+  {
+    "zip": "05841",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50019",
+        "ratio": 0.9832,
+        "name": "Orleans County"
+      },
+      {
+        "fips": "50005",
+        "ratio": 0.0168,
+        "name": "Caledonia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "ratio": 0.9832,
+      "name": "Orleans County"
+    }
+  },
+  {
+    "zip": "05842",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50019",
+        "ratio": 0.6254,
+        "name": "Orleans County"
+      },
+      {
+        "fips": "50005",
+        "ratio": 0.3746,
+        "name": "Caledonia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "ratio": 0.6254,
+      "name": "Orleans County"
+    }
+  },
+  {
+    "zip": "05843",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "50005",
+        "ratio": 0.9664,
+        "name": "Caledonia County"
+      },
+      {
+        "fips": "50023",
+        "ratio": 0.0232,
+        "name": "Washington County"
+      },
+      {
+        "fips": "50019",
+        "ratio": 0.0082,
+        "name": "Orleans County"
+      },
+      {
+        "fips": "50015",
+        "ratio": 0.0022,
+        "name": "Lamoille County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "ratio": 0.9664,
+      "name": "Caledonia County"
+    }
+  },
+  {
+    "zip": "05845",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "ratio": 1.0,
+        "name": "Orleans County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "ratio": 1.0,
+      "name": "Orleans County"
+    }
+  },
+  {
+    "zip": "05846",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50009",
+        "ratio": 0.8498,
+        "name": "Essex County"
+      },
+      {
+        "fips": "50019",
+        "ratio": 0.1502,
+        "name": "Orleans County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50009",
+      "ratio": 0.8498,
+      "name": "Essex County"
+    }
+  },
+  {
+    "zip": "05847",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "ratio": 1.0,
+        "name": "Orleans County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "ratio": 1.0,
+      "name": "Orleans County"
+    }
+  },
+  {
+    "zip": "05848",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50005",
+        "ratio": 1.0,
+        "name": "Caledonia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "ratio": 1.0,
+      "name": "Caledonia County"
+    }
+  },
+  {
+    "zip": "05849",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50005",
+        "ratio": 1.0,
+        "name": "Caledonia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "ratio": 1.0,
+      "name": "Caledonia County"
+    }
+  },
+  {
+    "zip": "05850",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50005",
+        "ratio": 1.0,
+        "name": "Caledonia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "ratio": 1.0,
+      "name": "Caledonia County"
+    }
+  },
+  {
+    "zip": "05851",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50005",
+        "ratio": 1.0,
+        "name": "Caledonia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "ratio": 1.0,
+      "name": "Caledonia County"
+    }
+  },
+  {
+    "zip": "05853",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "ratio": 1.0,
+        "name": "Orleans County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "ratio": 1.0,
+      "name": "Orleans County"
+    }
+  },
+  {
+    "zip": "05855",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "ratio": 1.0,
+        "name": "Orleans County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "ratio": 1.0,
+      "name": "Orleans County"
+    }
+  },
+  {
+    "zip": "05857",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "ratio": 1.0,
+        "name": "Orleans County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "ratio": 1.0,
+      "name": "Orleans County"
+    }
+  },
+  {
+    "zip": "05858",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50009",
+        "ratio": 1.0,
+        "name": "Essex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50009",
+      "ratio": 1.0,
+      "name": "Essex County"
+    }
+  },
+  {
+    "zip": "05859",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "ratio": 1.0,
+        "name": "Orleans County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "ratio": 1.0,
+      "name": "Orleans County"
+    }
+  },
+  {
+    "zip": "05860",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "ratio": 1.0,
+        "name": "Orleans County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "ratio": 1.0,
+      "name": "Orleans County"
+    }
+  },
+  {
+    "zip": "05861",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50005",
+        "ratio": 1.0,
+        "name": "Caledonia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "ratio": 1.0,
+      "name": "Caledonia County"
+    }
+  },
+  {
+    "zip": "05862",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50005",
+        "ratio": 1.0,
+        "name": "Caledonia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "ratio": 1.0,
+      "name": "Caledonia County"
+    }
+  },
+  {
+    "zip": "05863",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50005",
+        "ratio": 1.0,
+        "name": "Caledonia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "ratio": 1.0,
+      "name": "Caledonia County"
+    }
+  },
+  {
+    "zip": "05866",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50005",
+        "ratio": 1.0,
+        "name": "Caledonia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "ratio": 1.0,
+      "name": "Caledonia County"
+    }
+  },
+  {
+    "zip": "05867",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50005",
+        "ratio": 1.0,
+        "name": "Caledonia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "ratio": 1.0,
+      "name": "Caledonia County"
+    }
+  },
+  {
+    "zip": "05868",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "ratio": 1.0,
+        "name": "Orleans County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "ratio": 1.0,
+      "name": "Orleans County"
+    }
+  },
+  {
+    "zip": "05871",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50005",
+        "ratio": 0.9911,
+        "name": "Caledonia County"
+      },
+      {
+        "fips": "50019",
+        "ratio": 0.0089,
+        "name": "Orleans County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "ratio": 0.9911,
+      "name": "Caledonia County"
+    }
+  },
+  {
+    "zip": "05872",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "ratio": 1.0,
+        "name": "Orleans County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "ratio": 1.0,
+      "name": "Orleans County"
+    }
+  },
+  {
+    "zip": "05873",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50005",
+        "ratio": 0.873,
+        "name": "Caledonia County"
+      },
+      {
+        "fips": "50023",
+        "ratio": 0.127,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50005",
+      "ratio": 0.873,
+      "name": "Caledonia County"
+    }
+  },
+  {
+    "zip": "05874",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "ratio": 1.0,
+        "name": "Orleans County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "ratio": 1.0,
+      "name": "Orleans County"
+    }
+  },
+  {
+    "zip": "05875",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50019",
+        "ratio": 1.0,
+        "name": "Orleans County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50019",
+      "ratio": 1.0,
+      "name": "Orleans County"
+    }
+  },
+  {
+    "zip": "05901",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50009",
+        "ratio": 1.0,
+        "name": "Essex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50009",
+      "ratio": 1.0,
+      "name": "Essex County"
+    }
+  },
+  {
+    "zip": "05902",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50009",
+        "ratio": 1.0,
+        "name": "Essex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50009",
+      "ratio": 1.0,
+      "name": "Essex County"
+    }
+  },
+  {
+    "zip": "05903",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50009",
+        "ratio": 1.0,
+        "name": "Essex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50009",
+      "ratio": 1.0,
+      "name": "Essex County"
+    }
+  },
+  {
+    "zip": "05904",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50009",
+        "ratio": 1.0,
+        "name": "Essex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50009",
+      "ratio": 1.0,
+      "name": "Essex County"
+    }
+  },
+  {
+    "zip": "05905",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50009",
+        "ratio": 1.0,
+        "name": "Essex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50009",
+      "ratio": 1.0,
+      "name": "Essex County"
+    }
+  },
+  {
+    "zip": "05906",
+    "state": "VT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "50009",
+        "ratio": 1.0,
+        "name": "Essex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50009",
+      "ratio": 1.0,
+      "name": "Essex County"
+    }
+  },
+  {
+    "zip": "05907",
+    "state": "VT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "50009",
+        "ratio": 0.9048,
+        "name": "Essex County"
+      },
+      {
+        "fips": "50019",
+        "ratio": 0.0952,
+        "name": "Orleans County"
+      }
+    ],
+    "primary_county": {
+      "fips": "50009",
+      "ratio": 0.9048,
+      "name": "Essex County"
+    }
+  }
+]

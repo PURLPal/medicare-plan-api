@@ -1,0 +1,43 @@
+{
+  "plan_info": {
+    "name": "Medica Advantage Preferred (PPO)"
+  },
+  "premiums": {
+    "Total monthly premium": "$155.00",
+    "Health premium": "132.00",
+    "Drug premium": "23.00",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00",
+    "Drug deductible": "275.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "3,800"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copayOut-of-network: $10 copay",
+    "Specialist visit": "In-network: $20 copayOut-of-network: $35 copay",
+    "Emergency care": "$150 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$200 per stayOut-of-network:$250 per stay",
+    "Outpatient hospital coverage": "In-network: $0-$195 copayOut-of-network: $0-$295 copay",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "20% coinsurance"
+  },
+  "drug_coverage": {
+    "Drug premium": "$23.00",
+    "Drug deductible": "$275.00",
+    "Non-Preferred Drug": "50% coinsurance",
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 0%-20% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 0%-20% coinsurance",
+    "Over the counter drug benefits": "In-network: $0 copayOut-of-network: $0 copay, 0% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "H8889_011_0",
+  "state": "Iowa"
+}

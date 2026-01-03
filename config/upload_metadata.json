@@ -1,0 +1,12 @@
+{
+  "upload_time": "2025-12-30T09:52:57.462007Z",
+  "total_plans": 6402,
+  "total_html_files": 5882,
+  "states": 56,
+  "data_quality": {
+    "validation_status": "PASSED",
+    "sample_size": 523,
+    "valid_samples": 523,
+    "validation_rate": "100%"
+  }
+}

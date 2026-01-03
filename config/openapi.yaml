@@ -1,0 +1,364 @@
+openapi: 3.0.3
+info:
+  title: Medicare Plan API
+  description: |
+    Database-backed API for Medicare Advantage and Part D plan lookup by ZIP code.
+    
+    **Coverage:** All 50 states + DC (5,804 plans, 39,298 ZIP codes, 98.6% coverage)
+    
+    **Performance:** 290-400ms average response time with connection pooling
+    
+    **Features:**
+    - Multi-county ZIP code support
+    - Three plan categories: MAPD, MA, PD
+    - County-level plan grouping
+    - Real-time database queries
+  version: 2.0.0
+  contact:
+    name: API Support
+    url: https://github.com/yourusername/medicare-api
+  license:
+    name: Public Domain
+    url: https://creativecommons.org/publicdomain/zero/1.0/
+
+servers:
+  - url: https://medicare.purlpal-api.com/medicare
+    description: Production API
+
+tags:
+  - name: States
+    description: State-level endpoints
+  - name: ZIP Codes
+    description: ZIP code plan lookups
+  - name: Plans
+    description: Individual plan details
+
+paths:
+  /states.json:
+    get:
+      tags:
+        - States
+      summary: List all states
+      description: Returns list of all states with plan counts
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  state_count:
+                    type: integer
+                    example: 51
+                  total_plans:
+                    type: integer
+                    example: 5804
+                  states:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        abbrev:
+                          type: string
+                          example: "TX"
+                        name:
+                          type: string
+                          example: "Texas"
+                        plan_count:
+                          type: integer
+                          example: 245
+                        info_url:
+                          type: string
+                          example: "/medicare/state/TX/info.json"
+                        plans_url:
+                          type: string
+                          example: "/medicare/state/TX/plans.json"
+
+  /state/{state}/info.json:
+    get:
+      tags:
+        - States
+      summary: Get state information
+      description: Returns information about a specific state including plan counts
+      parameters:
+        - name: state
+          in: path
+          required: true
+          schema:
+            type: string
+            pattern: '^[A-Z]{2}$'
+          description: Two-letter state code (e.g., TX, CA, NY)
+          example: "MA"
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  state:
+                    type: string
+                    example: "Massachusetts"
+                  state_abbrev:
+                    type: string
+                    example: "MA"
+                  plan_count:
+                    type: integer
+                    example: 94
+        '404':
+          description: State not found
+
+  /state/{state}/plans.json:
+    get:
+      tags:
+        - States
+      summary: Get all plans in state
+      description: Returns all Medicare plans available in the specified state
+      parameters:
+        - name: state
+          in: path
+          required: true
+          schema:
+            type: string
+            pattern: '^[A-Z]{2}$'
+          description: Two-letter state code
+          example: "CA"
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  state:
+                    type: string
+                  state_abbrev:
+                    type: string
+                  plan_count:
+                    type: integer
+                  plans:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/Plan'
+
+  /zip/{zipcode}.json:
+    get:
+      tags:
+        - ZIP Codes
+      summary: Get plans by ZIP code
+      description: |
+        Returns all Medicare plans available in the specified ZIP code.
+        
+        For multi-county ZIPs, plans are grouped by county with ratio information.
+      parameters:
+        - name: zipcode
+          in: path
+          required: true
+          schema:
+            type: string
+            pattern: '^\d{5}$'
+          description: 5-digit ZIP code
+          example: "02108"
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ZIPResponse'
+        '404':
+          description: ZIP code not found
+
+  /zip/{zipcode}_{category}.json:
+    get:
+      tags:
+        - ZIP Codes
+      summary: Get plans by ZIP code filtered by category
+      description: Returns plans filtered by category (MAPD, MA, or PD)
+      parameters:
+        - name: zipcode
+          in: path
+          required: true
+          schema:
+            type: string
+            pattern: '^\d{5}$'
+          example: "90210"
+        - name: category
+          in: path
+          required: true
+          schema:
+            type: string
+            enum: [MAPD, MA, PD]
+          description: |
+            Plan category:
+            - MAPD: Medicare Advantage with Prescription Drug
+            - MA: Medicare Advantage (no drug coverage)
+            - PD: Prescription Drug Plans only
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ZIPResponse'
+
+  /plan/{planId}.json:
+    get:
+      tags:
+        - Plans
+      summary: Get individual plan details
+      description: Returns complete details for a specific Medicare plan
+      parameters:
+        - name: planId
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Plan identifier (e.g., H6851_001_0)
+          example: "H6851_001_0"
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Plan'
+        '404':
+          description: Plan not found
+
+components:
+  schemas:
+    Plan:
+      type: object
+      properties:
+        plan_id:
+          type: string
+          example: "H6851_001_0"
+        category:
+          type: string
+          enum: [MAPD, MA, PD]
+          example: "MAPD"
+        plan_type:
+          type: string
+          example: "HMO"
+        plan_info:
+          type: object
+          properties:
+            name:
+              type: string
+              example: "AARP Medicare Advantage (HMO)"
+            organization:
+              type: string
+              example: "UnitedHealthcare"
+            type:
+              type: string
+              example: "Medicare Advantage with drug coverage"
+        premiums:
+          type: object
+          additionalProperties:
+            type: string
+          example:
+            "Total monthly premium": "$0.00"
+            "Health premium": "$0.00"
+            "Drug premium": "$0.00"
+        deductibles:
+          type: object
+          additionalProperties:
+            type: string
+          example:
+            "Health deductible": "$0.00"
+            "Drug deductible": "$480.00"
+        out_of_pocket:
+          type: object
+          additionalProperties:
+            type: string
+        benefits:
+          type: object
+          additionalProperties: true
+        drug_coverage:
+          type: object
+          additionalProperties: true
+        extra_benefits:
+          type: array
+          items:
+            type: string
+
+    County:
+      type: object
+      properties:
+        name:
+          type: string
+          example: "Suffolk County"
+        fips:
+          type: string
+          example: "25025"
+        state:
+          type: string
+          example: "MA"
+        ratio:
+          type: number
+          format: float
+          description: Percentage of ZIP in this county (0.0-1.0)
+          example: 0.95
+        plans:
+          type: array
+          items:
+            $ref: '#/components/schemas/Plan'
+        plan_count:
+          type: integer
+          example: 48
+        plans_available:
+          type: boolean
+          example: true
+
+    ZIPResponse:
+      type: object
+      properties:
+        zip_code:
+          type: string
+          example: "02108"
+        multi_county:
+          type: boolean
+          example: false
+        multi_state:
+          type: boolean
+          example: false
+        states:
+          type: array
+          items:
+            type: string
+          example: ["MA"]
+        primary_state:
+          type: string
+          example: "MA"
+        counties:
+          type: array
+          items:
+            $ref: '#/components/schemas/County'
+        plans:
+          type: array
+          description: All unique plans (backwards compatible)
+          items:
+            $ref: '#/components/schemas/Plan'
+        plan_count:
+          type: integer
+          example: 48
+        plan_counts_by_category:
+          type: object
+          properties:
+            MAPD:
+              type: integer
+              example: 42
+            MA:
+              type: integer
+              example: 6
+            PD:
+              type: integer
+              example: 0
+
+  securitySchemes: {}
+
+security: []

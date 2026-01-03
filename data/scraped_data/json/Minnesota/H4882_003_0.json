@@ -1,0 +1,46 @@
+{
+  "plan_info": {
+    "name": "HealthPartners Journey Steady (PPO)",
+    "contract_id": "H4882_003",
+    "plan_type": "PPO",
+    "organization": "HealthPartners"
+  },
+  "premiums": {
+    "Total monthly premium": "$165.00",
+    "Health premium": "64.40",
+    "Drug premium": "100.60",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00",
+    "Drug deductible": "200.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "5,100"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copayOut-of-network: $40 copay",
+    "Specialist visit": "In-network: $25 copayOut-of-network: $40 copay",
+    "Emergency care": "$150 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$250 per stayOut-of-network:20% per stay",
+    "Outpatient hospital coverage": "In-network: $200 copayOut-of-network: 20% coinsurance",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "20% coinsurance"
+  },
+  "drug_coverage": {
+    "Drug premium": "$100.60",
+    "Drug deductible": "$200.00",
+    "Non-Preferred Drug": "37% coinsurance",
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 20% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 20% coinsurance",
+    "Over the counter drug benefits": "Not covered"
+  },
+  "extra_benefits": [],
+  "plan_id": "H4882_003_0",
+  "state": "Minnesota"
+}

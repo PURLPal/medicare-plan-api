@@ -1,0 +1,23 @@
+{
+  "plan_info": {
+    "name": "HealthSpring Extra Rx (PDP)",
+    "contract_id": "S5617_362",
+    "plan_type": "PDP",
+    "organization": "HealthSpring"
+  },
+  "premiums": {
+    "Total monthly premium": "$77.50"
+  },
+  "deductibles": {
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "31% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S5617_362_0",
+  "state": "Alabama"
+}

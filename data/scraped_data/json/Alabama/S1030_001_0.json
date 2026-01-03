@@ -1,0 +1,23 @@
+{
+  "plan_info": {
+    "name": "BlueRx Enhanced Plus (PDP)",
+    "contract_id": "S1030_001",
+    "plan_type": "PDP",
+    "organization": "BlueRx (PDP)"
+  },
+  "premiums": {
+    "Total monthly premium": "$129.50"
+  },
+  "deductibles": {
+    "Drug deductible": "150.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$150.00",
+    "Non-Preferred Drug": "42% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S1030_001_0",
+  "state": "Alabama"
+}

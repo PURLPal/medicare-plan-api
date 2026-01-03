@@ -1,0 +1,146 @@
+[
+  {
+    "zip": "96910",
+    "state": "GU",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "66010",
+        "ratio": 1.0,
+        "name": "Guam"
+      }
+    ],
+    "primary_county": {
+      "fips": "66010",
+      "ratio": 1.0,
+      "name": "Guam"
+    }
+  },
+  {
+    "zip": "96913",
+    "state": "GU",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "66010",
+        "ratio": 1.0,
+        "name": "Guam"
+      }
+    ],
+    "primary_county": {
+      "fips": "66010",
+      "ratio": 1.0,
+      "name": "Guam"
+    }
+  },
+  {
+    "zip": "96915",
+    "state": "GU",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "66010",
+        "ratio": 1.0,
+        "name": "Guam"
+      }
+    ],
+    "primary_county": {
+      "fips": "66010",
+      "ratio": 1.0,
+      "name": "Guam"
+    }
+  },
+  {
+    "zip": "96921",
+    "state": "GU",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "66010",
+        "ratio": 1.0,
+        "name": "Guam"
+      }
+    ],
+    "primary_county": {
+      "fips": "66010",
+      "ratio": 1.0,
+      "name": "Guam"
+    }
+  },
+  {
+    "zip": "96923",
+    "state": "GU",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "66010",
+        "ratio": 1.0,
+        "name": "Guam"
+      }
+    ],
+    "primary_county": {
+      "fips": "66010",
+      "ratio": 1.0,
+      "name": "Guam"
+    }
+  },
+  {
+    "zip": "96928",
+    "state": "GU",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "66010",
+        "ratio": 1.0,
+        "name": "Guam"
+      }
+    ],
+    "primary_county": {
+      "fips": "66010",
+      "ratio": 1.0,
+      "name": "Guam"
+    }
+  },
+  {
+    "zip": "96929",
+    "state": "GU",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "66010",
+        "ratio": 1.0,
+        "name": "Guam"
+      }
+    ],
+    "primary_county": {
+      "fips": "66010",
+      "ratio": 1.0,
+      "name": "Guam"
+    }
+  },
+  {
+    "zip": "96932",
+    "state": "GU",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "66010",
+        "ratio": 1.0,
+        "name": "Guam"
+      }
+    ],
+    "primary_county": {
+      "fips": "66010",
+      "ratio": 1.0,
+      "name": "Guam"
+    }
+  }
+]

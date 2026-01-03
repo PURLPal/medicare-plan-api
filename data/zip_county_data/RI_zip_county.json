@@ -1,0 +1,1652 @@
+[
+  {
+    "zip": "02801",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44005",
+        "ratio": 1.0,
+        "name": "Newport County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44005",
+      "ratio": 1.0,
+      "name": "Newport County"
+    }
+  },
+  {
+    "zip": "02802",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02804",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44009",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44009",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "02806",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44001",
+        "ratio": 1.0,
+        "name": "Bristol County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44001",
+      "ratio": 1.0,
+      "name": "Bristol County"
+    }
+  },
+  {
+    "zip": "02807",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44009",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44009",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "02808",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44009",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44009",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "02809",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44001",
+        "ratio": 1.0,
+        "name": "Bristol County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44001",
+      "ratio": 1.0,
+      "name": "Bristol County"
+    }
+  },
+  {
+    "zip": "02812",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44009",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44009",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "02813",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44009",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44009",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "02814",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02815",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02816",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44003",
+        "ratio": 1.0,
+        "name": "Kent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44003",
+      "ratio": 1.0,
+      "name": "Kent County"
+    }
+  },
+  {
+    "zip": "02817",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44003",
+        "ratio": 1.0,
+        "name": "Kent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44003",
+      "ratio": 1.0,
+      "name": "Kent County"
+    }
+  },
+  {
+    "zip": "02818",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44003",
+        "ratio": 1.0,
+        "name": "Kent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44003",
+      "ratio": 1.0,
+      "name": "Kent County"
+    }
+  },
+  {
+    "zip": "02822",
+    "state": "RI",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "44009",
+        "ratio": 0.9816,
+        "name": "Washington County"
+      },
+      {
+        "fips": "44003",
+        "ratio": 0.0184,
+        "name": "Kent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44009",
+      "ratio": 0.9816,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "02823",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02824",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02825",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02826",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02827",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44003",
+        "ratio": 1.0,
+        "name": "Kent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44003",
+      "ratio": 1.0,
+      "name": "Kent County"
+    }
+  },
+  {
+    "zip": "02828",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02829",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02830",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02831",
+    "state": "RI",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 0.9111,
+        "name": "Providence County"
+      },
+      {
+        "fips": "44003",
+        "ratio": 0.0889,
+        "name": "Kent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 0.9111,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02832",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44009",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44009",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "02833",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44009",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44009",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "02835",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44005",
+        "ratio": 1.0,
+        "name": "Newport County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44005",
+      "ratio": 1.0,
+      "name": "Newport County"
+    }
+  },
+  {
+    "zip": "02836",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44009",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44009",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "02837",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44005",
+        "ratio": 1.0,
+        "name": "Newport County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44005",
+      "ratio": 1.0,
+      "name": "Newport County"
+    }
+  },
+  {
+    "zip": "02838",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02839",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02840",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44005",
+        "ratio": 1.0,
+        "name": "Newport County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44005",
+      "ratio": 1.0,
+      "name": "Newport County"
+    }
+  },
+  {
+    "zip": "02841",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44005",
+        "ratio": 1.0,
+        "name": "Newport County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44005",
+      "ratio": 1.0,
+      "name": "Newport County"
+    }
+  },
+  {
+    "zip": "02842",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44005",
+        "ratio": 1.0,
+        "name": "Newport County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44005",
+      "ratio": 1.0,
+      "name": "Newport County"
+    }
+  },
+  {
+    "zip": "02852",
+    "state": "RI",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "44009",
+        "ratio": 0.998,
+        "name": "Washington County"
+      },
+      {
+        "fips": "44003",
+        "ratio": 0.002,
+        "name": "Kent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44009",
+      "ratio": 0.998,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "02857",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02858",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02859",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02860",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02861",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02862",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02863",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02864",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02865",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02871",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44005",
+        "ratio": 1.0,
+        "name": "Newport County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44005",
+      "ratio": 1.0,
+      "name": "Newport County"
+    }
+  },
+  {
+    "zip": "02872",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44005",
+        "ratio": 1.0,
+        "name": "Newport County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44005",
+      "ratio": 1.0,
+      "name": "Newport County"
+    }
+  },
+  {
+    "zip": "02873",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44009",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44009",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "02874",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44009",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44009",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "02875",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44009",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44009",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "02876",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02877",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44009",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44009",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "02878",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44005",
+        "ratio": 1.0,
+        "name": "Newport County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44005",
+      "ratio": 1.0,
+      "name": "Newport County"
+    }
+  },
+  {
+    "zip": "02879",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44009",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44009",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "02880",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44009",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44009",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "02881",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44009",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44009",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "02882",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44009",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44009",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "02883",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44009",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44009",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "02885",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44001",
+        "ratio": 1.0,
+        "name": "Bristol County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44001",
+      "ratio": 1.0,
+      "name": "Bristol County"
+    }
+  },
+  {
+    "zip": "02886",
+    "state": "RI",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "44003",
+        "ratio": 0.9993,
+        "name": "Kent County"
+      },
+      {
+        "fips": "44007",
+        "ratio": 0.0007,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44003",
+      "ratio": 0.9993,
+      "name": "Kent County"
+    }
+  },
+  {
+    "zip": "02887",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44003",
+        "ratio": 1.0,
+        "name": "Kent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44003",
+      "ratio": 1.0,
+      "name": "Kent County"
+    }
+  },
+  {
+    "zip": "02888",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44003",
+        "ratio": 1.0,
+        "name": "Kent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44003",
+      "ratio": 1.0,
+      "name": "Kent County"
+    }
+  },
+  {
+    "zip": "02889",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44003",
+        "ratio": 1.0,
+        "name": "Kent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44003",
+      "ratio": 1.0,
+      "name": "Kent County"
+    }
+  },
+  {
+    "zip": "02891",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44009",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44009",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "02892",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44009",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44009",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "02893",
+    "state": "RI",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "44003",
+        "ratio": 0.9995,
+        "name": "Kent County"
+      },
+      {
+        "fips": "44007",
+        "ratio": 0.0005,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44003",
+      "ratio": 0.9995,
+      "name": "Kent County"
+    }
+  },
+  {
+    "zip": "02894",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44009",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44009",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "02895",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02896",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02898",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44009",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44009",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "02901",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02902",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02903",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02904",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02905",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02906",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02907",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02908",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02909",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02910",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02911",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02912",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02914",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02915",
+    "state": "RI",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 0.9996,
+        "name": "Providence County"
+      },
+      {
+        "fips": "44001",
+        "ratio": 0.0004,
+        "name": "Bristol County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 0.9996,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02916",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02917",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02918",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02919",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02920",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02921",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  },
+  {
+    "zip": "02940",
+    "state": "RI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "44007",
+        "ratio": 1.0,
+        "name": "Providence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "44007",
+      "ratio": 1.0,
+      "name": "Providence County"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "plan_info": {
+    "name": "BlueCross Rx Value (PDP)"
+  },
+  "premiums": {
+    "Total monthly premium": "$139.70"
+  },
+  "deductibles": {
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "50% coinsurance",
+    "Select Care Drugs": "$5.00 copay"
+  },
+  "extra_benefits": [],
+  "plan_id": "S5953_001_0",
+  "state": "South_Carolina"
+}

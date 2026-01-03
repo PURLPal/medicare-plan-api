@@ -1,0 +1,1539 @@
+[
+  {
+    "zip": "19701",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19702",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19703",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19706",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19707",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19708",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19709",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19710",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19711",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19713",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19714",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19715",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19716",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19717",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19718",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19720",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19721",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19726",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19730",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19731",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19732",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19733",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19734",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19735",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19736",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19801",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19802",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19803",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19804",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19805",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19806",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19807",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19808",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19809",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19810",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19884",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19890",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19892",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19895",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19897",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19898",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19899",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10003",
+        "ratio": 1.0,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10003",
+      "ratio": 1.0,
+      "name": "New Castle County"
+    }
+  },
+  {
+    "zip": "19901",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10001",
+        "ratio": 1.0,
+        "name": "Kent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10001",
+      "ratio": 1.0,
+      "name": "Kent County"
+    }
+  },
+  {
+    "zip": "19902",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10001",
+        "ratio": 1.0,
+        "name": "Kent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10001",
+      "ratio": 1.0,
+      "name": "Kent County"
+    }
+  },
+  {
+    "zip": "19903",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10001",
+        "ratio": 1.0,
+        "name": "Kent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10001",
+      "ratio": 1.0,
+      "name": "Kent County"
+    }
+  },
+  {
+    "zip": "19904",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10001",
+        "ratio": 1.0,
+        "name": "Kent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10001",
+      "ratio": 1.0,
+      "name": "Kent County"
+    }
+  },
+  {
+    "zip": "19930",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10005",
+        "ratio": 1.0,
+        "name": "Sussex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10005",
+      "ratio": 1.0,
+      "name": "Sussex County"
+    }
+  },
+  {
+    "zip": "19931",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10005",
+        "ratio": 1.0,
+        "name": "Sussex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10005",
+      "ratio": 1.0,
+      "name": "Sussex County"
+    }
+  },
+  {
+    "zip": "19933",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10005",
+        "ratio": 1.0,
+        "name": "Sussex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10005",
+      "ratio": 1.0,
+      "name": "Sussex County"
+    }
+  },
+  {
+    "zip": "19934",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10001",
+        "ratio": 1.0,
+        "name": "Kent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10001",
+      "ratio": 1.0,
+      "name": "Kent County"
+    }
+  },
+  {
+    "zip": "19936",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10001",
+        "ratio": 1.0,
+        "name": "Kent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10001",
+      "ratio": 1.0,
+      "name": "Kent County"
+    }
+  },
+  {
+    "zip": "19938",
+    "state": "DE",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "10001",
+        "ratio": 0.9377,
+        "name": "Kent County"
+      },
+      {
+        "fips": "10003",
+        "ratio": 0.0623,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10001",
+      "ratio": 0.9377,
+      "name": "Kent County"
+    }
+  },
+  {
+    "zip": "19939",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10005",
+        "ratio": 1.0,
+        "name": "Sussex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10005",
+      "ratio": 1.0,
+      "name": "Sussex County"
+    }
+  },
+  {
+    "zip": "19940",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10005",
+        "ratio": 1.0,
+        "name": "Sussex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10005",
+      "ratio": 1.0,
+      "name": "Sussex County"
+    }
+  },
+  {
+    "zip": "19941",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10005",
+        "ratio": 1.0,
+        "name": "Sussex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10005",
+      "ratio": 1.0,
+      "name": "Sussex County"
+    }
+  },
+  {
+    "zip": "19943",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10001",
+        "ratio": 1.0,
+        "name": "Kent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10001",
+      "ratio": 1.0,
+      "name": "Kent County"
+    }
+  },
+  {
+    "zip": "19944",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10005",
+        "ratio": 1.0,
+        "name": "Sussex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10005",
+      "ratio": 1.0,
+      "name": "Sussex County"
+    }
+  },
+  {
+    "zip": "19945",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10005",
+        "ratio": 1.0,
+        "name": "Sussex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10005",
+      "ratio": 1.0,
+      "name": "Sussex County"
+    }
+  },
+  {
+    "zip": "19946",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10001",
+        "ratio": 1.0,
+        "name": "Kent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10001",
+      "ratio": 1.0,
+      "name": "Kent County"
+    }
+  },
+  {
+    "zip": "19947",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10005",
+        "ratio": 1.0,
+        "name": "Sussex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10005",
+      "ratio": 1.0,
+      "name": "Sussex County"
+    }
+  },
+  {
+    "zip": "19950",
+    "state": "DE",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "10005",
+        "ratio": 0.774,
+        "name": "Sussex County"
+      },
+      {
+        "fips": "10001",
+        "ratio": 0.226,
+        "name": "Kent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10005",
+      "ratio": 0.774,
+      "name": "Sussex County"
+    }
+  },
+  {
+    "zip": "19951",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10005",
+        "ratio": 1.0,
+        "name": "Sussex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10005",
+      "ratio": 1.0,
+      "name": "Sussex County"
+    }
+  },
+  {
+    "zip": "19952",
+    "state": "DE",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "10001",
+        "ratio": 0.9864,
+        "name": "Kent County"
+      },
+      {
+        "fips": "10005",
+        "ratio": 0.0136,
+        "name": "Sussex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10001",
+      "ratio": 0.9864,
+      "name": "Kent County"
+    }
+  },
+  {
+    "zip": "19953",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10001",
+        "ratio": 1.0,
+        "name": "Kent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10001",
+      "ratio": 1.0,
+      "name": "Kent County"
+    }
+  },
+  {
+    "zip": "19954",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10001",
+        "ratio": 1.0,
+        "name": "Kent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10001",
+      "ratio": 1.0,
+      "name": "Kent County"
+    }
+  },
+  {
+    "zip": "19955",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10001",
+        "ratio": 1.0,
+        "name": "Kent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10001",
+      "ratio": 1.0,
+      "name": "Kent County"
+    }
+  },
+  {
+    "zip": "19956",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10005",
+        "ratio": 1.0,
+        "name": "Sussex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10005",
+      "ratio": 1.0,
+      "name": "Sussex County"
+    }
+  },
+  {
+    "zip": "19958",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10005",
+        "ratio": 1.0,
+        "name": "Sussex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10005",
+      "ratio": 1.0,
+      "name": "Sussex County"
+    }
+  },
+  {
+    "zip": "19960",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10005",
+        "ratio": 1.0,
+        "name": "Sussex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10005",
+      "ratio": 1.0,
+      "name": "Sussex County"
+    }
+  },
+  {
+    "zip": "19961",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10001",
+        "ratio": 1.0,
+        "name": "Kent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10001",
+      "ratio": 1.0,
+      "name": "Kent County"
+    }
+  },
+  {
+    "zip": "19962",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10001",
+        "ratio": 1.0,
+        "name": "Kent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10001",
+      "ratio": 1.0,
+      "name": "Kent County"
+    }
+  },
+  {
+    "zip": "19963",
+    "state": "DE",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "10005",
+        "ratio": 0.6611,
+        "name": "Sussex County"
+      },
+      {
+        "fips": "10001",
+        "ratio": 0.3389,
+        "name": "Kent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10005",
+      "ratio": 0.6611,
+      "name": "Sussex County"
+    }
+  },
+  {
+    "zip": "19964",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10001",
+        "ratio": 1.0,
+        "name": "Kent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10001",
+      "ratio": 1.0,
+      "name": "Kent County"
+    }
+  },
+  {
+    "zip": "19966",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10005",
+        "ratio": 1.0,
+        "name": "Sussex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10005",
+      "ratio": 1.0,
+      "name": "Sussex County"
+    }
+  },
+  {
+    "zip": "19967",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10005",
+        "ratio": 1.0,
+        "name": "Sussex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10005",
+      "ratio": 1.0,
+      "name": "Sussex County"
+    }
+  },
+  {
+    "zip": "19968",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10005",
+        "ratio": 1.0,
+        "name": "Sussex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10005",
+      "ratio": 1.0,
+      "name": "Sussex County"
+    }
+  },
+  {
+    "zip": "19969",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10005",
+        "ratio": 1.0,
+        "name": "Sussex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10005",
+      "ratio": 1.0,
+      "name": "Sussex County"
+    }
+  },
+  {
+    "zip": "19970",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10005",
+        "ratio": 1.0,
+        "name": "Sussex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10005",
+      "ratio": 1.0,
+      "name": "Sussex County"
+    }
+  },
+  {
+    "zip": "19971",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10005",
+        "ratio": 1.0,
+        "name": "Sussex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10005",
+      "ratio": 1.0,
+      "name": "Sussex County"
+    }
+  },
+  {
+    "zip": "19973",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10005",
+        "ratio": 1.0,
+        "name": "Sussex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10005",
+      "ratio": 1.0,
+      "name": "Sussex County"
+    }
+  },
+  {
+    "zip": "19975",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10005",
+        "ratio": 1.0,
+        "name": "Sussex County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10005",
+      "ratio": 1.0,
+      "name": "Sussex County"
+    }
+  },
+  {
+    "zip": "19977",
+    "state": "DE",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "10001",
+        "ratio": 0.9388,
+        "name": "Kent County"
+      },
+      {
+        "fips": "10003",
+        "ratio": 0.0612,
+        "name": "New Castle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10001",
+      "ratio": 0.9388,
+      "name": "Kent County"
+    }
+  },
+  {
+    "zip": "19979",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10001",
+        "ratio": 1.0,
+        "name": "Kent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10001",
+      "ratio": 1.0,
+      "name": "Kent County"
+    }
+  },
+  {
+    "zip": "19980",
+    "state": "DE",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "10001",
+        "ratio": 1.0,
+        "name": "Kent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "10001",
+      "ratio": 1.0,
+      "name": "Kent County"
+    }
+  }
+]

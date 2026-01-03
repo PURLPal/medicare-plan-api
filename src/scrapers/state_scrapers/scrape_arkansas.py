@@ -1,0 +1,213 @@
+#!/usr/bin/env python3
+"""
+Scrape all 103 Arkansas Medicare plans using optimized two-step approach.
+Based on successful South Carolina and Massachusetts scraping methodology.
+"""
+import json
+import time
+from pathlib import Path
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium_stealth import stealth
+
+RAW_DIR = Path('./raw_ar_plans')
+RAW_DIR.mkdir(exist_ok=True)
+
+JSON_DIR = Path('./scraped_json_all')
+JSON_DIR.mkdir(exist_ok=True)
+
+PROGRESS_FILE = Path('./ar_scraping_progress.json')
+
+def load_progress():
+    """Load scraping progress from file."""
+    if PROGRESS_FILE.exists():
+        with open(PROGRESS_FILE) as f:
+            return json.load(f)
+    return {'completed': [], 'not_found': [], 'errors': []}
+
+def save_progress(progress):
+    """Save scraping progress to file."""
+    with open(PROGRESS_FILE, 'w') as f:
+        json.dump(progress, f, indent=2)
+
+with open('ar_plans_to_scrape.json') as f:
+    all_plans = json.load(f)
+
+progress = load_progress()
+
+already_completed = set(progress['completed'] + progress['not_found'])
+PLANS_TO_SCRAPE = [p for p in all_plans if p['plan_id'] not in already_completed]
+
+print(f"Total AR plans: {len(all_plans)}")
+print(f"Previously completed: {len(already_completed)}")
+if already_completed:
+    print(f"  ✓ Success: {len(progress['completed'])}")
+    print(f"  ⚠️  Not found: {len(progress['not_found'])}")
+    print(f"  ✗ Errors: {len(progress['errors'])}")
+print(f"Remaining to scrape: {len(PLANS_TO_SCRAPE)}")
+
+def create_driver():
+    """Create Chrome driver with stealth options to avoid bot detection."""
+    opts = Options()
+    opts.add_argument('--headless=new')
+    opts.add_argument('--no-sandbox')
+    opts.add_argument('--disable-gpu')
+    opts.add_argument('--disable-blink-features=AutomationControlled')
+    opts.add_experimental_option("excludeSwitches", ["enable-automation"])
+    opts.add_experimental_option('useAutomationExtension', False)
+    opts.add_argument('--window-size=1920,1080')
+    opts.add_argument('--user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36')
+    
+    driver = webdriver.Chrome(options=opts)
+    
+    stealth(driver,
+        languages=["en-US", "en"],
+        vendor="Google Inc.",
+        platform="MacIntel",
+        webgl_vendor="Intel Inc.",
+        renderer="Intel Iris OpenGL Engine",
+        fix_hairline=True,
+    )
+    
+    return driver
+
+def scrape_raw_html(driver, plan_id, zip_code="72201"):
+    """Step 1: Scrape and save raw HTML."""
+    plan_id_formatted = plan_id.replace('_', '-')
+    url = f"https://www.medicare.gov/plan-compare/#/plan-details/2026-{plan_id_formatted}?year=2026&lang=en"
+    
+    try:
+        driver.get(url)
+        
+        WebDriverWait(driver, 20).until(
+            EC.presence_of_element_located((By.TAG_NAME, "body"))
+        )
+        
+        time.sleep(6)
+        
+        raw_file = RAW_DIR / f"{plan_id}.html"
+        html_content = driver.page_source
+        with open(raw_file, 'w', encoding='utf-8') as f:
+            f.write(html_content)
+        
+        if '<title>Medicare.gov</title>' in html_content or 'Page Not Found' in html_content:
+            return 'not_found'
+        
+        if 'HMO' in html_content or 'PPO' in html_content or 'Premium' in html_content:
+            return 'success'
+        
+        return 'not_found'
+        
+    except Exception as e:
+        print(f"    Error: {str(e)[:50]}")
+        return 'error'
+
+def create_plan_json(plan_info):
+    """Create initial JSON structure for a plan."""
+    return {
+        "plan_id": plan_info['plan_id'],
+        "state": "Arkansas",
+        "plan_info": {
+            "name": plan_info['name'],
+            "type": plan_info['type'],
+            "organization": ""
+        },
+        "premiums": {},
+        "deductibles": {},
+        "out_of_pocket": {},
+        "benefits": {},
+        "raw_content": ""
+    }
+
+def main():
+    print("="*80)
+    print("ARKANSAS MEDICARE PLAN SCRAPER (RESUMABLE)")
+    print("="*80)
+    print(f"Plans to scrape: {len(PLANS_TO_SCRAPE)}")
+    print(f"Output: {RAW_DIR}")
+    print()
+    
+    if PLANS_TO_SCRAPE:
+        print("Press Ctrl+C at any time to safely stop scraping.")
+        print("Progress is saved after each plan - you can resume later.\n")
+    else:
+        print("✓ All plans already scraped!")
+        print(f"\nRun: python3 parse_ar_raw_content.py")
+        return
+    
+    driver = create_driver()
+    
+    prog = load_progress()
+    
+    try:
+        for i, plan in enumerate(PLANS_TO_SCRAPE, 1):
+            plan_id = plan['plan_id']
+            total_done = len(prog['completed']) + len(prog['not_found'])
+            overall_progress = total_done + i
+            
+            print(f"[{overall_progress}/{len(all_plans)}] {plan_id}...", flush=True)
+            
+            json_file = JSON_DIR / f"Arkansas-{plan_id}.json"
+            if not json_file.exists():
+                plan_data = create_plan_json(plan)
+                with open(json_file, 'w') as f:
+                    json.dump(plan_data, f, indent=2)
+            
+            result = scrape_raw_html(driver, plan_id)
+            
+            if result == 'success':
+                prog['completed'].append(plan_id)
+                print(f"  ✓ Saved HTML", flush=True)
+            elif result == 'not_found':
+                prog['not_found'].append(plan_id)
+                print(f"  ⚠️  404 Not Found", flush=True)
+            else:
+                prog['errors'].append(plan_id)
+                print(f"  ✗ Error", flush=True)
+            
+            save_progress(prog)
+            
+            time.sleep(1.5)
+            
+            if i % 10 == 0:
+                total_complete = len(prog['completed']) + len(prog['not_found'])
+                print(f"\n  ━━━ Progress Checkpoint ━━━")
+                print(f"  Completed: {total_complete}/{len(all_plans)} ({total_complete/len(all_plans)*100:.1f}%)")
+                print(f"  ✓ Success: {len(prog['completed'])}")
+                print(f"  ⚠️  Not Found: {len(prog['not_found'])}")
+                print(f"  ✗ Errors: {len(prog['errors'])}")
+                print(f"  Remaining: {len(all_plans) - total_complete}")
+                print(f"  ━━━━━━━━━━━━━━━━━━━━━━━━━━\n")
+        
+        print(f"\n{'='*80}")
+        print(f"RAW HTML SCRAPING COMPLETE")
+        print(f"{'='*80}")
+        print(f"✓ Success: {len(prog['completed'])}")
+        print(f"⚠️  Not Found (404): {len(prog['not_found'])}")
+        print(f"✗ Errors: {len(prog['errors'])}")
+        print(f"Total scraped: {len(prog['completed']) + len(prog['not_found'])}/{len(all_plans)}")
+        print()
+        print("Next step: Run parse_ar_raw_content.py to extract structured data")
+        print(f"{'='*80}\n")
+        
+    except KeyboardInterrupt:
+        print(f"\n\n{'='*80}")
+        print("SCRAPING INTERRUPTED BY USER")
+        print(f"{'='*80}")
+        total_complete = len(prog['completed']) + len(prog['not_found'])
+        print(f"Progress saved: {total_complete}/{len(all_plans)} plans completed")
+        print(f"  ✓ Success: {len(prog['completed'])}")
+        print(f"  ⚠️  Not Found: {len(prog['not_found'])}")
+        print(f"  ✗ Errors: {len(prog['errors'])}")
+        print()
+        print("To resume: Run this script again")
+        print(f"{'='*80}\n")
+        
+    finally:
+        driver.quit()
+
+if __name__ == "__main__":
+    main()

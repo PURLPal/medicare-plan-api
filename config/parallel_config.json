@@ -1,0 +1,111 @@
+{
+  "total_states": 56,
+  "total_plans": 6581,
+  "num_instances": 8,
+  "groups": [
+    {
+      "instance_id": 1,
+      "states": [
+        "Alaska",
+        "District_of_Columbia",
+        "Florida",
+        "Kansas",
+        "Utah"
+      ],
+      "plan_count": 824
+    },
+    {
+      "instance_id": 2,
+      "states": [
+        "American_Samoa",
+        "Arkansas",
+        "Hawaii",
+        "Louisiana",
+        "Northern_Mariana_Islands",
+        "Texas",
+        "West_Virginia",
+        "Wyoming"
+      ],
+      "plan_count": 819
+    },
+    {
+      "instance_id": 3,
+      "states": [
+        "California",
+        "Idaho",
+        "Kentucky",
+        "New_Hampshire",
+        "New_Mexico",
+        "South_Carolina",
+        "Vermont"
+      ],
+      "plan_count": 828
+    },
+    {
+      "instance_id": 4,
+      "states": [
+        "Colorado",
+        "Maryland",
+        "Mississippi",
+        "North_Dakota",
+        "Pennsylvania",
+        "Tennessee"
+      ],
+      "plan_count": 821
+    },
+    {
+      "instance_id": 5,
+      "states": [
+        "Maine",
+        "New_York",
+        "Oklahoma",
+        "Oregon",
+        "South_Dakota",
+        "Virginia",
+        "Washington"
+      ],
+      "plan_count": 820
+    },
+    {
+      "instance_id": 6,
+      "states": [
+        "Alabama",
+        "Delaware",
+        "Iowa",
+        "Missouri",
+        "Ohio",
+        "Puerto_Rico",
+        "Wisconsin"
+      ],
+      "plan_count": 827
+    },
+    {
+      "instance_id": 7,
+      "states": [
+        "Connecticut",
+        "Illinois",
+        "Indiana",
+        "Massachusetts",
+        "Michigan",
+        "Minnesota",
+        "Montana"
+      ],
+      "plan_count": 823
+    },
+    {
+      "instance_id": 8,
+      "states": [
+        "Arizona",
+        "Georgia",
+        "Guam",
+        "Nebraska",
+        "Nevada",
+        "New_Jersey",
+        "North_Carolina",
+        "Rhode_Island",
+        "Virgin_Islands"
+      ],
+      "plan_count": 819
+    }
+  ]
+}

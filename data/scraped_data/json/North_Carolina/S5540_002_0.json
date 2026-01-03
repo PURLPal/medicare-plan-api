@@ -1,0 +1,23 @@
+{
+  "plan_info": {
+    "name": "Blue Medicare Rx Standard (PDP)",
+    "contract_id": "S5540_002",
+    "plan_type": "PDP",
+    "organization": "Blue Cross and Blue Shield of North Carolina"
+  },
+  "premiums": {
+    "Total monthly premium": "$83.90"
+  },
+  "deductibles": {
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "32% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S5540_002_0",
+  "state": "North_Carolina"
+}

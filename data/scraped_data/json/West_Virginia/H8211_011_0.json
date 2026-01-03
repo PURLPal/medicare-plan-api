@@ -1,0 +1,46 @@
+{
+  "plan_info": {
+    "name": "AARP Medicare Advantage from UHC WV-0004 (PPO)",
+    "contract_id": "H8211_011",
+    "plan_type": "PPO",
+    "organization": "UnitedHealthcare"
+  },
+  "premiums": {
+    "Total monthly premium": "$0.00",
+    "Health premium": "0.00",
+    "Drug premium": "0.00",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00",
+    "Drug deductible": "600.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "10,100"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copayOut-of-network: $0 copay",
+    "Specialist visit": "In-network: $0-$55 copayOut-of-network: $55 copay",
+    "Emergency care": "$130 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$455 per day for days 1-6$0 per day for days 7-90$0 per stayOut-of-network:$455 per day for days 1-6$0 per day for days 7-999$0 per stay",
+    "Outpatient hospital coverage": "In-network: $0-$455 copayOut-of-network: 40% coinsurance",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "$0 copay"
+  },
+  "drug_coverage": {
+    "Drug premium": "$0.00",
+    "Drug deductible": "$600.00",
+    "Non-Preferred Drug": "42% coinsurance",
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 40% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 0%-40% coinsurance",
+    "Over the counter drug benefits": "In-network: $0 copayOut-of-network: $0 copay"
+  },
+  "extra_benefits": [],
+  "plan_id": "H8211_011_0",
+  "state": "West_Virginia"
+}

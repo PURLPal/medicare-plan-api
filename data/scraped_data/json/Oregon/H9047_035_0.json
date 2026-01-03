@@ -1,0 +1,38 @@
+{
+  "plan_info": {
+    "name": "Providence Medicare Reverence (HMO-POS)"
+  },
+  "premiums": {
+    "Total monthly premium": "$25.00",
+    "Health premium": "25.00",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "6,750"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $15 copayOut-of-network: 50% coinsurance",
+    "Specialist visit": "In-network: $30 copayOut-of-network: 50% coinsurance",
+    "Emergency care": "$130 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$300 per day for days 1-6$0 per day for days 7-90$0 Lifetime Reserve Days for days 1-60$0 per stayOut-of-network:50% per stay",
+    "Outpatient hospital coverage": "In-network: $250 copayOut-of-network: 50% coinsurance",
+    "Personal Emergency Response System (PERS)": "In-network: $0 copay",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "$130 copay"
+  },
+  "drug_coverage": {
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 50% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 50% coinsurance",
+    "Over the counter drug benefits": "In-network: $0 copay"
+  },
+  "extra_benefits": [],
+  "plan_id": "H9047_035_0",
+  "state": "Oregon"
+}

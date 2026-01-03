@@ -1,0 +1,60 @@
+{
+  "deployment_type": "rds_lambda_apigateway",
+  "deployed_at": "2025-12-30T15:26:00Z",
+  "database": {
+    "type": "RDS PostgreSQL",
+    "instance_identifier": "medicare-plans-db",
+    "endpoint": "medicare-plans-db.cc98ea006lul.us-east-1.rds.amazonaws.com",
+    "port": 5432,
+    "database_name": "medicare_plans",
+    "engine": "postgres",
+    "version": "15.8",
+    "instance_class": "db.t3.micro",
+    "storage_gb": 20,
+    "region": "us-east-1"
+  },
+  "lambda": {
+    "function_name": "MedicareAPI",
+    "runtime": "python3.11",
+    "handler": "medicare_api.lambda_handler",
+    "memory_mb": 512,
+    "timeout_seconds": 30,
+    "arn": "arn:aws:lambda:us-east-1:677276098722:function:MedicareAPI",
+    "dependencies": ["pg8000==1.30.3"]
+  },
+  "api_gateway": {
+    "api_id": "yvc5tid01h",
+    "api_type": "HTTP API",
+    "stage": "prod",
+    "base_url": "https://yvc5tid01h.execute-api.us-east-1.amazonaws.com/prod",
+    "region": "us-east-1"
+  },
+  "api_endpoints": {
+    "states_list": "/medicare/states.json",
+    "state_info": "/medicare/state/{state_abbrev}/info.json",
+    "state_plans": "/medicare/state/{state_abbrev}/plans.json",
+    "zip_plans": "/medicare/zip/{zip_code}.json",
+    "zip_category": "/medicare/zip/{zip_code}_{category}.json",
+    "plan_detail": "/medicare/plan/{plan_id}.json"
+  },
+  "data_statistics": {
+    "total_plans": 5804,
+    "total_states": 56,
+    "total_counties": 9245,
+    "total_zip_codes": 39298,
+    "plan_county_relationships": 132002,
+    "zip_county_relationships": 54389
+  },
+  "example_urls": {
+    "all_states": "https://yvc5tid01h.execute-api.us-east-1.amazonaws.com/prod/medicare/states.json",
+    "boston_zip": "https://yvc5tid01h.execute-api.us-east-1.amazonaws.com/prod/medicare/zip/02108.json",
+    "massachusetts_info": "https://yvc5tid01h.execute-api.us-east-1.amazonaws.com/prod/medicare/state/MA/info.json"
+  },
+  "notes": [
+    "Database uses SSL/TLS for connections",
+    "RDS security group allows Lambda access only (no public internet)",
+    "API Gateway configured with CORS enabled",
+    "Pure Python driver (pg8000) used for Lambda compatibility",
+    "County name normalization required for accurate plan lookups"
+  ]
+}

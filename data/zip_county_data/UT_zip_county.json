@@ -1,0 +1,6178 @@
+[
+  {
+    "zip": "84001",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49013",
+        "ratio": 1.0,
+        "name": "Duchesne County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49013",
+      "ratio": 1.0,
+      "name": "Duchesne County"
+    }
+  },
+  {
+    "zip": "84002",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49013",
+        "ratio": 1.0,
+        "name": "Duchesne County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49013",
+      "ratio": 1.0,
+      "name": "Duchesne County"
+    }
+  },
+  {
+    "zip": "84003",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49049",
+        "ratio": 1.0,
+        "name": "Utah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49049",
+      "ratio": 1.0,
+      "name": "Utah County"
+    }
+  },
+  {
+    "zip": "84004",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49049",
+        "ratio": 1.0,
+        "name": "Utah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49049",
+      "ratio": 1.0,
+      "name": "Utah County"
+    }
+  },
+  {
+    "zip": "84005",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49049",
+        "ratio": 1.0,
+        "name": "Utah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49049",
+      "ratio": 1.0,
+      "name": "Utah County"
+    }
+  },
+  {
+    "zip": "84006",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84007",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49013",
+        "ratio": 1.0,
+        "name": "Duchesne County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49013",
+      "ratio": 1.0,
+      "name": "Duchesne County"
+    }
+  },
+  {
+    "zip": "84008",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49047",
+        "ratio": 1.0,
+        "name": "Uintah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49047",
+      "ratio": 1.0,
+      "name": "Uintah County"
+    }
+  },
+  {
+    "zip": "84009",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84010",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49011",
+        "ratio": 1.0,
+        "name": "Davis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49011",
+      "ratio": 1.0,
+      "name": "Davis County"
+    }
+  },
+  {
+    "zip": "84011",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49011",
+        "ratio": 1.0,
+        "name": "Davis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49011",
+      "ratio": 1.0,
+      "name": "Davis County"
+    }
+  },
+  {
+    "zip": "84013",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49049",
+        "ratio": 1.0,
+        "name": "Utah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49049",
+      "ratio": 1.0,
+      "name": "Utah County"
+    }
+  },
+  {
+    "zip": "84014",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49011",
+        "ratio": 1.0,
+        "name": "Davis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49011",
+      "ratio": 1.0,
+      "name": "Davis County"
+    }
+  },
+  {
+    "zip": "84015",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49011",
+        "ratio": 1.0,
+        "name": "Davis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49011",
+      "ratio": 1.0,
+      "name": "Davis County"
+    }
+  },
+  {
+    "zip": "84016",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49011",
+        "ratio": 1.0,
+        "name": "Davis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49011",
+      "ratio": 1.0,
+      "name": "Davis County"
+    }
+  },
+  {
+    "zip": "84017",
+    "state": "UT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "49043",
+        "ratio": 0.9974,
+        "name": "Summit County"
+      },
+      {
+        "fips": "49029",
+        "ratio": 0.0026,
+        "name": "Morgan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49043",
+      "ratio": 0.9974,
+      "name": "Summit County"
+    }
+  },
+  {
+    "zip": "84018",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49029",
+        "ratio": 1.0,
+        "name": "Morgan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49029",
+      "ratio": 1.0,
+      "name": "Morgan County"
+    }
+  },
+  {
+    "zip": "84020",
+    "state": "UT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 0.9537,
+        "name": "Salt Lake County"
+      },
+      {
+        "fips": "49049",
+        "ratio": 0.0463,
+        "name": "Utah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 0.9537,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84021",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49013",
+        "ratio": 1.0,
+        "name": "Duchesne County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49013",
+      "ratio": 1.0,
+      "name": "Duchesne County"
+    }
+  },
+  {
+    "zip": "84022",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49045",
+        "ratio": 1.0,
+        "name": "Tooele County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49045",
+      "ratio": 1.0,
+      "name": "Tooele County"
+    }
+  },
+  {
+    "zip": "84023",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49009",
+        "ratio": 1.0,
+        "name": "Daggett County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49009",
+      "ratio": 1.0,
+      "name": "Daggett County"
+    }
+  },
+  {
+    "zip": "84024",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49043",
+        "ratio": 1.0,
+        "name": "Summit County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49043",
+      "ratio": 1.0,
+      "name": "Summit County"
+    }
+  },
+  {
+    "zip": "84025",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49011",
+        "ratio": 1.0,
+        "name": "Davis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49011",
+      "ratio": 1.0,
+      "name": "Davis County"
+    }
+  },
+  {
+    "zip": "84026",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49047",
+        "ratio": 1.0,
+        "name": "Uintah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49047",
+      "ratio": 1.0,
+      "name": "Uintah County"
+    }
+  },
+  {
+    "zip": "84027",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49013",
+        "ratio": 1.0,
+        "name": "Duchesne County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49013",
+      "ratio": 1.0,
+      "name": "Duchesne County"
+    }
+  },
+  {
+    "zip": "84028",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49033",
+        "ratio": 1.0,
+        "name": "Rich County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49033",
+      "ratio": 1.0,
+      "name": "Rich County"
+    }
+  },
+  {
+    "zip": "84029",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49045",
+        "ratio": 1.0,
+        "name": "Tooele County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49045",
+      "ratio": 1.0,
+      "name": "Tooele County"
+    }
+  },
+  {
+    "zip": "84031",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49013",
+        "ratio": 1.0,
+        "name": "Duchesne County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49013",
+      "ratio": 1.0,
+      "name": "Duchesne County"
+    }
+  },
+  {
+    "zip": "84032",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49051",
+        "ratio": 1.0,
+        "name": "Wasatch County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49051",
+      "ratio": 1.0,
+      "name": "Wasatch County"
+    }
+  },
+  {
+    "zip": "84033",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49043",
+        "ratio": 1.0,
+        "name": "Summit County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49043",
+      "ratio": 1.0,
+      "name": "Summit County"
+    }
+  },
+  {
+    "zip": "84034",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49045",
+        "ratio": 1.0,
+        "name": "Tooele County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49045",
+      "ratio": 1.0,
+      "name": "Tooele County"
+    }
+  },
+  {
+    "zip": "84035",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49047",
+        "ratio": 1.0,
+        "name": "Uintah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49047",
+      "ratio": 1.0,
+      "name": "Uintah County"
+    }
+  },
+  {
+    "zip": "84036",
+    "state": "UT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "49051",
+        "ratio": 0.5687,
+        "name": "Wasatch County"
+      },
+      {
+        "fips": "49043",
+        "ratio": 0.4313,
+        "name": "Summit County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49051",
+      "ratio": 0.5687,
+      "name": "Wasatch County"
+    }
+  },
+  {
+    "zip": "84037",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49011",
+        "ratio": 1.0,
+        "name": "Davis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49011",
+      "ratio": 1.0,
+      "name": "Davis County"
+    }
+  },
+  {
+    "zip": "84038",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49033",
+        "ratio": 1.0,
+        "name": "Rich County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49033",
+      "ratio": 1.0,
+      "name": "Rich County"
+    }
+  },
+  {
+    "zip": "84039",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49047",
+        "ratio": 1.0,
+        "name": "Uintah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49047",
+      "ratio": 1.0,
+      "name": "Uintah County"
+    }
+  },
+  {
+    "zip": "84040",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49011",
+        "ratio": 1.0,
+        "name": "Davis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49011",
+      "ratio": 1.0,
+      "name": "Davis County"
+    }
+  },
+  {
+    "zip": "84041",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49011",
+        "ratio": 1.0,
+        "name": "Davis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49011",
+      "ratio": 1.0,
+      "name": "Davis County"
+    }
+  },
+  {
+    "zip": "84042",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49049",
+        "ratio": 1.0,
+        "name": "Utah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49049",
+      "ratio": 1.0,
+      "name": "Utah County"
+    }
+  },
+  {
+    "zip": "84043",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49049",
+        "ratio": 1.0,
+        "name": "Utah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49049",
+      "ratio": 1.0,
+      "name": "Utah County"
+    }
+  },
+  {
+    "zip": "84044",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84045",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49049",
+        "ratio": 1.0,
+        "name": "Utah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49049",
+      "ratio": 1.0,
+      "name": "Utah County"
+    }
+  },
+  {
+    "zip": "84046",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49009",
+        "ratio": 1.0,
+        "name": "Daggett County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49009",
+      "ratio": 1.0,
+      "name": "Daggett County"
+    }
+  },
+  {
+    "zip": "84047",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84049",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49051",
+        "ratio": 1.0,
+        "name": "Wasatch County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49051",
+      "ratio": 1.0,
+      "name": "Wasatch County"
+    }
+  },
+  {
+    "zip": "84050",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49029",
+        "ratio": 1.0,
+        "name": "Morgan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49029",
+      "ratio": 1.0,
+      "name": "Morgan County"
+    }
+  },
+  {
+    "zip": "84051",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49013",
+        "ratio": 1.0,
+        "name": "Duchesne County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49013",
+      "ratio": 1.0,
+      "name": "Duchesne County"
+    }
+  },
+  {
+    "zip": "84052",
+    "state": "UT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "49013",
+        "ratio": 0.9978,
+        "name": "Duchesne County"
+      },
+      {
+        "fips": "49047",
+        "ratio": 0.0022,
+        "name": "Uintah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49013",
+      "ratio": 0.9978,
+      "name": "Duchesne County"
+    }
+  },
+  {
+    "zip": "84053",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49013",
+        "ratio": 1.0,
+        "name": "Duchesne County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49013",
+      "ratio": 1.0,
+      "name": "Duchesne County"
+    }
+  },
+  {
+    "zip": "84054",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49011",
+        "ratio": 1.0,
+        "name": "Davis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49011",
+      "ratio": 1.0,
+      "name": "Davis County"
+    }
+  },
+  {
+    "zip": "84055",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49043",
+        "ratio": 1.0,
+        "name": "Summit County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49043",
+      "ratio": 1.0,
+      "name": "Summit County"
+    }
+  },
+  {
+    "zip": "84056",
+    "state": "UT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "49011",
+        "ratio": 0.9983,
+        "name": "Davis County"
+      },
+      {
+        "fips": "49057",
+        "ratio": 0.0017,
+        "name": "Weber County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49011",
+      "ratio": 0.9983,
+      "name": "Davis County"
+    }
+  },
+  {
+    "zip": "84057",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49049",
+        "ratio": 1.0,
+        "name": "Utah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49049",
+      "ratio": 1.0,
+      "name": "Utah County"
+    }
+  },
+  {
+    "zip": "84058",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49049",
+        "ratio": 1.0,
+        "name": "Utah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49049",
+      "ratio": 1.0,
+      "name": "Utah County"
+    }
+  },
+  {
+    "zip": "84059",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49049",
+        "ratio": 1.0,
+        "name": "Utah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49049",
+      "ratio": 1.0,
+      "name": "Utah County"
+    }
+  },
+  {
+    "zip": "84060",
+    "state": "UT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "49043",
+        "ratio": 0.9387,
+        "name": "Summit County"
+      },
+      {
+        "fips": "49051",
+        "ratio": 0.0613,
+        "name": "Wasatch County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49043",
+      "ratio": 0.9387,
+      "name": "Summit County"
+    }
+  },
+  {
+    "zip": "84061",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49043",
+        "ratio": 1.0,
+        "name": "Summit County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49043",
+      "ratio": 1.0,
+      "name": "Summit County"
+    }
+  },
+  {
+    "zip": "84062",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49049",
+        "ratio": 1.0,
+        "name": "Utah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49049",
+      "ratio": 1.0,
+      "name": "Utah County"
+    }
+  },
+  {
+    "zip": "84063",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49047",
+        "ratio": 1.0,
+        "name": "Uintah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49047",
+      "ratio": 1.0,
+      "name": "Uintah County"
+    }
+  },
+  {
+    "zip": "84064",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49033",
+        "ratio": 1.0,
+        "name": "Rich County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49033",
+      "ratio": 1.0,
+      "name": "Rich County"
+    }
+  },
+  {
+    "zip": "84065",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84066",
+    "state": "UT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "49013",
+        "ratio": 0.8904,
+        "name": "Duchesne County"
+      },
+      {
+        "fips": "49047",
+        "ratio": 0.1096,
+        "name": "Uintah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49013",
+      "ratio": 0.8904,
+      "name": "Duchesne County"
+    }
+  },
+  {
+    "zip": "84067",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49057",
+        "ratio": 1.0,
+        "name": "Weber County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49057",
+      "ratio": 1.0,
+      "name": "Weber County"
+    }
+  },
+  {
+    "zip": "84068",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49043",
+        "ratio": 1.0,
+        "name": "Summit County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49043",
+      "ratio": 1.0,
+      "name": "Summit County"
+    }
+  },
+  {
+    "zip": "84069",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49045",
+        "ratio": 1.0,
+        "name": "Tooele County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49045",
+      "ratio": 1.0,
+      "name": "Tooele County"
+    }
+  },
+  {
+    "zip": "84070",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84071",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49045",
+        "ratio": 1.0,
+        "name": "Tooele County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49045",
+      "ratio": 1.0,
+      "name": "Tooele County"
+    }
+  },
+  {
+    "zip": "84072",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49013",
+        "ratio": 1.0,
+        "name": "Duchesne County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49013",
+      "ratio": 1.0,
+      "name": "Duchesne County"
+    }
+  },
+  {
+    "zip": "84073",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49013",
+        "ratio": 1.0,
+        "name": "Duchesne County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49013",
+      "ratio": 1.0,
+      "name": "Duchesne County"
+    }
+  },
+  {
+    "zip": "84074",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49045",
+        "ratio": 1.0,
+        "name": "Tooele County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49045",
+      "ratio": 1.0,
+      "name": "Tooele County"
+    }
+  },
+  {
+    "zip": "84075",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49011",
+        "ratio": 1.0,
+        "name": "Davis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49011",
+      "ratio": 1.0,
+      "name": "Davis County"
+    }
+  },
+  {
+    "zip": "84076",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49047",
+        "ratio": 1.0,
+        "name": "Uintah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49047",
+      "ratio": 1.0,
+      "name": "Uintah County"
+    }
+  },
+  {
+    "zip": "84078",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49047",
+        "ratio": 1.0,
+        "name": "Uintah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49047",
+      "ratio": 1.0,
+      "name": "Uintah County"
+    }
+  },
+  {
+    "zip": "84079",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49047",
+        "ratio": 1.0,
+        "name": "Uintah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49047",
+      "ratio": 1.0,
+      "name": "Uintah County"
+    }
+  },
+  {
+    "zip": "84080",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49045",
+        "ratio": 1.0,
+        "name": "Tooele County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49045",
+      "ratio": 1.0,
+      "name": "Tooele County"
+    }
+  },
+  {
+    "zip": "84081",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84082",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49051",
+        "ratio": 1.0,
+        "name": "Wasatch County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49051",
+      "ratio": 1.0,
+      "name": "Wasatch County"
+    }
+  },
+  {
+    "zip": "84083",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49045",
+        "ratio": 1.0,
+        "name": "Tooele County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49045",
+      "ratio": 1.0,
+      "name": "Tooele County"
+    }
+  },
+  {
+    "zip": "84084",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84085",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49047",
+        "ratio": 1.0,
+        "name": "Uintah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49047",
+      "ratio": 1.0,
+      "name": "Uintah County"
+    }
+  },
+  {
+    "zip": "84086",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49033",
+        "ratio": 1.0,
+        "name": "Rich County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49033",
+      "ratio": 1.0,
+      "name": "Rich County"
+    }
+  },
+  {
+    "zip": "84087",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49011",
+        "ratio": 1.0,
+        "name": "Davis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49011",
+      "ratio": 1.0,
+      "name": "Davis County"
+    }
+  },
+  {
+    "zip": "84088",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84089",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49011",
+        "ratio": 1.0,
+        "name": "Davis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49011",
+      "ratio": 1.0,
+      "name": "Davis County"
+    }
+  },
+  {
+    "zip": "84090",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84091",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84092",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84093",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84094",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84095",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84096",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84097",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49049",
+        "ratio": 1.0,
+        "name": "Utah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49049",
+      "ratio": 1.0,
+      "name": "Utah County"
+    }
+  },
+  {
+    "zip": "84098",
+    "state": "UT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "49043",
+        "ratio": 0.9999,
+        "name": "Summit County"
+      },
+      {
+        "fips": "49029",
+        "ratio": 0.0001,
+        "name": "Morgan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49043",
+      "ratio": 0.9999,
+      "name": "Summit County"
+    }
+  },
+  {
+    "zip": "84101",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84102",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84103",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84104",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84105",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84106",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84107",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84108",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84109",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84110",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84111",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84112",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84113",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84114",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84115",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84116",
+    "state": "UT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 0.9999,
+        "name": "Salt Lake County"
+      },
+      {
+        "fips": "49011",
+        "ratio": 0.0001,
+        "name": "Davis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 0.9999,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84117",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84118",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84119",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84120",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84121",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84122",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84123",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84124",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84125",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84126",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84127",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84128",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84129",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84132",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84133",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84134",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84138",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84139",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84143",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84148",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84150",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84151",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84152",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84157",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84158",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84165",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84170",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84171",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84180",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84190",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84199",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49035",
+        "ratio": 1.0,
+        "name": "Salt Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49035",
+      "ratio": 1.0,
+      "name": "Salt Lake County"
+    }
+  },
+  {
+    "zip": "84201",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49057",
+        "ratio": 1.0,
+        "name": "Weber County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49057",
+      "ratio": 1.0,
+      "name": "Weber County"
+    }
+  },
+  {
+    "zip": "84301",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49003",
+        "ratio": 1.0,
+        "name": "Box Elder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49003",
+      "ratio": 1.0,
+      "name": "Box Elder County"
+    }
+  },
+  {
+    "zip": "84302",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49003",
+        "ratio": 1.0,
+        "name": "Box Elder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49003",
+      "ratio": 1.0,
+      "name": "Box Elder County"
+    }
+  },
+  {
+    "zip": "84304",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49005",
+        "ratio": 1.0,
+        "name": "Cache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49005",
+      "ratio": 1.0,
+      "name": "Cache County"
+    }
+  },
+  {
+    "zip": "84305",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49005",
+        "ratio": 1.0,
+        "name": "Cache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49005",
+      "ratio": 1.0,
+      "name": "Cache County"
+    }
+  },
+  {
+    "zip": "84306",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49003",
+        "ratio": 1.0,
+        "name": "Box Elder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49003",
+      "ratio": 1.0,
+      "name": "Box Elder County"
+    }
+  },
+  {
+    "zip": "84307",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49003",
+        "ratio": 1.0,
+        "name": "Box Elder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49003",
+      "ratio": 1.0,
+      "name": "Box Elder County"
+    }
+  },
+  {
+    "zip": "84308",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49005",
+        "ratio": 1.0,
+        "name": "Cache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49005",
+      "ratio": 1.0,
+      "name": "Cache County"
+    }
+  },
+  {
+    "zip": "84309",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49003",
+        "ratio": 1.0,
+        "name": "Box Elder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49003",
+      "ratio": 1.0,
+      "name": "Box Elder County"
+    }
+  },
+  {
+    "zip": "84310",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49057",
+        "ratio": 1.0,
+        "name": "Weber County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49057",
+      "ratio": 1.0,
+      "name": "Weber County"
+    }
+  },
+  {
+    "zip": "84311",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49003",
+        "ratio": 1.0,
+        "name": "Box Elder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49003",
+      "ratio": 1.0,
+      "name": "Box Elder County"
+    }
+  },
+  {
+    "zip": "84312",
+    "state": "UT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "49003",
+        "ratio": 0.9995,
+        "name": "Box Elder County"
+      },
+      {
+        "fips": "49005",
+        "ratio": 0.0005,
+        "name": "Cache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49003",
+      "ratio": 0.9995,
+      "name": "Box Elder County"
+    }
+  },
+  {
+    "zip": "84313",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49003",
+        "ratio": 1.0,
+        "name": "Box Elder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49003",
+      "ratio": 1.0,
+      "name": "Box Elder County"
+    }
+  },
+  {
+    "zip": "84314",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49003",
+        "ratio": 1.0,
+        "name": "Box Elder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49003",
+      "ratio": 1.0,
+      "name": "Box Elder County"
+    }
+  },
+  {
+    "zip": "84315",
+    "state": "UT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "49057",
+        "ratio": 0.9587,
+        "name": "Weber County"
+      },
+      {
+        "fips": "49011",
+        "ratio": 0.0413,
+        "name": "Davis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49057",
+      "ratio": 0.9587,
+      "name": "Weber County"
+    }
+  },
+  {
+    "zip": "84316",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49003",
+        "ratio": 1.0,
+        "name": "Box Elder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49003",
+      "ratio": 1.0,
+      "name": "Box Elder County"
+    }
+  },
+  {
+    "zip": "84317",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49057",
+        "ratio": 1.0,
+        "name": "Weber County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49057",
+      "ratio": 1.0,
+      "name": "Weber County"
+    }
+  },
+  {
+    "zip": "84318",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49005",
+        "ratio": 1.0,
+        "name": "Cache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49005",
+      "ratio": 1.0,
+      "name": "Cache County"
+    }
+  },
+  {
+    "zip": "84319",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49005",
+        "ratio": 1.0,
+        "name": "Cache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49005",
+      "ratio": 1.0,
+      "name": "Cache County"
+    }
+  },
+  {
+    "zip": "84320",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49005",
+        "ratio": 1.0,
+        "name": "Cache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49005",
+      "ratio": 1.0,
+      "name": "Cache County"
+    }
+  },
+  {
+    "zip": "84321",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49005",
+        "ratio": 1.0,
+        "name": "Cache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49005",
+      "ratio": 1.0,
+      "name": "Cache County"
+    }
+  },
+  {
+    "zip": "84322",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49005",
+        "ratio": 1.0,
+        "name": "Cache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49005",
+      "ratio": 1.0,
+      "name": "Cache County"
+    }
+  },
+  {
+    "zip": "84323",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49005",
+        "ratio": 1.0,
+        "name": "Cache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49005",
+      "ratio": 1.0,
+      "name": "Cache County"
+    }
+  },
+  {
+    "zip": "84324",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49003",
+        "ratio": 1.0,
+        "name": "Box Elder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49003",
+      "ratio": 1.0,
+      "name": "Box Elder County"
+    }
+  },
+  {
+    "zip": "84325",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49005",
+        "ratio": 1.0,
+        "name": "Cache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49005",
+      "ratio": 1.0,
+      "name": "Cache County"
+    }
+  },
+  {
+    "zip": "84326",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49005",
+        "ratio": 1.0,
+        "name": "Cache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49005",
+      "ratio": 1.0,
+      "name": "Cache County"
+    }
+  },
+  {
+    "zip": "84327",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49005",
+        "ratio": 1.0,
+        "name": "Cache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49005",
+      "ratio": 1.0,
+      "name": "Cache County"
+    }
+  },
+  {
+    "zip": "84328",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49005",
+        "ratio": 1.0,
+        "name": "Cache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49005",
+      "ratio": 1.0,
+      "name": "Cache County"
+    }
+  },
+  {
+    "zip": "84329",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49003",
+        "ratio": 1.0,
+        "name": "Box Elder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49003",
+      "ratio": 1.0,
+      "name": "Box Elder County"
+    }
+  },
+  {
+    "zip": "84330",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49003",
+        "ratio": 1.0,
+        "name": "Box Elder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49003",
+      "ratio": 1.0,
+      "name": "Box Elder County"
+    }
+  },
+  {
+    "zip": "84331",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49003",
+        "ratio": 1.0,
+        "name": "Box Elder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49003",
+      "ratio": 1.0,
+      "name": "Box Elder County"
+    }
+  },
+  {
+    "zip": "84332",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49005",
+        "ratio": 1.0,
+        "name": "Cache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49005",
+      "ratio": 1.0,
+      "name": "Cache County"
+    }
+  },
+  {
+    "zip": "84333",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49005",
+        "ratio": 1.0,
+        "name": "Cache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49005",
+      "ratio": 1.0,
+      "name": "Cache County"
+    }
+  },
+  {
+    "zip": "84334",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49003",
+        "ratio": 1.0,
+        "name": "Box Elder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49003",
+      "ratio": 1.0,
+      "name": "Box Elder County"
+    }
+  },
+  {
+    "zip": "84335",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49005",
+        "ratio": 1.0,
+        "name": "Cache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49005",
+      "ratio": 1.0,
+      "name": "Cache County"
+    }
+  },
+  {
+    "zip": "84336",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49003",
+        "ratio": 1.0,
+        "name": "Box Elder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49003",
+      "ratio": 1.0,
+      "name": "Box Elder County"
+    }
+  },
+  {
+    "zip": "84337",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49003",
+        "ratio": 1.0,
+        "name": "Box Elder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49003",
+      "ratio": 1.0,
+      "name": "Box Elder County"
+    }
+  },
+  {
+    "zip": "84338",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49005",
+        "ratio": 1.0,
+        "name": "Cache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49005",
+      "ratio": 1.0,
+      "name": "Cache County"
+    }
+  },
+  {
+    "zip": "84339",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49005",
+        "ratio": 1.0,
+        "name": "Cache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49005",
+      "ratio": 1.0,
+      "name": "Cache County"
+    }
+  },
+  {
+    "zip": "84340",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49003",
+        "ratio": 1.0,
+        "name": "Box Elder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49003",
+      "ratio": 1.0,
+      "name": "Box Elder County"
+    }
+  },
+  {
+    "zip": "84341",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49005",
+        "ratio": 1.0,
+        "name": "Cache County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49005",
+      "ratio": 1.0,
+      "name": "Cache County"
+    }
+  },
+  {
+    "zip": "84401",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49057",
+        "ratio": 1.0,
+        "name": "Weber County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49057",
+      "ratio": 1.0,
+      "name": "Weber County"
+    }
+  },
+  {
+    "zip": "84402",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49057",
+        "ratio": 1.0,
+        "name": "Weber County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49057",
+      "ratio": 1.0,
+      "name": "Weber County"
+    }
+  },
+  {
+    "zip": "84403",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49057",
+        "ratio": 1.0,
+        "name": "Weber County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49057",
+      "ratio": 1.0,
+      "name": "Weber County"
+    }
+  },
+  {
+    "zip": "84404",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49057",
+        "ratio": 1.0,
+        "name": "Weber County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49057",
+      "ratio": 1.0,
+      "name": "Weber County"
+    }
+  },
+  {
+    "zip": "84405",
+    "state": "UT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "49057",
+        "ratio": 0.8275,
+        "name": "Weber County"
+      },
+      {
+        "fips": "49011",
+        "ratio": 0.1725,
+        "name": "Davis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49057",
+      "ratio": 0.8275,
+      "name": "Weber County"
+    }
+  },
+  {
+    "zip": "84407",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49057",
+        "ratio": 1.0,
+        "name": "Weber County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49057",
+      "ratio": 1.0,
+      "name": "Weber County"
+    }
+  },
+  {
+    "zip": "84408",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49057",
+        "ratio": 1.0,
+        "name": "Weber County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49057",
+      "ratio": 1.0,
+      "name": "Weber County"
+    }
+  },
+  {
+    "zip": "84409",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49057",
+        "ratio": 1.0,
+        "name": "Weber County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49057",
+      "ratio": 1.0,
+      "name": "Weber County"
+    }
+  },
+  {
+    "zip": "84412",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49057",
+        "ratio": 1.0,
+        "name": "Weber County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49057",
+      "ratio": 1.0,
+      "name": "Weber County"
+    }
+  },
+  {
+    "zip": "84414",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49057",
+        "ratio": 1.0,
+        "name": "Weber County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49057",
+      "ratio": 1.0,
+      "name": "Weber County"
+    }
+  },
+  {
+    "zip": "84415",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49057",
+        "ratio": 1.0,
+        "name": "Weber County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49057",
+      "ratio": 1.0,
+      "name": "Weber County"
+    }
+  },
+  {
+    "zip": "84501",
+    "state": "UT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "49007",
+        "ratio": 0.9993,
+        "name": "Carbon County"
+      },
+      {
+        "fips": "49015",
+        "ratio": 0.0007,
+        "name": "Emery County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49007",
+      "ratio": 0.9993,
+      "name": "Carbon County"
+    }
+  },
+  {
+    "zip": "84510",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49037",
+        "ratio": 1.0,
+        "name": "San Juan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49037",
+      "ratio": 1.0,
+      "name": "San Juan County"
+    }
+  },
+  {
+    "zip": "84511",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49037",
+        "ratio": 1.0,
+        "name": "San Juan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49037",
+      "ratio": 1.0,
+      "name": "San Juan County"
+    }
+  },
+  {
+    "zip": "84512",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49037",
+        "ratio": 1.0,
+        "name": "San Juan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49037",
+      "ratio": 1.0,
+      "name": "San Juan County"
+    }
+  },
+  {
+    "zip": "84513",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49015",
+        "ratio": 1.0,
+        "name": "Emery County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49015",
+      "ratio": 1.0,
+      "name": "Emery County"
+    }
+  },
+  {
+    "zip": "84515",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49019",
+        "ratio": 1.0,
+        "name": "Grand County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49019",
+      "ratio": 1.0,
+      "name": "Grand County"
+    }
+  },
+  {
+    "zip": "84516",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49015",
+        "ratio": 1.0,
+        "name": "Emery County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49015",
+      "ratio": 1.0,
+      "name": "Emery County"
+    }
+  },
+  {
+    "zip": "84518",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49015",
+        "ratio": 1.0,
+        "name": "Emery County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49015",
+      "ratio": 1.0,
+      "name": "Emery County"
+    }
+  },
+  {
+    "zip": "84520",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49007",
+        "ratio": 1.0,
+        "name": "Carbon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49007",
+      "ratio": 1.0,
+      "name": "Carbon County"
+    }
+  },
+  {
+    "zip": "84521",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49015",
+        "ratio": 1.0,
+        "name": "Emery County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49015",
+      "ratio": 1.0,
+      "name": "Emery County"
+    }
+  },
+  {
+    "zip": "84522",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49015",
+        "ratio": 1.0,
+        "name": "Emery County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49015",
+      "ratio": 1.0,
+      "name": "Emery County"
+    }
+  },
+  {
+    "zip": "84523",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49015",
+        "ratio": 1.0,
+        "name": "Emery County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49015",
+      "ratio": 1.0,
+      "name": "Emery County"
+    }
+  },
+  {
+    "zip": "84525",
+    "state": "UT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "49015",
+        "ratio": 0.9982,
+        "name": "Emery County"
+      },
+      {
+        "fips": "49019",
+        "ratio": 0.0018,
+        "name": "Grand County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49015",
+      "ratio": 0.9982,
+      "name": "Emery County"
+    }
+  },
+  {
+    "zip": "84526",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49007",
+        "ratio": 1.0,
+        "name": "Carbon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49007",
+      "ratio": 1.0,
+      "name": "Carbon County"
+    }
+  },
+  {
+    "zip": "84528",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49015",
+        "ratio": 1.0,
+        "name": "Emery County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49015",
+      "ratio": 1.0,
+      "name": "Emery County"
+    }
+  },
+  {
+    "zip": "84529",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49007",
+        "ratio": 1.0,
+        "name": "Carbon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49007",
+      "ratio": 1.0,
+      "name": "Carbon County"
+    }
+  },
+  {
+    "zip": "84530",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49037",
+        "ratio": 1.0,
+        "name": "San Juan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49037",
+      "ratio": 1.0,
+      "name": "San Juan County"
+    }
+  },
+  {
+    "zip": "84531",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49037",
+        "ratio": 1.0,
+        "name": "San Juan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49037",
+      "ratio": 1.0,
+      "name": "San Juan County"
+    }
+  },
+  {
+    "zip": "84532",
+    "state": "UT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "49019",
+        "ratio": 0.9483,
+        "name": "Grand County"
+      },
+      {
+        "fips": "49037",
+        "ratio": 0.0517,
+        "name": "San Juan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49019",
+      "ratio": 0.9483,
+      "name": "Grand County"
+    }
+  },
+  {
+    "zip": "84533",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49037",
+        "ratio": 1.0,
+        "name": "San Juan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49037",
+      "ratio": 1.0,
+      "name": "San Juan County"
+    }
+  },
+  {
+    "zip": "84534",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49037",
+        "ratio": 1.0,
+        "name": "San Juan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49037",
+      "ratio": 1.0,
+      "name": "San Juan County"
+    }
+  },
+  {
+    "zip": "84535",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49037",
+        "ratio": 1.0,
+        "name": "San Juan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49037",
+      "ratio": 1.0,
+      "name": "San Juan County"
+    }
+  },
+  {
+    "zip": "84536",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49037",
+        "ratio": 1.0,
+        "name": "San Juan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49037",
+      "ratio": 1.0,
+      "name": "San Juan County"
+    }
+  },
+  {
+    "zip": "84537",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49015",
+        "ratio": 1.0,
+        "name": "Emery County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49015",
+      "ratio": 1.0,
+      "name": "Emery County"
+    }
+  },
+  {
+    "zip": "84539",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49007",
+        "ratio": 1.0,
+        "name": "Carbon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49007",
+      "ratio": 1.0,
+      "name": "Carbon County"
+    }
+  },
+  {
+    "zip": "84540",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49019",
+        "ratio": 1.0,
+        "name": "Grand County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49019",
+      "ratio": 1.0,
+      "name": "Grand County"
+    }
+  },
+  {
+    "zip": "84542",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49007",
+        "ratio": 1.0,
+        "name": "Carbon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49007",
+      "ratio": 1.0,
+      "name": "Carbon County"
+    }
+  },
+  {
+    "zip": "84601",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49049",
+        "ratio": 1.0,
+        "name": "Utah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49049",
+      "ratio": 1.0,
+      "name": "Utah County"
+    }
+  },
+  {
+    "zip": "84602",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49049",
+        "ratio": 1.0,
+        "name": "Utah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49049",
+      "ratio": 1.0,
+      "name": "Utah County"
+    }
+  },
+  {
+    "zip": "84603",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49049",
+        "ratio": 1.0,
+        "name": "Utah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49049",
+      "ratio": 1.0,
+      "name": "Utah County"
+    }
+  },
+  {
+    "zip": "84604",
+    "state": "UT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "49049",
+        "ratio": 0.9946,
+        "name": "Utah County"
+      },
+      {
+        "fips": "49051",
+        "ratio": 0.0054,
+        "name": "Wasatch County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49049",
+      "ratio": 0.9946,
+      "name": "Utah County"
+    }
+  },
+  {
+    "zip": "84605",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49049",
+        "ratio": 1.0,
+        "name": "Utah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49049",
+      "ratio": 1.0,
+      "name": "Utah County"
+    }
+  },
+  {
+    "zip": "84606",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49049",
+        "ratio": 1.0,
+        "name": "Utah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49049",
+      "ratio": 1.0,
+      "name": "Utah County"
+    }
+  },
+  {
+    "zip": "84620",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49041",
+        "ratio": 1.0,
+        "name": "Sevier County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49041",
+      "ratio": 1.0,
+      "name": "Sevier County"
+    }
+  },
+  {
+    "zip": "84621",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49039",
+        "ratio": 1.0,
+        "name": "Sanpete County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49039",
+      "ratio": 1.0,
+      "name": "Sanpete County"
+    }
+  },
+  {
+    "zip": "84622",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49039",
+        "ratio": 1.0,
+        "name": "Sanpete County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49039",
+      "ratio": 1.0,
+      "name": "Sanpete County"
+    }
+  },
+  {
+    "zip": "84623",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49039",
+        "ratio": 1.0,
+        "name": "Sanpete County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49039",
+      "ratio": 1.0,
+      "name": "Sanpete County"
+    }
+  },
+  {
+    "zip": "84624",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49027",
+        "ratio": 1.0,
+        "name": "Millard County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49027",
+      "ratio": 1.0,
+      "name": "Millard County"
+    }
+  },
+  {
+    "zip": "84626",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49049",
+        "ratio": 1.0,
+        "name": "Utah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49049",
+      "ratio": 1.0,
+      "name": "Utah County"
+    }
+  },
+  {
+    "zip": "84627",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49039",
+        "ratio": 1.0,
+        "name": "Sanpete County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49039",
+      "ratio": 1.0,
+      "name": "Sanpete County"
+    }
+  },
+  {
+    "zip": "84628",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49023",
+        "ratio": 1.0,
+        "name": "Juab County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49023",
+      "ratio": 1.0,
+      "name": "Juab County"
+    }
+  },
+  {
+    "zip": "84629",
+    "state": "UT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "49039",
+        "ratio": 0.9897,
+        "name": "Sanpete County"
+      },
+      {
+        "fips": "49049",
+        "ratio": 0.0103,
+        "name": "Utah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49039",
+      "ratio": 0.9897,
+      "name": "Sanpete County"
+    }
+  },
+  {
+    "zip": "84630",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49039",
+        "ratio": 1.0,
+        "name": "Sanpete County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49039",
+      "ratio": 1.0,
+      "name": "Sanpete County"
+    }
+  },
+  {
+    "zip": "84631",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49027",
+        "ratio": 1.0,
+        "name": "Millard County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49027",
+      "ratio": 1.0,
+      "name": "Millard County"
+    }
+  },
+  {
+    "zip": "84632",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49039",
+        "ratio": 1.0,
+        "name": "Sanpete County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49039",
+      "ratio": 1.0,
+      "name": "Sanpete County"
+    }
+  },
+  {
+    "zip": "84633",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49049",
+        "ratio": 1.0,
+        "name": "Utah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49049",
+      "ratio": 1.0,
+      "name": "Utah County"
+    }
+  },
+  {
+    "zip": "84634",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49039",
+        "ratio": 1.0,
+        "name": "Sanpete County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49039",
+      "ratio": 1.0,
+      "name": "Sanpete County"
+    }
+  },
+  {
+    "zip": "84635",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49027",
+        "ratio": 1.0,
+        "name": "Millard County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49027",
+      "ratio": 1.0,
+      "name": "Millard County"
+    }
+  },
+  {
+    "zip": "84636",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49027",
+        "ratio": 1.0,
+        "name": "Millard County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49027",
+      "ratio": 1.0,
+      "name": "Millard County"
+    }
+  },
+  {
+    "zip": "84637",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49027",
+        "ratio": 1.0,
+        "name": "Millard County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49027",
+      "ratio": 1.0,
+      "name": "Millard County"
+    }
+  },
+  {
+    "zip": "84638",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49027",
+        "ratio": 1.0,
+        "name": "Millard County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49027",
+      "ratio": 1.0,
+      "name": "Millard County"
+    }
+  },
+  {
+    "zip": "84639",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49023",
+        "ratio": 1.0,
+        "name": "Juab County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49023",
+      "ratio": 1.0,
+      "name": "Juab County"
+    }
+  },
+  {
+    "zip": "84640",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49027",
+        "ratio": 1.0,
+        "name": "Millard County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49027",
+      "ratio": 1.0,
+      "name": "Millard County"
+    }
+  },
+  {
+    "zip": "84642",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49039",
+        "ratio": 1.0,
+        "name": "Sanpete County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49039",
+      "ratio": 1.0,
+      "name": "Sanpete County"
+    }
+  },
+  {
+    "zip": "84643",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49039",
+        "ratio": 1.0,
+        "name": "Sanpete County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49039",
+      "ratio": 1.0,
+      "name": "Sanpete County"
+    }
+  },
+  {
+    "zip": "84644",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49027",
+        "ratio": 1.0,
+        "name": "Millard County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49027",
+      "ratio": 1.0,
+      "name": "Millard County"
+    }
+  },
+  {
+    "zip": "84645",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49023",
+        "ratio": 1.0,
+        "name": "Juab County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49023",
+      "ratio": 1.0,
+      "name": "Juab County"
+    }
+  },
+  {
+    "zip": "84646",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49039",
+        "ratio": 1.0,
+        "name": "Sanpete County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49039",
+      "ratio": 1.0,
+      "name": "Sanpete County"
+    }
+  },
+  {
+    "zip": "84647",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49039",
+        "ratio": 1.0,
+        "name": "Sanpete County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49039",
+      "ratio": 1.0,
+      "name": "Sanpete County"
+    }
+  },
+  {
+    "zip": "84648",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49023",
+        "ratio": 1.0,
+        "name": "Juab County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49023",
+      "ratio": 1.0,
+      "name": "Juab County"
+    }
+  },
+  {
+    "zip": "84649",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49027",
+        "ratio": 1.0,
+        "name": "Millard County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49027",
+      "ratio": 1.0,
+      "name": "Millard County"
+    }
+  },
+  {
+    "zip": "84651",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49049",
+        "ratio": 1.0,
+        "name": "Utah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49049",
+      "ratio": 1.0,
+      "name": "Utah County"
+    }
+  },
+  {
+    "zip": "84652",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49041",
+        "ratio": 1.0,
+        "name": "Sevier County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49041",
+      "ratio": 1.0,
+      "name": "Sevier County"
+    }
+  },
+  {
+    "zip": "84653",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49049",
+        "ratio": 1.0,
+        "name": "Utah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49049",
+      "ratio": 1.0,
+      "name": "Utah County"
+    }
+  },
+  {
+    "zip": "84654",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49041",
+        "ratio": 1.0,
+        "name": "Sevier County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49041",
+      "ratio": 1.0,
+      "name": "Sevier County"
+    }
+  },
+  {
+    "zip": "84655",
+    "state": "UT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "49049",
+        "ratio": 0.9997,
+        "name": "Utah County"
+      },
+      {
+        "fips": "49023",
+        "ratio": 0.0003,
+        "name": "Juab County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49049",
+      "ratio": 0.9997,
+      "name": "Utah County"
+    }
+  },
+  {
+    "zip": "84656",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49027",
+        "ratio": 1.0,
+        "name": "Millard County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49027",
+      "ratio": 1.0,
+      "name": "Millard County"
+    }
+  },
+  {
+    "zip": "84657",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49041",
+        "ratio": 1.0,
+        "name": "Sevier County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49041",
+      "ratio": 1.0,
+      "name": "Sevier County"
+    }
+  },
+  {
+    "zip": "84660",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49049",
+        "ratio": 1.0,
+        "name": "Utah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49049",
+      "ratio": 1.0,
+      "name": "Utah County"
+    }
+  },
+  {
+    "zip": "84662",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49039",
+        "ratio": 1.0,
+        "name": "Sanpete County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49039",
+      "ratio": 1.0,
+      "name": "Sanpete County"
+    }
+  },
+  {
+    "zip": "84663",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49049",
+        "ratio": 1.0,
+        "name": "Utah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49049",
+      "ratio": 1.0,
+      "name": "Utah County"
+    }
+  },
+  {
+    "zip": "84664",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49049",
+        "ratio": 1.0,
+        "name": "Utah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49049",
+      "ratio": 1.0,
+      "name": "Utah County"
+    }
+  },
+  {
+    "zip": "84665",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49039",
+        "ratio": 1.0,
+        "name": "Sanpete County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49039",
+      "ratio": 1.0,
+      "name": "Sanpete County"
+    }
+  },
+  {
+    "zip": "84667",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49039",
+        "ratio": 1.0,
+        "name": "Sanpete County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49039",
+      "ratio": 1.0,
+      "name": "Sanpete County"
+    }
+  },
+  {
+    "zip": "84701",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49041",
+        "ratio": 1.0,
+        "name": "Sevier County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49041",
+      "ratio": 1.0,
+      "name": "Sevier County"
+    }
+  },
+  {
+    "zip": "84710",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49025",
+        "ratio": 1.0,
+        "name": "Kane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49025",
+      "ratio": 1.0,
+      "name": "Kane County"
+    }
+  },
+  {
+    "zip": "84711",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49041",
+        "ratio": 1.0,
+        "name": "Sevier County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49041",
+      "ratio": 1.0,
+      "name": "Sevier County"
+    }
+  },
+  {
+    "zip": "84712",
+    "state": "UT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "49017",
+        "ratio": 0.9091,
+        "name": "Garfield County"
+      },
+      {
+        "fips": "49031",
+        "ratio": 0.0909,
+        "name": "Piute County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49017",
+      "ratio": 0.9091,
+      "name": "Garfield County"
+    }
+  },
+  {
+    "zip": "84713",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49001",
+        "ratio": 1.0,
+        "name": "Beaver County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49001",
+      "ratio": 1.0,
+      "name": "Beaver County"
+    }
+  },
+  {
+    "zip": "84714",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49021",
+        "ratio": 1.0,
+        "name": "Iron County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49021",
+      "ratio": 1.0,
+      "name": "Iron County"
+    }
+  },
+  {
+    "zip": "84715",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49055",
+        "ratio": 1.0,
+        "name": "Wayne County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49055",
+      "ratio": 1.0,
+      "name": "Wayne County"
+    }
+  },
+  {
+    "zip": "84716",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49017",
+        "ratio": 1.0,
+        "name": "Garfield County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49017",
+      "ratio": 1.0,
+      "name": "Garfield County"
+    }
+  },
+  {
+    "zip": "84718",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49017",
+        "ratio": 1.0,
+        "name": "Garfield County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49017",
+      "ratio": 1.0,
+      "name": "Garfield County"
+    }
+  },
+  {
+    "zip": "84719",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49021",
+        "ratio": 1.0,
+        "name": "Iron County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49021",
+      "ratio": 1.0,
+      "name": "Iron County"
+    }
+  },
+  {
+    "zip": "84720",
+    "state": "UT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "49021",
+        "ratio": 0.9997,
+        "name": "Iron County"
+      },
+      {
+        "fips": "49053",
+        "ratio": 0.0003,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49021",
+      "ratio": 0.9997,
+      "name": "Iron County"
+    }
+  },
+  {
+    "zip": "84721",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49021",
+        "ratio": 1.0,
+        "name": "Iron County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49021",
+      "ratio": 1.0,
+      "name": "Iron County"
+    }
+  },
+  {
+    "zip": "84722",
+    "state": "UT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "49053",
+        "ratio": 0.9976,
+        "name": "Washington County"
+      },
+      {
+        "fips": "49021",
+        "ratio": 0.0024,
+        "name": "Iron County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49053",
+      "ratio": 0.9976,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "84723",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49031",
+        "ratio": 1.0,
+        "name": "Piute County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49031",
+      "ratio": 1.0,
+      "name": "Piute County"
+    }
+  },
+  {
+    "zip": "84724",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49041",
+        "ratio": 1.0,
+        "name": "Sevier County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49041",
+      "ratio": 1.0,
+      "name": "Sevier County"
+    }
+  },
+  {
+    "zip": "84725",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49053",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49053",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "84726",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49017",
+        "ratio": 1.0,
+        "name": "Garfield County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49017",
+      "ratio": 1.0,
+      "name": "Garfield County"
+    }
+  },
+  {
+    "zip": "84728",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49027",
+        "ratio": 1.0,
+        "name": "Millard County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49027",
+      "ratio": 1.0,
+      "name": "Millard County"
+    }
+  },
+  {
+    "zip": "84729",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49025",
+        "ratio": 1.0,
+        "name": "Kane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49025",
+      "ratio": 1.0,
+      "name": "Kane County"
+    }
+  },
+  {
+    "zip": "84730",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49041",
+        "ratio": 1.0,
+        "name": "Sevier County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49041",
+      "ratio": 1.0,
+      "name": "Sevier County"
+    }
+  },
+  {
+    "zip": "84731",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49001",
+        "ratio": 1.0,
+        "name": "Beaver County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49001",
+      "ratio": 1.0,
+      "name": "Beaver County"
+    }
+  },
+  {
+    "zip": "84732",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49031",
+        "ratio": 1.0,
+        "name": "Piute County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49031",
+      "ratio": 1.0,
+      "name": "Piute County"
+    }
+  },
+  {
+    "zip": "84733",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49053",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49053",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "84734",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49055",
+        "ratio": 1.0,
+        "name": "Wayne County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49055",
+      "ratio": 1.0,
+      "name": "Wayne County"
+    }
+  },
+  {
+    "zip": "84735",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49017",
+        "ratio": 1.0,
+        "name": "Garfield County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49017",
+      "ratio": 1.0,
+      "name": "Garfield County"
+    }
+  },
+  {
+    "zip": "84736",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49017",
+        "ratio": 1.0,
+        "name": "Garfield County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49017",
+      "ratio": 1.0,
+      "name": "Garfield County"
+    }
+  },
+  {
+    "zip": "84737",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49053",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49053",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "84738",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49053",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49053",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "84739",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49041",
+        "ratio": 1.0,
+        "name": "Sevier County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49041",
+      "ratio": 1.0,
+      "name": "Sevier County"
+    }
+  },
+  {
+    "zip": "84740",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49031",
+        "ratio": 1.0,
+        "name": "Piute County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49031",
+      "ratio": 1.0,
+      "name": "Piute County"
+    }
+  },
+  {
+    "zip": "84741",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49025",
+        "ratio": 1.0,
+        "name": "Kane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49025",
+      "ratio": 1.0,
+      "name": "Kane County"
+    }
+  },
+  {
+    "zip": "84742",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49021",
+        "ratio": 1.0,
+        "name": "Iron County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49021",
+      "ratio": 1.0,
+      "name": "Iron County"
+    }
+  },
+  {
+    "zip": "84743",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49031",
+        "ratio": 1.0,
+        "name": "Piute County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49031",
+      "ratio": 1.0,
+      "name": "Piute County"
+    }
+  },
+  {
+    "zip": "84744",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49041",
+        "ratio": 1.0,
+        "name": "Sevier County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49041",
+      "ratio": 1.0,
+      "name": "Sevier County"
+    }
+  },
+  {
+    "zip": "84745",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49053",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49053",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "84746",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49053",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49053",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "84747",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49055",
+        "ratio": 1.0,
+        "name": "Wayne County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49055",
+      "ratio": 1.0,
+      "name": "Wayne County"
+    }
+  },
+  {
+    "zip": "84749",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49055",
+        "ratio": 1.0,
+        "name": "Wayne County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49055",
+      "ratio": 1.0,
+      "name": "Wayne County"
+    }
+  },
+  {
+    "zip": "84750",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49031",
+        "ratio": 1.0,
+        "name": "Piute County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49031",
+      "ratio": 1.0,
+      "name": "Piute County"
+    }
+  },
+  {
+    "zip": "84751",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49001",
+        "ratio": 1.0,
+        "name": "Beaver County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49001",
+      "ratio": 1.0,
+      "name": "Beaver County"
+    }
+  },
+  {
+    "zip": "84752",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49001",
+        "ratio": 1.0,
+        "name": "Beaver County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49001",
+      "ratio": 1.0,
+      "name": "Beaver County"
+    }
+  },
+  {
+    "zip": "84753",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49021",
+        "ratio": 1.0,
+        "name": "Iron County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49021",
+      "ratio": 1.0,
+      "name": "Iron County"
+    }
+  },
+  {
+    "zip": "84754",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49041",
+        "ratio": 1.0,
+        "name": "Sevier County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49041",
+      "ratio": 1.0,
+      "name": "Sevier County"
+    }
+  },
+  {
+    "zip": "84755",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49025",
+        "ratio": 1.0,
+        "name": "Kane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49025",
+      "ratio": 1.0,
+      "name": "Kane County"
+    }
+  },
+  {
+    "zip": "84756",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49021",
+        "ratio": 1.0,
+        "name": "Iron County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49021",
+      "ratio": 1.0,
+      "name": "Iron County"
+    }
+  },
+  {
+    "zip": "84757",
+    "state": "UT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "49053",
+        "ratio": 0.9179,
+        "name": "Washington County"
+      },
+      {
+        "fips": "49021",
+        "ratio": 0.0821,
+        "name": "Iron County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49053",
+      "ratio": 0.9179,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "84758",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49025",
+        "ratio": 1.0,
+        "name": "Kane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49025",
+      "ratio": 1.0,
+      "name": "Kane County"
+    }
+  },
+  {
+    "zip": "84759",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49017",
+        "ratio": 1.0,
+        "name": "Garfield County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49017",
+      "ratio": 1.0,
+      "name": "Garfield County"
+    }
+  },
+  {
+    "zip": "84760",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49021",
+        "ratio": 1.0,
+        "name": "Iron County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49021",
+      "ratio": 1.0,
+      "name": "Iron County"
+    }
+  },
+  {
+    "zip": "84761",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49021",
+        "ratio": 1.0,
+        "name": "Iron County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49021",
+      "ratio": 1.0,
+      "name": "Iron County"
+    }
+  },
+  {
+    "zip": "84762",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49025",
+        "ratio": 1.0,
+        "name": "Kane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49025",
+      "ratio": 1.0,
+      "name": "Kane County"
+    }
+  },
+  {
+    "zip": "84763",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49053",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49053",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "84764",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49017",
+        "ratio": 1.0,
+        "name": "Garfield County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49017",
+      "ratio": 1.0,
+      "name": "Garfield County"
+    }
+  },
+  {
+    "zip": "84765",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49053",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49053",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "84766",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49041",
+        "ratio": 1.0,
+        "name": "Sevier County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49041",
+      "ratio": 1.0,
+      "name": "Sevier County"
+    }
+  },
+  {
+    "zip": "84767",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49053",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49053",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "84770",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49053",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49053",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "84771",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49053",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49053",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "84772",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49021",
+        "ratio": 1.0,
+        "name": "Iron County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49021",
+      "ratio": 1.0,
+      "name": "Iron County"
+    }
+  },
+  {
+    "zip": "84773",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49055",
+        "ratio": 1.0,
+        "name": "Wayne County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49055",
+      "ratio": 1.0,
+      "name": "Wayne County"
+    }
+  },
+  {
+    "zip": "84774",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49053",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49053",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "84775",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49055",
+        "ratio": 1.0,
+        "name": "Wayne County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49055",
+      "ratio": 1.0,
+      "name": "Wayne County"
+    }
+  },
+  {
+    "zip": "84776",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49017",
+        "ratio": 1.0,
+        "name": "Garfield County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49017",
+      "ratio": 1.0,
+      "name": "Garfield County"
+    }
+  },
+  {
+    "zip": "84779",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49053",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49053",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "84780",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49053",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49053",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "84781",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49053",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49053",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "84782",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49053",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49053",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "84783",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49053",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49053",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "84784",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49053",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49053",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "84790",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49053",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49053",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "84791",
+    "state": "UT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "49053",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "49053",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  }
+]

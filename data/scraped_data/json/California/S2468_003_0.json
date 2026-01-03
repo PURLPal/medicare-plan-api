@@ -1,0 +1,23 @@
+{
+  "plan_info": {
+    "name": "Blue Shield Rx Plus (PDP)",
+    "contract_id": "S2468_003",
+    "plan_type": "PDP",
+    "organization": "Blue Shield of California"
+  },
+  "premiums": {
+    "Total monthly premium": "$199.70"
+  },
+  "deductibles": {
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "49% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S2468_003_0",
+  "state": "California"
+}

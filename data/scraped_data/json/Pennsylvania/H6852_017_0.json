@@ -1,0 +1,44 @@
+{
+  "plan_info": {
+    "name": "DEVOTED C-SNP PREMIUM 017 PA (HMO C-SNP)"
+  },
+  "premiums": {
+    "Total monthly premium": "$32.70",
+    "Health premium": "0.00",
+    "Drug premium": "32.70",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00",
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "7,000"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copay",
+    "Specialist visit": "In-network: $35 copay",
+    "Emergency care": "$115 copay",
+    "Inpatient hospital coverage": "Tier 1$320 per day for days 1-6$0 per day for days 7-90$0 per stay",
+    "Outpatient hospital coverage": "In-network: $0-$420 copay",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "$115 copay"
+  },
+  "drug_coverage": {
+    "Drug premium": "$32.70",
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "26% coinsurance",
+    "Select Care Drugs": "$0.00 copay",
+    "Chemotherapy drugs": "In-network: 0%-20% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsurance",
+    "Over the counter drug benefits": "In-network: $0 copay"
+  },
+  "extra_benefits": [],
+  "plan_id": "H6852_017_0",
+  "state": "Pennsylvania"
+}

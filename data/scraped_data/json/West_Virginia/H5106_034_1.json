@@ -1,0 +1,46 @@
+{
+  "plan_info": {
+    "name": "Freedom Blue PPO Standard (PPO)",
+    "contract_id": "H5106_034",
+    "plan_type": "PPO",
+    "organization": "Highmark Blue Cross Blue Shield"
+  },
+  "premiums": {
+    "Total monthly premium": "$134.00",
+    "Health premium": "68.80",
+    "Drug premium": "65.20",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00",
+    "Drug deductible": "0.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "10,000"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copayOut-of-network: $0 copay, 0% coinsurance",
+    "Specialist visit": "In-network: $35 copayOut-of-network: $35 copay",
+    "Emergency care": "$130 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$150 per day for days 1-7$0 per day for days 8-90$0 per stayOut-of-network:$150 per day for days 1-7$0 per day for days 8-90$0 per stay",
+    "Outpatient hospital coverage": "In-network: $150 copayOut-of-network: $150 copay",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "In-network: $0 copayOut-of-network: 30% coinsurance",
+    "Worldwide emergency": "$130 copay"
+  },
+  "drug_coverage": {
+    "Drug premium": "$65.20",
+    "Drug deductible": "$0.00",
+    "Non-Preferred Drug": "$100.00 copay",
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 30% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 30% coinsurance",
+    "Over the counter drug benefits": "Not covered"
+  },
+  "extra_benefits": [],
+  "plan_id": "H5106_034_1",
+  "state": "West_Virginia"
+}

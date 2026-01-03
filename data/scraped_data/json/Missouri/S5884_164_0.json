@@ -1,0 +1,20 @@
+{
+  "plan_info": {
+    "name": "Humana Premier Rx Plan (PDP)"
+  },
+  "premiums": {
+    "Total monthly premium": "$126.40"
+  },
+  "deductibles": {
+    "Drug deductible": "0.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$0.00",
+    "Non-Preferred Drug": "50% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S5884_164_0",
+  "state": "Missouri"
+}

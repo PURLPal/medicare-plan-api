@@ -1,0 +1,38 @@
+{
+  "plan_info": {
+    "name": "Medicare BlueSalute (PPO)"
+  },
+  "premiums": {
+    "Total monthly premium": "$0.00",
+    "Health premium": "0.00",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "\u2212$35.00",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "\u2212$35.00 reduction"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "7,800"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $5 copayOut-of-network: 30% coinsurance",
+    "Specialist visit": "In-network: $35 copayOut-of-network: 30% coinsurance",
+    "Emergency care": "$115 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$325 per day for days 1-5$0 per day for days 6-90$0 per stayOut-of-network:30% per stay",
+    "Outpatient hospital coverage": "In-network: $300 copayOut-of-network: 30% coinsurance",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "In-network: $0 copayOut-of-network: $0 copay, 0% coinsurance",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "$115 copay"
+  },
+  "drug_coverage": {
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 30% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 30% coinsurance",
+    "Over the counter drug benefits": "In-network: $0 copayOut-of-network: $0 copay, 0% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "H3335_044_0",
+  "state": "New_York"
+}

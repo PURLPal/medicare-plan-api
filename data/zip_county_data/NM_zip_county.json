@@ -1,0 +1,7917 @@
+[
+  {
+    "zip": "87001",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35043",
+        "ratio": 1.0,
+        "name": "Sandoval County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35043",
+      "ratio": 1.0,
+      "name": "Sandoval County"
+    }
+  },
+  {
+    "zip": "87002",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35061",
+        "ratio": 0.9998,
+        "name": "Valencia County"
+      },
+      {
+        "fips": "35053",
+        "ratio": 0.0002,
+        "name": "Socorro County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35061",
+      "ratio": 0.9998,
+      "name": "Valencia County"
+    }
+  },
+  {
+    "zip": "87004",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35043",
+        "ratio": 1.0,
+        "name": "Sandoval County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35043",
+      "ratio": 1.0,
+      "name": "Sandoval County"
+    }
+  },
+  {
+    "zip": "87005",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35006",
+        "ratio": 1.0,
+        "name": "Cibola County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35006",
+      "ratio": 1.0,
+      "name": "Cibola County"
+    }
+  },
+  {
+    "zip": "87006",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35053",
+        "ratio": 0.9464,
+        "name": "Socorro County"
+      },
+      {
+        "fips": "35061",
+        "ratio": 0.0536,
+        "name": "Valencia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35053",
+      "ratio": 0.9464,
+      "name": "Socorro County"
+    }
+  },
+  {
+    "zip": "87007",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35006",
+        "ratio": 1.0,
+        "name": "Cibola County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35006",
+      "ratio": 1.0,
+      "name": "Cibola County"
+    }
+  },
+  {
+    "zip": "87008",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87009",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35057",
+        "ratio": 1.0,
+        "name": "Torrance County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35057",
+      "ratio": 1.0,
+      "name": "Torrance County"
+    }
+  },
+  {
+    "zip": "87010",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35049",
+        "ratio": 1.0,
+        "name": "Santa Fe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35049",
+      "ratio": 1.0,
+      "name": "Santa Fe County"
+    }
+  },
+  {
+    "zip": "87011",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35053",
+        "ratio": 1.0,
+        "name": "Socorro County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35053",
+      "ratio": 1.0,
+      "name": "Socorro County"
+    }
+  },
+  {
+    "zip": "87012",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35039",
+        "ratio": 1.0,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35039",
+      "ratio": 1.0,
+      "name": "Rio Arriba County"
+    }
+  },
+  {
+    "zip": "87013",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "35043",
+        "ratio": 0.9799,
+        "name": "Sandoval County"
+      },
+      {
+        "fips": "35039",
+        "ratio": 0.0194,
+        "name": "Rio Arriba County"
+      },
+      {
+        "fips": "35031",
+        "ratio": 0.0007,
+        "name": "McKinley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35043",
+      "ratio": 0.9799,
+      "name": "Sandoval County"
+    }
+  },
+  {
+    "zip": "87014",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35006",
+        "ratio": 0.9994,
+        "name": "Cibola County"
+      },
+      {
+        "fips": "35001",
+        "ratio": 0.0006,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35006",
+      "ratio": 0.9994,
+      "name": "Cibola County"
+    }
+  },
+  {
+    "zip": "87015",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "35049",
+        "ratio": 0.7765,
+        "name": "Santa Fe County"
+      },
+      {
+        "fips": "35057",
+        "ratio": 0.1128,
+        "name": "Torrance County"
+      },
+      {
+        "fips": "35001",
+        "ratio": 0.1107,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35049",
+      "ratio": 0.7765,
+      "name": "Santa Fe County"
+    }
+  },
+  {
+    "zip": "87016",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35057",
+        "ratio": 0.9973,
+        "name": "Torrance County"
+      },
+      {
+        "fips": "35001",
+        "ratio": 0.0027,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35057",
+      "ratio": 0.9973,
+      "name": "Torrance County"
+    }
+  },
+  {
+    "zip": "87017",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35039",
+        "ratio": 1.0,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35039",
+      "ratio": 1.0,
+      "name": "Rio Arriba County"
+    }
+  },
+  {
+    "zip": "87018",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35043",
+        "ratio": 1.0,
+        "name": "Sandoval County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35043",
+      "ratio": 1.0,
+      "name": "Sandoval County"
+    }
+  },
+  {
+    "zip": "87020",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35006",
+        "ratio": 0.9948,
+        "name": "Cibola County"
+      },
+      {
+        "fips": "35031",
+        "ratio": 0.0052,
+        "name": "McKinley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35006",
+      "ratio": 0.9948,
+      "name": "Cibola County"
+    }
+  },
+  {
+    "zip": "87021",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35006",
+        "ratio": 1.0,
+        "name": "Cibola County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35006",
+      "ratio": 1.0,
+      "name": "Cibola County"
+    }
+  },
+  {
+    "zip": "87022",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 0.9836,
+        "name": "Bernalillo County"
+      },
+      {
+        "fips": "35061",
+        "ratio": 0.0164,
+        "name": "Valencia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 0.9836,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87023",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35061",
+        "ratio": 1.0,
+        "name": "Valencia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35061",
+      "ratio": 1.0,
+      "name": "Valencia County"
+    }
+  },
+  {
+    "zip": "87024",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35043",
+        "ratio": 1.0,
+        "name": "Sandoval County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35043",
+      "ratio": 1.0,
+      "name": "Sandoval County"
+    }
+  },
+  {
+    "zip": "87025",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35043",
+        "ratio": 1.0,
+        "name": "Sandoval County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35043",
+      "ratio": 1.0,
+      "name": "Sandoval County"
+    }
+  },
+  {
+    "zip": "87026",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35061",
+        "ratio": 0.9976,
+        "name": "Valencia County"
+      },
+      {
+        "fips": "35001",
+        "ratio": 0.0024,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35061",
+      "ratio": 0.9976,
+      "name": "Valencia County"
+    }
+  },
+  {
+    "zip": "87027",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35043",
+        "ratio": 1.0,
+        "name": "Sandoval County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35043",
+      "ratio": 1.0,
+      "name": "Sandoval County"
+    }
+  },
+  {
+    "zip": "87028",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35053",
+        "ratio": 1.0,
+        "name": "Socorro County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35053",
+      "ratio": 1.0,
+      "name": "Socorro County"
+    }
+  },
+  {
+    "zip": "87029",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35039",
+        "ratio": 1.0,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35039",
+      "ratio": 1.0,
+      "name": "Rio Arriba County"
+    }
+  },
+  {
+    "zip": "87031",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35061",
+        "ratio": 1.0,
+        "name": "Valencia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35061",
+      "ratio": 1.0,
+      "name": "Valencia County"
+    }
+  },
+  {
+    "zip": "87032",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35057",
+        "ratio": 1.0,
+        "name": "Torrance County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35057",
+      "ratio": 1.0,
+      "name": "Torrance County"
+    }
+  },
+  {
+    "zip": "87034",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35006",
+        "ratio": 1.0,
+        "name": "Cibola County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35006",
+      "ratio": 1.0,
+      "name": "Cibola County"
+    }
+  },
+  {
+    "zip": "87035",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "35057",
+        "ratio": 0.9502,
+        "name": "Torrance County"
+      },
+      {
+        "fips": "35049",
+        "ratio": 0.0492,
+        "name": "Santa Fe County"
+      },
+      {
+        "fips": "35001",
+        "ratio": 0.0006,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35057",
+      "ratio": 0.9502,
+      "name": "Torrance County"
+    }
+  },
+  {
+    "zip": "87036",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35057",
+        "ratio": 1.0,
+        "name": "Torrance County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35057",
+      "ratio": 1.0,
+      "name": "Torrance County"
+    }
+  },
+  {
+    "zip": "87037",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35045",
+        "ratio": 1.0,
+        "name": "San Juan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35045",
+      "ratio": 1.0,
+      "name": "San Juan County"
+    }
+  },
+  {
+    "zip": "87038",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35006",
+        "ratio": 1.0,
+        "name": "Cibola County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35006",
+      "ratio": 1.0,
+      "name": "Cibola County"
+    }
+  },
+  {
+    "zip": "87040",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35006",
+        "ratio": 1.0,
+        "name": "Cibola County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35006",
+      "ratio": 1.0,
+      "name": "Cibola County"
+    }
+  },
+  {
+    "zip": "87041",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35043",
+        "ratio": 1.0,
+        "name": "Sandoval County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35043",
+      "ratio": 1.0,
+      "name": "Sandoval County"
+    }
+  },
+  {
+    "zip": "87042",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35061",
+        "ratio": 1.0,
+        "name": "Valencia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35061",
+      "ratio": 1.0,
+      "name": "Valencia County"
+    }
+  },
+  {
+    "zip": "87043",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35043",
+        "ratio": 1.0,
+        "name": "Sandoval County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35043",
+      "ratio": 1.0,
+      "name": "Sandoval County"
+    }
+  },
+  {
+    "zip": "87044",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35043",
+        "ratio": 1.0,
+        "name": "Sandoval County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35043",
+      "ratio": 1.0,
+      "name": "Sandoval County"
+    }
+  },
+  {
+    "zip": "87045",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35031",
+        "ratio": 0.9307,
+        "name": "McKinley County"
+      },
+      {
+        "fips": "35006",
+        "ratio": 0.0693,
+        "name": "Cibola County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35031",
+      "ratio": 0.9307,
+      "name": "McKinley County"
+    }
+  },
+  {
+    "zip": "87046",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35043",
+        "ratio": 0.9182,
+        "name": "Sandoval County"
+      },
+      {
+        "fips": "35039",
+        "ratio": 0.0818,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35043",
+      "ratio": 0.9182,
+      "name": "Sandoval County"
+    }
+  },
+  {
+    "zip": "87047",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 0.7735,
+        "name": "Bernalillo County"
+      },
+      {
+        "fips": "35043",
+        "ratio": 0.1765,
+        "name": "Sandoval County"
+      },
+      {
+        "fips": "35049",
+        "ratio": 0.05,
+        "name": "Santa Fe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 0.7735,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87048",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35043",
+        "ratio": 0.9778,
+        "name": "Sandoval County"
+      },
+      {
+        "fips": "35001",
+        "ratio": 0.0222,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35043",
+      "ratio": 0.9778,
+      "name": "Sandoval County"
+    }
+  },
+  {
+    "zip": "87049",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35006",
+        "ratio": 1.0,
+        "name": "Cibola County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35006",
+      "ratio": 1.0,
+      "name": "Cibola County"
+    }
+  },
+  {
+    "zip": "87051",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35006",
+        "ratio": 1.0,
+        "name": "Cibola County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35006",
+      "ratio": 1.0,
+      "name": "Cibola County"
+    }
+  },
+  {
+    "zip": "87052",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35043",
+        "ratio": 1.0,
+        "name": "Sandoval County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35043",
+      "ratio": 1.0,
+      "name": "Sandoval County"
+    }
+  },
+  {
+    "zip": "87053",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35043",
+        "ratio": 1.0,
+        "name": "Sandoval County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35043",
+      "ratio": 1.0,
+      "name": "Sandoval County"
+    }
+  },
+  {
+    "zip": "87056",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35049",
+        "ratio": 1.0,
+        "name": "Santa Fe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35049",
+      "ratio": 1.0,
+      "name": "Santa Fe County"
+    }
+  },
+  {
+    "zip": "87059",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87060",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35061",
+        "ratio": 1.0,
+        "name": "Valencia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35061",
+      "ratio": 1.0,
+      "name": "Valencia County"
+    }
+  },
+  {
+    "zip": "87061",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35057",
+        "ratio": 1.0,
+        "name": "Torrance County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35057",
+      "ratio": 1.0,
+      "name": "Torrance County"
+    }
+  },
+  {
+    "zip": "87062",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35053",
+        "ratio": 0.9609,
+        "name": "Socorro County"
+      },
+      {
+        "fips": "35061",
+        "ratio": 0.0391,
+        "name": "Valencia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35053",
+      "ratio": 0.9609,
+      "name": "Socorro County"
+    }
+  },
+  {
+    "zip": "87063",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35057",
+        "ratio": 1.0,
+        "name": "Torrance County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35057",
+      "ratio": 1.0,
+      "name": "Torrance County"
+    }
+  },
+  {
+    "zip": "87064",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35039",
+        "ratio": 1.0,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35039",
+      "ratio": 1.0,
+      "name": "Rio Arriba County"
+    }
+  },
+  {
+    "zip": "87068",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35061",
+        "ratio": 0.9917,
+        "name": "Valencia County"
+      },
+      {
+        "fips": "35001",
+        "ratio": 0.0083,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35061",
+      "ratio": 0.9917,
+      "name": "Valencia County"
+    }
+  },
+  {
+    "zip": "87070",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35057",
+        "ratio": 1.0,
+        "name": "Torrance County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35057",
+      "ratio": 1.0,
+      "name": "Torrance County"
+    }
+  },
+  {
+    "zip": "87072",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35043",
+        "ratio": 1.0,
+        "name": "Sandoval County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35043",
+      "ratio": 1.0,
+      "name": "Sandoval County"
+    }
+  },
+  {
+    "zip": "87083",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35043",
+        "ratio": 1.0,
+        "name": "Sandoval County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35043",
+      "ratio": 1.0,
+      "name": "Sandoval County"
+    }
+  },
+  {
+    "zip": "87101",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87102",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87103",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87104",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87105",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87106",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87107",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87108",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87109",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87110",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87111",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87112",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87113",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87114",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87115",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87116",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87117",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87119",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87120",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87121",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87122",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 0.9989,
+        "name": "Bernalillo County"
+      },
+      {
+        "fips": "35043",
+        "ratio": 0.0011,
+        "name": "Sandoval County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 0.9989,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87123",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87124",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35043",
+        "ratio": 0.9984,
+        "name": "Sandoval County"
+      },
+      {
+        "fips": "35001",
+        "ratio": 0.0016,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35043",
+      "ratio": 0.9984,
+      "name": "Sandoval County"
+    }
+  },
+  {
+    "zip": "87125",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87131",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87144",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35043",
+        "ratio": 1.0,
+        "name": "Sandoval County"
+      },
+      {
+        "fips": "35001",
+        "ratio": 0.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35043",
+      "ratio": 1.0,
+      "name": "Sandoval County"
+    }
+  },
+  {
+    "zip": "87151",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87153",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87154",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87174",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35043",
+        "ratio": 1.0,
+        "name": "Sandoval County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35043",
+      "ratio": 1.0,
+      "name": "Sandoval County"
+    }
+  },
+  {
+    "zip": "87176",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87181",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87184",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87185",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87187",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87190",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87191",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87192",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87193",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87194",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87195",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87196",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87197",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87198",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87199",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35001",
+        "ratio": 1.0,
+        "name": "Bernalillo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35001",
+      "ratio": 1.0,
+      "name": "Bernalillo County"
+    }
+  },
+  {
+    "zip": "87301",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35031",
+        "ratio": 1.0,
+        "name": "McKinley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35031",
+      "ratio": 1.0,
+      "name": "McKinley County"
+    }
+  },
+  {
+    "zip": "87302",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35031",
+        "ratio": 1.0,
+        "name": "McKinley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35031",
+      "ratio": 1.0,
+      "name": "McKinley County"
+    }
+  },
+  {
+    "zip": "87305",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35031",
+        "ratio": 1.0,
+        "name": "McKinley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35031",
+      "ratio": 1.0,
+      "name": "McKinley County"
+    }
+  },
+  {
+    "zip": "87310",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35031",
+        "ratio": 1.0,
+        "name": "McKinley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35031",
+      "ratio": 1.0,
+      "name": "McKinley County"
+    }
+  },
+  {
+    "zip": "87311",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35031",
+        "ratio": 1.0,
+        "name": "McKinley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35031",
+      "ratio": 1.0,
+      "name": "McKinley County"
+    }
+  },
+  {
+    "zip": "87312",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35031",
+        "ratio": 1.0,
+        "name": "McKinley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35031",
+      "ratio": 1.0,
+      "name": "McKinley County"
+    }
+  },
+  {
+    "zip": "87313",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35031",
+        "ratio": 1.0,
+        "name": "McKinley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35031",
+      "ratio": 1.0,
+      "name": "McKinley County"
+    }
+  },
+  {
+    "zip": "87315",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35006",
+        "ratio": 1.0,
+        "name": "Cibola County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35006",
+      "ratio": 1.0,
+      "name": "Cibola County"
+    }
+  },
+  {
+    "zip": "87316",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35031",
+        "ratio": 1.0,
+        "name": "McKinley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35031",
+      "ratio": 1.0,
+      "name": "McKinley County"
+    }
+  },
+  {
+    "zip": "87317",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35031",
+        "ratio": 1.0,
+        "name": "McKinley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35031",
+      "ratio": 1.0,
+      "name": "McKinley County"
+    }
+  },
+  {
+    "zip": "87319",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35031",
+        "ratio": 1.0,
+        "name": "McKinley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35031",
+      "ratio": 1.0,
+      "name": "McKinley County"
+    }
+  },
+  {
+    "zip": "87320",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35031",
+        "ratio": 1.0,
+        "name": "McKinley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35031",
+      "ratio": 1.0,
+      "name": "McKinley County"
+    }
+  },
+  {
+    "zip": "87321",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35031",
+        "ratio": 0.9803,
+        "name": "McKinley County"
+      },
+      {
+        "fips": "35006",
+        "ratio": 0.0197,
+        "name": "Cibola County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35031",
+      "ratio": 0.9803,
+      "name": "McKinley County"
+    }
+  },
+  {
+    "zip": "87322",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35031",
+        "ratio": 1.0,
+        "name": "McKinley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35031",
+      "ratio": 1.0,
+      "name": "McKinley County"
+    }
+  },
+  {
+    "zip": "87323",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35006",
+        "ratio": 0.5892,
+        "name": "Cibola County"
+      },
+      {
+        "fips": "35031",
+        "ratio": 0.4108,
+        "name": "McKinley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35006",
+      "ratio": 0.5892,
+      "name": "Cibola County"
+    }
+  },
+  {
+    "zip": "87325",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35031",
+        "ratio": 1.0,
+        "name": "McKinley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35031",
+      "ratio": 1.0,
+      "name": "McKinley County"
+    }
+  },
+  {
+    "zip": "87326",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35031",
+        "ratio": 1.0,
+        "name": "McKinley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35031",
+      "ratio": 1.0,
+      "name": "McKinley County"
+    }
+  },
+  {
+    "zip": "87327",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35031",
+        "ratio": 1.0,
+        "name": "McKinley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35031",
+      "ratio": 1.0,
+      "name": "McKinley County"
+    }
+  },
+  {
+    "zip": "87328",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35031",
+        "ratio": 1.0,
+        "name": "McKinley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35031",
+      "ratio": 1.0,
+      "name": "McKinley County"
+    }
+  },
+  {
+    "zip": "87347",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35031",
+        "ratio": 1.0,
+        "name": "McKinley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35031",
+      "ratio": 1.0,
+      "name": "McKinley County"
+    }
+  },
+  {
+    "zip": "87357",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35006",
+        "ratio": 1.0,
+        "name": "Cibola County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35006",
+      "ratio": 1.0,
+      "name": "Cibola County"
+    }
+  },
+  {
+    "zip": "87364",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35045",
+        "ratio": 1.0,
+        "name": "San Juan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35045",
+      "ratio": 1.0,
+      "name": "San Juan County"
+    }
+  },
+  {
+    "zip": "87365",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35031",
+        "ratio": 1.0,
+        "name": "McKinley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35031",
+      "ratio": 1.0,
+      "name": "McKinley County"
+    }
+  },
+  {
+    "zip": "87375",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35031",
+        "ratio": 1.0,
+        "name": "McKinley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35031",
+      "ratio": 1.0,
+      "name": "McKinley County"
+    }
+  },
+  {
+    "zip": "87401",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35045",
+        "ratio": 1.0,
+        "name": "San Juan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35045",
+      "ratio": 1.0,
+      "name": "San Juan County"
+    }
+  },
+  {
+    "zip": "87402",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35045",
+        "ratio": 1.0,
+        "name": "San Juan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35045",
+      "ratio": 1.0,
+      "name": "San Juan County"
+    }
+  },
+  {
+    "zip": "87410",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35045",
+        "ratio": 1.0,
+        "name": "San Juan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35045",
+      "ratio": 1.0,
+      "name": "San Juan County"
+    }
+  },
+  {
+    "zip": "87412",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35045",
+        "ratio": 0.9778,
+        "name": "San Juan County"
+      },
+      {
+        "fips": "35039",
+        "ratio": 0.0222,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35045",
+      "ratio": 0.9778,
+      "name": "San Juan County"
+    }
+  },
+  {
+    "zip": "87413",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35045",
+        "ratio": 1.0,
+        "name": "San Juan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35045",
+      "ratio": 1.0,
+      "name": "San Juan County"
+    }
+  },
+  {
+    "zip": "87415",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35045",
+        "ratio": 1.0,
+        "name": "San Juan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35045",
+      "ratio": 1.0,
+      "name": "San Juan County"
+    }
+  },
+  {
+    "zip": "87416",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35045",
+        "ratio": 1.0,
+        "name": "San Juan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35045",
+      "ratio": 1.0,
+      "name": "San Juan County"
+    }
+  },
+  {
+    "zip": "87417",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35045",
+        "ratio": 1.0,
+        "name": "San Juan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35045",
+      "ratio": 1.0,
+      "name": "San Juan County"
+    }
+  },
+  {
+    "zip": "87418",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35045",
+        "ratio": 1.0,
+        "name": "San Juan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35045",
+      "ratio": 1.0,
+      "name": "San Juan County"
+    }
+  },
+  {
+    "zip": "87419",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35045",
+        "ratio": 1.0,
+        "name": "San Juan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35045",
+      "ratio": 1.0,
+      "name": "San Juan County"
+    }
+  },
+  {
+    "zip": "87420",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35045",
+        "ratio": 1.0,
+        "name": "San Juan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35045",
+      "ratio": 1.0,
+      "name": "San Juan County"
+    }
+  },
+  {
+    "zip": "87421",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35045",
+        "ratio": 1.0,
+        "name": "San Juan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35045",
+      "ratio": 1.0,
+      "name": "San Juan County"
+    }
+  },
+  {
+    "zip": "87455",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35045",
+        "ratio": 1.0,
+        "name": "San Juan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35045",
+      "ratio": 1.0,
+      "name": "San Juan County"
+    }
+  },
+  {
+    "zip": "87461",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35045",
+        "ratio": 1.0,
+        "name": "San Juan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35045",
+      "ratio": 1.0,
+      "name": "San Juan County"
+    }
+  },
+  {
+    "zip": "87499",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35045",
+        "ratio": 1.0,
+        "name": "San Juan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35045",
+      "ratio": 1.0,
+      "name": "San Juan County"
+    }
+  },
+  {
+    "zip": "87501",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35049",
+        "ratio": 1.0,
+        "name": "Santa Fe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35049",
+      "ratio": 1.0,
+      "name": "Santa Fe County"
+    }
+  },
+  {
+    "zip": "87502",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35049",
+        "ratio": 1.0,
+        "name": "Santa Fe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35049",
+      "ratio": 1.0,
+      "name": "Santa Fe County"
+    }
+  },
+  {
+    "zip": "87504",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35049",
+        "ratio": 1.0,
+        "name": "Santa Fe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35049",
+      "ratio": 1.0,
+      "name": "Santa Fe County"
+    }
+  },
+  {
+    "zip": "87505",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35049",
+        "ratio": 1.0,
+        "name": "Santa Fe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35049",
+      "ratio": 1.0,
+      "name": "Santa Fe County"
+    }
+  },
+  {
+    "zip": "87506",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35049",
+        "ratio": 0.9996,
+        "name": "Santa Fe County"
+      },
+      {
+        "fips": "35028",
+        "ratio": 0.0004,
+        "name": "Los Alamos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35049",
+      "ratio": 0.9996,
+      "name": "Santa Fe County"
+    }
+  },
+  {
+    "zip": "87507",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35049",
+        "ratio": 1.0,
+        "name": "Santa Fe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35049",
+      "ratio": 1.0,
+      "name": "Santa Fe County"
+    }
+  },
+  {
+    "zip": "87508",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35049",
+        "ratio": 1.0,
+        "name": "Santa Fe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35049",
+      "ratio": 1.0,
+      "name": "Santa Fe County"
+    }
+  },
+  {
+    "zip": "87510",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35039",
+        "ratio": 1.0,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35039",
+      "ratio": 1.0,
+      "name": "Rio Arriba County"
+    }
+  },
+  {
+    "zip": "87511",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35039",
+        "ratio": 1.0,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35039",
+      "ratio": 1.0,
+      "name": "Rio Arriba County"
+    }
+  },
+  {
+    "zip": "87512",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35055",
+        "ratio": 1.0,
+        "name": "Taos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35055",
+      "ratio": 1.0,
+      "name": "Taos County"
+    }
+  },
+  {
+    "zip": "87513",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35055",
+        "ratio": 1.0,
+        "name": "Taos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35055",
+      "ratio": 1.0,
+      "name": "Taos County"
+    }
+  },
+  {
+    "zip": "87514",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35055",
+        "ratio": 1.0,
+        "name": "Taos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35055",
+      "ratio": 1.0,
+      "name": "Taos County"
+    }
+  },
+  {
+    "zip": "87515",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35039",
+        "ratio": 1.0,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35039",
+      "ratio": 1.0,
+      "name": "Rio Arriba County"
+    }
+  },
+  {
+    "zip": "87516",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35039",
+        "ratio": 1.0,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35039",
+      "ratio": 1.0,
+      "name": "Rio Arriba County"
+    }
+  },
+  {
+    "zip": "87517",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35055",
+        "ratio": 1.0,
+        "name": "Taos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35055",
+      "ratio": 1.0,
+      "name": "Taos County"
+    }
+  },
+  {
+    "zip": "87518",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35039",
+        "ratio": 1.0,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35039",
+      "ratio": 1.0,
+      "name": "Rio Arriba County"
+    }
+  },
+  {
+    "zip": "87519",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35055",
+        "ratio": 1.0,
+        "name": "Taos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35055",
+      "ratio": 1.0,
+      "name": "Taos County"
+    }
+  },
+  {
+    "zip": "87520",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35039",
+        "ratio": 1.0,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35039",
+      "ratio": 1.0,
+      "name": "Rio Arriba County"
+    }
+  },
+  {
+    "zip": "87521",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35055",
+        "ratio": 0.9963,
+        "name": "Taos County"
+      },
+      {
+        "fips": "35039",
+        "ratio": 0.0037,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35055",
+      "ratio": 0.9963,
+      "name": "Taos County"
+    }
+  },
+  {
+    "zip": "87522",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35049",
+        "ratio": 0.6587,
+        "name": "Santa Fe County"
+      },
+      {
+        "fips": "35039",
+        "ratio": 0.3413,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35049",
+      "ratio": 0.6587,
+      "name": "Santa Fe County"
+    }
+  },
+  {
+    "zip": "87523",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35039",
+        "ratio": 1.0,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35039",
+      "ratio": 1.0,
+      "name": "Rio Arriba County"
+    }
+  },
+  {
+    "zip": "87524",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35055",
+        "ratio": 1.0,
+        "name": "Taos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35055",
+      "ratio": 1.0,
+      "name": "Taos County"
+    }
+  },
+  {
+    "zip": "87525",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35055",
+        "ratio": 1.0,
+        "name": "Taos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35055",
+      "ratio": 1.0,
+      "name": "Taos County"
+    }
+  },
+  {
+    "zip": "87527",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35039",
+        "ratio": 1.0,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35039",
+      "ratio": 1.0,
+      "name": "Rio Arriba County"
+    }
+  },
+  {
+    "zip": "87528",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35039",
+        "ratio": 0.9988,
+        "name": "Rio Arriba County"
+      },
+      {
+        "fips": "35043",
+        "ratio": 0.0012,
+        "name": "Sandoval County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35039",
+      "ratio": 0.9988,
+      "name": "Rio Arriba County"
+    }
+  },
+  {
+    "zip": "87529",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35055",
+        "ratio": 1.0,
+        "name": "Taos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35055",
+      "ratio": 1.0,
+      "name": "Taos County"
+    }
+  },
+  {
+    "zip": "87530",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35039",
+        "ratio": 1.0,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35039",
+      "ratio": 1.0,
+      "name": "Rio Arriba County"
+    }
+  },
+  {
+    "zip": "87531",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35039",
+        "ratio": 1.0,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35039",
+      "ratio": 1.0,
+      "name": "Rio Arriba County"
+    }
+  },
+  {
+    "zip": "87532",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35039",
+        "ratio": 0.6501,
+        "name": "Rio Arriba County"
+      },
+      {
+        "fips": "35049",
+        "ratio": 0.3499,
+        "name": "Santa Fe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35039",
+      "ratio": 0.6501,
+      "name": "Rio Arriba County"
+    }
+  },
+  {
+    "zip": "87535",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35049",
+        "ratio": 0.797,
+        "name": "Santa Fe County"
+      },
+      {
+        "fips": "35047",
+        "ratio": 0.203,
+        "name": "San Miguel County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35049",
+      "ratio": 0.797,
+      "name": "Santa Fe County"
+    }
+  },
+  {
+    "zip": "87537",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35039",
+        "ratio": 1.0,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35039",
+      "ratio": 1.0,
+      "name": "Rio Arriba County"
+    }
+  },
+  {
+    "zip": "87538",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35047",
+        "ratio": 1.0,
+        "name": "San Miguel County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35047",
+      "ratio": 1.0,
+      "name": "San Miguel County"
+    }
+  },
+  {
+    "zip": "87539",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35039",
+        "ratio": 1.0,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35039",
+      "ratio": 1.0,
+      "name": "Rio Arriba County"
+    }
+  },
+  {
+    "zip": "87540",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35049",
+        "ratio": 1.0,
+        "name": "Santa Fe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35049",
+      "ratio": 1.0,
+      "name": "Santa Fe County"
+    }
+  },
+  {
+    "zip": "87543",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35055",
+        "ratio": 1.0,
+        "name": "Taos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35055",
+      "ratio": 1.0,
+      "name": "Taos County"
+    }
+  },
+  {
+    "zip": "87544",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35028",
+        "ratio": 0.9971,
+        "name": "Los Alamos County"
+      },
+      {
+        "fips": "35043",
+        "ratio": 0.0029,
+        "name": "Sandoval County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35028",
+      "ratio": 0.9971,
+      "name": "Los Alamos County"
+    }
+  },
+  {
+    "zip": "87547",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35028",
+        "ratio": 1.0,
+        "name": "Los Alamos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35028",
+      "ratio": 1.0,
+      "name": "Los Alamos County"
+    }
+  },
+  {
+    "zip": "87548",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35039",
+        "ratio": 1.0,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35039",
+      "ratio": 1.0,
+      "name": "Rio Arriba County"
+    }
+  },
+  {
+    "zip": "87549",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35055",
+        "ratio": 1.0,
+        "name": "Taos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35055",
+      "ratio": 1.0,
+      "name": "Taos County"
+    }
+  },
+  {
+    "zip": "87551",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35039",
+        "ratio": 1.0,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35039",
+      "ratio": 1.0,
+      "name": "Rio Arriba County"
+    }
+  },
+  {
+    "zip": "87552",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35047",
+        "ratio": 0.9971,
+        "name": "San Miguel County"
+      },
+      {
+        "fips": "35049",
+        "ratio": 0.0029,
+        "name": "Santa Fe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35047",
+      "ratio": 0.9971,
+      "name": "San Miguel County"
+    }
+  },
+  {
+    "zip": "87553",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35055",
+        "ratio": 1.0,
+        "name": "Taos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35055",
+      "ratio": 1.0,
+      "name": "Taos County"
+    }
+  },
+  {
+    "zip": "87554",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35039",
+        "ratio": 1.0,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35039",
+      "ratio": 1.0,
+      "name": "Rio Arriba County"
+    }
+  },
+  {
+    "zip": "87556",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35055",
+        "ratio": 1.0,
+        "name": "Taos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35055",
+      "ratio": 1.0,
+      "name": "Taos County"
+    }
+  },
+  {
+    "zip": "87557",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35055",
+        "ratio": 1.0,
+        "name": "Taos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35055",
+      "ratio": 1.0,
+      "name": "Taos County"
+    }
+  },
+  {
+    "zip": "87558",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35055",
+        "ratio": 1.0,
+        "name": "Taos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35055",
+      "ratio": 1.0,
+      "name": "Taos County"
+    }
+  },
+  {
+    "zip": "87560",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35047",
+        "ratio": 1.0,
+        "name": "San Miguel County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35047",
+      "ratio": 1.0,
+      "name": "San Miguel County"
+    }
+  },
+  {
+    "zip": "87562",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35047",
+        "ratio": 1.0,
+        "name": "San Miguel County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35047",
+      "ratio": 1.0,
+      "name": "San Miguel County"
+    }
+  },
+  {
+    "zip": "87564",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35055",
+        "ratio": 1.0,
+        "name": "Taos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35055",
+      "ratio": 1.0,
+      "name": "Taos County"
+    }
+  },
+  {
+    "zip": "87565",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35047",
+        "ratio": 1.0,
+        "name": "San Miguel County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35047",
+      "ratio": 1.0,
+      "name": "San Miguel County"
+    }
+  },
+  {
+    "zip": "87566",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35039",
+        "ratio": 1.0,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35039",
+      "ratio": 1.0,
+      "name": "Rio Arriba County"
+    }
+  },
+  {
+    "zip": "87567",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35049",
+        "ratio": 1.0,
+        "name": "Santa Fe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35049",
+      "ratio": 1.0,
+      "name": "Santa Fe County"
+    }
+  },
+  {
+    "zip": "87569",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35047",
+        "ratio": 1.0,
+        "name": "San Miguel County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35047",
+      "ratio": 1.0,
+      "name": "San Miguel County"
+    }
+  },
+  {
+    "zip": "87571",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35055",
+        "ratio": 1.0,
+        "name": "Taos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35055",
+      "ratio": 1.0,
+      "name": "Taos County"
+    }
+  },
+  {
+    "zip": "87573",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35047",
+        "ratio": 1.0,
+        "name": "San Miguel County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35047",
+      "ratio": 1.0,
+      "name": "San Miguel County"
+    }
+  },
+  {
+    "zip": "87574",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35049",
+        "ratio": 1.0,
+        "name": "Santa Fe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35049",
+      "ratio": 1.0,
+      "name": "Santa Fe County"
+    }
+  },
+  {
+    "zip": "87575",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35039",
+        "ratio": 1.0,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35039",
+      "ratio": 1.0,
+      "name": "Rio Arriba County"
+    }
+  },
+  {
+    "zip": "87576",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35055",
+        "ratio": 1.0,
+        "name": "Taos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35055",
+      "ratio": 1.0,
+      "name": "Taos County"
+    }
+  },
+  {
+    "zip": "87577",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35055",
+        "ratio": 0.9592,
+        "name": "Taos County"
+      },
+      {
+        "fips": "35039",
+        "ratio": 0.0408,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35055",
+      "ratio": 0.9592,
+      "name": "Taos County"
+    }
+  },
+  {
+    "zip": "87578",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35039",
+        "ratio": 1.0,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35039",
+      "ratio": 1.0,
+      "name": "Rio Arriba County"
+    }
+  },
+  {
+    "zip": "87579",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35055",
+        "ratio": 1.0,
+        "name": "Taos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35055",
+      "ratio": 1.0,
+      "name": "Taos County"
+    }
+  },
+  {
+    "zip": "87580",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35055",
+        "ratio": 1.0,
+        "name": "Taos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35055",
+      "ratio": 1.0,
+      "name": "Taos County"
+    }
+  },
+  {
+    "zip": "87581",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35039",
+        "ratio": 1.0,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35039",
+      "ratio": 1.0,
+      "name": "Rio Arriba County"
+    }
+  },
+  {
+    "zip": "87582",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35039",
+        "ratio": 1.0,
+        "name": "Rio Arriba County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35039",
+      "ratio": 1.0,
+      "name": "Rio Arriba County"
+    }
+  },
+  {
+    "zip": "87583",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35047",
+        "ratio": 1.0,
+        "name": "San Miguel County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35047",
+      "ratio": 1.0,
+      "name": "San Miguel County"
+    }
+  },
+  {
+    "zip": "87592",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35049",
+        "ratio": 1.0,
+        "name": "Santa Fe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35049",
+      "ratio": 1.0,
+      "name": "Santa Fe County"
+    }
+  },
+  {
+    "zip": "87594",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35049",
+        "ratio": 1.0,
+        "name": "Santa Fe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35049",
+      "ratio": 1.0,
+      "name": "Santa Fe County"
+    }
+  },
+  {
+    "zip": "87654",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35051",
+        "ratio": 1.0,
+        "name": "Sierra County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35051",
+      "ratio": 1.0,
+      "name": "Sierra County"
+    }
+  },
+  {
+    "zip": "87701",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35047",
+        "ratio": 1.0,
+        "name": "San Miguel County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35047",
+      "ratio": 1.0,
+      "name": "San Miguel County"
+    }
+  },
+  {
+    "zip": "87710",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35007",
+        "ratio": 1.0,
+        "name": "Colfax County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35007",
+      "ratio": 1.0,
+      "name": "Colfax County"
+    }
+  },
+  {
+    "zip": "87711",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35019",
+        "ratio": 0.8964,
+        "name": "Guadalupe County"
+      },
+      {
+        "fips": "35047",
+        "ratio": 0.1036,
+        "name": "San Miguel County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35019",
+      "ratio": 0.8964,
+      "name": "Guadalupe County"
+    }
+  },
+  {
+    "zip": "87712",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35033",
+        "ratio": 1.0,
+        "name": "Mora County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35033",
+      "ratio": 1.0,
+      "name": "Mora County"
+    }
+  },
+  {
+    "zip": "87713",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35033",
+        "ratio": 1.0,
+        "name": "Mora County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35033",
+      "ratio": 1.0,
+      "name": "Mora County"
+    }
+  },
+  {
+    "zip": "87714",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35007",
+        "ratio": 1.0,
+        "name": "Colfax County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35007",
+      "ratio": 1.0,
+      "name": "Colfax County"
+    }
+  },
+  {
+    "zip": "87715",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35033",
+        "ratio": 1.0,
+        "name": "Mora County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35033",
+      "ratio": 1.0,
+      "name": "Mora County"
+    }
+  },
+  {
+    "zip": "87718",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35007",
+        "ratio": 1.0,
+        "name": "Colfax County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35007",
+      "ratio": 1.0,
+      "name": "Colfax County"
+    }
+  },
+  {
+    "zip": "87722",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35033",
+        "ratio": 1.0,
+        "name": "Mora County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35033",
+      "ratio": 1.0,
+      "name": "Mora County"
+    }
+  },
+  {
+    "zip": "87723",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35033",
+        "ratio": 1.0,
+        "name": "Mora County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35033",
+      "ratio": 1.0,
+      "name": "Mora County"
+    }
+  },
+  {
+    "zip": "87724",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35019",
+        "ratio": 1.0,
+        "name": "Guadalupe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35019",
+      "ratio": 1.0,
+      "name": "Guadalupe County"
+    }
+  },
+  {
+    "zip": "87728",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35007",
+        "ratio": 1.0,
+        "name": "Colfax County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35007",
+      "ratio": 1.0,
+      "name": "Colfax County"
+    }
+  },
+  {
+    "zip": "87729",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35007",
+        "ratio": 1.0,
+        "name": "Colfax County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35007",
+      "ratio": 1.0,
+      "name": "Colfax County"
+    }
+  },
+  {
+    "zip": "87730",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35021",
+        "ratio": 1.0,
+        "name": "Harding County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35021",
+      "ratio": 1.0,
+      "name": "Harding County"
+    }
+  },
+  {
+    "zip": "87731",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35047",
+        "ratio": 1.0,
+        "name": "San Miguel County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35047",
+      "ratio": 1.0,
+      "name": "San Miguel County"
+    }
+  },
+  {
+    "zip": "87732",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35033",
+        "ratio": 1.0,
+        "name": "Mora County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35033",
+      "ratio": 1.0,
+      "name": "Mora County"
+    }
+  },
+  {
+    "zip": "87733",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35021",
+        "ratio": 1.0,
+        "name": "Harding County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35021",
+      "ratio": 1.0,
+      "name": "Harding County"
+    }
+  },
+  {
+    "zip": "87734",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35033",
+        "ratio": 0.9885,
+        "name": "Mora County"
+      },
+      {
+        "fips": "35007",
+        "ratio": 0.0115,
+        "name": "Colfax County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35033",
+      "ratio": 0.9885,
+      "name": "Mora County"
+    }
+  },
+  {
+    "zip": "87735",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35033",
+        "ratio": 1.0,
+        "name": "Mora County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35033",
+      "ratio": 1.0,
+      "name": "Mora County"
+    }
+  },
+  {
+    "zip": "87736",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35033",
+        "ratio": 1.0,
+        "name": "Mora County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35033",
+      "ratio": 1.0,
+      "name": "Mora County"
+    }
+  },
+  {
+    "zip": "87740",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35007",
+        "ratio": 1.0,
+        "name": "Colfax County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35007",
+      "ratio": 1.0,
+      "name": "Colfax County"
+    }
+  },
+  {
+    "zip": "87742",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35047",
+        "ratio": 1.0,
+        "name": "San Miguel County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35047",
+      "ratio": 1.0,
+      "name": "San Miguel County"
+    }
+  },
+  {
+    "zip": "87743",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35021",
+        "ratio": 0.9892,
+        "name": "Harding County"
+      },
+      {
+        "fips": "35059",
+        "ratio": 0.0108,
+        "name": "Union County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35021",
+      "ratio": 0.9892,
+      "name": "Harding County"
+    }
+  },
+  {
+    "zip": "87745",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35047",
+        "ratio": 1.0,
+        "name": "San Miguel County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35047",
+      "ratio": 1.0,
+      "name": "San Miguel County"
+    }
+  },
+  {
+    "zip": "87746",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35021",
+        "ratio": 0.8442,
+        "name": "Harding County"
+      },
+      {
+        "fips": "35047",
+        "ratio": 0.1558,
+        "name": "San Miguel County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35021",
+      "ratio": 0.8442,
+      "name": "Harding County"
+    }
+  },
+  {
+    "zip": "87747",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35007",
+        "ratio": 1.0,
+        "name": "Colfax County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35007",
+      "ratio": 1.0,
+      "name": "Colfax County"
+    }
+  },
+  {
+    "zip": "87749",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35007",
+        "ratio": 1.0,
+        "name": "Colfax County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35007",
+      "ratio": 1.0,
+      "name": "Colfax County"
+    }
+  },
+  {
+    "zip": "87750",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35033",
+        "ratio": 1.0,
+        "name": "Mora County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35033",
+      "ratio": 1.0,
+      "name": "Mora County"
+    }
+  },
+  {
+    "zip": "87752",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35033",
+        "ratio": 1.0,
+        "name": "Mora County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35033",
+      "ratio": 1.0,
+      "name": "Mora County"
+    }
+  },
+  {
+    "zip": "87753",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35033",
+        "ratio": 1.0,
+        "name": "Mora County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35033",
+      "ratio": 1.0,
+      "name": "Mora County"
+    }
+  },
+  {
+    "zip": "87801",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35053",
+        "ratio": 1.0,
+        "name": "Socorro County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35053",
+      "ratio": 1.0,
+      "name": "Socorro County"
+    }
+  },
+  {
+    "zip": "87820",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35003",
+        "ratio": 1.0,
+        "name": "Catron County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35003",
+      "ratio": 1.0,
+      "name": "Catron County"
+    }
+  },
+  {
+    "zip": "87821",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35003",
+        "ratio": 0.9957,
+        "name": "Catron County"
+      },
+      {
+        "fips": "35017",
+        "ratio": 0.0043,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35003",
+      "ratio": 0.9957,
+      "name": "Catron County"
+    }
+  },
+  {
+    "zip": "87823",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35053",
+        "ratio": 1.0,
+        "name": "Socorro County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35053",
+      "ratio": 1.0,
+      "name": "Socorro County"
+    }
+  },
+  {
+    "zip": "87824",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35003",
+        "ratio": 1.0,
+        "name": "Catron County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35003",
+      "ratio": 1.0,
+      "name": "Catron County"
+    }
+  },
+  {
+    "zip": "87825",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35053",
+        "ratio": 1.0,
+        "name": "Socorro County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35053",
+      "ratio": 1.0,
+      "name": "Socorro County"
+    }
+  },
+  {
+    "zip": "87827",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35003",
+        "ratio": 1.0,
+        "name": "Catron County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35003",
+      "ratio": 1.0,
+      "name": "Catron County"
+    }
+  },
+  {
+    "zip": "87828",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35053",
+        "ratio": 1.0,
+        "name": "Socorro County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35053",
+      "ratio": 1.0,
+      "name": "Socorro County"
+    }
+  },
+  {
+    "zip": "87829",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35003",
+        "ratio": 1.0,
+        "name": "Catron County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35003",
+      "ratio": 1.0,
+      "name": "Catron County"
+    }
+  },
+  {
+    "zip": "87830",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35003",
+        "ratio": 1.0,
+        "name": "Catron County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35003",
+      "ratio": 1.0,
+      "name": "Catron County"
+    }
+  },
+  {
+    "zip": "87831",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35053",
+        "ratio": 1.0,
+        "name": "Socorro County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35053",
+      "ratio": 1.0,
+      "name": "Socorro County"
+    }
+  },
+  {
+    "zip": "87832",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35053",
+        "ratio": 1.0,
+        "name": "Socorro County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35053",
+      "ratio": 1.0,
+      "name": "Socorro County"
+    }
+  },
+  {
+    "zip": "87901",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35051",
+        "ratio": 1.0,
+        "name": "Sierra County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35051",
+      "ratio": 1.0,
+      "name": "Sierra County"
+    }
+  },
+  {
+    "zip": "87930",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35051",
+        "ratio": 1.0,
+        "name": "Sierra County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35051",
+      "ratio": 1.0,
+      "name": "Sierra County"
+    }
+  },
+  {
+    "zip": "87931",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35051",
+        "ratio": 1.0,
+        "name": "Sierra County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35051",
+      "ratio": 1.0,
+      "name": "Sierra County"
+    }
+  },
+  {
+    "zip": "87933",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35051",
+        "ratio": 1.0,
+        "name": "Sierra County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35051",
+      "ratio": 1.0,
+      "name": "Sierra County"
+    }
+  },
+  {
+    "zip": "87935",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35051",
+        "ratio": 1.0,
+        "name": "Sierra County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35051",
+      "ratio": 1.0,
+      "name": "Sierra County"
+    }
+  },
+  {
+    "zip": "87936",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35013",
+        "ratio": 0.9213,
+        "name": "Do\u00f1a Ana County"
+      },
+      {
+        "fips": "35051",
+        "ratio": 0.0787,
+        "name": "Sierra County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35013",
+      "ratio": 0.9213,
+      "name": "Do\u00f1a Ana County"
+    }
+  },
+  {
+    "zip": "87937",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35013",
+        "ratio": 1.0,
+        "name": "Do\u00f1a Ana County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35013",
+      "ratio": 1.0,
+      "name": "Do\u00f1a Ana County"
+    }
+  },
+  {
+    "zip": "87939",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35051",
+        "ratio": 1.0,
+        "name": "Sierra County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35051",
+      "ratio": 1.0,
+      "name": "Sierra County"
+    }
+  },
+  {
+    "zip": "87940",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35013",
+        "ratio": 1.0,
+        "name": "Do\u00f1a Ana County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35013",
+      "ratio": 1.0,
+      "name": "Do\u00f1a Ana County"
+    }
+  },
+  {
+    "zip": "87941",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35013",
+        "ratio": 1.0,
+        "name": "Do\u00f1a Ana County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35013",
+      "ratio": 1.0,
+      "name": "Do\u00f1a Ana County"
+    }
+  },
+  {
+    "zip": "87942",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35051",
+        "ratio": 1.0,
+        "name": "Sierra County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35051",
+      "ratio": 1.0,
+      "name": "Sierra County"
+    }
+  },
+  {
+    "zip": "87943",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35051",
+        "ratio": 1.0,
+        "name": "Sierra County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35051",
+      "ratio": 1.0,
+      "name": "Sierra County"
+    }
+  },
+  {
+    "zip": "88001",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35013",
+        "ratio": 1.0,
+        "name": "Do\u00f1a Ana County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35013",
+      "ratio": 1.0,
+      "name": "Do\u00f1a Ana County"
+    }
+  },
+  {
+    "zip": "88002",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35013",
+        "ratio": 1.0,
+        "name": "Do\u00f1a Ana County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35013",
+      "ratio": 1.0,
+      "name": "Do\u00f1a Ana County"
+    }
+  },
+  {
+    "zip": "88003",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35013",
+        "ratio": 1.0,
+        "name": "Do\u00f1a Ana County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35013",
+      "ratio": 1.0,
+      "name": "Do\u00f1a Ana County"
+    }
+  },
+  {
+    "zip": "88004",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35013",
+        "ratio": 1.0,
+        "name": "Do\u00f1a Ana County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35013",
+      "ratio": 1.0,
+      "name": "Do\u00f1a Ana County"
+    }
+  },
+  {
+    "zip": "88005",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35013",
+        "ratio": 1.0,
+        "name": "Do\u00f1a Ana County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35013",
+      "ratio": 1.0,
+      "name": "Do\u00f1a Ana County"
+    }
+  },
+  {
+    "zip": "88007",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35013",
+        "ratio": 1.0,
+        "name": "Do\u00f1a Ana County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35013",
+      "ratio": 1.0,
+      "name": "Do\u00f1a Ana County"
+    }
+  },
+  {
+    "zip": "88008",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35013",
+        "ratio": 1.0,
+        "name": "Do\u00f1a Ana County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35013",
+      "ratio": 1.0,
+      "name": "Do\u00f1a Ana County"
+    }
+  },
+  {
+    "zip": "88009",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35023",
+        "ratio": 1.0,
+        "name": "Hidalgo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35023",
+      "ratio": 1.0,
+      "name": "Hidalgo County"
+    }
+  },
+  {
+    "zip": "88011",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35013",
+        "ratio": 1.0,
+        "name": "Do\u00f1a Ana County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35013",
+      "ratio": 1.0,
+      "name": "Do\u00f1a Ana County"
+    }
+  },
+  {
+    "zip": "88012",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35013",
+        "ratio": 1.0,
+        "name": "Do\u00f1a Ana County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35013",
+      "ratio": 1.0,
+      "name": "Do\u00f1a Ana County"
+    }
+  },
+  {
+    "zip": "88013",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35013",
+        "ratio": 1.0,
+        "name": "Do\u00f1a Ana County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35013",
+      "ratio": 1.0,
+      "name": "Do\u00f1a Ana County"
+    }
+  },
+  {
+    "zip": "88020",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35023",
+        "ratio": 1.0,
+        "name": "Hidalgo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35023",
+      "ratio": 1.0,
+      "name": "Hidalgo County"
+    }
+  },
+  {
+    "zip": "88021",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35013",
+        "ratio": 1.0,
+        "name": "Do\u00f1a Ana County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35013",
+      "ratio": 1.0,
+      "name": "Do\u00f1a Ana County"
+    }
+  },
+  {
+    "zip": "88022",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35017",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35017",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "88023",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35017",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35017",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "88024",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35013",
+        "ratio": 1.0,
+        "name": "Do\u00f1a Ana County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35013",
+      "ratio": 1.0,
+      "name": "Do\u00f1a Ana County"
+    }
+  },
+  {
+    "zip": "88025",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35017",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35017",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "88026",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35017",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35017",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "88027",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35013",
+        "ratio": 1.0,
+        "name": "Do\u00f1a Ana County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35013",
+      "ratio": 1.0,
+      "name": "Do\u00f1a Ana County"
+    }
+  },
+  {
+    "zip": "88028",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35017",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35017",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "88029",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35029",
+        "ratio": 1.0,
+        "name": "Luna County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35029",
+      "ratio": 1.0,
+      "name": "Luna County"
+    }
+  },
+  {
+    "zip": "88030",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35029",
+        "ratio": 1.0,
+        "name": "Luna County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35029",
+      "ratio": 1.0,
+      "name": "Luna County"
+    }
+  },
+  {
+    "zip": "88031",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35029",
+        "ratio": 1.0,
+        "name": "Luna County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35029",
+      "ratio": 1.0,
+      "name": "Luna County"
+    }
+  },
+  {
+    "zip": "88032",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35013",
+        "ratio": 1.0,
+        "name": "Do\u00f1a Ana County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35013",
+      "ratio": 1.0,
+      "name": "Do\u00f1a Ana County"
+    }
+  },
+  {
+    "zip": "88033",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35013",
+        "ratio": 1.0,
+        "name": "Do\u00f1a Ana County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35013",
+      "ratio": 1.0,
+      "name": "Do\u00f1a Ana County"
+    }
+  },
+  {
+    "zip": "88034",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35017",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35017",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "88036",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35017",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35017",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "88038",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35017",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35017",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "88039",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35003",
+        "ratio": 1.0,
+        "name": "Catron County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35003",
+      "ratio": 1.0,
+      "name": "Catron County"
+    }
+  },
+  {
+    "zip": "88040",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35017",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35017",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "88041",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35017",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35017",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "88042",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35051",
+        "ratio": 1.0,
+        "name": "Sierra County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35051",
+      "ratio": 1.0,
+      "name": "Sierra County"
+    }
+  },
+  {
+    "zip": "88043",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35017",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35017",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "88044",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35013",
+        "ratio": 1.0,
+        "name": "Do\u00f1a Ana County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35013",
+      "ratio": 1.0,
+      "name": "Do\u00f1a Ana County"
+    }
+  },
+  {
+    "zip": "88045",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35023",
+        "ratio": 1.0,
+        "name": "Hidalgo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35023",
+      "ratio": 1.0,
+      "name": "Hidalgo County"
+    }
+  },
+  {
+    "zip": "88046",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35013",
+        "ratio": 1.0,
+        "name": "Do\u00f1a Ana County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35013",
+      "ratio": 1.0,
+      "name": "Do\u00f1a Ana County"
+    }
+  },
+  {
+    "zip": "88047",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35013",
+        "ratio": 1.0,
+        "name": "Do\u00f1a Ana County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35013",
+      "ratio": 1.0,
+      "name": "Do\u00f1a Ana County"
+    }
+  },
+  {
+    "zip": "88048",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35013",
+        "ratio": 1.0,
+        "name": "Do\u00f1a Ana County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35013",
+      "ratio": 1.0,
+      "name": "Do\u00f1a Ana County"
+    }
+  },
+  {
+    "zip": "88049",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35017",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35017",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "88051",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35017",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35017",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "88052",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35013",
+        "ratio": 1.0,
+        "name": "Do\u00f1a Ana County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35013",
+      "ratio": 1.0,
+      "name": "Do\u00f1a Ana County"
+    }
+  },
+  {
+    "zip": "88053",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35017",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35017",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "88054",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35013",
+        "ratio": 1.0,
+        "name": "Do\u00f1a Ana County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35013",
+      "ratio": 1.0,
+      "name": "Do\u00f1a Ana County"
+    }
+  },
+  {
+    "zip": "88055",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35017",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35017",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "88056",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35023",
+        "ratio": 1.0,
+        "name": "Hidalgo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35023",
+      "ratio": 1.0,
+      "name": "Hidalgo County"
+    }
+  },
+  {
+    "zip": "88058",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35013",
+        "ratio": 1.0,
+        "name": "Do\u00f1a Ana County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35013",
+      "ratio": 1.0,
+      "name": "Do\u00f1a Ana County"
+    }
+  },
+  {
+    "zip": "88061",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35017",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35017",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "88062",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35017",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35017",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "88063",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35013",
+        "ratio": 1.0,
+        "name": "Do\u00f1a Ana County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35013",
+      "ratio": 1.0,
+      "name": "Do\u00f1a Ana County"
+    }
+  },
+  {
+    "zip": "88065",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35017",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35017",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "88072",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35013",
+        "ratio": 1.0,
+        "name": "Do\u00f1a Ana County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35013",
+      "ratio": 1.0,
+      "name": "Do\u00f1a Ana County"
+    }
+  },
+  {
+    "zip": "88081",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35035",
+        "ratio": 0.559,
+        "name": "Otero County"
+      },
+      {
+        "fips": "35013",
+        "ratio": 0.441,
+        "name": "Do\u00f1a Ana County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35035",
+      "ratio": 0.559,
+      "name": "Otero County"
+    }
+  },
+  {
+    "zip": "88101",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35009",
+        "ratio": 0.9996,
+        "name": "Curry County"
+      },
+      {
+        "fips": "35041",
+        "ratio": 0.0004,
+        "name": "Roosevelt County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35009",
+      "ratio": 0.9996,
+      "name": "Curry County"
+    }
+  },
+  {
+    "zip": "88102",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35009",
+        "ratio": 1.0,
+        "name": "Curry County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35009",
+      "ratio": 1.0,
+      "name": "Curry County"
+    }
+  },
+  {
+    "zip": "88103",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35009",
+        "ratio": 1.0,
+        "name": "Curry County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35009",
+      "ratio": 1.0,
+      "name": "Curry County"
+    }
+  },
+  {
+    "zip": "88112",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35009",
+        "ratio": 0.952,
+        "name": "Curry County"
+      },
+      {
+        "fips": "35037",
+        "ratio": 0.048,
+        "name": "Quay County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35009",
+      "ratio": 0.952,
+      "name": "Curry County"
+    }
+  },
+  {
+    "zip": "88113",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35041",
+        "ratio": 1.0,
+        "name": "Roosevelt County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35041",
+      "ratio": 1.0,
+      "name": "Roosevelt County"
+    }
+  },
+  {
+    "zip": "88114",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35025",
+        "ratio": 0.957,
+        "name": "Lea County"
+      },
+      {
+        "fips": "35041",
+        "ratio": 0.043,
+        "name": "Roosevelt County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35025",
+      "ratio": 0.957,
+      "name": "Lea County"
+    }
+  },
+  {
+    "zip": "88115",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35041",
+        "ratio": 1.0,
+        "name": "Roosevelt County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35041",
+      "ratio": 1.0,
+      "name": "Roosevelt County"
+    }
+  },
+  {
+    "zip": "88116",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35041",
+        "ratio": 0.9627,
+        "name": "Roosevelt County"
+      },
+      {
+        "fips": "35005",
+        "ratio": 0.0373,
+        "name": "Chaves County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35041",
+      "ratio": 0.9627,
+      "name": "Roosevelt County"
+    }
+  },
+  {
+    "zip": "88118",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35041",
+        "ratio": 0.9375,
+        "name": "Roosevelt County"
+      },
+      {
+        "fips": "35009",
+        "ratio": 0.0625,
+        "name": "Curry County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35041",
+      "ratio": 0.9375,
+      "name": "Roosevelt County"
+    }
+  },
+  {
+    "zip": "88119",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35011",
+        "ratio": 1.0,
+        "name": "De Baca County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35011",
+      "ratio": 1.0,
+      "name": "De Baca County"
+    }
+  },
+  {
+    "zip": "88120",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35009",
+        "ratio": 0.7518,
+        "name": "Curry County"
+      },
+      {
+        "fips": "35037",
+        "ratio": 0.2482,
+        "name": "Quay County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35009",
+      "ratio": 0.7518,
+      "name": "Curry County"
+    }
+  },
+  {
+    "zip": "88121",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35037",
+        "ratio": 1.0,
+        "name": "Quay County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35037",
+      "ratio": 1.0,
+      "name": "Quay County"
+    }
+  },
+  {
+    "zip": "88122",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35041",
+        "ratio": 1.0,
+        "name": "Roosevelt County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35041",
+      "ratio": 1.0,
+      "name": "Roosevelt County"
+    }
+  },
+  {
+    "zip": "88123",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35041",
+        "ratio": 1.0,
+        "name": "Roosevelt County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35041",
+      "ratio": 1.0,
+      "name": "Roosevelt County"
+    }
+  },
+  {
+    "zip": "88124",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "35009",
+        "ratio": 0.9049,
+        "name": "Curry County"
+      },
+      {
+        "fips": "35037",
+        "ratio": 0.0589,
+        "name": "Quay County"
+      },
+      {
+        "fips": "35041",
+        "ratio": 0.0361,
+        "name": "Roosevelt County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35009",
+      "ratio": 0.9049,
+      "name": "Curry County"
+    }
+  },
+  {
+    "zip": "88125",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35041",
+        "ratio": 1.0,
+        "name": "Roosevelt County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35041",
+      "ratio": 1.0,
+      "name": "Roosevelt County"
+    }
+  },
+  {
+    "zip": "88126",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35041",
+        "ratio": 1.0,
+        "name": "Roosevelt County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35041",
+      "ratio": 1.0,
+      "name": "Roosevelt County"
+    }
+  },
+  {
+    "zip": "88130",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35041",
+        "ratio": 0.9919,
+        "name": "Roosevelt County"
+      },
+      {
+        "fips": "35009",
+        "ratio": 0.0081,
+        "name": "Curry County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35041",
+      "ratio": 0.9919,
+      "name": "Roosevelt County"
+    }
+  },
+  {
+    "zip": "88132",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35041",
+        "ratio": 1.0,
+        "name": "Roosevelt County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35041",
+      "ratio": 1.0,
+      "name": "Roosevelt County"
+    }
+  },
+  {
+    "zip": "88133",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35009",
+        "ratio": 1.0,
+        "name": "Curry County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35009",
+      "ratio": 1.0,
+      "name": "Curry County"
+    }
+  },
+  {
+    "zip": "88134",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35011",
+        "ratio": 0.918,
+        "name": "De Baca County"
+      },
+      {
+        "fips": "35041",
+        "ratio": 0.082,
+        "name": "Roosevelt County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35011",
+      "ratio": 0.918,
+      "name": "De Baca County"
+    }
+  },
+  {
+    "zip": "88135",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35009",
+        "ratio": 0.9729,
+        "name": "Curry County"
+      },
+      {
+        "fips": "35041",
+        "ratio": 0.0271,
+        "name": "Roosevelt County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35009",
+      "ratio": 0.9729,
+      "name": "Curry County"
+    }
+  },
+  {
+    "zip": "88136",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "35011",
+        "ratio": 0.9359,
+        "name": "De Baca County"
+      },
+      {
+        "fips": "35005",
+        "ratio": 0.0513,
+        "name": "Chaves County"
+      },
+      {
+        "fips": "35027",
+        "ratio": 0.0128,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35011",
+      "ratio": 0.9359,
+      "name": "De Baca County"
+    }
+  },
+  {
+    "zip": "88201",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35005",
+        "ratio": 1.0,
+        "name": "Chaves County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35005",
+      "ratio": 1.0,
+      "name": "Chaves County"
+    }
+  },
+  {
+    "zip": "88202",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35005",
+        "ratio": 1.0,
+        "name": "Chaves County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35005",
+      "ratio": 1.0,
+      "name": "Chaves County"
+    }
+  },
+  {
+    "zip": "88203",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35005",
+        "ratio": 1.0,
+        "name": "Chaves County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35005",
+      "ratio": 1.0,
+      "name": "Chaves County"
+    }
+  },
+  {
+    "zip": "88210",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35015",
+        "ratio": 1.0,
+        "name": "Eddy County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35015",
+      "ratio": 1.0,
+      "name": "Eddy County"
+    }
+  },
+  {
+    "zip": "88213",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35025",
+        "ratio": 1.0,
+        "name": "Lea County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35025",
+      "ratio": 1.0,
+      "name": "Lea County"
+    }
+  },
+  {
+    "zip": "88220",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35015",
+        "ratio": 1.0,
+        "name": "Eddy County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35015",
+      "ratio": 1.0,
+      "name": "Eddy County"
+    }
+  },
+  {
+    "zip": "88221",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35015",
+        "ratio": 1.0,
+        "name": "Eddy County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35015",
+      "ratio": 1.0,
+      "name": "Eddy County"
+    }
+  },
+  {
+    "zip": "88230",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35005",
+        "ratio": 1.0,
+        "name": "Chaves County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35005",
+      "ratio": 1.0,
+      "name": "Chaves County"
+    }
+  },
+  {
+    "zip": "88231",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35025",
+        "ratio": 1.0,
+        "name": "Lea County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35025",
+      "ratio": 1.0,
+      "name": "Lea County"
+    }
+  },
+  {
+    "zip": "88232",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35005",
+        "ratio": 1.0,
+        "name": "Chaves County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35005",
+      "ratio": 1.0,
+      "name": "Chaves County"
+    }
+  },
+  {
+    "zip": "88240",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35025",
+        "ratio": 1.0,
+        "name": "Lea County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35025",
+      "ratio": 1.0,
+      "name": "Lea County"
+    }
+  },
+  {
+    "zip": "88241",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35025",
+        "ratio": 1.0,
+        "name": "Lea County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35025",
+      "ratio": 1.0,
+      "name": "Lea County"
+    }
+  },
+  {
+    "zip": "88242",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35025",
+        "ratio": 1.0,
+        "name": "Lea County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35025",
+      "ratio": 1.0,
+      "name": "Lea County"
+    }
+  },
+  {
+    "zip": "88244",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35025",
+        "ratio": 1.0,
+        "name": "Lea County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35025",
+      "ratio": 1.0,
+      "name": "Lea County"
+    }
+  },
+  {
+    "zip": "88250",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35015",
+        "ratio": 0.8713,
+        "name": "Eddy County"
+      },
+      {
+        "fips": "35005",
+        "ratio": 0.1287,
+        "name": "Chaves County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35015",
+      "ratio": 0.8713,
+      "name": "Eddy County"
+    }
+  },
+  {
+    "zip": "88252",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35025",
+        "ratio": 0.9987,
+        "name": "Lea County"
+      },
+      {
+        "fips": "35015",
+        "ratio": 0.0013,
+        "name": "Eddy County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35025",
+      "ratio": 0.9987,
+      "name": "Lea County"
+    }
+  },
+  {
+    "zip": "88253",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35005",
+        "ratio": 0.5437,
+        "name": "Chaves County"
+      },
+      {
+        "fips": "35015",
+        "ratio": 0.4562,
+        "name": "Eddy County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35005",
+      "ratio": 0.5437,
+      "name": "Chaves County"
+    }
+  },
+  {
+    "zip": "88254",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35015",
+        "ratio": 1.0,
+        "name": "Eddy County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35015",
+      "ratio": 1.0,
+      "name": "Eddy County"
+    }
+  },
+  {
+    "zip": "88255",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35015",
+        "ratio": 1.0,
+        "name": "Eddy County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35015",
+      "ratio": 1.0,
+      "name": "Eddy County"
+    }
+  },
+  {
+    "zip": "88256",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35015",
+        "ratio": 1.0,
+        "name": "Eddy County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35015",
+      "ratio": 1.0,
+      "name": "Eddy County"
+    }
+  },
+  {
+    "zip": "88260",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35025",
+        "ratio": 1.0,
+        "name": "Lea County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35025",
+      "ratio": 1.0,
+      "name": "Lea County"
+    }
+  },
+  {
+    "zip": "88262",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35025",
+        "ratio": 1.0,
+        "name": "Lea County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35025",
+      "ratio": 1.0,
+      "name": "Lea County"
+    }
+  },
+  {
+    "zip": "88263",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35015",
+        "ratio": 1.0,
+        "name": "Eddy County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35015",
+      "ratio": 1.0,
+      "name": "Eddy County"
+    }
+  },
+  {
+    "zip": "88264",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35025",
+        "ratio": 1.0,
+        "name": "Lea County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35025",
+      "ratio": 1.0,
+      "name": "Lea County"
+    }
+  },
+  {
+    "zip": "88265",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35025",
+        "ratio": 1.0,
+        "name": "Lea County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35025",
+      "ratio": 1.0,
+      "name": "Lea County"
+    }
+  },
+  {
+    "zip": "88267",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35025",
+        "ratio": 0.9982,
+        "name": "Lea County"
+      },
+      {
+        "fips": "35005",
+        "ratio": 0.0018,
+        "name": "Chaves County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35025",
+      "ratio": 0.9982,
+      "name": "Lea County"
+    }
+  },
+  {
+    "zip": "88268",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35015",
+        "ratio": 1.0,
+        "name": "Eddy County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35015",
+      "ratio": 1.0,
+      "name": "Eddy County"
+    }
+  },
+  {
+    "zip": "88301",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35027",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35027",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "88310",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35035",
+        "ratio": 1.0,
+        "name": "Otero County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35035",
+      "ratio": 1.0,
+      "name": "Otero County"
+    }
+  },
+  {
+    "zip": "88311",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35035",
+        "ratio": 1.0,
+        "name": "Otero County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35035",
+      "ratio": 1.0,
+      "name": "Otero County"
+    }
+  },
+  {
+    "zip": "88312",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35027",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35027",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "88314",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35035",
+        "ratio": 1.0,
+        "name": "Otero County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35035",
+      "ratio": 1.0,
+      "name": "Otero County"
+    }
+  },
+  {
+    "zip": "88316",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35027",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35027",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "88317",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35035",
+        "ratio": 1.0,
+        "name": "Otero County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35035",
+      "ratio": 1.0,
+      "name": "Otero County"
+    }
+  },
+  {
+    "zip": "88318",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35027",
+        "ratio": 0.931,
+        "name": "Lincoln County"
+      },
+      {
+        "fips": "35057",
+        "ratio": 0.069,
+        "name": "Torrance County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35027",
+      "ratio": 0.931,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "88321",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35057",
+        "ratio": 1.0,
+        "name": "Torrance County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35057",
+      "ratio": 1.0,
+      "name": "Torrance County"
+    }
+  },
+  {
+    "zip": "88323",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35027",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35027",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "88324",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35027",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35027",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "88325",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35035",
+        "ratio": 1.0,
+        "name": "Otero County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35035",
+      "ratio": 1.0,
+      "name": "Otero County"
+    }
+  },
+  {
+    "zip": "88330",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35035",
+        "ratio": 1.0,
+        "name": "Otero County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35035",
+      "ratio": 1.0,
+      "name": "Otero County"
+    }
+  },
+  {
+    "zip": "88336",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35027",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35027",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "88337",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35035",
+        "ratio": 1.0,
+        "name": "Otero County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35035",
+      "ratio": 1.0,
+      "name": "Otero County"
+    }
+  },
+  {
+    "zip": "88338",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35027",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35027",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "88339",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35035",
+        "ratio": 0.943,
+        "name": "Otero County"
+      },
+      {
+        "fips": "35005",
+        "ratio": 0.057,
+        "name": "Chaves County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35035",
+      "ratio": 0.943,
+      "name": "Otero County"
+    }
+  },
+  {
+    "zip": "88340",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35035",
+        "ratio": 0.9994,
+        "name": "Otero County"
+      },
+      {
+        "fips": "35027",
+        "ratio": 0.0006,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35035",
+      "ratio": 0.9994,
+      "name": "Otero County"
+    }
+  },
+  {
+    "zip": "88341",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35027",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35027",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "88342",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35035",
+        "ratio": 1.0,
+        "name": "Otero County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35035",
+      "ratio": 1.0,
+      "name": "Otero County"
+    }
+  },
+  {
+    "zip": "88343",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35027",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35027",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "88344",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35005",
+        "ratio": 0.5645,
+        "name": "Chaves County"
+      },
+      {
+        "fips": "35035",
+        "ratio": 0.4355,
+        "name": "Otero County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35005",
+      "ratio": 0.5645,
+      "name": "Chaves County"
+    }
+  },
+  {
+    "zip": "88345",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35027",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35027",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "88346",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35027",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35027",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "88347",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35035",
+        "ratio": 1.0,
+        "name": "Otero County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35035",
+      "ratio": 1.0,
+      "name": "Otero County"
+    }
+  },
+  {
+    "zip": "88348",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35027",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35027",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "88349",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35035",
+        "ratio": 1.0,
+        "name": "Otero County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35035",
+      "ratio": 1.0,
+      "name": "Otero County"
+    }
+  },
+  {
+    "zip": "88350",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35035",
+        "ratio": 1.0,
+        "name": "Otero County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35035",
+      "ratio": 1.0,
+      "name": "Otero County"
+    }
+  },
+  {
+    "zip": "88351",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35027",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35027",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "88352",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35035",
+        "ratio": 1.0,
+        "name": "Otero County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35035",
+      "ratio": 1.0,
+      "name": "Otero County"
+    }
+  },
+  {
+    "zip": "88353",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35019",
+        "ratio": 1.0,
+        "name": "Guadalupe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35019",
+      "ratio": 1.0,
+      "name": "Guadalupe County"
+    }
+  },
+  {
+    "zip": "88354",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35035",
+        "ratio": 1.0,
+        "name": "Otero County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35035",
+      "ratio": 1.0,
+      "name": "Otero County"
+    }
+  },
+  {
+    "zip": "88355",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35027",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35027",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "88401",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35037",
+        "ratio": 1.0,
+        "name": "Quay County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35037",
+      "ratio": 1.0,
+      "name": "Quay County"
+    }
+  },
+  {
+    "zip": "88410",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35059",
+        "ratio": 0.9863,
+        "name": "Union County"
+      },
+      {
+        "fips": "35021",
+        "ratio": 0.0137,
+        "name": "Harding County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35059",
+      "ratio": 0.9863,
+      "name": "Union County"
+    }
+  },
+  {
+    "zip": "88411",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35037",
+        "ratio": 1.0,
+        "name": "Quay County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35037",
+      "ratio": 1.0,
+      "name": "Quay County"
+    }
+  },
+  {
+    "zip": "88414",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35059",
+        "ratio": 1.0,
+        "name": "Union County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35059",
+      "ratio": 1.0,
+      "name": "Union County"
+    }
+  },
+  {
+    "zip": "88415",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35059",
+        "ratio": 0.9893,
+        "name": "Union County"
+      },
+      {
+        "fips": "35021",
+        "ratio": 0.0107,
+        "name": "Harding County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35059",
+      "ratio": 0.9893,
+      "name": "Union County"
+    }
+  },
+  {
+    "zip": "88416",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35047",
+        "ratio": 1.0,
+        "name": "San Miguel County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35047",
+      "ratio": 1.0,
+      "name": "San Miguel County"
+    }
+  },
+  {
+    "zip": "88417",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35019",
+        "ratio": 1.0,
+        "name": "Guadalupe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35019",
+      "ratio": 1.0,
+      "name": "Guadalupe County"
+    }
+  },
+  {
+    "zip": "88418",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35059",
+        "ratio": 1.0,
+        "name": "Union County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35059",
+      "ratio": 1.0,
+      "name": "Union County"
+    }
+  },
+  {
+    "zip": "88419",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35059",
+        "ratio": 0.9825,
+        "name": "Union County"
+      },
+      {
+        "fips": "35007",
+        "ratio": 0.0175,
+        "name": "Colfax County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35059",
+      "ratio": 0.9825,
+      "name": "Union County"
+    }
+  },
+  {
+    "zip": "88421",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35047",
+        "ratio": 1.0,
+        "name": "San Miguel County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35047",
+      "ratio": 1.0,
+      "name": "San Miguel County"
+    }
+  },
+  {
+    "zip": "88422",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35059",
+        "ratio": 0.8095,
+        "name": "Union County"
+      },
+      {
+        "fips": "35007",
+        "ratio": 0.1905,
+        "name": "Colfax County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35059",
+      "ratio": 0.8095,
+      "name": "Union County"
+    }
+  },
+  {
+    "zip": "88424",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35059",
+        "ratio": 1.0,
+        "name": "Union County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35059",
+      "ratio": 1.0,
+      "name": "Union County"
+    }
+  },
+  {
+    "zip": "88426",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35037",
+        "ratio": 0.9915,
+        "name": "Quay County"
+      },
+      {
+        "fips": "35021",
+        "ratio": 0.0085,
+        "name": "Harding County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35037",
+      "ratio": 0.9915,
+      "name": "Quay County"
+    }
+  },
+  {
+    "zip": "88427",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "35037",
+        "ratio": 0.9855,
+        "name": "Quay County"
+      },
+      {
+        "fips": "35009",
+        "ratio": 0.0145,
+        "name": "Curry County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35037",
+      "ratio": 0.9855,
+      "name": "Quay County"
+    }
+  },
+  {
+    "zip": "88430",
+    "state": "NM",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "35037",
+        "ratio": 0.7681,
+        "name": "Quay County"
+      },
+      {
+        "fips": "35059",
+        "ratio": 0.1884,
+        "name": "Union County"
+      },
+      {
+        "fips": "35021",
+        "ratio": 0.0435,
+        "name": "Harding County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35037",
+      "ratio": 0.7681,
+      "name": "Quay County"
+    }
+  },
+  {
+    "zip": "88431",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35019",
+        "ratio": 1.0,
+        "name": "Guadalupe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35019",
+      "ratio": 1.0,
+      "name": "Guadalupe County"
+    }
+  },
+  {
+    "zip": "88433",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35037",
+        "ratio": 1.0,
+        "name": "Quay County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35037",
+      "ratio": 1.0,
+      "name": "Quay County"
+    }
+  },
+  {
+    "zip": "88434",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35037",
+        "ratio": 1.0,
+        "name": "Quay County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35037",
+      "ratio": 1.0,
+      "name": "Quay County"
+    }
+  },
+  {
+    "zip": "88435",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35019",
+        "ratio": 1.0,
+        "name": "Guadalupe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35019",
+      "ratio": 1.0,
+      "name": "Guadalupe County"
+    }
+  },
+  {
+    "zip": "88436",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35059",
+        "ratio": 1.0,
+        "name": "Union County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35059",
+      "ratio": 1.0,
+      "name": "Union County"
+    }
+  },
+  {
+    "zip": "88439",
+    "state": "NM",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "35047",
+        "ratio": 1.0,
+        "name": "San Miguel County"
+      }
+    ],
+    "primary_county": {
+      "fips": "35047",
+      "ratio": 1.0,
+      "name": "San Miguel County"
+    }
+  }
+]

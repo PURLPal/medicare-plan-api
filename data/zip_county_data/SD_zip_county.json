@@ -1,0 +1,8241 @@
+[
+  {
+    "zip": "57001",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46127",
+        "ratio": 0.9757,
+        "name": "Union County"
+      },
+      {
+        "fips": "46083",
+        "ratio": 0.0243,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46127",
+      "ratio": 0.9757,
+      "name": "Union County"
+    }
+  },
+  {
+    "zip": "57002",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46011",
+        "ratio": 0.9917,
+        "name": "Brookings County"
+      },
+      {
+        "fips": "46101",
+        "ratio": 0.0083,
+        "name": "Moody County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46011",
+      "ratio": 0.9917,
+      "name": "Brookings County"
+    }
+  },
+  {
+    "zip": "57003",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46099",
+        "ratio": 1.0,
+        "name": "Minnehaha County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46099",
+      "ratio": 1.0,
+      "name": "Minnehaha County"
+    }
+  },
+  {
+    "zip": "57004",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46127",
+        "ratio": 0.6232,
+        "name": "Union County"
+      },
+      {
+        "fips": "46083",
+        "ratio": 0.2991,
+        "name": "Lincoln County"
+      },
+      {
+        "fips": "46027",
+        "ratio": 0.0778,
+        "name": "Clay County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46127",
+      "ratio": 0.6232,
+      "name": "Union County"
+    }
+  },
+  {
+    "zip": "57005",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46099",
+        "ratio": 1.0,
+        "name": "Minnehaha County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46099",
+      "ratio": 1.0,
+      "name": "Minnehaha County"
+    }
+  },
+  {
+    "zip": "57006",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46011",
+        "ratio": 0.9959,
+        "name": "Brookings County"
+      },
+      {
+        "fips": "46101",
+        "ratio": 0.0041,
+        "name": "Moody County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46011",
+      "ratio": 0.9959,
+      "name": "Brookings County"
+    }
+  },
+  {
+    "zip": "57007",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46011",
+        "ratio": 1.0,
+        "name": "Brookings County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46011",
+      "ratio": 1.0,
+      "name": "Brookings County"
+    }
+  },
+  {
+    "zip": "57010",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46027",
+        "ratio": 0.7352,
+        "name": "Clay County"
+      },
+      {
+        "fips": "46127",
+        "ratio": 0.2648,
+        "name": "Union County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46027",
+      "ratio": 0.7352,
+      "name": "Clay County"
+    }
+  },
+  {
+    "zip": "57012",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46087",
+        "ratio": 1.0,
+        "name": "McCook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46087",
+      "ratio": 1.0,
+      "name": "McCook County"
+    }
+  },
+  {
+    "zip": "57013",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46083",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46083",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "57014",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46125",
+        "ratio": 0.782,
+        "name": "Turner County"
+      },
+      {
+        "fips": "46027",
+        "ratio": 0.121,
+        "name": "Clay County"
+      },
+      {
+        "fips": "46083",
+        "ratio": 0.097,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46125",
+      "ratio": 0.782,
+      "name": "Turner County"
+    }
+  },
+  {
+    "zip": "57015",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46125",
+        "ratio": 0.9682,
+        "name": "Turner County"
+      },
+      {
+        "fips": "46099",
+        "ratio": 0.0318,
+        "name": "Minnehaha County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46125",
+      "ratio": 0.9682,
+      "name": "Turner County"
+    }
+  },
+  {
+    "zip": "57016",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46079",
+        "ratio": 0.9975,
+        "name": "Lake County"
+      },
+      {
+        "fips": "46099",
+        "ratio": 0.0025,
+        "name": "Minnehaha County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46079",
+      "ratio": 0.9975,
+      "name": "Lake County"
+    }
+  },
+  {
+    "zip": "57017",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46101",
+        "ratio": 0.9862,
+        "name": "Moody County"
+      },
+      {
+        "fips": "46079",
+        "ratio": 0.0138,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46101",
+      "ratio": 0.9862,
+      "name": "Moody County"
+    }
+  },
+  {
+    "zip": "57018",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46099",
+        "ratio": 0.9773,
+        "name": "Minnehaha County"
+      },
+      {
+        "fips": "46079",
+        "ratio": 0.0227,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46099",
+      "ratio": 0.9773,
+      "name": "Minnehaha County"
+    }
+  },
+  {
+    "zip": "57020",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46099",
+        "ratio": 1.0,
+        "name": "Minnehaha County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46099",
+      "ratio": 1.0,
+      "name": "Minnehaha County"
+    }
+  },
+  {
+    "zip": "57021",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46125",
+        "ratio": 0.9773,
+        "name": "Turner County"
+      },
+      {
+        "fips": "46083",
+        "ratio": 0.0227,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46125",
+      "ratio": 0.9773,
+      "name": "Turner County"
+    }
+  },
+  {
+    "zip": "57022",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46099",
+        "ratio": 0.9138,
+        "name": "Minnehaha County"
+      },
+      {
+        "fips": "46101",
+        "ratio": 0.084,
+        "name": "Moody County"
+      },
+      {
+        "fips": "46079",
+        "ratio": 0.0022,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46099",
+      "ratio": 0.9138,
+      "name": "Minnehaha County"
+    }
+  },
+  {
+    "zip": "57024",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46101",
+        "ratio": 1.0,
+        "name": "Moody County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46101",
+      "ratio": 1.0,
+      "name": "Moody County"
+    }
+  },
+  {
+    "zip": "57025",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46127",
+        "ratio": 1.0,
+        "name": "Union County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46127",
+      "ratio": 1.0,
+      "name": "Union County"
+    }
+  },
+  {
+    "zip": "57026",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46011",
+        "ratio": 0.873,
+        "name": "Brookings County"
+      },
+      {
+        "fips": "46101",
+        "ratio": 0.127,
+        "name": "Moody County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46011",
+      "ratio": 0.873,
+      "name": "Brookings County"
+    }
+  },
+  {
+    "zip": "57027",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46083",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46083",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "57028",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46101",
+        "ratio": 1.0,
+        "name": "Moody County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46101",
+      "ratio": 1.0,
+      "name": "Moody County"
+    }
+  },
+  {
+    "zip": "57029",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46067",
+        "ratio": 0.8987,
+        "name": "Hutchinson County"
+      },
+      {
+        "fips": "46125",
+        "ratio": 0.1013,
+        "name": "Turner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46067",
+      "ratio": 0.8987,
+      "name": "Hutchinson County"
+    }
+  },
+  {
+    "zip": "57030",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46099",
+        "ratio": 1.0,
+        "name": "Minnehaha County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46099",
+      "ratio": 1.0,
+      "name": "Minnehaha County"
+    }
+  },
+  {
+    "zip": "57031",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46135",
+        "ratio": 0.927,
+        "name": "Yankton County"
+      },
+      {
+        "fips": "46027",
+        "ratio": 0.073,
+        "name": "Clay County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46135",
+      "ratio": 0.927,
+      "name": "Yankton County"
+    }
+  },
+  {
+    "zip": "57032",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46083",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46083",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "57033",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46099",
+        "ratio": 1.0,
+        "name": "Minnehaha County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46099",
+      "ratio": 1.0,
+      "name": "Minnehaha County"
+    }
+  },
+  {
+    "zip": "57034",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46083",
+        "ratio": 0.9889,
+        "name": "Lincoln County"
+      },
+      {
+        "fips": "46127",
+        "ratio": 0.0111,
+        "name": "Union County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46083",
+      "ratio": 0.9889,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "57035",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46099",
+        "ratio": 0.9822,
+        "name": "Minnehaha County"
+      },
+      {
+        "fips": "46087",
+        "ratio": 0.0178,
+        "name": "McCook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46099",
+      "ratio": 0.9822,
+      "name": "Minnehaha County"
+    }
+  },
+  {
+    "zip": "57036",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46125",
+        "ratio": 1.0,
+        "name": "Turner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46125",
+      "ratio": 1.0,
+      "name": "Turner County"
+    }
+  },
+  {
+    "zip": "57037",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46135",
+        "ratio": 0.464,
+        "name": "Yankton County"
+      },
+      {
+        "fips": "46125",
+        "ratio": 0.3136,
+        "name": "Turner County"
+      },
+      {
+        "fips": "46027",
+        "ratio": 0.2225,
+        "name": "Clay County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46135",
+      "ratio": 0.464,
+      "name": "Yankton County"
+    }
+  },
+  {
+    "zip": "57038",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46127",
+        "ratio": 1.0,
+        "name": "Union County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46127",
+      "ratio": 1.0,
+      "name": "Union County"
+    }
+  },
+  {
+    "zip": "57039",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46083",
+        "ratio": 0.9759,
+        "name": "Lincoln County"
+      },
+      {
+        "fips": "46125",
+        "ratio": 0.0241,
+        "name": "Turner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46083",
+      "ratio": 0.9759,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "57040",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46135",
+        "ratio": 0.9805,
+        "name": "Yankton County"
+      },
+      {
+        "fips": "46009",
+        "ratio": 0.0195,
+        "name": "Bon Homme County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46135",
+      "ratio": 0.9805,
+      "name": "Yankton County"
+    }
+  },
+  {
+    "zip": "57041",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46099",
+        "ratio": 1.0,
+        "name": "Minnehaha County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46099",
+      "ratio": 1.0,
+      "name": "Minnehaha County"
+    }
+  },
+  {
+    "zip": "57042",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46079",
+        "ratio": 0.9994,
+        "name": "Lake County"
+      },
+      {
+        "fips": "46099",
+        "ratio": 0.0004,
+        "name": "Minnehaha County"
+      },
+      {
+        "fips": "46087",
+        "ratio": 0.0002,
+        "name": "McCook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46079",
+      "ratio": 0.9994,
+      "name": "Lake County"
+    }
+  },
+  {
+    "zip": "57043",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46125",
+        "ratio": 0.9614,
+        "name": "Turner County"
+      },
+      {
+        "fips": "46087",
+        "ratio": 0.0248,
+        "name": "McCook County"
+      },
+      {
+        "fips": "46067",
+        "ratio": 0.0138,
+        "name": "Hutchinson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46125",
+      "ratio": 0.9614,
+      "name": "Turner County"
+    }
+  },
+  {
+    "zip": "57045",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46067",
+        "ratio": 0.9216,
+        "name": "Hutchinson County"
+      },
+      {
+        "fips": "46135",
+        "ratio": 0.0703,
+        "name": "Yankton County"
+      },
+      {
+        "fips": "46125",
+        "ratio": 0.0082,
+        "name": "Turner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46067",
+      "ratio": 0.9216,
+      "name": "Hutchinson County"
+    }
+  },
+  {
+    "zip": "57046",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46135",
+        "ratio": 1.0,
+        "name": "Yankton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46135",
+      "ratio": 1.0,
+      "name": "Yankton County"
+    }
+  },
+  {
+    "zip": "57047",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46125",
+        "ratio": 0.7176,
+        "name": "Turner County"
+      },
+      {
+        "fips": "46087",
+        "ratio": 0.2824,
+        "name": "McCook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46125",
+      "ratio": 0.7176,
+      "name": "Turner County"
+    }
+  },
+  {
+    "zip": "57048",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46087",
+        "ratio": 0.9077,
+        "name": "McCook County"
+      },
+      {
+        "fips": "46099",
+        "ratio": 0.0864,
+        "name": "Minnehaha County"
+      },
+      {
+        "fips": "46079",
+        "ratio": 0.0059,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46087",
+      "ratio": 0.9077,
+      "name": "McCook County"
+    }
+  },
+  {
+    "zip": "57049",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46127",
+        "ratio": 1.0,
+        "name": "Union County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46127",
+      "ratio": 1.0,
+      "name": "Union County"
+    }
+  },
+  {
+    "zip": "57050",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46079",
+        "ratio": 1.0,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46079",
+      "ratio": 1.0,
+      "name": "Lake County"
+    }
+  },
+  {
+    "zip": "57051",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46077",
+        "ratio": 0.9464,
+        "name": "Kingsbury County"
+      },
+      {
+        "fips": "46097",
+        "ratio": 0.0357,
+        "name": "Miner County"
+      },
+      {
+        "fips": "46079",
+        "ratio": 0.0179,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46077",
+      "ratio": 0.9464,
+      "name": "Kingsbury County"
+    }
+  },
+  {
+    "zip": "57052",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46067",
+        "ratio": 1.0,
+        "name": "Hutchinson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46067",
+      "ratio": 1.0,
+      "name": "Hutchinson County"
+    }
+  },
+  {
+    "zip": "57053",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46125",
+        "ratio": 0.9479,
+        "name": "Turner County"
+      },
+      {
+        "fips": "46087",
+        "ratio": 0.0396,
+        "name": "McCook County"
+      },
+      {
+        "fips": "46099",
+        "ratio": 0.0125,
+        "name": "Minnehaha County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46125",
+      "ratio": 0.9479,
+      "name": "Turner County"
+    }
+  },
+  {
+    "zip": "57054",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46079",
+        "ratio": 0.9847,
+        "name": "Lake County"
+      },
+      {
+        "fips": "46077",
+        "ratio": 0.0115,
+        "name": "Kingsbury County"
+      },
+      {
+        "fips": "46097",
+        "ratio": 0.0038,
+        "name": "Miner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46079",
+      "ratio": 0.9847,
+      "name": "Lake County"
+    }
+  },
+  {
+    "zip": "57055",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46099",
+        "ratio": 1.0,
+        "name": "Minnehaha County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46099",
+      "ratio": 1.0,
+      "name": "Minnehaha County"
+    }
+  },
+  {
+    "zip": "57057",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46079",
+        "ratio": 0.9737,
+        "name": "Lake County"
+      },
+      {
+        "fips": "46101",
+        "ratio": 0.0263,
+        "name": "Moody County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46079",
+      "ratio": 0.9737,
+      "name": "Lake County"
+    }
+  },
+  {
+    "zip": "57058",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46087",
+        "ratio": 0.9945,
+        "name": "McCook County"
+      },
+      {
+        "fips": "46079",
+        "ratio": 0.0037,
+        "name": "Lake County"
+      },
+      {
+        "fips": "46097",
+        "ratio": 0.0018,
+        "name": "Miner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46087",
+      "ratio": 0.9945,
+      "name": "McCook County"
+    }
+  },
+  {
+    "zip": "57059",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46009",
+        "ratio": 0.948,
+        "name": "Bon Homme County"
+      },
+      {
+        "fips": "46067",
+        "ratio": 0.0492,
+        "name": "Hutchinson County"
+      },
+      {
+        "fips": "46135",
+        "ratio": 0.0028,
+        "name": "Yankton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46009",
+      "ratio": 0.948,
+      "name": "Bon Homme County"
+    }
+  },
+  {
+    "zip": "57061",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46011",
+        "ratio": 1.0,
+        "name": "Brookings County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46011",
+      "ratio": 1.0,
+      "name": "Brookings County"
+    }
+  },
+  {
+    "zip": "57062",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46009",
+        "ratio": 1.0,
+        "name": "Bon Homme County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46009",
+      "ratio": 1.0,
+      "name": "Bon Homme County"
+    }
+  },
+  {
+    "zip": "57063",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46009",
+        "ratio": 0.8385,
+        "name": "Bon Homme County"
+      },
+      {
+        "fips": "46135",
+        "ratio": 0.1615,
+        "name": "Yankton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46009",
+      "ratio": 0.8385,
+      "name": "Bon Homme County"
+    }
+  },
+  {
+    "zip": "57064",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46083",
+        "ratio": 0.9885,
+        "name": "Lincoln County"
+      },
+      {
+        "fips": "46125",
+        "ratio": 0.0107,
+        "name": "Turner County"
+      },
+      {
+        "fips": "46099",
+        "ratio": 0.0008,
+        "name": "Minnehaha County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46083",
+      "ratio": 0.9885,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "57065",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46101",
+        "ratio": 1.0,
+        "name": "Moody County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46101",
+      "ratio": 1.0,
+      "name": "Moody County"
+    }
+  },
+  {
+    "zip": "57066",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46009",
+        "ratio": 1.0,
+        "name": "Bon Homme County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46009",
+      "ratio": 1.0,
+      "name": "Bon Homme County"
+    }
+  },
+  {
+    "zip": "57067",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46135",
+        "ratio": 1.0,
+        "name": "Yankton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46135",
+      "ratio": 1.0,
+      "name": "Yankton County"
+    }
+  },
+  {
+    "zip": "57068",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46099",
+        "ratio": 1.0,
+        "name": "Minnehaha County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46099",
+      "ratio": 1.0,
+      "name": "Minnehaha County"
+    }
+  },
+  {
+    "zip": "57069",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46027",
+        "ratio": 1.0,
+        "name": "Clay County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46027",
+      "ratio": 1.0,
+      "name": "Clay County"
+    }
+  },
+  {
+    "zip": "57070",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46125",
+        "ratio": 0.9736,
+        "name": "Turner County"
+      },
+      {
+        "fips": "46135",
+        "ratio": 0.0264,
+        "name": "Yankton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46125",
+      "ratio": 0.9736,
+      "name": "Turner County"
+    }
+  },
+  {
+    "zip": "57071",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46011",
+        "ratio": 0.9779,
+        "name": "Brookings County"
+      },
+      {
+        "fips": "46079",
+        "ratio": 0.0172,
+        "name": "Lake County"
+      },
+      {
+        "fips": "46101",
+        "ratio": 0.0049,
+        "name": "Moody County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46011",
+      "ratio": 0.9779,
+      "name": "Brookings County"
+    }
+  },
+  {
+    "zip": "57072",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46135",
+        "ratio": 0.7633,
+        "name": "Yankton County"
+      },
+      {
+        "fips": "46027",
+        "ratio": 0.2367,
+        "name": "Clay County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46135",
+      "ratio": 0.7633,
+      "name": "Yankton County"
+    }
+  },
+  {
+    "zip": "57073",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46027",
+        "ratio": 0.9783,
+        "name": "Clay County"
+      },
+      {
+        "fips": "46125",
+        "ratio": 0.0217,
+        "name": "Turner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46027",
+      "ratio": 0.9783,
+      "name": "Clay County"
+    }
+  },
+  {
+    "zip": "57075",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46079",
+        "ratio": 0.9951,
+        "name": "Lake County"
+      },
+      {
+        "fips": "46101",
+        "ratio": 0.0049,
+        "name": "Moody County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46079",
+      "ratio": 0.9951,
+      "name": "Lake County"
+    }
+  },
+  {
+    "zip": "57076",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46097",
+        "ratio": 0.5291,
+        "name": "Miner County"
+      },
+      {
+        "fips": "46079",
+        "ratio": 0.4709,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46097",
+      "ratio": 0.5291,
+      "name": "Miner County"
+    }
+  },
+  {
+    "zip": "57077",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46083",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46083",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "57078",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46135",
+        "ratio": 1.0,
+        "name": "Yankton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46135",
+      "ratio": 1.0,
+      "name": "Yankton County"
+    }
+  },
+  {
+    "zip": "57101",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46099",
+        "ratio": 1.0,
+        "name": "Minnehaha County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46099",
+      "ratio": 1.0,
+      "name": "Minnehaha County"
+    }
+  },
+  {
+    "zip": "57103",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46099",
+        "ratio": 1.0,
+        "name": "Minnehaha County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46099",
+      "ratio": 1.0,
+      "name": "Minnehaha County"
+    }
+  },
+  {
+    "zip": "57104",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46099",
+        "ratio": 1.0,
+        "name": "Minnehaha County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46099",
+      "ratio": 1.0,
+      "name": "Minnehaha County"
+    }
+  },
+  {
+    "zip": "57105",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46099",
+        "ratio": 1.0,
+        "name": "Minnehaha County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46099",
+      "ratio": 1.0,
+      "name": "Minnehaha County"
+    }
+  },
+  {
+    "zip": "57106",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46099",
+        "ratio": 0.8877,
+        "name": "Minnehaha County"
+      },
+      {
+        "fips": "46083",
+        "ratio": 0.1123,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46099",
+      "ratio": 0.8877,
+      "name": "Minnehaha County"
+    }
+  },
+  {
+    "zip": "57107",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46099",
+        "ratio": 1.0,
+        "name": "Minnehaha County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46099",
+      "ratio": 1.0,
+      "name": "Minnehaha County"
+    }
+  },
+  {
+    "zip": "57108",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46083",
+        "ratio": 0.9877,
+        "name": "Lincoln County"
+      },
+      {
+        "fips": "46099",
+        "ratio": 0.0123,
+        "name": "Minnehaha County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46083",
+      "ratio": 0.9877,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "57109",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46099",
+        "ratio": 1.0,
+        "name": "Minnehaha County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46099",
+      "ratio": 1.0,
+      "name": "Minnehaha County"
+    }
+  },
+  {
+    "zip": "57110",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46099",
+        "ratio": 1.0,
+        "name": "Minnehaha County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46099",
+      "ratio": 1.0,
+      "name": "Minnehaha County"
+    }
+  },
+  {
+    "zip": "57118",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46099",
+        "ratio": 1.0,
+        "name": "Minnehaha County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46099",
+      "ratio": 1.0,
+      "name": "Minnehaha County"
+    }
+  },
+  {
+    "zip": "57186",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46099",
+        "ratio": 1.0,
+        "name": "Minnehaha County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46099",
+      "ratio": 1.0,
+      "name": "Minnehaha County"
+    }
+  },
+  {
+    "zip": "57193",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46099",
+        "ratio": 1.0,
+        "name": "Minnehaha County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46099",
+      "ratio": 1.0,
+      "name": "Minnehaha County"
+    }
+  },
+  {
+    "zip": "57197",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46099",
+        "ratio": 1.0,
+        "name": "Minnehaha County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46099",
+      "ratio": 1.0,
+      "name": "Minnehaha County"
+    }
+  },
+  {
+    "zip": "57198",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46099",
+        "ratio": 1.0,
+        "name": "Minnehaha County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46099",
+      "ratio": 1.0,
+      "name": "Minnehaha County"
+    }
+  },
+  {
+    "zip": "57201",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46029",
+        "ratio": 0.9996,
+        "name": "Codington County"
+      },
+      {
+        "fips": "46057",
+        "ratio": 0.0004,
+        "name": "Hamlin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46029",
+      "ratio": 0.9996,
+      "name": "Codington County"
+    }
+  },
+  {
+    "zip": "57212",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "46077",
+        "ratio": 0.6823,
+        "name": "Kingsbury County"
+      },
+      {
+        "fips": "46011",
+        "ratio": 0.2058,
+        "name": "Brookings County"
+      },
+      {
+        "fips": "46057",
+        "ratio": 0.1111,
+        "name": "Hamlin County"
+      },
+      {
+        "fips": "46079",
+        "ratio": 0.0008,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46077",
+      "ratio": 0.6823,
+      "name": "Kingsbury County"
+    }
+  },
+  {
+    "zip": "57213",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46039",
+        "ratio": 0.8108,
+        "name": "Deuel County"
+      },
+      {
+        "fips": "46011",
+        "ratio": 0.1892,
+        "name": "Brookings County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46039",
+      "ratio": 0.8108,
+      "name": "Deuel County"
+    }
+  },
+  {
+    "zip": "57214",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46077",
+        "ratio": 1.0,
+        "name": "Kingsbury County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46077",
+      "ratio": 1.0,
+      "name": "Kingsbury County"
+    }
+  },
+  {
+    "zip": "57216",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46051",
+        "ratio": 0.6714,
+        "name": "Grant County"
+      },
+      {
+        "fips": "46109",
+        "ratio": 0.3286,
+        "name": "Roberts County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46051",
+      "ratio": 0.6714,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "57217",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46025",
+        "ratio": 0.9934,
+        "name": "Clark County"
+      },
+      {
+        "fips": "46029",
+        "ratio": 0.0066,
+        "name": "Codington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46025",
+      "ratio": 0.9934,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "57218",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46039",
+        "ratio": 1.0,
+        "name": "Deuel County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46039",
+      "ratio": 1.0,
+      "name": "Deuel County"
+    }
+  },
+  {
+    "zip": "57219",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46037",
+        "ratio": 1.0,
+        "name": "Day County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46037",
+      "ratio": 1.0,
+      "name": "Day County"
+    }
+  },
+  {
+    "zip": "57220",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46011",
+        "ratio": 0.9953,
+        "name": "Brookings County"
+      },
+      {
+        "fips": "46057",
+        "ratio": 0.0047,
+        "name": "Hamlin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46011",
+      "ratio": 0.9953,
+      "name": "Brookings County"
+    }
+  },
+  {
+    "zip": "57221",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46057",
+        "ratio": 0.8899,
+        "name": "Hamlin County"
+      },
+      {
+        "fips": "46025",
+        "ratio": 0.0849,
+        "name": "Clark County"
+      },
+      {
+        "fips": "46077",
+        "ratio": 0.0252,
+        "name": "Kingsbury County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46057",
+      "ratio": 0.8899,
+      "name": "Hamlin County"
+    }
+  },
+  {
+    "zip": "57223",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46057",
+        "ratio": 0.9968,
+        "name": "Hamlin County"
+      },
+      {
+        "fips": "46039",
+        "ratio": 0.0032,
+        "name": "Deuel County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46057",
+      "ratio": 0.9968,
+      "name": "Hamlin County"
+    }
+  },
+  {
+    "zip": "57224",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46109",
+        "ratio": 0.9895,
+        "name": "Roberts County"
+      },
+      {
+        "fips": "46091",
+        "ratio": 0.0105,
+        "name": "Marshall County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46109",
+      "ratio": 0.9895,
+      "name": "Roberts County"
+    }
+  },
+  {
+    "zip": "57225",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46025",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46025",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "57226",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46039",
+        "ratio": 0.988,
+        "name": "Deuel County"
+      },
+      {
+        "fips": "46057",
+        "ratio": 0.012,
+        "name": "Hamlin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46039",
+      "ratio": 0.988,
+      "name": "Deuel County"
+    }
+  },
+  {
+    "zip": "57227",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46109",
+        "ratio": 0.9696,
+        "name": "Roberts County"
+      },
+      {
+        "fips": "46051",
+        "ratio": 0.0304,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46109",
+      "ratio": 0.9696,
+      "name": "Roberts County"
+    }
+  },
+  {
+    "zip": "57231",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46077",
+        "ratio": 1.0,
+        "name": "Kingsbury County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46077",
+      "ratio": 1.0,
+      "name": "Kingsbury County"
+    }
+  },
+  {
+    "zip": "57232",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46091",
+        "ratio": 0.9901,
+        "name": "Marshall County"
+      },
+      {
+        "fips": "46037",
+        "ratio": 0.0099,
+        "name": "Day County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46091",
+      "ratio": 0.9901,
+      "name": "Marshall County"
+    }
+  },
+  {
+    "zip": "57233",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46077",
+        "ratio": 0.9655,
+        "name": "Kingsbury County"
+      },
+      {
+        "fips": "46057",
+        "ratio": 0.0345,
+        "name": "Hamlin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46077",
+      "ratio": 0.9655,
+      "name": "Kingsbury County"
+    }
+  },
+  {
+    "zip": "57234",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46057",
+        "ratio": 0.872,
+        "name": "Hamlin County"
+      },
+      {
+        "fips": "46039",
+        "ratio": 0.1248,
+        "name": "Deuel County"
+      },
+      {
+        "fips": "46011",
+        "ratio": 0.0032,
+        "name": "Brookings County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46057",
+      "ratio": 0.872,
+      "name": "Hamlin County"
+    }
+  },
+  {
+    "zip": "57235",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46029",
+        "ratio": 0.9803,
+        "name": "Codington County"
+      },
+      {
+        "fips": "46037",
+        "ratio": 0.0197,
+        "name": "Day County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46029",
+      "ratio": 0.9803,
+      "name": "Codington County"
+    }
+  },
+  {
+    "zip": "57236",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46025",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46025",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "57237",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46039",
+        "ratio": 1.0,
+        "name": "Deuel County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46039",
+      "ratio": 1.0,
+      "name": "Deuel County"
+    }
+  },
+  {
+    "zip": "57238",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46039",
+        "ratio": 0.7808,
+        "name": "Deuel County"
+      },
+      {
+        "fips": "46029",
+        "ratio": 0.2009,
+        "name": "Codington County"
+      },
+      {
+        "fips": "46057",
+        "ratio": 0.0183,
+        "name": "Hamlin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46039",
+      "ratio": 0.7808,
+      "name": "Deuel County"
+    }
+  },
+  {
+    "zip": "57239",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46037",
+        "ratio": 1.0,
+        "name": "Day County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46037",
+      "ratio": 1.0,
+      "name": "Day County"
+    }
+  },
+  {
+    "zip": "57241",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46057",
+        "ratio": 0.9956,
+        "name": "Hamlin County"
+      },
+      {
+        "fips": "46029",
+        "ratio": 0.0044,
+        "name": "Codington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46057",
+      "ratio": 0.9956,
+      "name": "Hamlin County"
+    }
+  },
+  {
+    "zip": "57242",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46057",
+        "ratio": 0.836,
+        "name": "Hamlin County"
+      },
+      {
+        "fips": "46029",
+        "ratio": 0.164,
+        "name": "Codington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46057",
+      "ratio": 0.836,
+      "name": "Hamlin County"
+    }
+  },
+  {
+    "zip": "57243",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46029",
+        "ratio": 0.9555,
+        "name": "Codington County"
+      },
+      {
+        "fips": "46025",
+        "ratio": 0.0377,
+        "name": "Clark County"
+      },
+      {
+        "fips": "46057",
+        "ratio": 0.0068,
+        "name": "Hamlin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46029",
+      "ratio": 0.9555,
+      "name": "Codington County"
+    }
+  },
+  {
+    "zip": "57245",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46029",
+        "ratio": 1.0,
+        "name": "Codington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46029",
+      "ratio": 1.0,
+      "name": "Codington County"
+    }
+  },
+  {
+    "zip": "57246",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46051",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46051",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "57247",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46091",
+        "ratio": 1.0,
+        "name": "Marshall County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46091",
+      "ratio": 1.0,
+      "name": "Marshall County"
+    }
+  },
+  {
+    "zip": "57248",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46057",
+        "ratio": 0.9598,
+        "name": "Hamlin County"
+      },
+      {
+        "fips": "46077",
+        "ratio": 0.0402,
+        "name": "Kingsbury County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46057",
+      "ratio": 0.9598,
+      "name": "Hamlin County"
+    }
+  },
+  {
+    "zip": "57249",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46077",
+        "ratio": 1.0,
+        "name": "Kingsbury County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46077",
+      "ratio": 1.0,
+      "name": "Kingsbury County"
+    }
+  },
+  {
+    "zip": "57251",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46051",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46051",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "57252",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46051",
+        "ratio": 0.9974,
+        "name": "Grant County"
+      },
+      {
+        "fips": "46109",
+        "ratio": 0.0026,
+        "name": "Roberts County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46051",
+      "ratio": 0.9974,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "57255",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46109",
+        "ratio": 1.0,
+        "name": "Roberts County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46109",
+      "ratio": 1.0,
+      "name": "Roberts County"
+    }
+  },
+  {
+    "zip": "57256",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "46109",
+        "ratio": 0.5109,
+        "name": "Roberts County"
+      },
+      {
+        "fips": "46051",
+        "ratio": 0.4457,
+        "name": "Grant County"
+      },
+      {
+        "fips": "46029",
+        "ratio": 0.0217,
+        "name": "Codington County"
+      },
+      {
+        "fips": "46037",
+        "ratio": 0.0217,
+        "name": "Day County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46109",
+      "ratio": 0.5109,
+      "name": "Roberts County"
+    }
+  },
+  {
+    "zip": "57257",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46109",
+        "ratio": 1.0,
+        "name": "Roberts County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46109",
+      "ratio": 1.0,
+      "name": "Roberts County"
+    }
+  },
+  {
+    "zip": "57258",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46025",
+        "ratio": 0.9649,
+        "name": "Clark County"
+      },
+      {
+        "fips": "46115",
+        "ratio": 0.0351,
+        "name": "Spink County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46025",
+      "ratio": 0.9649,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "57259",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46051",
+        "ratio": 0.7399,
+        "name": "Grant County"
+      },
+      {
+        "fips": "46039",
+        "ratio": 0.2601,
+        "name": "Deuel County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46051",
+      "ratio": 0.7399,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "57260",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46109",
+        "ratio": 1.0,
+        "name": "Roberts County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46109",
+      "ratio": 1.0,
+      "name": "Roberts County"
+    }
+  },
+  {
+    "zip": "57261",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46037",
+        "ratio": 1.0,
+        "name": "Day County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46037",
+      "ratio": 1.0,
+      "name": "Day County"
+    }
+  },
+  {
+    "zip": "57262",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46109",
+        "ratio": 0.9709,
+        "name": "Roberts County"
+      },
+      {
+        "fips": "46091",
+        "ratio": 0.0291,
+        "name": "Marshall County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46109",
+      "ratio": 0.9709,
+      "name": "Roberts County"
+    }
+  },
+  {
+    "zip": "57263",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46029",
+        "ratio": 0.8245,
+        "name": "Codington County"
+      },
+      {
+        "fips": "46051",
+        "ratio": 0.1755,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46029",
+      "ratio": 0.8245,
+      "name": "Codington County"
+    }
+  },
+  {
+    "zip": "57264",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46051",
+        "ratio": 0.9912,
+        "name": "Grant County"
+      },
+      {
+        "fips": "46029",
+        "ratio": 0.0088,
+        "name": "Codington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46051",
+      "ratio": 0.9912,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "57265",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46051",
+        "ratio": 0.8652,
+        "name": "Grant County"
+      },
+      {
+        "fips": "46039",
+        "ratio": 0.0787,
+        "name": "Deuel County"
+      },
+      {
+        "fips": "46029",
+        "ratio": 0.0562,
+        "name": "Codington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46051",
+      "ratio": 0.8652,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "57266",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46109",
+        "ratio": 0.6133,
+        "name": "Roberts County"
+      },
+      {
+        "fips": "46051",
+        "ratio": 0.3867,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46109",
+      "ratio": 0.6133,
+      "name": "Roberts County"
+    }
+  },
+  {
+    "zip": "57268",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46039",
+        "ratio": 0.8879,
+        "name": "Deuel County"
+      },
+      {
+        "fips": "46011",
+        "ratio": 0.1121,
+        "name": "Brookings County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46039",
+      "ratio": 0.8879,
+      "name": "Deuel County"
+    }
+  },
+  {
+    "zip": "57269",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46051",
+        "ratio": 0.9948,
+        "name": "Grant County"
+      },
+      {
+        "fips": "46109",
+        "ratio": 0.0052,
+        "name": "Roberts County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46051",
+      "ratio": 0.9948,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "57270",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46091",
+        "ratio": 0.944,
+        "name": "Marshall County"
+      },
+      {
+        "fips": "46109",
+        "ratio": 0.056,
+        "name": "Roberts County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46091",
+      "ratio": 0.944,
+      "name": "Marshall County"
+    }
+  },
+  {
+    "zip": "57271",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46025",
+        "ratio": 0.8087,
+        "name": "Clark County"
+      },
+      {
+        "fips": "46057",
+        "ratio": 0.1913,
+        "name": "Hamlin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46025",
+      "ratio": 0.8087,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "57272",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46029",
+        "ratio": 0.9375,
+        "name": "Codington County"
+      },
+      {
+        "fips": "46025",
+        "ratio": 0.0625,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46029",
+      "ratio": 0.9375,
+      "name": "Codington County"
+    }
+  },
+  {
+    "zip": "57273",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46037",
+        "ratio": 0.9802,
+        "name": "Day County"
+      },
+      {
+        "fips": "46109",
+        "ratio": 0.0183,
+        "name": "Roberts County"
+      },
+      {
+        "fips": "46051",
+        "ratio": 0.0015,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46037",
+      "ratio": 0.9802,
+      "name": "Day County"
+    }
+  },
+  {
+    "zip": "57274",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46037",
+        "ratio": 0.9896,
+        "name": "Day County"
+      },
+      {
+        "fips": "46025",
+        "ratio": 0.0104,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46037",
+      "ratio": 0.9896,
+      "name": "Day County"
+    }
+  },
+  {
+    "zip": "57276",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46011",
+        "ratio": 1.0,
+        "name": "Brookings County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46011",
+      "ratio": 1.0,
+      "name": "Brookings County"
+    }
+  },
+  {
+    "zip": "57278",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46025",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46025",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "57279",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46109",
+        "ratio": 0.9984,
+        "name": "Roberts County"
+      },
+      {
+        "fips": "46051",
+        "ratio": 0.0016,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46109",
+      "ratio": 0.9984,
+      "name": "Roberts County"
+    }
+  },
+  {
+    "zip": "57301",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46035",
+        "ratio": 0.9854,
+        "name": "Davison County"
+      },
+      {
+        "fips": "46061",
+        "ratio": 0.0146,
+        "name": "Hanson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46035",
+      "ratio": 0.9854,
+      "name": "Davison County"
+    }
+  },
+  {
+    "zip": "57311",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46061",
+        "ratio": 0.9983,
+        "name": "Hanson County"
+      },
+      {
+        "fips": "46067",
+        "ratio": 0.0017,
+        "name": "Hutchinson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46061",
+      "ratio": 0.9983,
+      "name": "Hanson County"
+    }
+  },
+  {
+    "zip": "57312",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46073",
+        "ratio": 0.6913,
+        "name": "Jerauld County"
+      },
+      {
+        "fips": "46005",
+        "ratio": 0.2913,
+        "name": "Beadle County"
+      },
+      {
+        "fips": "46111",
+        "ratio": 0.0174,
+        "name": "Sanborn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46073",
+      "ratio": 0.6913,
+      "name": "Jerauld County"
+    }
+  },
+  {
+    "zip": "57313",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46043",
+        "ratio": 0.8943,
+        "name": "Douglas County"
+      },
+      {
+        "fips": "46023",
+        "ratio": 0.1057,
+        "name": "Charles Mix County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46043",
+      "ratio": 0.8943,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "57314",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46111",
+        "ratio": 0.9973,
+        "name": "Sanborn County"
+      },
+      {
+        "fips": "46005",
+        "ratio": 0.0027,
+        "name": "Beadle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46111",
+      "ratio": 0.9973,
+      "name": "Sanborn County"
+    }
+  },
+  {
+    "zip": "57315",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46009",
+        "ratio": 0.992,
+        "name": "Bon Homme County"
+      },
+      {
+        "fips": "46023",
+        "ratio": 0.008,
+        "name": "Charles Mix County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46009",
+      "ratio": 0.992,
+      "name": "Bon Homme County"
+    }
+  },
+  {
+    "zip": "57317",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46053",
+        "ratio": 1.0,
+        "name": "Gregory County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46053",
+      "ratio": 1.0,
+      "name": "Gregory County"
+    }
+  },
+  {
+    "zip": "57319",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "46087",
+        "ratio": 0.8031,
+        "name": "McCook County"
+      },
+      {
+        "fips": "46067",
+        "ratio": 0.1071,
+        "name": "Hutchinson County"
+      },
+      {
+        "fips": "46125",
+        "ratio": 0.0881,
+        "name": "Turner County"
+      },
+      {
+        "fips": "46061",
+        "ratio": 0.0017,
+        "name": "Hanson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46087",
+      "ratio": 0.8031,
+      "name": "McCook County"
+    }
+  },
+  {
+    "zip": "57321",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46097",
+        "ratio": 0.7835,
+        "name": "Miner County"
+      },
+      {
+        "fips": "46061",
+        "ratio": 0.1134,
+        "name": "Hanson County"
+      },
+      {
+        "fips": "46087",
+        "ratio": 0.1031,
+        "name": "McCook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46097",
+      "ratio": 0.7835,
+      "name": "Miner County"
+    }
+  },
+  {
+    "zip": "57322",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46005",
+        "ratio": 0.4715,
+        "name": "Beadle County"
+      },
+      {
+        "fips": "46025",
+        "ratio": 0.3496,
+        "name": "Clark County"
+      },
+      {
+        "fips": "46115",
+        "ratio": 0.1789,
+        "name": "Spink County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46005",
+      "ratio": 0.4715,
+      "name": "Beadle County"
+    }
+  },
+  {
+    "zip": "57323",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46097",
+        "ratio": 0.9387,
+        "name": "Miner County"
+      },
+      {
+        "fips": "46077",
+        "ratio": 0.0552,
+        "name": "Kingsbury County"
+      },
+      {
+        "fips": "46111",
+        "ratio": 0.0061,
+        "name": "Sanborn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46097",
+      "ratio": 0.9387,
+      "name": "Miner County"
+    }
+  },
+  {
+    "zip": "57324",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46005",
+        "ratio": 1.0,
+        "name": "Beadle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46005",
+      "ratio": 1.0,
+      "name": "Beadle County"
+    }
+  },
+  {
+    "zip": "57325",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46015",
+        "ratio": 0.9839,
+        "name": "Brule County"
+      },
+      {
+        "fips": "46017",
+        "ratio": 0.0161,
+        "name": "Buffalo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46015",
+      "ratio": 0.9839,
+      "name": "Brule County"
+    }
+  },
+  {
+    "zip": "57328",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46043",
+        "ratio": 0.9914,
+        "name": "Douglas County"
+      },
+      {
+        "fips": "46003",
+        "ratio": 0.0068,
+        "name": "Aurora County"
+      },
+      {
+        "fips": "46035",
+        "ratio": 0.0017,
+        "name": "Davison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46043",
+      "ratio": 0.9914,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "57329",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46023",
+        "ratio": 1.0,
+        "name": "Charles Mix County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46023",
+      "ratio": 1.0,
+      "name": "Charles Mix County"
+    }
+  },
+  {
+    "zip": "57330",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46043",
+        "ratio": 0.8341,
+        "name": "Douglas County"
+      },
+      {
+        "fips": "46023",
+        "ratio": 0.139,
+        "name": "Charles Mix County"
+      },
+      {
+        "fips": "46067",
+        "ratio": 0.0269,
+        "name": "Hutchinson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46043",
+      "ratio": 0.8341,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "57331",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46067",
+        "ratio": 0.7183,
+        "name": "Hutchinson County"
+      },
+      {
+        "fips": "46043",
+        "ratio": 0.1502,
+        "name": "Douglas County"
+      },
+      {
+        "fips": "46035",
+        "ratio": 0.1315,
+        "name": "Davison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46067",
+      "ratio": 0.7183,
+      "name": "Hutchinson County"
+    }
+  },
+  {
+    "zip": "57332",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46061",
+        "ratio": 0.8184,
+        "name": "Hanson County"
+      },
+      {
+        "fips": "46067",
+        "ratio": 0.1117,
+        "name": "Hutchinson County"
+      },
+      {
+        "fips": "46087",
+        "ratio": 0.0698,
+        "name": "McCook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46061",
+      "ratio": 0.8184,
+      "name": "Hanson County"
+    }
+  },
+  {
+    "zip": "57334",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46035",
+        "ratio": 0.788,
+        "name": "Davison County"
+      },
+      {
+        "fips": "46061",
+        "ratio": 0.1623,
+        "name": "Hanson County"
+      },
+      {
+        "fips": "46067",
+        "ratio": 0.0497,
+        "name": "Hutchinson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46035",
+      "ratio": 0.788,
+      "name": "Davison County"
+    }
+  },
+  {
+    "zip": "57335",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46053",
+        "ratio": 1.0,
+        "name": "Gregory County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46053",
+      "ratio": 1.0,
+      "name": "Gregory County"
+    }
+  },
+  {
+    "zip": "57337",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46097",
+        "ratio": 0.9684,
+        "name": "Miner County"
+      },
+      {
+        "fips": "46111",
+        "ratio": 0.0316,
+        "name": "Sanborn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46097",
+      "ratio": 0.9684,
+      "name": "Miner County"
+    }
+  },
+  {
+    "zip": "57339",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46017",
+        "ratio": 1.0,
+        "name": "Buffalo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46017",
+      "ratio": 1.0,
+      "name": "Buffalo County"
+    }
+  },
+  {
+    "zip": "57340",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46061",
+        "ratio": 0.9716,
+        "name": "Hanson County"
+      },
+      {
+        "fips": "46097",
+        "ratio": 0.0284,
+        "name": "Miner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46061",
+      "ratio": 0.9716,
+      "name": "Hanson County"
+    }
+  },
+  {
+    "zip": "57341",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46017",
+        "ratio": 0.9885,
+        "name": "Buffalo County"
+      },
+      {
+        "fips": "46073",
+        "ratio": 0.0115,
+        "name": "Jerauld County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46017",
+      "ratio": 0.9885,
+      "name": "Buffalo County"
+    }
+  },
+  {
+    "zip": "57342",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46023",
+        "ratio": 0.9844,
+        "name": "Charles Mix County"
+      },
+      {
+        "fips": "46043",
+        "ratio": 0.0156,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46023",
+      "ratio": 0.9844,
+      "name": "Charles Mix County"
+    }
+  },
+  {
+    "zip": "57344",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46043",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46043",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "57345",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46069",
+        "ratio": 0.9921,
+        "name": "Hyde County"
+      },
+      {
+        "fips": "46049",
+        "ratio": 0.0059,
+        "name": "Faulk County"
+      },
+      {
+        "fips": "46059",
+        "ratio": 0.002,
+        "name": "Hand County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46069",
+      "ratio": 0.9921,
+      "name": "Hyde County"
+    }
+  },
+  {
+    "zip": "57346",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46069",
+        "ratio": 1.0,
+        "name": "Hyde County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46069",
+      "ratio": 1.0,
+      "name": "Hyde County"
+    }
+  },
+  {
+    "zip": "57348",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46005",
+        "ratio": 0.6877,
+        "name": "Beadle County"
+      },
+      {
+        "fips": "46115",
+        "ratio": 0.3123,
+        "name": "Spink County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46005",
+      "ratio": 0.6877,
+      "name": "Beadle County"
+    }
+  },
+  {
+    "zip": "57349",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46097",
+        "ratio": 1.0,
+        "name": "Miner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46097",
+      "ratio": 1.0,
+      "name": "Miner County"
+    }
+  },
+  {
+    "zip": "57350",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46005",
+        "ratio": 0.9994,
+        "name": "Beadle County"
+      },
+      {
+        "fips": "46111",
+        "ratio": 0.0006,
+        "name": "Sanborn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46005",
+      "ratio": 0.9994,
+      "name": "Beadle County"
+    }
+  },
+  {
+    "zip": "57353",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46077",
+        "ratio": 0.6805,
+        "name": "Kingsbury County"
+      },
+      {
+        "fips": "46005",
+        "ratio": 0.3049,
+        "name": "Beadle County"
+      },
+      {
+        "fips": "46025",
+        "ratio": 0.0146,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46077",
+      "ratio": 0.6805,
+      "name": "Kingsbury County"
+    }
+  },
+  {
+    "zip": "57354",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46067",
+        "ratio": 1.0,
+        "name": "Hutchinson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46067",
+      "ratio": 1.0,
+      "name": "Hutchinson County"
+    }
+  },
+  {
+    "zip": "57355",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46015",
+        "ratio": 0.9788,
+        "name": "Brule County"
+      },
+      {
+        "fips": "46073",
+        "ratio": 0.0212,
+        "name": "Jerauld County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46015",
+      "ratio": 0.9788,
+      "name": "Brule County"
+    }
+  },
+  {
+    "zip": "57356",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46023",
+        "ratio": 1.0,
+        "name": "Charles Mix County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46023",
+      "ratio": 1.0,
+      "name": "Charles Mix County"
+    }
+  },
+  {
+    "zip": "57358",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46111",
+        "ratio": 1.0,
+        "name": "Sanborn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46111",
+      "ratio": 1.0,
+      "name": "Sanborn County"
+    }
+  },
+  {
+    "zip": "57359",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46111",
+        "ratio": 0.7662,
+        "name": "Sanborn County"
+      },
+      {
+        "fips": "46003",
+        "ratio": 0.1354,
+        "name": "Aurora County"
+      },
+      {
+        "fips": "46035",
+        "ratio": 0.0985,
+        "name": "Davison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46111",
+      "ratio": 0.7662,
+      "name": "Sanborn County"
+    }
+  },
+  {
+    "zip": "57361",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46023",
+        "ratio": 1.0,
+        "name": "Charles Mix County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46023",
+      "ratio": 1.0,
+      "name": "Charles Mix County"
+    }
+  },
+  {
+    "zip": "57362",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46059",
+        "ratio": 0.9963,
+        "name": "Hand County"
+      },
+      {
+        "fips": "46017",
+        "ratio": 0.0037,
+        "name": "Buffalo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46059",
+      "ratio": 0.9963,
+      "name": "Hand County"
+    }
+  },
+  {
+    "zip": "57363",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46035",
+        "ratio": 0.9517,
+        "name": "Davison County"
+      },
+      {
+        "fips": "46003",
+        "ratio": 0.0252,
+        "name": "Aurora County"
+      },
+      {
+        "fips": "46111",
+        "ratio": 0.0231,
+        "name": "Sanborn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46035",
+      "ratio": 0.9517,
+      "name": "Davison County"
+    }
+  },
+  {
+    "zip": "57364",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46043",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46043",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "57365",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46085",
+        "ratio": 1.0,
+        "name": "Lyman County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46085",
+      "ratio": 1.0,
+      "name": "Lyman County"
+    }
+  },
+  {
+    "zip": "57366",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46067",
+        "ratio": 0.9646,
+        "name": "Hutchinson County"
+      },
+      {
+        "fips": "46043",
+        "ratio": 0.032,
+        "name": "Douglas County"
+      },
+      {
+        "fips": "46061",
+        "ratio": 0.0035,
+        "name": "Hanson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46067",
+      "ratio": 0.9646,
+      "name": "Hutchinson County"
+    }
+  },
+  {
+    "zip": "57367",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46023",
+        "ratio": 1.0,
+        "name": "Charles Mix County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46023",
+      "ratio": 1.0,
+      "name": "Charles Mix County"
+    }
+  },
+  {
+    "zip": "57368",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46003",
+        "ratio": 1.0,
+        "name": "Aurora County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46003",
+      "ratio": 1.0,
+      "name": "Aurora County"
+    }
+  },
+  {
+    "zip": "57369",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "46023",
+        "ratio": 0.9161,
+        "name": "Charles Mix County"
+      },
+      {
+        "fips": "46015",
+        "ratio": 0.0699,
+        "name": "Brule County"
+      },
+      {
+        "fips": "46043",
+        "ratio": 0.0121,
+        "name": "Douglas County"
+      },
+      {
+        "fips": "46003",
+        "ratio": 0.0019,
+        "name": "Aurora County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46023",
+      "ratio": 0.9161,
+      "name": "Charles Mix County"
+    }
+  },
+  {
+    "zip": "57370",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46015",
+        "ratio": 0.8425,
+        "name": "Brule County"
+      },
+      {
+        "fips": "46017",
+        "ratio": 0.1575,
+        "name": "Buffalo County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46015",
+      "ratio": 0.8425,
+      "name": "Brule County"
+    }
+  },
+  {
+    "zip": "57371",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46059",
+        "ratio": 0.9706,
+        "name": "Hand County"
+      },
+      {
+        "fips": "46069",
+        "ratio": 0.0294,
+        "name": "Hyde County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46059",
+      "ratio": 0.9706,
+      "name": "Hand County"
+    }
+  },
+  {
+    "zip": "57373",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46059",
+        "ratio": 1.0,
+        "name": "Hand County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46059",
+      "ratio": 1.0,
+      "name": "Hand County"
+    }
+  },
+  {
+    "zip": "57374",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46087",
+        "ratio": 0.8081,
+        "name": "McCook County"
+      },
+      {
+        "fips": "46061",
+        "ratio": 0.1919,
+        "name": "Hanson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46087",
+      "ratio": 0.8081,
+      "name": "McCook County"
+    }
+  },
+  {
+    "zip": "57375",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46003",
+        "ratio": 0.9909,
+        "name": "Aurora County"
+      },
+      {
+        "fips": "46035",
+        "ratio": 0.0061,
+        "name": "Davison County"
+      },
+      {
+        "fips": "46043",
+        "ratio": 0.003,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46003",
+      "ratio": 0.9909,
+      "name": "Aurora County"
+    }
+  },
+  {
+    "zip": "57376",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46067",
+        "ratio": 0.944,
+        "name": "Hutchinson County"
+      },
+      {
+        "fips": "46009",
+        "ratio": 0.0539,
+        "name": "Bon Homme County"
+      },
+      {
+        "fips": "46023",
+        "ratio": 0.0021,
+        "name": "Charles Mix County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46067",
+      "ratio": 0.944,
+      "name": "Hutchinson County"
+    }
+  },
+  {
+    "zip": "57379",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46005",
+        "ratio": 1.0,
+        "name": "Beadle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46005",
+      "ratio": 1.0,
+      "name": "Beadle County"
+    }
+  },
+  {
+    "zip": "57380",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46023",
+        "ratio": 1.0,
+        "name": "Charles Mix County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46023",
+      "ratio": 1.0,
+      "name": "Charles Mix County"
+    }
+  },
+  {
+    "zip": "57381",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46005",
+        "ratio": 0.5802,
+        "name": "Beadle County"
+      },
+      {
+        "fips": "46059",
+        "ratio": 0.4198,
+        "name": "Hand County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46005",
+      "ratio": 0.5802,
+      "name": "Beadle County"
+    }
+  },
+  {
+    "zip": "57382",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "46073",
+        "ratio": 0.9542,
+        "name": "Jerauld County"
+      },
+      {
+        "fips": "46003",
+        "ratio": 0.0289,
+        "name": "Aurora County"
+      },
+      {
+        "fips": "46005",
+        "ratio": 0.0157,
+        "name": "Beadle County"
+      },
+      {
+        "fips": "46059",
+        "ratio": 0.0012,
+        "name": "Hand County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46073",
+      "ratio": 0.9542,
+      "name": "Jerauld County"
+    }
+  },
+  {
+    "zip": "57383",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46003",
+        "ratio": 0.9785,
+        "name": "Aurora County"
+      },
+      {
+        "fips": "46015",
+        "ratio": 0.0215,
+        "name": "Brule County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46003",
+      "ratio": 0.9785,
+      "name": "Aurora County"
+    }
+  },
+  {
+    "zip": "57384",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46005",
+        "ratio": 1.0,
+        "name": "Beadle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46005",
+      "ratio": 1.0,
+      "name": "Beadle County"
+    }
+  },
+  {
+    "zip": "57385",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46111",
+        "ratio": 0.8493,
+        "name": "Sanborn County"
+      },
+      {
+        "fips": "46073",
+        "ratio": 0.133,
+        "name": "Jerauld County"
+      },
+      {
+        "fips": "46003",
+        "ratio": 0.0177,
+        "name": "Aurora County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46111",
+      "ratio": 0.8493,
+      "name": "Sanborn County"
+    }
+  },
+  {
+    "zip": "57386",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46005",
+        "ratio": 0.9304,
+        "name": "Beadle County"
+      },
+      {
+        "fips": "46077",
+        "ratio": 0.0696,
+        "name": "Kingsbury County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46005",
+      "ratio": 0.9304,
+      "name": "Beadle County"
+    }
+  },
+  {
+    "zip": "57399",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46005",
+        "ratio": 1.0,
+        "name": "Beadle County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46005",
+      "ratio": 1.0,
+      "name": "Beadle County"
+    }
+  },
+  {
+    "zip": "57401",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46013",
+        "ratio": 1.0,
+        "name": "Brown County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46013",
+      "ratio": 1.0,
+      "name": "Brown County"
+    }
+  },
+  {
+    "zip": "57402",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46013",
+        "ratio": 1.0,
+        "name": "Brown County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46013",
+      "ratio": 1.0,
+      "name": "Brown County"
+    }
+  },
+  {
+    "zip": "57420",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46129",
+        "ratio": 1.0,
+        "name": "Walworth County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46129",
+      "ratio": 1.0,
+      "name": "Walworth County"
+    }
+  },
+  {
+    "zip": "57421",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46091",
+        "ratio": 1.0,
+        "name": "Marshall County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46091",
+      "ratio": 1.0,
+      "name": "Marshall County"
+    }
+  },
+  {
+    "zip": "57422",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46037",
+        "ratio": 0.9586,
+        "name": "Day County"
+      },
+      {
+        "fips": "46013",
+        "ratio": 0.0414,
+        "name": "Brown County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46037",
+      "ratio": 0.9586,
+      "name": "Day County"
+    }
+  },
+  {
+    "zip": "57424",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46115",
+        "ratio": 0.9672,
+        "name": "Spink County"
+      },
+      {
+        "fips": "46049",
+        "ratio": 0.0328,
+        "name": "Faulk County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46115",
+      "ratio": 0.9672,
+      "name": "Spink County"
+    }
+  },
+  {
+    "zip": "57426",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46013",
+        "ratio": 1.0,
+        "name": "Brown County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46013",
+      "ratio": 1.0,
+      "name": "Brown County"
+    }
+  },
+  {
+    "zip": "57427",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46013",
+        "ratio": 1.0,
+        "name": "Brown County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46013",
+      "ratio": 1.0,
+      "name": "Brown County"
+    }
+  },
+  {
+    "zip": "57428",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46045",
+        "ratio": 0.9004,
+        "name": "Edmunds County"
+      },
+      {
+        "fips": "46129",
+        "ratio": 0.0959,
+        "name": "Walworth County"
+      },
+      {
+        "fips": "46089",
+        "ratio": 0.0037,
+        "name": "McPherson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46045",
+      "ratio": 0.9004,
+      "name": "Edmunds County"
+    }
+  },
+  {
+    "zip": "57429",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46115",
+        "ratio": 1.0,
+        "name": "Spink County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46115",
+      "ratio": 1.0,
+      "name": "Spink County"
+    }
+  },
+  {
+    "zip": "57430",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46091",
+        "ratio": 1.0,
+        "name": "Marshall County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46091",
+      "ratio": 1.0,
+      "name": "Marshall County"
+    }
+  },
+  {
+    "zip": "57432",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46013",
+        "ratio": 0.8325,
+        "name": "Brown County"
+      },
+      {
+        "fips": "46091",
+        "ratio": 0.1675,
+        "name": "Marshall County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46013",
+      "ratio": 0.8325,
+      "name": "Brown County"
+    }
+  },
+  {
+    "zip": "57433",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46013",
+        "ratio": 1.0,
+        "name": "Brown County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46013",
+      "ratio": 1.0,
+      "name": "Brown County"
+    }
+  },
+  {
+    "zip": "57434",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "46115",
+        "ratio": 0.6629,
+        "name": "Spink County"
+      },
+      {
+        "fips": "46013",
+        "ratio": 0.1553,
+        "name": "Brown County"
+      },
+      {
+        "fips": "46025",
+        "ratio": 0.1023,
+        "name": "Clark County"
+      },
+      {
+        "fips": "46037",
+        "ratio": 0.0795,
+        "name": "Day County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46115",
+      "ratio": 0.6629,
+      "name": "Spink County"
+    }
+  },
+  {
+    "zip": "57435",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46049",
+        "ratio": 0.9021,
+        "name": "Faulk County"
+      },
+      {
+        "fips": "46045",
+        "ratio": 0.0979,
+        "name": "Edmunds County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46049",
+      "ratio": 0.9021,
+      "name": "Faulk County"
+    }
+  },
+  {
+    "zip": "57436",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46115",
+        "ratio": 1.0,
+        "name": "Spink County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46115",
+      "ratio": 1.0,
+      "name": "Spink County"
+    }
+  },
+  {
+    "zip": "57437",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46089",
+        "ratio": 0.8654,
+        "name": "McPherson County"
+      },
+      {
+        "fips": "46021",
+        "ratio": 0.1346,
+        "name": "Campbell County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46089",
+      "ratio": 0.8654,
+      "name": "McPherson County"
+    }
+  },
+  {
+    "zip": "57438",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46049",
+        "ratio": 1.0,
+        "name": "Faulk County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46049",
+      "ratio": 1.0,
+      "name": "Faulk County"
+    }
+  },
+  {
+    "zip": "57439",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46013",
+        "ratio": 1.0,
+        "name": "Brown County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46013",
+      "ratio": 1.0,
+      "name": "Brown County"
+    }
+  },
+  {
+    "zip": "57440",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46115",
+        "ratio": 1.0,
+        "name": "Spink County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46115",
+      "ratio": 1.0,
+      "name": "Spink County"
+    }
+  },
+  {
+    "zip": "57441",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46013",
+        "ratio": 1.0,
+        "name": "Brown County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46013",
+      "ratio": 1.0,
+      "name": "Brown County"
+    }
+  },
+  {
+    "zip": "57442",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46107",
+        "ratio": 0.9938,
+        "name": "Potter County"
+      },
+      {
+        "fips": "46119",
+        "ratio": 0.0062,
+        "name": "Sully County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46107",
+      "ratio": 0.9938,
+      "name": "Potter County"
+    }
+  },
+  {
+    "zip": "57445",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46013",
+        "ratio": 0.9991,
+        "name": "Brown County"
+      },
+      {
+        "fips": "46037",
+        "ratio": 0.0009,
+        "name": "Day County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46013",
+      "ratio": 0.9991,
+      "name": "Brown County"
+    }
+  },
+  {
+    "zip": "57446",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46013",
+        "ratio": 1.0,
+        "name": "Brown County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46013",
+      "ratio": 1.0,
+      "name": "Brown County"
+    }
+  },
+  {
+    "zip": "57448",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46045",
+        "ratio": 0.8383,
+        "name": "Edmunds County"
+      },
+      {
+        "fips": "46089",
+        "ratio": 0.1617,
+        "name": "McPherson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46045",
+      "ratio": 0.8383,
+      "name": "Edmunds County"
+    }
+  },
+  {
+    "zip": "57449",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46013",
+        "ratio": 1.0,
+        "name": "Brown County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46013",
+      "ratio": 1.0,
+      "name": "Brown County"
+    }
+  },
+  {
+    "zip": "57450",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46107",
+        "ratio": 0.8338,
+        "name": "Potter County"
+      },
+      {
+        "fips": "46129",
+        "ratio": 0.1662,
+        "name": "Walworth County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46107",
+      "ratio": 0.8338,
+      "name": "Potter County"
+    }
+  },
+  {
+    "zip": "57451",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46045",
+        "ratio": 0.9556,
+        "name": "Edmunds County"
+      },
+      {
+        "fips": "46013",
+        "ratio": 0.0444,
+        "name": "Brown County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46045",
+      "ratio": 0.9556,
+      "name": "Edmunds County"
+    }
+  },
+  {
+    "zip": "57452",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46129",
+        "ratio": 0.8011,
+        "name": "Walworth County"
+      },
+      {
+        "fips": "46021",
+        "ratio": 0.1989,
+        "name": "Campbell County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46129",
+      "ratio": 0.8011,
+      "name": "Walworth County"
+    }
+  },
+  {
+    "zip": "57454",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46091",
+        "ratio": 0.8766,
+        "name": "Marshall County"
+      },
+      {
+        "fips": "46037",
+        "ratio": 0.1201,
+        "name": "Day County"
+      },
+      {
+        "fips": "46013",
+        "ratio": 0.0032,
+        "name": "Brown County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46091",
+      "ratio": 0.8766,
+      "name": "Marshall County"
+    }
+  },
+  {
+    "zip": "57455",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46107",
+        "ratio": 1.0,
+        "name": "Potter County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46107",
+      "ratio": 1.0,
+      "name": "Potter County"
+    }
+  },
+  {
+    "zip": "57456",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46089",
+        "ratio": 0.997,
+        "name": "McPherson County"
+      },
+      {
+        "fips": "46045",
+        "ratio": 0.003,
+        "name": "Edmunds County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46089",
+      "ratio": 0.997,
+      "name": "McPherson County"
+    }
+  },
+  {
+    "zip": "57457",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46089",
+        "ratio": 1.0,
+        "name": "McPherson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46089",
+      "ratio": 1.0,
+      "name": "McPherson County"
+    }
+  },
+  {
+    "zip": "57460",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "46013",
+        "ratio": 0.6592,
+        "name": "Brown County"
+      },
+      {
+        "fips": "46115",
+        "ratio": 0.2346,
+        "name": "Spink County"
+      },
+      {
+        "fips": "46045",
+        "ratio": 0.0559,
+        "name": "Edmunds County"
+      },
+      {
+        "fips": "46049",
+        "ratio": 0.0503,
+        "name": "Faulk County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46013",
+      "ratio": 0.6592,
+      "name": "Brown County"
+    }
+  },
+  {
+    "zip": "57461",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46115",
+        "ratio": 0.9847,
+        "name": "Spink County"
+      },
+      {
+        "fips": "46013",
+        "ratio": 0.0153,
+        "name": "Brown County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46115",
+      "ratio": 0.9847,
+      "name": "Spink County"
+    }
+  },
+  {
+    "zip": "57465",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46115",
+        "ratio": 0.6959,
+        "name": "Spink County"
+      },
+      {
+        "fips": "46049",
+        "ratio": 0.3041,
+        "name": "Faulk County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46115",
+      "ratio": 0.6959,
+      "name": "Spink County"
+    }
+  },
+  {
+    "zip": "57466",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46049",
+        "ratio": 0.75,
+        "name": "Faulk County"
+      },
+      {
+        "fips": "46045",
+        "ratio": 0.25,
+        "name": "Edmunds County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46049",
+      "ratio": 0.75,
+      "name": "Faulk County"
+    }
+  },
+  {
+    "zip": "57467",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46059",
+        "ratio": 0.6645,
+        "name": "Hand County"
+      },
+      {
+        "fips": "46049",
+        "ratio": 0.3355,
+        "name": "Faulk County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46059",
+      "ratio": 0.6645,
+      "name": "Hand County"
+    }
+  },
+  {
+    "zip": "57468",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46037",
+        "ratio": 1.0,
+        "name": "Day County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46037",
+      "ratio": 1.0,
+      "name": "Day County"
+    }
+  },
+  {
+    "zip": "57469",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46115",
+        "ratio": 0.9638,
+        "name": "Spink County"
+      },
+      {
+        "fips": "46059",
+        "ratio": 0.0189,
+        "name": "Hand County"
+      },
+      {
+        "fips": "46049",
+        "ratio": 0.0173,
+        "name": "Faulk County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46115",
+      "ratio": 0.9638,
+      "name": "Spink County"
+    }
+  },
+  {
+    "zip": "57470",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46059",
+        "ratio": 0.5057,
+        "name": "Hand County"
+      },
+      {
+        "fips": "46049",
+        "ratio": 0.4943,
+        "name": "Faulk County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46059",
+      "ratio": 0.5057,
+      "name": "Hand County"
+    }
+  },
+  {
+    "zip": "57471",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46045",
+        "ratio": 0.9965,
+        "name": "Edmunds County"
+      },
+      {
+        "fips": "46089",
+        "ratio": 0.0035,
+        "name": "McPherson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46045",
+      "ratio": 0.9965,
+      "name": "Edmunds County"
+    }
+  },
+  {
+    "zip": "57472",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46129",
+        "ratio": 0.9982,
+        "name": "Walworth County"
+      },
+      {
+        "fips": "46021",
+        "ratio": 0.0018,
+        "name": "Campbell County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46129",
+      "ratio": 0.9982,
+      "name": "Walworth County"
+    }
+  },
+  {
+    "zip": "57473",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46049",
+        "ratio": 0.7229,
+        "name": "Faulk County"
+      },
+      {
+        "fips": "46107",
+        "ratio": 0.2771,
+        "name": "Potter County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46049",
+      "ratio": 0.7229,
+      "name": "Faulk County"
+    }
+  },
+  {
+    "zip": "57474",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46013",
+        "ratio": 0.971,
+        "name": "Brown County"
+      },
+      {
+        "fips": "46115",
+        "ratio": 0.029,
+        "name": "Spink County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46013",
+      "ratio": 0.971,
+      "name": "Brown County"
+    }
+  },
+  {
+    "zip": "57475",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46107",
+        "ratio": 0.6235,
+        "name": "Potter County"
+      },
+      {
+        "fips": "46045",
+        "ratio": 0.3765,
+        "name": "Edmunds County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46107",
+      "ratio": 0.6235,
+      "name": "Potter County"
+    }
+  },
+  {
+    "zip": "57476",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46115",
+        "ratio": 0.8945,
+        "name": "Spink County"
+      },
+      {
+        "fips": "46059",
+        "ratio": 0.1055,
+        "name": "Hand County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46115",
+      "ratio": 0.8945,
+      "name": "Spink County"
+    }
+  },
+  {
+    "zip": "57477",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46115",
+        "ratio": 1.0,
+        "name": "Spink County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46115",
+      "ratio": 1.0,
+      "name": "Spink County"
+    }
+  },
+  {
+    "zip": "57479",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46013",
+        "ratio": 1.0,
+        "name": "Brown County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46013",
+      "ratio": 1.0,
+      "name": "Brown County"
+    }
+  },
+  {
+    "zip": "57481",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46013",
+        "ratio": 0.7196,
+        "name": "Brown County"
+      },
+      {
+        "fips": "46089",
+        "ratio": 0.2103,
+        "name": "McPherson County"
+      },
+      {
+        "fips": "46045",
+        "ratio": 0.0701,
+        "name": "Edmunds County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46013",
+      "ratio": 0.7196,
+      "name": "Brown County"
+    }
+  },
+  {
+    "zip": "57501",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46065",
+        "ratio": 0.9724,
+        "name": "Hughes County"
+      },
+      {
+        "fips": "46119",
+        "ratio": 0.0276,
+        "name": "Sully County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46065",
+      "ratio": 0.9724,
+      "name": "Hughes County"
+    }
+  },
+  {
+    "zip": "57520",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46119",
+        "ratio": 1.0,
+        "name": "Sully County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46119",
+      "ratio": 1.0,
+      "name": "Sully County"
+    }
+  },
+  {
+    "zip": "57521",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46071",
+        "ratio": 1.0,
+        "name": "Jackson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46071",
+      "ratio": 1.0,
+      "name": "Jackson County"
+    }
+  },
+  {
+    "zip": "57522",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46065",
+        "ratio": 0.9253,
+        "name": "Hughes County"
+      },
+      {
+        "fips": "46119",
+        "ratio": 0.0747,
+        "name": "Sully County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46065",
+      "ratio": 0.9253,
+      "name": "Hughes County"
+    }
+  },
+  {
+    "zip": "57523",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46053",
+        "ratio": 0.9928,
+        "name": "Gregory County"
+      },
+      {
+        "fips": "46015",
+        "ratio": 0.0072,
+        "name": "Brule County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46053",
+      "ratio": 0.9928,
+      "name": "Gregory County"
+    }
+  },
+  {
+    "zip": "57528",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46123",
+        "ratio": 1.0,
+        "name": "Tripp County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46123",
+      "ratio": 1.0,
+      "name": "Tripp County"
+    }
+  },
+  {
+    "zip": "57529",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46053",
+        "ratio": 0.5714,
+        "name": "Gregory County"
+      },
+      {
+        "fips": "46123",
+        "ratio": 0.4286,
+        "name": "Tripp County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46053",
+      "ratio": 0.5714,
+      "name": "Gregory County"
+    }
+  },
+  {
+    "zip": "57531",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46075",
+        "ratio": 1.0,
+        "name": "Jones County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46075",
+      "ratio": 1.0,
+      "name": "Jones County"
+    }
+  },
+  {
+    "zip": "57532",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46117",
+        "ratio": 0.9996,
+        "name": "Stanley County"
+      },
+      {
+        "fips": "46085",
+        "ratio": 0.0004,
+        "name": "Lyman County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46117",
+      "ratio": 0.9996,
+      "name": "Stanley County"
+    }
+  },
+  {
+    "zip": "57533",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46053",
+        "ratio": 0.945,
+        "name": "Gregory County"
+      },
+      {
+        "fips": "46085",
+        "ratio": 0.0504,
+        "name": "Lyman County"
+      },
+      {
+        "fips": "46123",
+        "ratio": 0.0046,
+        "name": "Tripp County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46053",
+      "ratio": 0.945,
+      "name": "Gregory County"
+    }
+  },
+  {
+    "zip": "57534",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46123",
+        "ratio": 0.9076,
+        "name": "Tripp County"
+      },
+      {
+        "fips": "46085",
+        "ratio": 0.0924,
+        "name": "Lyman County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46123",
+      "ratio": 0.9076,
+      "name": "Tripp County"
+    }
+  },
+  {
+    "zip": "57536",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46065",
+        "ratio": 0.8755,
+        "name": "Hughes County"
+      },
+      {
+        "fips": "46119",
+        "ratio": 0.1089,
+        "name": "Sully County"
+      },
+      {
+        "fips": "46069",
+        "ratio": 0.0156,
+        "name": "Hyde County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46065",
+      "ratio": 0.8755,
+      "name": "Hughes County"
+    }
+  },
+  {
+    "zip": "57537",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46117",
+        "ratio": 0.9872,
+        "name": "Stanley County"
+      },
+      {
+        "fips": "46055",
+        "ratio": 0.0128,
+        "name": "Haakon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46117",
+      "ratio": 0.9872,
+      "name": "Stanley County"
+    }
+  },
+  {
+    "zip": "57538",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46053",
+        "ratio": 1.0,
+        "name": "Gregory County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46053",
+      "ratio": 1.0,
+      "name": "Gregory County"
+    }
+  },
+  {
+    "zip": "57540",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46069",
+        "ratio": 0.9833,
+        "name": "Hyde County"
+      },
+      {
+        "fips": "46065",
+        "ratio": 0.0167,
+        "name": "Hughes County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46069",
+      "ratio": 0.9833,
+      "name": "Hyde County"
+    }
+  },
+  {
+    "zip": "57541",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46123",
+        "ratio": 1.0,
+        "name": "Tripp County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46123",
+      "ratio": 1.0,
+      "name": "Tripp County"
+    }
+  },
+  {
+    "zip": "57543",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46071",
+        "ratio": 0.9938,
+        "name": "Jackson County"
+      },
+      {
+        "fips": "46055",
+        "ratio": 0.0063,
+        "name": "Haakon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46071",
+      "ratio": 0.9938,
+      "name": "Jackson County"
+    }
+  },
+  {
+    "zip": "57544",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46085",
+        "ratio": 1.0,
+        "name": "Lyman County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46085",
+      "ratio": 1.0,
+      "name": "Lyman County"
+    }
+  },
+  {
+    "zip": "57547",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46071",
+        "ratio": 1.0,
+        "name": "Jackson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46071",
+      "ratio": 1.0,
+      "name": "Jackson County"
+    }
+  },
+  {
+    "zip": "57548",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46085",
+        "ratio": 1.0,
+        "name": "Lyman County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46085",
+      "ratio": 1.0,
+      "name": "Lyman County"
+    }
+  },
+  {
+    "zip": "57551",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46007",
+        "ratio": 1.0,
+        "name": "Bennett County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46007",
+      "ratio": 1.0,
+      "name": "Bennett County"
+    }
+  },
+  {
+    "zip": "57552",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46055",
+        "ratio": 0.926,
+        "name": "Haakon County"
+      },
+      {
+        "fips": "46117",
+        "ratio": 0.0707,
+        "name": "Stanley County"
+      },
+      {
+        "fips": "46071",
+        "ratio": 0.0032,
+        "name": "Jackson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46055",
+      "ratio": 0.926,
+      "name": "Haakon County"
+    }
+  },
+  {
+    "zip": "57553",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46055",
+        "ratio": 0.9892,
+        "name": "Haakon County"
+      },
+      {
+        "fips": "46103",
+        "ratio": 0.0108,
+        "name": "Pennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46055",
+      "ratio": 0.9892,
+      "name": "Haakon County"
+    }
+  },
+  {
+    "zip": "57555",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46121",
+        "ratio": 1.0,
+        "name": "Todd County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46121",
+      "ratio": 1.0,
+      "name": "Todd County"
+    }
+  },
+  {
+    "zip": "57559",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46075",
+        "ratio": 0.994,
+        "name": "Jones County"
+      },
+      {
+        "fips": "46095",
+        "ratio": 0.006,
+        "name": "Mellette County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46075",
+      "ratio": 0.994,
+      "name": "Jones County"
+    }
+  },
+  {
+    "zip": "57560",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46095",
+        "ratio": 0.7656,
+        "name": "Mellette County"
+      },
+      {
+        "fips": "46007",
+        "ratio": 0.2344,
+        "name": "Bennett County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46095",
+      "ratio": 0.7656,
+      "name": "Mellette County"
+    }
+  },
+  {
+    "zip": "57562",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46075",
+        "ratio": 1.0,
+        "name": "Jones County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46075",
+      "ratio": 1.0,
+      "name": "Jones County"
+    }
+  },
+  {
+    "zip": "57563",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46121",
+        "ratio": 1.0,
+        "name": "Todd County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46121",
+      "ratio": 1.0,
+      "name": "Todd County"
+    }
+  },
+  {
+    "zip": "57564",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46119",
+        "ratio": 0.982,
+        "name": "Sully County"
+      },
+      {
+        "fips": "46069",
+        "ratio": 0.0162,
+        "name": "Hyde County"
+      },
+      {
+        "fips": "46065",
+        "ratio": 0.0018,
+        "name": "Hughes County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46119",
+      "ratio": 0.982,
+      "name": "Sully County"
+    }
+  },
+  {
+    "zip": "57566",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46121",
+        "ratio": 0.9815,
+        "name": "Todd County"
+      },
+      {
+        "fips": "46007",
+        "ratio": 0.0185,
+        "name": "Bennett County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46121",
+      "ratio": 0.9815,
+      "name": "Todd County"
+    }
+  },
+  {
+    "zip": "57567",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46055",
+        "ratio": 0.9664,
+        "name": "Haakon County"
+      },
+      {
+        "fips": "46071",
+        "ratio": 0.0336,
+        "name": "Jackson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46055",
+      "ratio": 0.9664,
+      "name": "Haakon County"
+    }
+  },
+  {
+    "zip": "57568",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46085",
+        "ratio": 1.0,
+        "name": "Lyman County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46085",
+      "ratio": 1.0,
+      "name": "Lyman County"
+    }
+  },
+  {
+    "zip": "57569",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46085",
+        "ratio": 1.0,
+        "name": "Lyman County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46085",
+      "ratio": 1.0,
+      "name": "Lyman County"
+    }
+  },
+  {
+    "zip": "57570",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46121",
+        "ratio": 1.0,
+        "name": "Todd County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46121",
+      "ratio": 1.0,
+      "name": "Todd County"
+    }
+  },
+  {
+    "zip": "57571",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46053",
+        "ratio": 1.0,
+        "name": "Gregory County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46053",
+      "ratio": 1.0,
+      "name": "Gregory County"
+    }
+  },
+  {
+    "zip": "57572",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46121",
+        "ratio": 1.0,
+        "name": "Todd County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46121",
+      "ratio": 1.0,
+      "name": "Todd County"
+    }
+  },
+  {
+    "zip": "57574",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46007",
+        "ratio": 1.0,
+        "name": "Bennett County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46007",
+      "ratio": 1.0,
+      "name": "Bennett County"
+    }
+  },
+  {
+    "zip": "57576",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46085",
+        "ratio": 1.0,
+        "name": "Lyman County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46085",
+      "ratio": 1.0,
+      "name": "Lyman County"
+    }
+  },
+  {
+    "zip": "57577",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46071",
+        "ratio": 1.0,
+        "name": "Jackson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46071",
+      "ratio": 1.0,
+      "name": "Jackson County"
+    }
+  },
+  {
+    "zip": "57579",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46095",
+        "ratio": 1.0,
+        "name": "Mellette County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46095",
+      "ratio": 1.0,
+      "name": "Mellette County"
+    }
+  },
+  {
+    "zip": "57580",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46123",
+        "ratio": 0.9882,
+        "name": "Tripp County"
+      },
+      {
+        "fips": "46121",
+        "ratio": 0.011,
+        "name": "Todd County"
+      },
+      {
+        "fips": "46095",
+        "ratio": 0.0007,
+        "name": "Mellette County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46123",
+      "ratio": 0.9882,
+      "name": "Tripp County"
+    }
+  },
+  {
+    "zip": "57584",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46123",
+        "ratio": 1.0,
+        "name": "Tripp County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46123",
+      "ratio": 1.0,
+      "name": "Tripp County"
+    }
+  },
+  {
+    "zip": "57585",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46095",
+        "ratio": 1.0,
+        "name": "Mellette County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46095",
+      "ratio": 1.0,
+      "name": "Mellette County"
+    }
+  },
+  {
+    "zip": "57601",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46129",
+        "ratio": 0.9959,
+        "name": "Walworth County"
+      },
+      {
+        "fips": "46021",
+        "ratio": 0.0041,
+        "name": "Campbell County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46129",
+      "ratio": 0.9959,
+      "name": "Walworth County"
+    }
+  },
+  {
+    "zip": "57620",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46105",
+        "ratio": 1.0,
+        "name": "Perkins County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46105",
+      "ratio": 1.0,
+      "name": "Perkins County"
+    }
+  },
+  {
+    "zip": "57621",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46031",
+        "ratio": 1.0,
+        "name": "Corson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46031",
+      "ratio": 1.0,
+      "name": "Corson County"
+    }
+  },
+  {
+    "zip": "57622",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46137",
+        "ratio": 1.0,
+        "name": "Ziebach County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46137",
+      "ratio": 1.0,
+      "name": "Ziebach County"
+    }
+  },
+  {
+    "zip": "57623",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46137",
+        "ratio": 0.9831,
+        "name": "Ziebach County"
+      },
+      {
+        "fips": "46041",
+        "ratio": 0.0169,
+        "name": "Dewey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46137",
+      "ratio": 0.9831,
+      "name": "Ziebach County"
+    }
+  },
+  {
+    "zip": "57625",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46041",
+        "ratio": 0.9006,
+        "name": "Dewey County"
+      },
+      {
+        "fips": "46137",
+        "ratio": 0.0994,
+        "name": "Ziebach County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46041",
+      "ratio": 0.9006,
+      "name": "Dewey County"
+    }
+  },
+  {
+    "zip": "57626",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46093",
+        "ratio": 0.8692,
+        "name": "Meade County"
+      },
+      {
+        "fips": "46105",
+        "ratio": 0.1308,
+        "name": "Perkins County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46093",
+      "ratio": 0.8692,
+      "name": "Meade County"
+    }
+  },
+  {
+    "zip": "57630",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46041",
+        "ratio": 1.0,
+        "name": "Dewey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46041",
+      "ratio": 1.0,
+      "name": "Dewey County"
+    }
+  },
+  {
+    "zip": "57631",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46129",
+        "ratio": 0.8195,
+        "name": "Walworth County"
+      },
+      {
+        "fips": "46021",
+        "ratio": 0.1805,
+        "name": "Campbell County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46129",
+      "ratio": 0.8195,
+      "name": "Walworth County"
+    }
+  },
+  {
+    "zip": "57632",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46021",
+        "ratio": 1.0,
+        "name": "Campbell County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46021",
+      "ratio": 1.0,
+      "name": "Campbell County"
+    }
+  },
+  {
+    "zip": "57633",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46041",
+        "ratio": 0.9796,
+        "name": "Dewey County"
+      },
+      {
+        "fips": "46031",
+        "ratio": 0.0204,
+        "name": "Corson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46041",
+      "ratio": 0.9796,
+      "name": "Dewey County"
+    }
+  },
+  {
+    "zip": "57634",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46031",
+        "ratio": 1.0,
+        "name": "Corson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46031",
+      "ratio": 1.0,
+      "name": "Corson County"
+    }
+  },
+  {
+    "zip": "57636",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46041",
+        "ratio": 1.0,
+        "name": "Dewey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46041",
+      "ratio": 1.0,
+      "name": "Dewey County"
+    }
+  },
+  {
+    "zip": "57638",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46105",
+        "ratio": 0.9736,
+        "name": "Perkins County"
+      },
+      {
+        "fips": "46031",
+        "ratio": 0.02,
+        "name": "Corson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46105",
+      "ratio": 0.9736,
+      "name": "Perkins County"
+    }
+  },
+  {
+    "zip": "57639",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46031",
+        "ratio": 1.0,
+        "name": "Corson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46031",
+      "ratio": 1.0,
+      "name": "Corson County"
+    }
+  },
+  {
+    "zip": "57640",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46105",
+        "ratio": 1.0,
+        "name": "Perkins County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46105",
+      "ratio": 1.0,
+      "name": "Perkins County"
+    }
+  },
+  {
+    "zip": "57641",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46031",
+        "ratio": 1.0,
+        "name": "Corson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46031",
+      "ratio": 1.0,
+      "name": "Corson County"
+    }
+  },
+  {
+    "zip": "57642",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46031",
+        "ratio": 1.0,
+        "name": "Corson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46031",
+      "ratio": 1.0,
+      "name": "Corson County"
+    }
+  },
+  {
+    "zip": "57644",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46105",
+        "ratio": 0.8287,
+        "name": "Perkins County"
+      },
+      {
+        "fips": "46031",
+        "ratio": 0.1713,
+        "name": "Corson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46105",
+      "ratio": 0.8287,
+      "name": "Perkins County"
+    }
+  },
+  {
+    "zip": "57645",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46031",
+        "ratio": 1.0,
+        "name": "Corson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46031",
+      "ratio": 1.0,
+      "name": "Corson County"
+    }
+  },
+  {
+    "zip": "57646",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46021",
+        "ratio": 1.0,
+        "name": "Campbell County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46021",
+      "ratio": 1.0,
+      "name": "Campbell County"
+    }
+  },
+  {
+    "zip": "57648",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46021",
+        "ratio": 1.0,
+        "name": "Campbell County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46021",
+      "ratio": 1.0,
+      "name": "Campbell County"
+    }
+  },
+  {
+    "zip": "57649",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46105",
+        "ratio": 0.8235,
+        "name": "Perkins County"
+      },
+      {
+        "fips": "46063",
+        "ratio": 0.1765,
+        "name": "Harding County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46105",
+      "ratio": 0.8235,
+      "name": "Perkins County"
+    }
+  },
+  {
+    "zip": "57650",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46063",
+        "ratio": 1.0,
+        "name": "Harding County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46063",
+      "ratio": 1.0,
+      "name": "Harding County"
+    }
+  },
+  {
+    "zip": "57651",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46063",
+        "ratio": 0.7755,
+        "name": "Harding County"
+      },
+      {
+        "fips": "46105",
+        "ratio": 0.2245,
+        "name": "Perkins County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46063",
+      "ratio": 0.7755,
+      "name": "Harding County"
+    }
+  },
+  {
+    "zip": "57652",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46041",
+        "ratio": 1.0,
+        "name": "Dewey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46041",
+      "ratio": 1.0,
+      "name": "Dewey County"
+    }
+  },
+  {
+    "zip": "57656",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46041",
+        "ratio": 1.0,
+        "name": "Dewey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46041",
+      "ratio": 1.0,
+      "name": "Dewey County"
+    }
+  },
+  {
+    "zip": "57657",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46031",
+        "ratio": 0.8906,
+        "name": "Corson County"
+      },
+      {
+        "fips": "46041",
+        "ratio": 0.1094,
+        "name": "Dewey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46031",
+      "ratio": 0.8906,
+      "name": "Corson County"
+    }
+  },
+  {
+    "zip": "57658",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46031",
+        "ratio": 1.0,
+        "name": "Corson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46031",
+      "ratio": 1.0,
+      "name": "Corson County"
+    }
+  },
+  {
+    "zip": "57659",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46031",
+        "ratio": 1.0,
+        "name": "Corson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46031",
+      "ratio": 1.0,
+      "name": "Corson County"
+    }
+  },
+  {
+    "zip": "57660",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46031",
+        "ratio": 1.0,
+        "name": "Corson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46031",
+      "ratio": 1.0,
+      "name": "Corson County"
+    }
+  },
+  {
+    "zip": "57661",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46041",
+        "ratio": 1.0,
+        "name": "Dewey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46041",
+      "ratio": 1.0,
+      "name": "Dewey County"
+    }
+  },
+  {
+    "zip": "57701",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46103",
+        "ratio": 0.9842,
+        "name": "Pennington County"
+      },
+      {
+        "fips": "46093",
+        "ratio": 0.0158,
+        "name": "Meade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46103",
+      "ratio": 0.9842,
+      "name": "Pennington County"
+    }
+  },
+  {
+    "zip": "57702",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46103",
+        "ratio": 0.9854,
+        "name": "Pennington County"
+      },
+      {
+        "fips": "46093",
+        "ratio": 0.0146,
+        "name": "Meade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46103",
+      "ratio": 0.9854,
+      "name": "Pennington County"
+    }
+  },
+  {
+    "zip": "57703",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46103",
+        "ratio": 1.0,
+        "name": "Pennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46103",
+      "ratio": 1.0,
+      "name": "Pennington County"
+    }
+  },
+  {
+    "zip": "57706",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46093",
+        "ratio": 0.9323,
+        "name": "Meade County"
+      },
+      {
+        "fips": "46103",
+        "ratio": 0.0677,
+        "name": "Pennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46093",
+      "ratio": 0.9323,
+      "name": "Meade County"
+    }
+  },
+  {
+    "zip": "57709",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46103",
+        "ratio": 1.0,
+        "name": "Pennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46103",
+      "ratio": 1.0,
+      "name": "Pennington County"
+    }
+  },
+  {
+    "zip": "57714",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46007",
+        "ratio": 0.9554,
+        "name": "Bennett County"
+      },
+      {
+        "fips": "46071",
+        "ratio": 0.0446,
+        "name": "Jackson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46007",
+      "ratio": 0.9554,
+      "name": "Bennett County"
+    }
+  },
+  {
+    "zip": "57716",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46102",
+        "ratio": 0.9478,
+        "name": "Oglala Lakota County"
+      },
+      {
+        "fips": "46007",
+        "ratio": 0.0522,
+        "name": "Bennett County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46102",
+      "ratio": 0.9478,
+      "name": "Oglala Lakota County"
+    }
+  },
+  {
+    "zip": "57717",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46019",
+        "ratio": 0.9927,
+        "name": "Butte County"
+      },
+      {
+        "fips": "46081",
+        "ratio": 0.0053,
+        "name": "Lawrence County"
+      },
+      {
+        "fips": "46063",
+        "ratio": 0.002,
+        "name": "Harding County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46019",
+      "ratio": 0.9927,
+      "name": "Butte County"
+    }
+  },
+  {
+    "zip": "57718",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46093",
+        "ratio": 0.9686,
+        "name": "Meade County"
+      },
+      {
+        "fips": "46103",
+        "ratio": 0.0314,
+        "name": "Pennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46093",
+      "ratio": 0.9686,
+      "name": "Meade County"
+    }
+  },
+  {
+    "zip": "57719",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46103",
+        "ratio": 0.742,
+        "name": "Pennington County"
+      },
+      {
+        "fips": "46093",
+        "ratio": 0.258,
+        "name": "Meade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46103",
+      "ratio": 0.742,
+      "name": "Pennington County"
+    }
+  },
+  {
+    "zip": "57720",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46063",
+        "ratio": 1.0,
+        "name": "Harding County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46063",
+      "ratio": 1.0,
+      "name": "Harding County"
+    }
+  },
+  {
+    "zip": "57722",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46033",
+        "ratio": 0.8254,
+        "name": "Custer County"
+      },
+      {
+        "fips": "46047",
+        "ratio": 0.1746,
+        "name": "Fall River County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46033",
+      "ratio": 0.8254,
+      "name": "Custer County"
+    }
+  },
+  {
+    "zip": "57724",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46063",
+        "ratio": 1.0,
+        "name": "Harding County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46063",
+      "ratio": 1.0,
+      "name": "Harding County"
+    }
+  },
+  {
+    "zip": "57725",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46103",
+        "ratio": 1.0,
+        "name": "Pennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46103",
+      "ratio": 1.0,
+      "name": "Pennington County"
+    }
+  },
+  {
+    "zip": "57730",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46033",
+        "ratio": 0.9845,
+        "name": "Custer County"
+      },
+      {
+        "fips": "46103",
+        "ratio": 0.0155,
+        "name": "Pennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46033",
+      "ratio": 0.9845,
+      "name": "Custer County"
+    }
+  },
+  {
+    "zip": "57732",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46081",
+        "ratio": 0.9947,
+        "name": "Lawrence County"
+      },
+      {
+        "fips": "46103",
+        "ratio": 0.0053,
+        "name": "Pennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46081",
+      "ratio": 0.9947,
+      "name": "Lawrence County"
+    }
+  },
+  {
+    "zip": "57735",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46047",
+        "ratio": 0.6771,
+        "name": "Fall River County"
+      },
+      {
+        "fips": "46033",
+        "ratio": 0.3229,
+        "name": "Custer County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46047",
+      "ratio": 0.6771,
+      "name": "Fall River County"
+    }
+  },
+  {
+    "zip": "57737",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46093",
+        "ratio": 1.0,
+        "name": "Meade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46093",
+      "ratio": 1.0,
+      "name": "Meade County"
+    }
+  },
+  {
+    "zip": "57738",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46033",
+        "ratio": 1.0,
+        "name": "Custer County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46033",
+      "ratio": 1.0,
+      "name": "Custer County"
+    }
+  },
+  {
+    "zip": "57741",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46093",
+        "ratio": 1.0,
+        "name": "Meade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46093",
+      "ratio": 1.0,
+      "name": "Meade County"
+    }
+  },
+  {
+    "zip": "57744",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46033",
+        "ratio": 0.8793,
+        "name": "Custer County"
+      },
+      {
+        "fips": "46103",
+        "ratio": 0.1207,
+        "name": "Pennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46033",
+      "ratio": 0.8793,
+      "name": "Custer County"
+    }
+  },
+  {
+    "zip": "57745",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46103",
+        "ratio": 1.0,
+        "name": "Pennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46103",
+      "ratio": 1.0,
+      "name": "Pennington County"
+    }
+  },
+  {
+    "zip": "57747",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46047",
+        "ratio": 0.919,
+        "name": "Fall River County"
+      },
+      {
+        "fips": "46033",
+        "ratio": 0.081,
+        "name": "Custer County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46047",
+      "ratio": 0.919,
+      "name": "Fall River County"
+    }
+  },
+  {
+    "zip": "57748",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46093",
+        "ratio": 1.0,
+        "name": "Meade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46093",
+      "ratio": 1.0,
+      "name": "Meade County"
+    }
+  },
+  {
+    "zip": "57750",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46071",
+        "ratio": 0.9324,
+        "name": "Jackson County"
+      },
+      {
+        "fips": "46103",
+        "ratio": 0.0676,
+        "name": "Pennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46071",
+      "ratio": 0.9324,
+      "name": "Jackson County"
+    }
+  },
+  {
+    "zip": "57751",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46103",
+        "ratio": 0.953,
+        "name": "Pennington County"
+      },
+      {
+        "fips": "46033",
+        "ratio": 0.047,
+        "name": "Custer County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46103",
+      "ratio": 0.953,
+      "name": "Pennington County"
+    }
+  },
+  {
+    "zip": "57752",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46102",
+        "ratio": 1.0,
+        "name": "Oglala Lakota County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46102",
+      "ratio": 1.0,
+      "name": "Oglala Lakota County"
+    }
+  },
+  {
+    "zip": "57754",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46081",
+        "ratio": 0.9986,
+        "name": "Lawrence County"
+      },
+      {
+        "fips": "46103",
+        "ratio": 0.0014,
+        "name": "Pennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46081",
+      "ratio": 0.9986,
+      "name": "Lawrence County"
+    }
+  },
+  {
+    "zip": "57755",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46063",
+        "ratio": 1.0,
+        "name": "Harding County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46063",
+      "ratio": 1.0,
+      "name": "Harding County"
+    }
+  },
+  {
+    "zip": "57756",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46102",
+        "ratio": 1.0,
+        "name": "Oglala Lakota County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46102",
+      "ratio": 1.0,
+      "name": "Oglala Lakota County"
+    }
+  },
+  {
+    "zip": "57758",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46093",
+        "ratio": 0.8298,
+        "name": "Meade County"
+      },
+      {
+        "fips": "46105",
+        "ratio": 0.1277,
+        "name": "Perkins County"
+      },
+      {
+        "fips": "46019",
+        "ratio": 0.0426,
+        "name": "Butte County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46093",
+      "ratio": 0.8298,
+      "name": "Meade County"
+    }
+  },
+  {
+    "zip": "57759",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46081",
+        "ratio": 1.0,
+        "name": "Lawrence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46081",
+      "ratio": 1.0,
+      "name": "Lawrence County"
+    }
+  },
+  {
+    "zip": "57760",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46019",
+        "ratio": 0.9844,
+        "name": "Butte County"
+      },
+      {
+        "fips": "46063",
+        "ratio": 0.0156,
+        "name": "Harding County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46019",
+      "ratio": 0.9844,
+      "name": "Butte County"
+    }
+  },
+  {
+    "zip": "57761",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46103",
+        "ratio": 0.7583,
+        "name": "Pennington County"
+      },
+      {
+        "fips": "46093",
+        "ratio": 0.2417,
+        "name": "Meade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46103",
+      "ratio": 0.7583,
+      "name": "Pennington County"
+    }
+  },
+  {
+    "zip": "57762",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46019",
+        "ratio": 1.0,
+        "name": "Butte County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46019",
+      "ratio": 1.0,
+      "name": "Butte County"
+    }
+  },
+  {
+    "zip": "57763",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46047",
+        "ratio": 1.0,
+        "name": "Fall River County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46047",
+      "ratio": 1.0,
+      "name": "Fall River County"
+    }
+  },
+  {
+    "zip": "57764",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46102",
+        "ratio": 1.0,
+        "name": "Oglala Lakota County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46102",
+      "ratio": 1.0,
+      "name": "Oglala Lakota County"
+    }
+  },
+  {
+    "zip": "57766",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46047",
+        "ratio": 1.0,
+        "name": "Fall River County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46047",
+      "ratio": 1.0,
+      "name": "Fall River County"
+    }
+  },
+  {
+    "zip": "57767",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46103",
+        "ratio": 0.6098,
+        "name": "Pennington County"
+      },
+      {
+        "fips": "46093",
+        "ratio": 0.3902,
+        "name": "Meade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46103",
+      "ratio": 0.6098,
+      "name": "Pennington County"
+    }
+  },
+  {
+    "zip": "57769",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46093",
+        "ratio": 1.0,
+        "name": "Meade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46093",
+      "ratio": 1.0,
+      "name": "Meade County"
+    }
+  },
+  {
+    "zip": "57770",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46102",
+        "ratio": 1.0,
+        "name": "Oglala Lakota County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46102",
+      "ratio": 1.0,
+      "name": "Oglala Lakota County"
+    }
+  },
+  {
+    "zip": "57772",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46102",
+        "ratio": 1.0,
+        "name": "Oglala Lakota County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46102",
+      "ratio": 1.0,
+      "name": "Oglala Lakota County"
+    }
+  },
+  {
+    "zip": "57773",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46033",
+        "ratio": 1.0,
+        "name": "Custer County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46033",
+      "ratio": 1.0,
+      "name": "Custer County"
+    }
+  },
+  {
+    "zip": "57775",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46103",
+        "ratio": 0.8015,
+        "name": "Pennington County"
+      },
+      {
+        "fips": "46055",
+        "ratio": 0.1985,
+        "name": "Haakon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46103",
+      "ratio": 0.8015,
+      "name": "Pennington County"
+    }
+  },
+  {
+    "zip": "57776",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46063",
+        "ratio": 1.0,
+        "name": "Harding County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46063",
+      "ratio": 1.0,
+      "name": "Harding County"
+    }
+  },
+  {
+    "zip": "57779",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46081",
+        "ratio": 0.9647,
+        "name": "Lawrence County"
+      },
+      {
+        "fips": "46019",
+        "ratio": 0.0353,
+        "name": "Butte County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46081",
+      "ratio": 0.9647,
+      "name": "Lawrence County"
+    }
+  },
+  {
+    "zip": "57780",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46103",
+        "ratio": 1.0,
+        "name": "Pennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46103",
+      "ratio": 1.0,
+      "name": "Pennington County"
+    }
+  },
+  {
+    "zip": "57782",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46047",
+        "ratio": 1.0,
+        "name": "Fall River County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46047",
+      "ratio": 1.0,
+      "name": "Fall River County"
+    }
+  },
+  {
+    "zip": "57783",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46081",
+        "ratio": 0.9993,
+        "name": "Lawrence County"
+      },
+      {
+        "fips": "46019",
+        "ratio": 0.0007,
+        "name": "Butte County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46081",
+      "ratio": 0.9993,
+      "name": "Lawrence County"
+    }
+  },
+  {
+    "zip": "57785",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46093",
+        "ratio": 0.8881,
+        "name": "Meade County"
+      },
+      {
+        "fips": "46081",
+        "ratio": 0.1119,
+        "name": "Lawrence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46093",
+      "ratio": 0.8881,
+      "name": "Meade County"
+    }
+  },
+  {
+    "zip": "57787",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46093",
+        "ratio": 1.0,
+        "name": "Meade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46093",
+      "ratio": 1.0,
+      "name": "Meade County"
+    }
+  },
+  {
+    "zip": "57788",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46019",
+        "ratio": 0.5406,
+        "name": "Butte County"
+      },
+      {
+        "fips": "46093",
+        "ratio": 0.4594,
+        "name": "Meade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46019",
+      "ratio": 0.5406,
+      "name": "Butte County"
+    }
+  },
+  {
+    "zip": "57790",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46103",
+        "ratio": 1.0,
+        "name": "Pennington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46103",
+      "ratio": 1.0,
+      "name": "Pennington County"
+    }
+  },
+  {
+    "zip": "57791",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "46103",
+        "ratio": 0.5155,
+        "name": "Pennington County"
+      },
+      {
+        "fips": "46093",
+        "ratio": 0.4845,
+        "name": "Meade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46103",
+      "ratio": 0.5155,
+      "name": "Pennington County"
+    }
+  },
+  {
+    "zip": "57792",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46093",
+        "ratio": 1.0,
+        "name": "Meade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46093",
+      "ratio": 1.0,
+      "name": "Meade County"
+    }
+  },
+  {
+    "zip": "57793",
+    "state": "SD",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "46081",
+        "ratio": 0.8083,
+        "name": "Lawrence County"
+      },
+      {
+        "fips": "46093",
+        "ratio": 0.1898,
+        "name": "Meade County"
+      },
+      {
+        "fips": "46019",
+        "ratio": 0.0019,
+        "name": "Butte County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46081",
+      "ratio": 0.8083,
+      "name": "Lawrence County"
+    }
+  },
+  {
+    "zip": "57794",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46102",
+        "ratio": 1.0,
+        "name": "Oglala Lakota County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46102",
+      "ratio": 1.0,
+      "name": "Oglala Lakota County"
+    }
+  },
+  {
+    "zip": "57799",
+    "state": "SD",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "46081",
+        "ratio": 1.0,
+        "name": "Lawrence County"
+      }
+    ],
+    "primary_county": {
+      "fips": "46081",
+      "ratio": 1.0,
+      "name": "Lawrence County"
+    }
+  }
+]

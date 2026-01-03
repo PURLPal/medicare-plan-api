@@ -1,0 +1,38 @@
+{
+  "plan_info": {
+    "name": "Wellcare Patriot Giveback (HMO-POS)"
+  },
+  "premiums": {
+    "Total monthly premium": "$0.00",
+    "Health premium": "0.00",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "\u2212$125.00",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "\u2212$125.00 reduction"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "7,000"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copay",
+    "Specialist visit": "In-network: $35 copay",
+    "Emergency care": "$115 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$325 per day for days 1-8$0 per day for days 9-90$0 per stay",
+    "Outpatient hospital coverage": "In-network: $0-$500 copay",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "$115 copay"
+  },
+  "drug_coverage": {
+    "Chemotherapy drugs": "In-network: 0%-20% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsurance",
+    "Over the counter drug benefits": "In-network: $0 copay"
+  },
+  "extra_benefits": [],
+  "plan_id": "H2491_030_0",
+  "state": "Louisiana"
+}

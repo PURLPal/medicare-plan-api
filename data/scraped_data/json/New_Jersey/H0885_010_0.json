@@ -1,0 +1,38 @@
+{
+  "plan_info": {
+    "name": "Braven Medicare Salute - No Rx (PPO)"
+  },
+  "premiums": {
+    "Total monthly premium": "$0.00",
+    "Health premium": "0.00",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "\u2212$75.00",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "\u2212$75.00 reduction"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "10,000"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copayOut-of-network: $10 copay",
+    "Specialist visit": "In-network: $30 copayOut-of-network: $50 copay",
+    "Emergency care": "$115 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$375 per day for days 1-5$0 per day for days 6-90$0 per stayOut-of-network:$375 per day for days 1-5$0 per day for days 6-999$0 per stay",
+    "Outpatient hospital coverage": "In-network: $300 copayOut-of-network: $400 copay",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "In-network: $0 copayOut-of-network: $0 copay, 0% coinsurance",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "$115 copay"
+  },
+  "drug_coverage": {
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 40% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 40% coinsurance",
+    "Over the counter drug benefits": "In-network: $0 copayOut-of-network: $0 copay, 0% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "H0885_010_0",
+  "state": "New_Jersey"
+}

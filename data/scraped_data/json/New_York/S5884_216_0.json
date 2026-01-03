@@ -1,0 +1,23 @@
+{
+  "plan_info": {
+    "name": "Humana Basic Rx Plan (PDP)",
+    "contract_id": "S5884_216",
+    "plan_type": "PDP",
+    "organization": "Humana"
+  },
+  "premiums": {
+    "Total monthly premium": "$140.90"
+  },
+  "deductibles": {
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "30% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S5884_216_0",
+  "state": "New_York"
+}

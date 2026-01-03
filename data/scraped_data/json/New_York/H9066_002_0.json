@@ -1,0 +1,47 @@
+{
+  "plan_info": {
+    "name": "Nascentia Skilled Nursing Facility (HMO I-SNP)",
+    "contract_id": "H9066_002",
+    "plan_type": "HMO I-SNP",
+    "organization": "Nascentia Health Plus"
+  },
+  "premiums": {
+    "Total monthly premium": "$58.80",
+    "Health premium": "0.00",
+    "Drug premium": "58.80",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$283per year for in-network services",
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "6,000"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: 20% coinsurance",
+    "Specialist visit": "In-network: 20% coinsurance",
+    "Emergency care": "20% coinsurance",
+    "Inpatient hospital coverage": "Tier 1$0 per day for days 1-60$434 per day for days 61-90$868 per day for days 91-150",
+    "Outpatient hospital coverage": "In-network: 20% coinsurance",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "Not covered"
+  },
+  "drug_coverage": {
+    "Drug premium": "$58.80",
+    "Drug deductible": "$615.00",
+    "Brand-name drugs": "25% coinsurance",
+    "Generic drugs": "25% coinsurance",
+    "Chemotherapy drugs": "In-network: 0%-20% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsurance",
+    "Over the counter drug benefits": "Not covered"
+  },
+  "extra_benefits": [],
+  "plan_id": "H9066_002_0",
+  "state": "New_York"
+}

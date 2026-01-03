@@ -1,0 +1,43 @@
+{
+  "plan_info": {
+    "name": "AARP Medicare Advantage from UHC FG-0002 (PPO)"
+  },
+  "premiums": {
+    "Total monthly premium": "$38.00",
+    "Health premium": "0.00",
+    "Drug premium": "38.00",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00",
+    "Drug deductible": "600.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "10,100"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copayOut-of-network: $15 copay",
+    "Specialist visit": "In-network: $0-$50 copayOut-of-network: $75 copay",
+    "Emergency care": "$130 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$525 per day for days 1-5$0 per day for days 6-90$0 per stayOut-of-network:$625 per day for days 1-5$0 per day for days 6-999$0 per stay",
+    "Outpatient hospital coverage": "In-network: $0-$525 copayOut-of-network: $0-$625 copay",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "$0 copay"
+  },
+  "drug_coverage": {
+    "Drug premium": "$38.00",
+    "Drug deductible": "$600.00",
+    "Non-Preferred Drug": "34% coinsurance",
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 40% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 0%-40% coinsurance",
+    "Over the counter drug benefits": "Not covered"
+  },
+  "extra_benefits": [],
+  "plan_id": "H2001_119_0",
+  "state": "North_Dakota"
+}

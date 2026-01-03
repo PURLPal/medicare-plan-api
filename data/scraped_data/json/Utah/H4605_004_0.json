@@ -1,0 +1,43 @@
+{
+  "plan_info": {
+    "name": "Regence MedAdvantage + Rx Enhanced (PPO)"
+  },
+  "premiums": {
+    "Total monthly premium": "$135.00",
+    "Health premium": "53.30",
+    "Drug premium": "81.70",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00",
+    "Drug deductible": "200.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "9,550"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copayOut-of-network: 50% coinsurance",
+    "Specialist visit": "In-network: $30 copayOut-of-network: 50% coinsurance",
+    "Emergency care": "$130 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$310 per day for days 1-5$0 per day for days 6-90$0 per stayOut-of-network:50% per day for days 1-9990% per stay",
+    "Outpatient hospital coverage": "In-network: $30 copay, 20% coinsuranceOut-of-network: 50% coinsurance",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "$130 copay"
+  },
+  "drug_coverage": {
+    "Drug premium": "$81.70",
+    "Drug deductible": "$200.00",
+    "Non-Preferred Drug": "37% coinsurance",
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 50% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 50% coinsurance",
+    "Over the counter drug benefits": "Not covered"
+  },
+  "extra_benefits": [],
+  "plan_id": "H4605_004_0",
+  "state": "Utah"
+}

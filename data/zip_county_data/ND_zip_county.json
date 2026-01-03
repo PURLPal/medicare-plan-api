@@ -1,0 +1,8593 @@
+[
+  {
+    "zip": "57638",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38001",
+        "ratio": 0.0064,
+        "name": "Adams County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38001",
+      "ratio": 0.0064,
+      "name": "Adams County"
+    }
+  },
+  {
+    "zip": "58001",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38077",
+        "ratio": 1.0,
+        "name": "Richland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38077",
+      "ratio": 1.0,
+      "name": "Richland County"
+    }
+  },
+  {
+    "zip": "58002",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 1.0,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 1.0,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58004",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 1.0,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 1.0,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58005",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 1.0,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 1.0,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58006",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 1.0,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 1.0,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58007",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 1.0,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 1.0,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58008",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38077",
+        "ratio": 1.0,
+        "name": "Richland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38077",
+      "ratio": 1.0,
+      "name": "Richland County"
+    }
+  },
+  {
+    "zip": "58009",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38097",
+        "ratio": 1.0,
+        "name": "Traill County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38097",
+      "ratio": 1.0,
+      "name": "Traill County"
+    }
+  },
+  {
+    "zip": "58011",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 1.0,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 1.0,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58012",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 1.0,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 1.0,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58013",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38081",
+        "ratio": 1.0,
+        "name": "Sargent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38081",
+      "ratio": 1.0,
+      "name": "Sargent County"
+    }
+  },
+  {
+    "zip": "58015",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38077",
+        "ratio": 0.9921,
+        "name": "Richland County"
+      },
+      {
+        "fips": "38017",
+        "ratio": 0.0079,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38077",
+      "ratio": 0.9921,
+      "name": "Richland County"
+    }
+  },
+  {
+    "zip": "58016",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38097",
+        "ratio": 0.8289,
+        "name": "Traill County"
+      },
+      {
+        "fips": "38091",
+        "ratio": 0.1711,
+        "name": "Steele County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38097",
+      "ratio": 0.8289,
+      "name": "Traill County"
+    }
+  },
+  {
+    "zip": "58017",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38081",
+        "ratio": 1.0,
+        "name": "Sargent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38081",
+      "ratio": 1.0,
+      "name": "Sargent County"
+    }
+  },
+  {
+    "zip": "58018",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38077",
+        "ratio": 1.0,
+        "name": "Richland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38077",
+      "ratio": 1.0,
+      "name": "Richland County"
+    }
+  },
+  {
+    "zip": "58021",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 1.0,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 1.0,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58027",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38073",
+        "ratio": 0.8149,
+        "name": "Ransom County"
+      },
+      {
+        "fips": "38017",
+        "ratio": 0.1264,
+        "name": "Cass County"
+      },
+      {
+        "fips": "38003",
+        "ratio": 0.0586,
+        "name": "Barnes County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38073",
+      "ratio": 0.8149,
+      "name": "Ransom County"
+    }
+  },
+  {
+    "zip": "58029",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 1.0,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 1.0,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58030",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38077",
+        "ratio": 1.0,
+        "name": "Richland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38077",
+      "ratio": 1.0,
+      "name": "Richland County"
+    }
+  },
+  {
+    "zip": "58031",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38003",
+        "ratio": 0.64,
+        "name": "Barnes County"
+      },
+      {
+        "fips": "38017",
+        "ratio": 0.36,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38003",
+      "ratio": 0.64,
+      "name": "Barnes County"
+    }
+  },
+  {
+    "zip": "58032",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38081",
+        "ratio": 1.0,
+        "name": "Sargent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38081",
+      "ratio": 1.0,
+      "name": "Sargent County"
+    }
+  },
+  {
+    "zip": "58033",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38073",
+        "ratio": 0.9912,
+        "name": "Ransom County"
+      },
+      {
+        "fips": "38045",
+        "ratio": 0.0088,
+        "name": "LaMoure County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38073",
+      "ratio": 0.9912,
+      "name": "Ransom County"
+    }
+  },
+  {
+    "zip": "58035",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38097",
+        "ratio": 0.8182,
+        "name": "Traill County"
+      },
+      {
+        "fips": "38017",
+        "ratio": 0.1136,
+        "name": "Cass County"
+      },
+      {
+        "fips": "38091",
+        "ratio": 0.0682,
+        "name": "Steele County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38097",
+      "ratio": 0.8182,
+      "name": "Traill County"
+    }
+  },
+  {
+    "zip": "58036",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 1.0,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 1.0,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58038",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 0.7931,
+        "name": "Cass County"
+      },
+      {
+        "fips": "38097",
+        "ratio": 0.2069,
+        "name": "Traill County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 0.7931,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58040",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38081",
+        "ratio": 0.9983,
+        "name": "Sargent County"
+      },
+      {
+        "fips": "38021",
+        "ratio": 0.0017,
+        "name": "Dickey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38081",
+      "ratio": 0.9983,
+      "name": "Sargent County"
+    }
+  },
+  {
+    "zip": "58041",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38077",
+        "ratio": 1.0,
+        "name": "Richland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38077",
+      "ratio": 1.0,
+      "name": "Richland County"
+    }
+  },
+  {
+    "zip": "58042",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 1.0,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 1.0,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58043",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38081",
+        "ratio": 1.0,
+        "name": "Sargent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38081",
+      "ratio": 1.0,
+      "name": "Sargent County"
+    }
+  },
+  {
+    "zip": "58045",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38097",
+        "ratio": 1.0,
+        "name": "Traill County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38097",
+      "ratio": 1.0,
+      "name": "Traill County"
+    }
+  },
+  {
+    "zip": "58046",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38091",
+        "ratio": 0.886,
+        "name": "Steele County"
+      },
+      {
+        "fips": "38003",
+        "ratio": 0.0993,
+        "name": "Barnes County"
+      },
+      {
+        "fips": "38017",
+        "ratio": 0.0147,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38091",
+      "ratio": 0.886,
+      "name": "Steele County"
+    }
+  },
+  {
+    "zip": "58047",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 0.9964,
+        "name": "Cass County"
+      },
+      {
+        "fips": "38077",
+        "ratio": 0.0036,
+        "name": "Richland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 0.9964,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58048",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 0.9626,
+        "name": "Cass County"
+      },
+      {
+        "fips": "38097",
+        "ratio": 0.0374,
+        "name": "Traill County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 0.9626,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58049",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38003",
+        "ratio": 0.766,
+        "name": "Barnes County"
+      },
+      {
+        "fips": "38073",
+        "ratio": 0.1887,
+        "name": "Ransom County"
+      },
+      {
+        "fips": "38045",
+        "ratio": 0.0453,
+        "name": "LaMoure County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38003",
+      "ratio": 0.766,
+      "name": "Barnes County"
+    }
+  },
+  {
+    "zip": "58051",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 0.8007,
+        "name": "Cass County"
+      },
+      {
+        "fips": "38077",
+        "ratio": 0.1993,
+        "name": "Richland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 0.8007,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58052",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 0.8092,
+        "name": "Cass County"
+      },
+      {
+        "fips": "38077",
+        "ratio": 0.1538,
+        "name": "Richland County"
+      },
+      {
+        "fips": "38073",
+        "ratio": 0.0369,
+        "name": "Ransom County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 0.8092,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58053",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38077",
+        "ratio": 0.8932,
+        "name": "Richland County"
+      },
+      {
+        "fips": "38081",
+        "ratio": 0.1068,
+        "name": "Sargent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38077",
+      "ratio": 0.8932,
+      "name": "Richland County"
+    }
+  },
+  {
+    "zip": "58054",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38073",
+        "ratio": 0.9994,
+        "name": "Ransom County"
+      },
+      {
+        "fips": "38081",
+        "ratio": 0.0006,
+        "name": "Sargent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38073",
+      "ratio": 0.9994,
+      "name": "Ransom County"
+    }
+  },
+  {
+    "zip": "58056",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38003",
+        "ratio": 0.5123,
+        "name": "Barnes County"
+      },
+      {
+        "fips": "38091",
+        "ratio": 0.4198,
+        "name": "Steele County"
+      },
+      {
+        "fips": "38039",
+        "ratio": 0.0679,
+        "name": "Griggs County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38003",
+      "ratio": 0.5123,
+      "name": "Barnes County"
+    }
+  },
+  {
+    "zip": "58057",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38077",
+        "ratio": 0.5181,
+        "name": "Richland County"
+      },
+      {
+        "fips": "38073",
+        "ratio": 0.4819,
+        "name": "Ransom County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38077",
+      "ratio": 0.5181,
+      "name": "Richland County"
+    }
+  },
+  {
+    "zip": "58058",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38077",
+        "ratio": 1.0,
+        "name": "Richland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38077",
+      "ratio": 1.0,
+      "name": "Richland County"
+    }
+  },
+  {
+    "zip": "58059",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 1.0,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 1.0,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58060",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38081",
+        "ratio": 0.859,
+        "name": "Sargent County"
+      },
+      {
+        "fips": "38073",
+        "ratio": 0.1354,
+        "name": "Ransom County"
+      },
+      {
+        "fips": "38077",
+        "ratio": 0.0056,
+        "name": "Richland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38081",
+      "ratio": 0.859,
+      "name": "Sargent County"
+    }
+  },
+  {
+    "zip": "58061",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38077",
+        "ratio": 1.0,
+        "name": "Richland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38077",
+      "ratio": 1.0,
+      "name": "Richland County"
+    }
+  },
+  {
+    "zip": "58062",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38003",
+        "ratio": 0.8462,
+        "name": "Barnes County"
+      },
+      {
+        "fips": "38073",
+        "ratio": 0.1538,
+        "name": "Ransom County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38003",
+      "ratio": 0.8462,
+      "name": "Barnes County"
+    }
+  },
+  {
+    "zip": "58063",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38003",
+        "ratio": 1.0,
+        "name": "Barnes County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38003",
+      "ratio": 1.0,
+      "name": "Barnes County"
+    }
+  },
+  {
+    "zip": "58064",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 0.8309,
+        "name": "Cass County"
+      },
+      {
+        "fips": "38003",
+        "ratio": 0.1581,
+        "name": "Barnes County"
+      },
+      {
+        "fips": "38091",
+        "ratio": 0.011,
+        "name": "Steele County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 0.8309,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58065",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38003",
+        "ratio": 1.0,
+        "name": "Barnes County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38003",
+      "ratio": 1.0,
+      "name": "Barnes County"
+    }
+  },
+  {
+    "zip": "58067",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38081",
+        "ratio": 1.0,
+        "name": "Sargent County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38081",
+      "ratio": 1.0,
+      "name": "Sargent County"
+    }
+  },
+  {
+    "zip": "58068",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38073",
+        "ratio": 0.9897,
+        "name": "Ransom County"
+      },
+      {
+        "fips": "38017",
+        "ratio": 0.0103,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38073",
+      "ratio": 0.9897,
+      "name": "Ransom County"
+    }
+  },
+  {
+    "zip": "58069",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38081",
+        "ratio": 0.9167,
+        "name": "Sargent County"
+      },
+      {
+        "fips": "38073",
+        "ratio": 0.0833,
+        "name": "Ransom County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38081",
+      "ratio": 0.9167,
+      "name": "Sargent County"
+    }
+  },
+  {
+    "zip": "58071",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 0.7461,
+        "name": "Cass County"
+      },
+      {
+        "fips": "38003",
+        "ratio": 0.2539,
+        "name": "Barnes County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 0.7461,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58072",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38003",
+        "ratio": 1.0,
+        "name": "Barnes County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38003",
+      "ratio": 1.0,
+      "name": "Barnes County"
+    }
+  },
+  {
+    "zip": "58075",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38077",
+        "ratio": 1.0,
+        "name": "Richland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38077",
+      "ratio": 1.0,
+      "name": "Richland County"
+    }
+  },
+  {
+    "zip": "58076",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38077",
+        "ratio": 1.0,
+        "name": "Richland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38077",
+      "ratio": 1.0,
+      "name": "Richland County"
+    }
+  },
+  {
+    "zip": "58077",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38077",
+        "ratio": 1.0,
+        "name": "Richland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38077",
+      "ratio": 1.0,
+      "name": "Richland County"
+    }
+  },
+  {
+    "zip": "58078",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 1.0,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 1.0,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58079",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 1.0,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 1.0,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58081",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38077",
+        "ratio": 1.0,
+        "name": "Richland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38077",
+      "ratio": 1.0,
+      "name": "Richland County"
+    }
+  },
+  {
+    "zip": "58102",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 1.0,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 1.0,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58103",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 1.0,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 1.0,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58104",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 1.0,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 1.0,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58105",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 1.0,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 1.0,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58106",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 1.0,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 1.0,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58107",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 1.0,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 1.0,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58108",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 1.0,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 1.0,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58109",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 1.0,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 1.0,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58121",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 1.0,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 1.0,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58122",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 1.0,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 1.0,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58124",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 1.0,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 1.0,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58125",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 1.0,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 1.0,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58126",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38017",
+        "ratio": 1.0,
+        "name": "Cass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38017",
+      "ratio": 1.0,
+      "name": "Cass County"
+    }
+  },
+  {
+    "zip": "58201",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38035",
+        "ratio": 1.0,
+        "name": "Grand Forks County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38035",
+      "ratio": 1.0,
+      "name": "Grand Forks County"
+    }
+  },
+  {
+    "zip": "58202",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38035",
+        "ratio": 1.0,
+        "name": "Grand Forks County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38035",
+      "ratio": 1.0,
+      "name": "Grand Forks County"
+    }
+  },
+  {
+    "zip": "58203",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38035",
+        "ratio": 1.0,
+        "name": "Grand Forks County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38035",
+      "ratio": 1.0,
+      "name": "Grand Forks County"
+    }
+  },
+  {
+    "zip": "58204",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38035",
+        "ratio": 1.0,
+        "name": "Grand Forks County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38035",
+      "ratio": 1.0,
+      "name": "Grand Forks County"
+    }
+  },
+  {
+    "zip": "58205",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38035",
+        "ratio": 1.0,
+        "name": "Grand Forks County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38035",
+      "ratio": 1.0,
+      "name": "Grand Forks County"
+    }
+  },
+  {
+    "zip": "58206",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38035",
+        "ratio": 1.0,
+        "name": "Grand Forks County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38035",
+      "ratio": 1.0,
+      "name": "Grand Forks County"
+    }
+  },
+  {
+    "zip": "58207",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38035",
+        "ratio": 1.0,
+        "name": "Grand Forks County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38035",
+      "ratio": 1.0,
+      "name": "Grand Forks County"
+    }
+  },
+  {
+    "zip": "58208",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38035",
+        "ratio": 1.0,
+        "name": "Grand Forks County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38035",
+      "ratio": 1.0,
+      "name": "Grand Forks County"
+    }
+  },
+  {
+    "zip": "58210",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38099",
+        "ratio": 1.0,
+        "name": "Walsh County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38099",
+      "ratio": 1.0,
+      "name": "Walsh County"
+    }
+  },
+  {
+    "zip": "58212",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "38063",
+        "ratio": 0.7222,
+        "name": "Nelson County"
+      },
+      {
+        "fips": "38039",
+        "ratio": 0.219,
+        "name": "Griggs County"
+      },
+      {
+        "fips": "38035",
+        "ratio": 0.0556,
+        "name": "Grand Forks County"
+      },
+      {
+        "fips": "38091",
+        "ratio": 0.0033,
+        "name": "Steele County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38063",
+      "ratio": 0.7222,
+      "name": "Nelson County"
+    }
+  },
+  {
+    "zip": "58214",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38035",
+        "ratio": 1.0,
+        "name": "Grand Forks County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38035",
+      "ratio": 1.0,
+      "name": "Grand Forks County"
+    }
+  },
+  {
+    "zip": "58216",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38067",
+        "ratio": 1.0,
+        "name": "Pembina County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38067",
+      "ratio": 1.0,
+      "name": "Pembina County"
+    }
+  },
+  {
+    "zip": "58218",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38097",
+        "ratio": 1.0,
+        "name": "Traill County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38097",
+      "ratio": 1.0,
+      "name": "Traill County"
+    }
+  },
+  {
+    "zip": "58219",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38097",
+        "ratio": 1.0,
+        "name": "Traill County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38097",
+      "ratio": 1.0,
+      "name": "Traill County"
+    }
+  },
+  {
+    "zip": "58220",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38067",
+        "ratio": 1.0,
+        "name": "Pembina County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38067",
+      "ratio": 1.0,
+      "name": "Pembina County"
+    }
+  },
+  {
+    "zip": "58222",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38067",
+        "ratio": 1.0,
+        "name": "Pembina County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38067",
+      "ratio": 1.0,
+      "name": "Pembina County"
+    }
+  },
+  {
+    "zip": "58223",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38097",
+        "ratio": 1.0,
+        "name": "Traill County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38097",
+      "ratio": 1.0,
+      "name": "Traill County"
+    }
+  },
+  {
+    "zip": "58224",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38063",
+        "ratio": 0.9722,
+        "name": "Nelson County"
+      },
+      {
+        "fips": "38099",
+        "ratio": 0.0278,
+        "name": "Walsh County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38063",
+      "ratio": 0.9722,
+      "name": "Nelson County"
+    }
+  },
+  {
+    "zip": "58225",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38067",
+        "ratio": 0.8513,
+        "name": "Pembina County"
+      },
+      {
+        "fips": "38099",
+        "ratio": 0.1487,
+        "name": "Walsh County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38067",
+      "ratio": 0.8513,
+      "name": "Pembina County"
+    }
+  },
+  {
+    "zip": "58227",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38099",
+        "ratio": 0.7098,
+        "name": "Walsh County"
+      },
+      {
+        "fips": "38067",
+        "ratio": 0.265,
+        "name": "Pembina County"
+      },
+      {
+        "fips": "38019",
+        "ratio": 0.0252,
+        "name": "Cavalier County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38099",
+      "ratio": 0.7098,
+      "name": "Walsh County"
+    }
+  },
+  {
+    "zip": "58228",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38035",
+        "ratio": 1.0,
+        "name": "Grand Forks County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38035",
+      "ratio": 1.0,
+      "name": "Grand Forks County"
+    }
+  },
+  {
+    "zip": "58229",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38099",
+        "ratio": 0.7733,
+        "name": "Walsh County"
+      },
+      {
+        "fips": "38019",
+        "ratio": 0.1733,
+        "name": "Cavalier County"
+      },
+      {
+        "fips": "38071",
+        "ratio": 0.0533,
+        "name": "Ramsey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38099",
+      "ratio": 0.7733,
+      "name": "Walsh County"
+    }
+  },
+  {
+    "zip": "58230",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38091",
+        "ratio": 1.0,
+        "name": "Steele County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38091",
+      "ratio": 1.0,
+      "name": "Steele County"
+    }
+  },
+  {
+    "zip": "58231",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38099",
+        "ratio": 0.8552,
+        "name": "Walsh County"
+      },
+      {
+        "fips": "38035",
+        "ratio": 0.1448,
+        "name": "Grand Forks County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38099",
+      "ratio": 0.8552,
+      "name": "Walsh County"
+    }
+  },
+  {
+    "zip": "58233",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38099",
+        "ratio": 0.6471,
+        "name": "Walsh County"
+      },
+      {
+        "fips": "38035",
+        "ratio": 0.3529,
+        "name": "Grand Forks County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38099",
+      "ratio": 0.6471,
+      "name": "Walsh County"
+    }
+  },
+  {
+    "zip": "58235",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38035",
+        "ratio": 1.0,
+        "name": "Grand Forks County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38035",
+      "ratio": 1.0,
+      "name": "Grand Forks County"
+    }
+  },
+  {
+    "zip": "58236",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38067",
+        "ratio": 1.0,
+        "name": "Pembina County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38067",
+      "ratio": 1.0,
+      "name": "Pembina County"
+    }
+  },
+  {
+    "zip": "58237",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38099",
+        "ratio": 1.0,
+        "name": "Walsh County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38099",
+      "ratio": 1.0,
+      "name": "Walsh County"
+    }
+  },
+  {
+    "zip": "58238",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38067",
+        "ratio": 1.0,
+        "name": "Pembina County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38067",
+      "ratio": 1.0,
+      "name": "Pembina County"
+    }
+  },
+  {
+    "zip": "58239",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38019",
+        "ratio": 1.0,
+        "name": "Cavalier County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38019",
+      "ratio": 1.0,
+      "name": "Cavalier County"
+    }
+  },
+  {
+    "zip": "58240",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38097",
+        "ratio": 0.7603,
+        "name": "Traill County"
+      },
+      {
+        "fips": "38091",
+        "ratio": 0.1653,
+        "name": "Steele County"
+      },
+      {
+        "fips": "38035",
+        "ratio": 0.0744,
+        "name": "Grand Forks County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38097",
+      "ratio": 0.7603,
+      "name": "Traill County"
+    }
+  },
+  {
+    "zip": "58241",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38067",
+        "ratio": 1.0,
+        "name": "Pembina County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38067",
+      "ratio": 1.0,
+      "name": "Pembina County"
+    }
+  },
+  {
+    "zip": "58243",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38099",
+        "ratio": 0.9427,
+        "name": "Walsh County"
+      },
+      {
+        "fips": "38067",
+        "ratio": 0.0573,
+        "name": "Pembina County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38099",
+      "ratio": 0.9427,
+      "name": "Walsh County"
+    }
+  },
+  {
+    "zip": "58244",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38035",
+        "ratio": 1.0,
+        "name": "Grand Forks County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38035",
+      "ratio": 1.0,
+      "name": "Grand Forks County"
+    }
+  },
+  {
+    "zip": "58249",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38019",
+        "ratio": 1.0,
+        "name": "Cavalier County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38019",
+      "ratio": 1.0,
+      "name": "Cavalier County"
+    }
+  },
+  {
+    "zip": "58250",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38099",
+        "ratio": 1.0,
+        "name": "Walsh County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38099",
+      "ratio": 1.0,
+      "name": "Walsh County"
+    }
+  },
+  {
+    "zip": "58251",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38035",
+        "ratio": 1.0,
+        "name": "Grand Forks County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38035",
+      "ratio": 1.0,
+      "name": "Grand Forks County"
+    }
+  },
+  {
+    "zip": "58254",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38063",
+        "ratio": 1.0,
+        "name": "Nelson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38063",
+      "ratio": 1.0,
+      "name": "Nelson County"
+    }
+  },
+  {
+    "zip": "58255",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38019",
+        "ratio": 1.0,
+        "name": "Cavalier County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38019",
+      "ratio": 1.0,
+      "name": "Cavalier County"
+    }
+  },
+  {
+    "zip": "58256",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38035",
+        "ratio": 1.0,
+        "name": "Grand Forks County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38035",
+      "ratio": 1.0,
+      "name": "Grand Forks County"
+    }
+  },
+  {
+    "zip": "58257",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38097",
+        "ratio": 1.0,
+        "name": "Traill County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38097",
+      "ratio": 1.0,
+      "name": "Traill County"
+    }
+  },
+  {
+    "zip": "58258",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38035",
+        "ratio": 1.0,
+        "name": "Grand Forks County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38035",
+      "ratio": 1.0,
+      "name": "Grand Forks County"
+    }
+  },
+  {
+    "zip": "58259",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38063",
+        "ratio": 0.9961,
+        "name": "Nelson County"
+      },
+      {
+        "fips": "38099",
+        "ratio": 0.0039,
+        "name": "Walsh County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38063",
+      "ratio": 0.9961,
+      "name": "Nelson County"
+    }
+  },
+  {
+    "zip": "58260",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38019",
+        "ratio": 0.984,
+        "name": "Cavalier County"
+      },
+      {
+        "fips": "38099",
+        "ratio": 0.016,
+        "name": "Walsh County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38019",
+      "ratio": 0.984,
+      "name": "Cavalier County"
+    }
+  },
+  {
+    "zip": "58261",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38099",
+        "ratio": 0.9168,
+        "name": "Walsh County"
+      },
+      {
+        "fips": "38035",
+        "ratio": 0.0832,
+        "name": "Grand Forks County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38099",
+      "ratio": 0.9168,
+      "name": "Walsh County"
+    }
+  },
+  {
+    "zip": "58262",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38067",
+        "ratio": 0.9811,
+        "name": "Pembina County"
+      },
+      {
+        "fips": "38019",
+        "ratio": 0.0189,
+        "name": "Cavalier County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38067",
+      "ratio": 0.9811,
+      "name": "Pembina County"
+    }
+  },
+  {
+    "zip": "58265",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38067",
+        "ratio": 1.0,
+        "name": "Pembina County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38067",
+      "ratio": 1.0,
+      "name": "Pembina County"
+    }
+  },
+  {
+    "zip": "58266",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38035",
+        "ratio": 0.8352,
+        "name": "Grand Forks County"
+      },
+      {
+        "fips": "38063",
+        "ratio": 0.1648,
+        "name": "Nelson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38035",
+      "ratio": 0.8352,
+      "name": "Grand Forks County"
+    }
+  },
+  {
+    "zip": "58267",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38035",
+        "ratio": 0.9909,
+        "name": "Grand Forks County"
+      },
+      {
+        "fips": "38091",
+        "ratio": 0.0091,
+        "name": "Steele County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38035",
+      "ratio": 0.9909,
+      "name": "Grand Forks County"
+    }
+  },
+  {
+    "zip": "58269",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38019",
+        "ratio": 1.0,
+        "name": "Cavalier County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38019",
+      "ratio": 1.0,
+      "name": "Cavalier County"
+    }
+  },
+  {
+    "zip": "58270",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38099",
+        "ratio": 1.0,
+        "name": "Walsh County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38099",
+      "ratio": 1.0,
+      "name": "Walsh County"
+    }
+  },
+  {
+    "zip": "58271",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38067",
+        "ratio": 1.0,
+        "name": "Pembina County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38067",
+      "ratio": 1.0,
+      "name": "Pembina County"
+    }
+  },
+  {
+    "zip": "58272",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38063",
+        "ratio": 1.0,
+        "name": "Nelson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38063",
+      "ratio": 1.0,
+      "name": "Nelson County"
+    }
+  },
+  {
+    "zip": "58273",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38099",
+        "ratio": 1.0,
+        "name": "Walsh County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38099",
+      "ratio": 1.0,
+      "name": "Walsh County"
+    }
+  },
+  {
+    "zip": "58274",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38097",
+        "ratio": 0.8764,
+        "name": "Traill County"
+      },
+      {
+        "fips": "38091",
+        "ratio": 0.1236,
+        "name": "Steele County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38097",
+      "ratio": 0.8764,
+      "name": "Traill County"
+    }
+  },
+  {
+    "zip": "58275",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38035",
+        "ratio": 0.655,
+        "name": "Grand Forks County"
+      },
+      {
+        "fips": "38097",
+        "ratio": 0.345,
+        "name": "Traill County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38035",
+      "ratio": 0.655,
+      "name": "Grand Forks County"
+    }
+  },
+  {
+    "zip": "58276",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38067",
+        "ratio": 1.0,
+        "name": "Pembina County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38067",
+      "ratio": 1.0,
+      "name": "Pembina County"
+    }
+  },
+  {
+    "zip": "58277",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38091",
+        "ratio": 1.0,
+        "name": "Steele County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38091",
+      "ratio": 1.0,
+      "name": "Steele County"
+    }
+  },
+  {
+    "zip": "58278",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38035",
+        "ratio": 1.0,
+        "name": "Grand Forks County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38035",
+      "ratio": 1.0,
+      "name": "Grand Forks County"
+    }
+  },
+  {
+    "zip": "58281",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38019",
+        "ratio": 1.0,
+        "name": "Cavalier County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38019",
+      "ratio": 1.0,
+      "name": "Cavalier County"
+    }
+  },
+  {
+    "zip": "58282",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38067",
+        "ratio": 0.9134,
+        "name": "Pembina County"
+      },
+      {
+        "fips": "38019",
+        "ratio": 0.0866,
+        "name": "Cavalier County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38067",
+      "ratio": 0.9134,
+      "name": "Pembina County"
+    }
+  },
+  {
+    "zip": "58301",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38071",
+        "ratio": 1.0,
+        "name": "Ramsey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38071",
+      "ratio": 1.0,
+      "name": "Ramsey County"
+    }
+  },
+  {
+    "zip": "58310",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38079",
+        "ratio": 0.7778,
+        "name": "Rolette County"
+      },
+      {
+        "fips": "38095",
+        "ratio": 0.2222,
+        "name": "Towner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38079",
+      "ratio": 0.7778,
+      "name": "Rolette County"
+    }
+  },
+  {
+    "zip": "58311",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38019",
+        "ratio": 1.0,
+        "name": "Cavalier County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38019",
+      "ratio": 1.0,
+      "name": "Cavalier County"
+    }
+  },
+  {
+    "zip": "58313",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38069",
+        "ratio": 1.0,
+        "name": "Pierce County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38069",
+      "ratio": 1.0,
+      "name": "Pierce County"
+    }
+  },
+  {
+    "zip": "58316",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38079",
+        "ratio": 1.0,
+        "name": "Rolette County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38079",
+      "ratio": 1.0,
+      "name": "Rolette County"
+    }
+  },
+  {
+    "zip": "58317",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38095",
+        "ratio": 0.9608,
+        "name": "Towner County"
+      },
+      {
+        "fips": "38079",
+        "ratio": 0.0392,
+        "name": "Rolette County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38095",
+      "ratio": 0.9608,
+      "name": "Towner County"
+    }
+  },
+  {
+    "zip": "58318",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38009",
+        "ratio": 1.0,
+        "name": "Bottineau County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38009",
+      "ratio": 1.0,
+      "name": "Bottineau County"
+    }
+  },
+  {
+    "zip": "58321",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38071",
+        "ratio": 0.5778,
+        "name": "Ramsey County"
+      },
+      {
+        "fips": "38063",
+        "ratio": 0.2444,
+        "name": "Nelson County"
+      },
+      {
+        "fips": "38099",
+        "ratio": 0.1778,
+        "name": "Walsh County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38071",
+      "ratio": 0.5778,
+      "name": "Ramsey County"
+    }
+  },
+  {
+    "zip": "58323",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38019",
+        "ratio": 0.8857,
+        "name": "Cavalier County"
+      },
+      {
+        "fips": "38095",
+        "ratio": 0.1143,
+        "name": "Towner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38019",
+      "ratio": 0.8857,
+      "name": "Cavalier County"
+    }
+  },
+  {
+    "zip": "58324",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38095",
+        "ratio": 0.9962,
+        "name": "Towner County"
+      },
+      {
+        "fips": "38071",
+        "ratio": 0.0038,
+        "name": "Ramsey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38095",
+      "ratio": 0.9962,
+      "name": "Towner County"
+    }
+  },
+  {
+    "zip": "58325",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38071",
+        "ratio": 0.5,
+        "name": "Ramsey County"
+      },
+      {
+        "fips": "38005",
+        "ratio": 0.4783,
+        "name": "Benson County"
+      },
+      {
+        "fips": "38095",
+        "ratio": 0.0217,
+        "name": "Towner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38071",
+      "ratio": 0.5,
+      "name": "Ramsey County"
+    }
+  },
+  {
+    "zip": "58327",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38071",
+        "ratio": 0.9775,
+        "name": "Ramsey County"
+      },
+      {
+        "fips": "38063",
+        "ratio": 0.0225,
+        "name": "Nelson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38071",
+      "ratio": 0.9775,
+      "name": "Ramsey County"
+    }
+  },
+  {
+    "zip": "58329",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38079",
+        "ratio": 0.9124,
+        "name": "Rolette County"
+      },
+      {
+        "fips": "38009",
+        "ratio": 0.0876,
+        "name": "Bottineau County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38079",
+      "ratio": 0.9124,
+      "name": "Rolette County"
+    }
+  },
+  {
+    "zip": "58330",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38071",
+        "ratio": 0.9632,
+        "name": "Ramsey County"
+      },
+      {
+        "fips": "38019",
+        "ratio": 0.0211,
+        "name": "Cavalier County"
+      },
+      {
+        "fips": "38099",
+        "ratio": 0.0158,
+        "name": "Walsh County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38071",
+      "ratio": 0.9632,
+      "name": "Ramsey County"
+    }
+  },
+  {
+    "zip": "58331",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38095",
+        "ratio": 1.0,
+        "name": "Towner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38095",
+      "ratio": 1.0,
+      "name": "Towner County"
+    }
+  },
+  {
+    "zip": "58332",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38005",
+        "ratio": 0.904,
+        "name": "Benson County"
+      },
+      {
+        "fips": "38069",
+        "ratio": 0.096,
+        "name": "Pierce County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38005",
+      "ratio": 0.904,
+      "name": "Benson County"
+    }
+  },
+  {
+    "zip": "58335",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38005",
+        "ratio": 1.0,
+        "name": "Benson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38005",
+      "ratio": 1.0,
+      "name": "Benson County"
+    }
+  },
+  {
+    "zip": "58338",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38071",
+        "ratio": 0.8491,
+        "name": "Ramsey County"
+      },
+      {
+        "fips": "38019",
+        "ratio": 0.1509,
+        "name": "Cavalier County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38071",
+      "ratio": 0.8491,
+      "name": "Ramsey County"
+    }
+  },
+  {
+    "zip": "58339",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38095",
+        "ratio": 1.0,
+        "name": "Towner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38095",
+      "ratio": 1.0,
+      "name": "Towner County"
+    }
+  },
+  {
+    "zip": "58341",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "38103",
+        "ratio": 0.9384,
+        "name": "Wells County"
+      },
+      {
+        "fips": "38069",
+        "ratio": 0.0501,
+        "name": "Pierce County"
+      },
+      {
+        "fips": "38083",
+        "ratio": 0.0075,
+        "name": "Sheridan County"
+      },
+      {
+        "fips": "38005",
+        "ratio": 0.004,
+        "name": "Benson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38103",
+      "ratio": 0.9384,
+      "name": "Wells County"
+    }
+  },
+  {
+    "zip": "58343",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38005",
+        "ratio": 1.0,
+        "name": "Benson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38005",
+      "ratio": 1.0,
+      "name": "Benson County"
+    }
+  },
+  {
+    "zip": "58344",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38063",
+        "ratio": 0.9802,
+        "name": "Nelson County"
+      },
+      {
+        "fips": "38071",
+        "ratio": 0.0198,
+        "name": "Ramsey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38063",
+      "ratio": 0.9802,
+      "name": "Nelson County"
+    }
+  },
+  {
+    "zip": "58345",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38071",
+        "ratio": 0.6591,
+        "name": "Ramsey County"
+      },
+      {
+        "fips": "38099",
+        "ratio": 0.3409,
+        "name": "Walsh County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38071",
+      "ratio": 0.6591,
+      "name": "Ramsey County"
+    }
+  },
+  {
+    "zip": "58346",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38005",
+        "ratio": 0.963,
+        "name": "Benson County"
+      },
+      {
+        "fips": "38095",
+        "ratio": 0.0337,
+        "name": "Towner County"
+      },
+      {
+        "fips": "38069",
+        "ratio": 0.0034,
+        "name": "Pierce County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38005",
+      "ratio": 0.963,
+      "name": "Benson County"
+    }
+  },
+  {
+    "zip": "58348",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38005",
+        "ratio": 0.9475,
+        "name": "Benson County"
+      },
+      {
+        "fips": "38103",
+        "ratio": 0.0525,
+        "name": "Wells County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38005",
+      "ratio": 0.9475,
+      "name": "Benson County"
+    }
+  },
+  {
+    "zip": "58351",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38005",
+        "ratio": 1.0,
+        "name": "Benson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38005",
+      "ratio": 1.0,
+      "name": "Benson County"
+    }
+  },
+  {
+    "zip": "58352",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38019",
+        "ratio": 0.9552,
+        "name": "Cavalier County"
+      },
+      {
+        "fips": "38095",
+        "ratio": 0.0448,
+        "name": "Towner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38019",
+      "ratio": 0.9552,
+      "name": "Cavalier County"
+    }
+  },
+  {
+    "zip": "58353",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38079",
+        "ratio": 1.0,
+        "name": "Rolette County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38079",
+      "ratio": 1.0,
+      "name": "Rolette County"
+    }
+  },
+  {
+    "zip": "58355",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38019",
+        "ratio": 1.0,
+        "name": "Cavalier County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38019",
+      "ratio": 1.0,
+      "name": "Cavalier County"
+    }
+  },
+  {
+    "zip": "58356",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38027",
+        "ratio": 0.9669,
+        "name": "Eddy County"
+      },
+      {
+        "fips": "38103",
+        "ratio": 0.0246,
+        "name": "Wells County"
+      },
+      {
+        "fips": "38031",
+        "ratio": 0.0085,
+        "name": "Foster County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38027",
+      "ratio": 0.9669,
+      "name": "Eddy County"
+    }
+  },
+  {
+    "zip": "58357",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38005",
+        "ratio": 1.0,
+        "name": "Benson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38005",
+      "ratio": 1.0,
+      "name": "Benson County"
+    }
+  },
+  {
+    "zip": "58361",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38063",
+        "ratio": 1.0,
+        "name": "Nelson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38063",
+      "ratio": 1.0,
+      "name": "Nelson County"
+    }
+  },
+  {
+    "zip": "58362",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38071",
+        "ratio": 1.0,
+        "name": "Ramsey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38071",
+      "ratio": 1.0,
+      "name": "Ramsey County"
+    }
+  },
+  {
+    "zip": "58363",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38095",
+        "ratio": 0.8103,
+        "name": "Towner County"
+      },
+      {
+        "fips": "38079",
+        "ratio": 0.1897,
+        "name": "Rolette County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38095",
+      "ratio": 0.8103,
+      "name": "Towner County"
+    }
+  },
+  {
+    "zip": "58365",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38095",
+        "ratio": 1.0,
+        "name": "Towner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38095",
+      "ratio": 1.0,
+      "name": "Towner County"
+    }
+  },
+  {
+    "zip": "58366",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38079",
+        "ratio": 0.9846,
+        "name": "Rolette County"
+      },
+      {
+        "fips": "38069",
+        "ratio": 0.0154,
+        "name": "Pierce County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38079",
+      "ratio": 0.9846,
+      "name": "Rolette County"
+    }
+  },
+  {
+    "zip": "58367",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38079",
+        "ratio": 0.96,
+        "name": "Rolette County"
+      },
+      {
+        "fips": "38095",
+        "ratio": 0.04,
+        "name": "Towner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38079",
+      "ratio": 0.96,
+      "name": "Rolette County"
+    }
+  },
+  {
+    "zip": "58368",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38069",
+        "ratio": 0.9775,
+        "name": "Pierce County"
+      },
+      {
+        "fips": "38049",
+        "ratio": 0.0112,
+        "name": "McHenry County"
+      },
+      {
+        "fips": "38005",
+        "ratio": 0.0112,
+        "name": "Benson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38069",
+      "ratio": 0.9775,
+      "name": "Pierce County"
+    }
+  },
+  {
+    "zip": "58369",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38079",
+        "ratio": 1.0,
+        "name": "Rolette County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38079",
+      "ratio": 1.0,
+      "name": "Rolette County"
+    }
+  },
+  {
+    "zip": "58370",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38005",
+        "ratio": 1.0,
+        "name": "Benson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38005",
+      "ratio": 1.0,
+      "name": "Benson County"
+    }
+  },
+  {
+    "zip": "58372",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38019",
+        "ratio": 0.6885,
+        "name": "Cavalier County"
+      },
+      {
+        "fips": "38095",
+        "ratio": 0.3115,
+        "name": "Towner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38019",
+      "ratio": 0.6885,
+      "name": "Cavalier County"
+    }
+  },
+  {
+    "zip": "58374",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38027",
+        "ratio": 0.6189,
+        "name": "Eddy County"
+      },
+      {
+        "fips": "38005",
+        "ratio": 0.3295,
+        "name": "Benson County"
+      },
+      {
+        "fips": "38103",
+        "ratio": 0.0516,
+        "name": "Wells County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38027",
+      "ratio": 0.6189,
+      "name": "Eddy County"
+    }
+  },
+  {
+    "zip": "58377",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38071",
+        "ratio": 0.8698,
+        "name": "Ramsey County"
+      },
+      {
+        "fips": "38095",
+        "ratio": 0.0947,
+        "name": "Towner County"
+      },
+      {
+        "fips": "38019",
+        "ratio": 0.0355,
+        "name": "Cavalier County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38071",
+      "ratio": 0.8698,
+      "name": "Ramsey County"
+    }
+  },
+  {
+    "zip": "58379",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38005",
+        "ratio": 1.0,
+        "name": "Benson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38005",
+      "ratio": 1.0,
+      "name": "Benson County"
+    }
+  },
+  {
+    "zip": "58380",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "38063",
+        "ratio": 0.7197,
+        "name": "Nelson County"
+      },
+      {
+        "fips": "38027",
+        "ratio": 0.2273,
+        "name": "Eddy County"
+      },
+      {
+        "fips": "38005",
+        "ratio": 0.0455,
+        "name": "Benson County"
+      },
+      {
+        "fips": "38071",
+        "ratio": 0.0076,
+        "name": "Ramsey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38063",
+      "ratio": 0.7197,
+      "name": "Nelson County"
+    }
+  },
+  {
+    "zip": "58381",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38005",
+        "ratio": 0.7302,
+        "name": "Benson County"
+      },
+      {
+        "fips": "38027",
+        "ratio": 0.2651,
+        "name": "Eddy County"
+      },
+      {
+        "fips": "38071",
+        "ratio": 0.0047,
+        "name": "Ramsey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38005",
+      "ratio": 0.7302,
+      "name": "Benson County"
+    }
+  },
+  {
+    "zip": "58382",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38071",
+        "ratio": 1.0,
+        "name": "Ramsey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38071",
+      "ratio": 1.0,
+      "name": "Ramsey County"
+    }
+  },
+  {
+    "zip": "58384",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "38009",
+        "ratio": 0.6304,
+        "name": "Bottineau County"
+      },
+      {
+        "fips": "38069",
+        "ratio": 0.1618,
+        "name": "Pierce County"
+      },
+      {
+        "fips": "38049",
+        "ratio": 0.1159,
+        "name": "McHenry County"
+      },
+      {
+        "fips": "38079",
+        "ratio": 0.0918,
+        "name": "Rolette County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38009",
+      "ratio": 0.6304,
+      "name": "Bottineau County"
+    }
+  },
+  {
+    "zip": "58385",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38069",
+        "ratio": 0.9118,
+        "name": "Pierce County"
+      },
+      {
+        "fips": "38079",
+        "ratio": 0.0882,
+        "name": "Rolette County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38069",
+      "ratio": 0.9118,
+      "name": "Pierce County"
+    }
+  },
+  {
+    "zip": "58386",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38005",
+        "ratio": 0.8556,
+        "name": "Benson County"
+      },
+      {
+        "fips": "38069",
+        "ratio": 0.1444,
+        "name": "Pierce County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38005",
+      "ratio": 0.8556,
+      "name": "Benson County"
+    }
+  },
+  {
+    "zip": "58401",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38093",
+        "ratio": 1.0,
+        "name": "Stutsman County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38093",
+      "ratio": 1.0,
+      "name": "Stutsman County"
+    }
+  },
+  {
+    "zip": "58402",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38093",
+        "ratio": 1.0,
+        "name": "Stutsman County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38093",
+      "ratio": 1.0,
+      "name": "Stutsman County"
+    }
+  },
+  {
+    "zip": "58405",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38093",
+        "ratio": 1.0,
+        "name": "Stutsman County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38093",
+      "ratio": 1.0,
+      "name": "Stutsman County"
+    }
+  },
+  {
+    "zip": "58413",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38051",
+        "ratio": 0.9741,
+        "name": "McIntosh County"
+      },
+      {
+        "fips": "38021",
+        "ratio": 0.0259,
+        "name": "Dickey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38051",
+      "ratio": 0.9741,
+      "name": "McIntosh County"
+    }
+  },
+  {
+    "zip": "58415",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38045",
+        "ratio": 0.987,
+        "name": "LaMoure County"
+      },
+      {
+        "fips": "38021",
+        "ratio": 0.013,
+        "name": "Dickey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38045",
+      "ratio": 0.987,
+      "name": "LaMoure County"
+    }
+  },
+  {
+    "zip": "58416",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38039",
+        "ratio": 1.0,
+        "name": "Griggs County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38039",
+      "ratio": 1.0,
+      "name": "Griggs County"
+    }
+  },
+  {
+    "zip": "58418",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38103",
+        "ratio": 0.9474,
+        "name": "Wells County"
+      },
+      {
+        "fips": "38043",
+        "ratio": 0.0526,
+        "name": "Kidder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38103",
+      "ratio": 0.9474,
+      "name": "Wells County"
+    }
+  },
+  {
+    "zip": "58420",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38093",
+        "ratio": 1.0,
+        "name": "Stutsman County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38093",
+      "ratio": 1.0,
+      "name": "Stutsman County"
+    }
+  },
+  {
+    "zip": "58421",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "38031",
+        "ratio": 0.9758,
+        "name": "Foster County"
+      },
+      {
+        "fips": "38093",
+        "ratio": 0.0138,
+        "name": "Stutsman County"
+      },
+      {
+        "fips": "38103",
+        "ratio": 0.0088,
+        "name": "Wells County"
+      },
+      {
+        "fips": "38027",
+        "ratio": 0.0017,
+        "name": "Eddy County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38031",
+      "ratio": 0.9758,
+      "name": "Foster County"
+    }
+  },
+  {
+    "zip": "58422",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38103",
+        "ratio": 1.0,
+        "name": "Wells County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38103",
+      "ratio": 1.0,
+      "name": "Wells County"
+    }
+  },
+  {
+    "zip": "58423",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38103",
+        "ratio": 0.8571,
+        "name": "Wells County"
+      },
+      {
+        "fips": "38043",
+        "ratio": 0.1429,
+        "name": "Kidder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38103",
+      "ratio": 0.8571,
+      "name": "Wells County"
+    }
+  },
+  {
+    "zip": "58424",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38093",
+        "ratio": 1.0,
+        "name": "Stutsman County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38093",
+      "ratio": 1.0,
+      "name": "Stutsman County"
+    }
+  },
+  {
+    "zip": "58425",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38039",
+        "ratio": 0.9978,
+        "name": "Griggs County"
+      },
+      {
+        "fips": "38091",
+        "ratio": 0.0022,
+        "name": "Steele County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38039",
+      "ratio": 0.9978,
+      "name": "Griggs County"
+    }
+  },
+  {
+    "zip": "58426",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38093",
+        "ratio": 1.0,
+        "name": "Stutsman County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38093",
+      "ratio": 1.0,
+      "name": "Stutsman County"
+    }
+  },
+  {
+    "zip": "58428",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38043",
+        "ratio": 1.0,
+        "name": "Kidder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38043",
+      "ratio": 1.0,
+      "name": "Kidder County"
+    }
+  },
+  {
+    "zip": "58429",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38003",
+        "ratio": 0.9815,
+        "name": "Barnes County"
+      },
+      {
+        "fips": "38039",
+        "ratio": 0.0185,
+        "name": "Griggs County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38003",
+      "ratio": 0.9815,
+      "name": "Barnes County"
+    }
+  },
+  {
+    "zip": "58430",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38083",
+        "ratio": 1.0,
+        "name": "Sheridan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38083",
+      "ratio": 1.0,
+      "name": "Sheridan County"
+    }
+  },
+  {
+    "zip": "58431",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38045",
+        "ratio": 1.0,
+        "name": "LaMoure County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38045",
+      "ratio": 1.0,
+      "name": "LaMoure County"
+    }
+  },
+  {
+    "zip": "58433",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38045",
+        "ratio": 0.9457,
+        "name": "LaMoure County"
+      },
+      {
+        "fips": "38021",
+        "ratio": 0.0543,
+        "name": "Dickey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38045",
+      "ratio": 0.9457,
+      "name": "LaMoure County"
+    }
+  },
+  {
+    "zip": "58436",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38021",
+        "ratio": 1.0,
+        "name": "Dickey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38021",
+      "ratio": 1.0,
+      "name": "Dickey County"
+    }
+  },
+  {
+    "zip": "58438",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38103",
+        "ratio": 1.0,
+        "name": "Wells County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38103",
+      "ratio": 1.0,
+      "name": "Wells County"
+    }
+  },
+  {
+    "zip": "58439",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38021",
+        "ratio": 1.0,
+        "name": "Dickey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38021",
+      "ratio": 1.0,
+      "name": "Dickey County"
+    }
+  },
+  {
+    "zip": "58440",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38047",
+        "ratio": 0.7174,
+        "name": "Logan County"
+      },
+      {
+        "fips": "38051",
+        "ratio": 0.2826,
+        "name": "McIntosh County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38047",
+      "ratio": 0.7174,
+      "name": "Logan County"
+    }
+  },
+  {
+    "zip": "58441",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38021",
+        "ratio": 1.0,
+        "name": "Dickey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38021",
+      "ratio": 1.0,
+      "name": "Dickey County"
+    }
+  },
+  {
+    "zip": "58442",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38047",
+        "ratio": 0.8859,
+        "name": "Logan County"
+      },
+      {
+        "fips": "38093",
+        "ratio": 0.1141,
+        "name": "Stutsman County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38047",
+      "ratio": 0.8859,
+      "name": "Logan County"
+    }
+  },
+  {
+    "zip": "58443",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38031",
+        "ratio": 0.9843,
+        "name": "Foster County"
+      },
+      {
+        "fips": "38039",
+        "ratio": 0.0157,
+        "name": "Griggs County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38031",
+      "ratio": 0.9843,
+      "name": "Foster County"
+    }
+  },
+  {
+    "zip": "58444",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38083",
+        "ratio": 1.0,
+        "name": "Sheridan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38083",
+      "ratio": 1.0,
+      "name": "Sheridan County"
+    }
+  },
+  {
+    "zip": "58445",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38031",
+        "ratio": 0.8916,
+        "name": "Foster County"
+      },
+      {
+        "fips": "38027",
+        "ratio": 0.1084,
+        "name": "Eddy County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38031",
+      "ratio": 0.8916,
+      "name": "Foster County"
+    }
+  },
+  {
+    "zip": "58448",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38039",
+        "ratio": 1.0,
+        "name": "Griggs County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38039",
+      "ratio": 1.0,
+      "name": "Griggs County"
+    }
+  },
+  {
+    "zip": "58451",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38103",
+        "ratio": 1.0,
+        "name": "Wells County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38103",
+      "ratio": 1.0,
+      "name": "Wells County"
+    }
+  },
+  {
+    "zip": "58452",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38039",
+        "ratio": 1.0,
+        "name": "Griggs County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38039",
+      "ratio": 1.0,
+      "name": "Griggs County"
+    }
+  },
+  {
+    "zip": "58454",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38045",
+        "ratio": 0.8116,
+        "name": "LaMoure County"
+      },
+      {
+        "fips": "38093",
+        "ratio": 0.1787,
+        "name": "Stutsman County"
+      },
+      {
+        "fips": "38047",
+        "ratio": 0.0097,
+        "name": "Logan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38045",
+      "ratio": 0.8116,
+      "name": "LaMoure County"
+    }
+  },
+  {
+    "zip": "58455",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38093",
+        "ratio": 0.7978,
+        "name": "Stutsman County"
+      },
+      {
+        "fips": "38031",
+        "ratio": 0.2022,
+        "name": "Foster County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38093",
+      "ratio": 0.7978,
+      "name": "Stutsman County"
+    }
+  },
+  {
+    "zip": "58456",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38045",
+        "ratio": 0.881,
+        "name": "LaMoure County"
+      },
+      {
+        "fips": "38021",
+        "ratio": 0.0878,
+        "name": "Dickey County"
+      },
+      {
+        "fips": "38051",
+        "ratio": 0.0312,
+        "name": "McIntosh County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38045",
+      "ratio": 0.881,
+      "name": "LaMoure County"
+    }
+  },
+  {
+    "zip": "58458",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38045",
+        "ratio": 0.9876,
+        "name": "LaMoure County"
+      },
+      {
+        "fips": "38021",
+        "ratio": 0.0124,
+        "name": "Dickey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38045",
+      "ratio": 0.9876,
+      "name": "LaMoure County"
+    }
+  },
+  {
+    "zip": "58460",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38051",
+        "ratio": 0.6022,
+        "name": "McIntosh County"
+      },
+      {
+        "fips": "38047",
+        "ratio": 0.3978,
+        "name": "Logan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38051",
+      "ratio": 0.6022,
+      "name": "McIntosh County"
+    }
+  },
+  {
+    "zip": "58461",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38003",
+        "ratio": 0.7913,
+        "name": "Barnes County"
+      },
+      {
+        "fips": "38045",
+        "ratio": 0.2087,
+        "name": "LaMoure County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38003",
+      "ratio": 0.7913,
+      "name": "Barnes County"
+    }
+  },
+  {
+    "zip": "58463",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38083",
+        "ratio": 1.0,
+        "name": "Sheridan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38083",
+      "ratio": 1.0,
+      "name": "Sheridan County"
+    }
+  },
+  {
+    "zip": "58464",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38031",
+        "ratio": 0.5912,
+        "name": "Foster County"
+      },
+      {
+        "fips": "38027",
+        "ratio": 0.3358,
+        "name": "Eddy County"
+      },
+      {
+        "fips": "38039",
+        "ratio": 0.073,
+        "name": "Griggs County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38031",
+      "ratio": 0.5912,
+      "name": "Foster County"
+    }
+  },
+  {
+    "zip": "58466",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38045",
+        "ratio": 0.6381,
+        "name": "LaMoure County"
+      },
+      {
+        "fips": "38003",
+        "ratio": 0.3545,
+        "name": "Barnes County"
+      },
+      {
+        "fips": "38093",
+        "ratio": 0.0075,
+        "name": "Stutsman County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38045",
+      "ratio": 0.6381,
+      "name": "LaMoure County"
+    }
+  },
+  {
+    "zip": "58467",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38093",
+        "ratio": 0.933,
+        "name": "Stutsman County"
+      },
+      {
+        "fips": "38043",
+        "ratio": 0.067,
+        "name": "Kidder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38093",
+      "ratio": 0.933,
+      "name": "Stutsman County"
+    }
+  },
+  {
+    "zip": "58472",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38093",
+        "ratio": 0.5714,
+        "name": "Stutsman County"
+      },
+      {
+        "fips": "38045",
+        "ratio": 0.4286,
+        "name": "LaMoure County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38093",
+      "ratio": 0.5714,
+      "name": "Stutsman County"
+    }
+  },
+  {
+    "zip": "58474",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38021",
+        "ratio": 0.9808,
+        "name": "Dickey County"
+      },
+      {
+        "fips": "38081",
+        "ratio": 0.018,
+        "name": "Sargent County"
+      },
+      {
+        "fips": "38045",
+        "ratio": 0.0012,
+        "name": "LaMoure County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38021",
+      "ratio": 0.9808,
+      "name": "Dickey County"
+    }
+  },
+  {
+    "zip": "58475",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38043",
+        "ratio": 0.9394,
+        "name": "Kidder County"
+      },
+      {
+        "fips": "38093",
+        "ratio": 0.0606,
+        "name": "Stutsman County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38043",
+      "ratio": 0.9394,
+      "name": "Kidder County"
+    }
+  },
+  {
+    "zip": "58476",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38093",
+        "ratio": 1.0,
+        "name": "Stutsman County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38093",
+      "ratio": 1.0,
+      "name": "Stutsman County"
+    }
+  },
+  {
+    "zip": "58477",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38015",
+        "ratio": 1.0,
+        "name": "Burleigh County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38015",
+      "ratio": 1.0,
+      "name": "Burleigh County"
+    }
+  },
+  {
+    "zip": "58478",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38043",
+        "ratio": 1.0,
+        "name": "Kidder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38043",
+      "ratio": 1.0,
+      "name": "Kidder County"
+    }
+  },
+  {
+    "zip": "58479",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38003",
+        "ratio": 1.0,
+        "name": "Barnes County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38003",
+      "ratio": 1.0,
+      "name": "Barnes County"
+    }
+  },
+  {
+    "zip": "58480",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38003",
+        "ratio": 1.0,
+        "name": "Barnes County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38003",
+      "ratio": 1.0,
+      "name": "Barnes County"
+    }
+  },
+  {
+    "zip": "58481",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38003",
+        "ratio": 0.7095,
+        "name": "Barnes County"
+      },
+      {
+        "fips": "38093",
+        "ratio": 0.2905,
+        "name": "Stutsman County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38003",
+      "ratio": 0.7095,
+      "name": "Barnes County"
+    }
+  },
+  {
+    "zip": "58482",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38043",
+        "ratio": 1.0,
+        "name": "Kidder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38043",
+      "ratio": 1.0,
+      "name": "Kidder County"
+    }
+  },
+  {
+    "zip": "58483",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38093",
+        "ratio": 0.783,
+        "name": "Stutsman County"
+      },
+      {
+        "fips": "38047",
+        "ratio": 0.1489,
+        "name": "Logan County"
+      },
+      {
+        "fips": "38043",
+        "ratio": 0.0681,
+        "name": "Kidder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38093",
+      "ratio": 0.783,
+      "name": "Stutsman County"
+    }
+  },
+  {
+    "zip": "58484",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38039",
+        "ratio": 0.9643,
+        "name": "Griggs County"
+      },
+      {
+        "fips": "38031",
+        "ratio": 0.0357,
+        "name": "Foster County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38039",
+      "ratio": 0.9643,
+      "name": "Griggs County"
+    }
+  },
+  {
+    "zip": "58486",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38103",
+        "ratio": 0.9085,
+        "name": "Wells County"
+      },
+      {
+        "fips": "38093",
+        "ratio": 0.0915,
+        "name": "Stutsman County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38103",
+      "ratio": 0.9085,
+      "name": "Wells County"
+    }
+  },
+  {
+    "zip": "58487",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38043",
+        "ratio": 1.0,
+        "name": "Kidder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38043",
+      "ratio": 1.0,
+      "name": "Kidder County"
+    }
+  },
+  {
+    "zip": "58488",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38043",
+        "ratio": 0.9875,
+        "name": "Kidder County"
+      },
+      {
+        "fips": "38103",
+        "ratio": 0.0125,
+        "name": "Wells County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38043",
+      "ratio": 0.9875,
+      "name": "Kidder County"
+    }
+  },
+  {
+    "zip": "58490",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38045",
+        "ratio": 0.8446,
+        "name": "LaMoure County"
+      },
+      {
+        "fips": "38073",
+        "ratio": 0.1554,
+        "name": "Ransom County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38045",
+      "ratio": 0.8446,
+      "name": "LaMoure County"
+    }
+  },
+  {
+    "zip": "58492",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38003",
+        "ratio": 0.8449,
+        "name": "Barnes County"
+      },
+      {
+        "fips": "38093",
+        "ratio": 0.0918,
+        "name": "Stutsman County"
+      },
+      {
+        "fips": "38039",
+        "ratio": 0.0633,
+        "name": "Griggs County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38003",
+      "ratio": 0.8449,
+      "name": "Barnes County"
+    }
+  },
+  {
+    "zip": "58494",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38015",
+        "ratio": 1.0,
+        "name": "Burleigh County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38015",
+      "ratio": 1.0,
+      "name": "Burleigh County"
+    }
+  },
+  {
+    "zip": "58495",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38051",
+        "ratio": 0.9512,
+        "name": "McIntosh County"
+      },
+      {
+        "fips": "38047",
+        "ratio": 0.0476,
+        "name": "Logan County"
+      },
+      {
+        "fips": "38029",
+        "ratio": 0.0012,
+        "name": "Emmons County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38051",
+      "ratio": 0.9512,
+      "name": "McIntosh County"
+    }
+  },
+  {
+    "zip": "58496",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38093",
+        "ratio": 0.9941,
+        "name": "Stutsman County"
+      },
+      {
+        "fips": "38043",
+        "ratio": 0.0059,
+        "name": "Kidder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38093",
+      "ratio": 0.9941,
+      "name": "Stutsman County"
+    }
+  },
+  {
+    "zip": "58497",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38093",
+        "ratio": 0.8942,
+        "name": "Stutsman County"
+      },
+      {
+        "fips": "38003",
+        "ratio": 0.1058,
+        "name": "Barnes County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38093",
+      "ratio": 0.8942,
+      "name": "Stutsman County"
+    }
+  },
+  {
+    "zip": "58501",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38015",
+        "ratio": 1.0,
+        "name": "Burleigh County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38015",
+      "ratio": 1.0,
+      "name": "Burleigh County"
+    }
+  },
+  {
+    "zip": "58502",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38015",
+        "ratio": 1.0,
+        "name": "Burleigh County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38015",
+      "ratio": 1.0,
+      "name": "Burleigh County"
+    }
+  },
+  {
+    "zip": "58503",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38015",
+        "ratio": 1.0,
+        "name": "Burleigh County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38015",
+      "ratio": 1.0,
+      "name": "Burleigh County"
+    }
+  },
+  {
+    "zip": "58504",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38015",
+        "ratio": 0.9993,
+        "name": "Burleigh County"
+      },
+      {
+        "fips": "38029",
+        "ratio": 0.0007,
+        "name": "Emmons County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38015",
+      "ratio": 0.9993,
+      "name": "Burleigh County"
+    }
+  },
+  {
+    "zip": "58505",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38015",
+        "ratio": 1.0,
+        "name": "Burleigh County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38015",
+      "ratio": 1.0,
+      "name": "Burleigh County"
+    }
+  },
+  {
+    "zip": "58506",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38015",
+        "ratio": 1.0,
+        "name": "Burleigh County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38015",
+      "ratio": 1.0,
+      "name": "Burleigh County"
+    }
+  },
+  {
+    "zip": "58507",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38015",
+        "ratio": 1.0,
+        "name": "Burleigh County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38015",
+      "ratio": 1.0,
+      "name": "Burleigh County"
+    }
+  },
+  {
+    "zip": "58520",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38059",
+        "ratio": 0.8609,
+        "name": "Morton County"
+      },
+      {
+        "fips": "38037",
+        "ratio": 0.1391,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38059",
+      "ratio": 0.8609,
+      "name": "Morton County"
+    }
+  },
+  {
+    "zip": "58521",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38015",
+        "ratio": 1.0,
+        "name": "Burleigh County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38015",
+      "ratio": 1.0,
+      "name": "Burleigh County"
+    }
+  },
+  {
+    "zip": "58523",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38057",
+        "ratio": 0.9737,
+        "name": "Mercer County"
+      },
+      {
+        "fips": "38065",
+        "ratio": 0.0263,
+        "name": "Oliver County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38057",
+      "ratio": 0.9737,
+      "name": "Mercer County"
+    }
+  },
+  {
+    "zip": "58524",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38029",
+        "ratio": 0.6882,
+        "name": "Emmons County"
+      },
+      {
+        "fips": "38043",
+        "ratio": 0.2473,
+        "name": "Kidder County"
+      },
+      {
+        "fips": "38015",
+        "ratio": 0.0645,
+        "name": "Burleigh County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38029",
+      "ratio": 0.6882,
+      "name": "Emmons County"
+    }
+  },
+  {
+    "zip": "58528",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38085",
+        "ratio": 1.0,
+        "name": "Sioux County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38085",
+      "ratio": 1.0,
+      "name": "Sioux County"
+    }
+  },
+  {
+    "zip": "58529",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38037",
+        "ratio": 0.9973,
+        "name": "Grant County"
+      },
+      {
+        "fips": "38085",
+        "ratio": 0.0027,
+        "name": "Sioux County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38037",
+      "ratio": 0.9973,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "58530",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38065",
+        "ratio": 0.9745,
+        "name": "Oliver County"
+      },
+      {
+        "fips": "38057",
+        "ratio": 0.0255,
+        "name": "Mercer County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38065",
+      "ratio": 0.9745,
+      "name": "Oliver County"
+    }
+  },
+  {
+    "zip": "58531",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38055",
+        "ratio": 1.0,
+        "name": "McLean County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38055",
+      "ratio": 1.0,
+      "name": "McLean County"
+    }
+  },
+  {
+    "zip": "58532",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38015",
+        "ratio": 0.787,
+        "name": "Burleigh County"
+      },
+      {
+        "fips": "38043",
+        "ratio": 0.213,
+        "name": "Kidder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38015",
+      "ratio": 0.787,
+      "name": "Burleigh County"
+    }
+  },
+  {
+    "zip": "58533",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38037",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38037",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "58535",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38059",
+        "ratio": 0.8218,
+        "name": "Morton County"
+      },
+      {
+        "fips": "38037",
+        "ratio": 0.1782,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38059",
+      "ratio": 0.8218,
+      "name": "Morton County"
+    }
+  },
+  {
+    "zip": "58538",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38085",
+        "ratio": 1.0,
+        "name": "Sioux County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38085",
+      "ratio": 1.0,
+      "name": "Sioux County"
+    }
+  },
+  {
+    "zip": "58540",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38055",
+        "ratio": 1.0,
+        "name": "McLean County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38055",
+      "ratio": 1.0,
+      "name": "McLean County"
+    }
+  },
+  {
+    "zip": "58541",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38057",
+        "ratio": 1.0,
+        "name": "Mercer County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38057",
+      "ratio": 1.0,
+      "name": "Mercer County"
+    }
+  },
+  {
+    "zip": "58542",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38029",
+        "ratio": 1.0,
+        "name": "Emmons County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38029",
+      "ratio": 1.0,
+      "name": "Emmons County"
+    }
+  },
+  {
+    "zip": "58544",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38029",
+        "ratio": 1.0,
+        "name": "Emmons County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38029",
+      "ratio": 1.0,
+      "name": "Emmons County"
+    }
+  },
+  {
+    "zip": "58545",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38057",
+        "ratio": 0.968,
+        "name": "Mercer County"
+      },
+      {
+        "fips": "38065",
+        "ratio": 0.032,
+        "name": "Oliver County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38057",
+      "ratio": 0.968,
+      "name": "Mercer County"
+    }
+  },
+  {
+    "zip": "58549",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38029",
+        "ratio": 0.623,
+        "name": "Emmons County"
+      },
+      {
+        "fips": "38047",
+        "ratio": 0.3443,
+        "name": "Logan County"
+      },
+      {
+        "fips": "38043",
+        "ratio": 0.0328,
+        "name": "Kidder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38029",
+      "ratio": 0.623,
+      "name": "Emmons County"
+    }
+  },
+  {
+    "zip": "58552",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38029",
+        "ratio": 1.0,
+        "name": "Emmons County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38029",
+      "ratio": 1.0,
+      "name": "Emmons County"
+    }
+  },
+  {
+    "zip": "58554",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38059",
+        "ratio": 1.0,
+        "name": "Morton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38059",
+      "ratio": 1.0,
+      "name": "Morton County"
+    }
+  },
+  {
+    "zip": "58558",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38015",
+        "ratio": 1.0,
+        "name": "Burleigh County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38015",
+      "ratio": 1.0,
+      "name": "Burleigh County"
+    }
+  },
+  {
+    "zip": "58559",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38055",
+        "ratio": 0.9928,
+        "name": "McLean County"
+      },
+      {
+        "fips": "38083",
+        "ratio": 0.0072,
+        "name": "Sheridan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38055",
+      "ratio": 0.9928,
+      "name": "McLean County"
+    }
+  },
+  {
+    "zip": "58560",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38015",
+        "ratio": 0.8021,
+        "name": "Burleigh County"
+      },
+      {
+        "fips": "38029",
+        "ratio": 0.1979,
+        "name": "Emmons County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38015",
+      "ratio": 0.8021,
+      "name": "Burleigh County"
+    }
+  },
+  {
+    "zip": "58561",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38047",
+        "ratio": 0.9984,
+        "name": "Logan County"
+      },
+      {
+        "fips": "38043",
+        "ratio": 0.0016,
+        "name": "Kidder County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38047",
+      "ratio": 0.9984,
+      "name": "Logan County"
+    }
+  },
+  {
+    "zip": "58562",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38037",
+        "ratio": 0.9368,
+        "name": "Grant County"
+      },
+      {
+        "fips": "38041",
+        "ratio": 0.0335,
+        "name": "Hettinger County"
+      },
+      {
+        "fips": "38001",
+        "ratio": 0.0297,
+        "name": "Adams County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38037",
+      "ratio": 0.9368,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "58563",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38059",
+        "ratio": 0.853,
+        "name": "Morton County"
+      },
+      {
+        "fips": "38065",
+        "ratio": 0.1441,
+        "name": "Oliver County"
+      },
+      {
+        "fips": "38037",
+        "ratio": 0.0029,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38059",
+      "ratio": 0.853,
+      "name": "Morton County"
+    }
+  },
+  {
+    "zip": "58564",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38037",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38037",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "58565",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38055",
+        "ratio": 1.0,
+        "name": "McLean County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38055",
+      "ratio": 1.0,
+      "name": "McLean County"
+    }
+  },
+  {
+    "zip": "58566",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38059",
+        "ratio": 1.0,
+        "name": "Morton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38059",
+      "ratio": 1.0,
+      "name": "Morton County"
+    }
+  },
+  {
+    "zip": "58568",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38085",
+        "ratio": 1.0,
+        "name": "Sioux County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38085",
+      "ratio": 1.0,
+      "name": "Sioux County"
+    }
+  },
+  {
+    "zip": "58569",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38037",
+        "ratio": 0.9844,
+        "name": "Grant County"
+      },
+      {
+        "fips": "38059",
+        "ratio": 0.0156,
+        "name": "Morton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38037",
+      "ratio": 0.9844,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "58570",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38059",
+        "ratio": 0.6757,
+        "name": "Morton County"
+      },
+      {
+        "fips": "38085",
+        "ratio": 0.3243,
+        "name": "Sioux County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38059",
+      "ratio": 0.6757,
+      "name": "Morton County"
+    }
+  },
+  {
+    "zip": "58571",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38057",
+        "ratio": 0.8727,
+        "name": "Mercer County"
+      },
+      {
+        "fips": "38065",
+        "ratio": 0.1273,
+        "name": "Oliver County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38057",
+      "ratio": 0.8727,
+      "name": "Mercer County"
+    }
+  },
+  {
+    "zip": "58572",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38015",
+        "ratio": 1.0,
+        "name": "Burleigh County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38015",
+      "ratio": 1.0,
+      "name": "Burleigh County"
+    }
+  },
+  {
+    "zip": "58573",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38029",
+        "ratio": 1.0,
+        "name": "Emmons County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38029",
+      "ratio": 1.0,
+      "name": "Emmons County"
+    }
+  },
+  {
+    "zip": "58575",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38055",
+        "ratio": 1.0,
+        "name": "McLean County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38055",
+      "ratio": 1.0,
+      "name": "McLean County"
+    }
+  },
+  {
+    "zip": "58576",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38055",
+        "ratio": 1.0,
+        "name": "McLean County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38055",
+      "ratio": 1.0,
+      "name": "McLean County"
+    }
+  },
+  {
+    "zip": "58577",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38055",
+        "ratio": 1.0,
+        "name": "McLean County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38055",
+      "ratio": 1.0,
+      "name": "McLean County"
+    }
+  },
+  {
+    "zip": "58579",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38055",
+        "ratio": 0.6043,
+        "name": "McLean County"
+      },
+      {
+        "fips": "38015",
+        "ratio": 0.3957,
+        "name": "Burleigh County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38055",
+      "ratio": 0.6043,
+      "name": "McLean County"
+    }
+  },
+  {
+    "zip": "58580",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38057",
+        "ratio": 1.0,
+        "name": "Mercer County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38057",
+      "ratio": 1.0,
+      "name": "Mercer County"
+    }
+  },
+  {
+    "zip": "58581",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38051",
+        "ratio": 0.9921,
+        "name": "McIntosh County"
+      },
+      {
+        "fips": "38029",
+        "ratio": 0.0079,
+        "name": "Emmons County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38051",
+      "ratio": 0.9921,
+      "name": "McIntosh County"
+    }
+  },
+  {
+    "zip": "58601",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38089",
+        "ratio": 0.9875,
+        "name": "Stark County"
+      },
+      {
+        "fips": "38025",
+        "ratio": 0.0125,
+        "name": "Dunn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38089",
+      "ratio": 0.9875,
+      "name": "Stark County"
+    }
+  },
+  {
+    "zip": "58602",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38089",
+        "ratio": 1.0,
+        "name": "Stark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38089",
+      "ratio": 1.0,
+      "name": "Stark County"
+    }
+  },
+  {
+    "zip": "58620",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38087",
+        "ratio": 0.955,
+        "name": "Slope County"
+      },
+      {
+        "fips": "38007",
+        "ratio": 0.045,
+        "name": "Billings County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38087",
+      "ratio": 0.955,
+      "name": "Slope County"
+    }
+  },
+  {
+    "zip": "58621",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38033",
+        "ratio": 0.9799,
+        "name": "Golden Valley County"
+      },
+      {
+        "fips": "38053",
+        "ratio": 0.0201,
+        "name": "McKenzie County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38033",
+      "ratio": 0.9799,
+      "name": "Golden Valley County"
+    }
+  },
+  {
+    "zip": "58622",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38089",
+        "ratio": 0.7497,
+        "name": "Stark County"
+      },
+      {
+        "fips": "38007",
+        "ratio": 0.2471,
+        "name": "Billings County"
+      },
+      {
+        "fips": "38025",
+        "ratio": 0.0032,
+        "name": "Dunn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38089",
+      "ratio": 0.7497,
+      "name": "Stark County"
+    }
+  },
+  {
+    "zip": "58623",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38011",
+        "ratio": 0.9642,
+        "name": "Bowman County"
+      },
+      {
+        "fips": "38087",
+        "ratio": 0.0358,
+        "name": "Slope County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38011",
+      "ratio": 0.9642,
+      "name": "Bowman County"
+    }
+  },
+  {
+    "zip": "58625",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38025",
+        "ratio": 0.8889,
+        "name": "Dunn County"
+      },
+      {
+        "fips": "38057",
+        "ratio": 0.1111,
+        "name": "Mercer County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38025",
+      "ratio": 0.8889,
+      "name": "Dunn County"
+    }
+  },
+  {
+    "zip": "58626",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38025",
+        "ratio": 1.0,
+        "name": "Dunn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38025",
+      "ratio": 1.0,
+      "name": "Dunn County"
+    }
+  },
+  {
+    "zip": "58627",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38007",
+        "ratio": 1.0,
+        "name": "Billings County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38007",
+      "ratio": 1.0,
+      "name": "Billings County"
+    }
+  },
+  {
+    "zip": "58630",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38089",
+        "ratio": 0.8491,
+        "name": "Stark County"
+      },
+      {
+        "fips": "38025",
+        "ratio": 0.1509,
+        "name": "Dunn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38089",
+      "ratio": 0.8491,
+      "name": "Stark County"
+    }
+  },
+  {
+    "zip": "58631",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38059",
+        "ratio": 0.8954,
+        "name": "Morton County"
+      },
+      {
+        "fips": "38037",
+        "ratio": 0.0735,
+        "name": "Grant County"
+      },
+      {
+        "fips": "38057",
+        "ratio": 0.031,
+        "name": "Mercer County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38059",
+      "ratio": 0.8954,
+      "name": "Morton County"
+    }
+  },
+  {
+    "zip": "58632",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38033",
+        "ratio": 1.0,
+        "name": "Golden Valley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38033",
+      "ratio": 1.0,
+      "name": "Golden Valley County"
+    }
+  },
+  {
+    "zip": "58634",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38053",
+        "ratio": 0.9266,
+        "name": "McKenzie County"
+      },
+      {
+        "fips": "38007",
+        "ratio": 0.0734,
+        "name": "Billings County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38053",
+      "ratio": 0.9266,
+      "name": "McKenzie County"
+    }
+  },
+  {
+    "zip": "58636",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38025",
+        "ratio": 1.0,
+        "name": "Dunn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38025",
+      "ratio": 1.0,
+      "name": "Dunn County"
+    }
+  },
+  {
+    "zip": "58638",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 5,
+    "counties": [
+      {
+        "fips": "38059",
+        "ratio": 0.8649,
+        "name": "Morton County"
+      },
+      {
+        "fips": "38089",
+        "ratio": 0.0613,
+        "name": "Stark County"
+      },
+      {
+        "fips": "38057",
+        "ratio": 0.0486,
+        "name": "Mercer County"
+      },
+      {
+        "fips": "38025",
+        "ratio": 0.0144,
+        "name": "Dunn County"
+      },
+      {
+        "fips": "38037",
+        "ratio": 0.0108,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38059",
+      "ratio": 0.8649,
+      "name": "Morton County"
+    }
+  },
+  {
+    "zip": "58639",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38001",
+        "ratio": 1.0,
+        "name": "Adams County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38001",
+      "ratio": 1.0,
+      "name": "Adams County"
+    }
+  },
+  {
+    "zip": "58640",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38025",
+        "ratio": 0.9932,
+        "name": "Dunn County"
+      },
+      {
+        "fips": "38053",
+        "ratio": 0.0056,
+        "name": "McKenzie County"
+      },
+      {
+        "fips": "38007",
+        "ratio": 0.0011,
+        "name": "Billings County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38025",
+      "ratio": 0.9932,
+      "name": "Dunn County"
+    }
+  },
+  {
+    "zip": "58641",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38089",
+        "ratio": 1.0,
+        "name": "Stark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38089",
+      "ratio": 1.0,
+      "name": "Stark County"
+    }
+  },
+  {
+    "zip": "58642",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38025",
+        "ratio": 0.943,
+        "name": "Dunn County"
+      },
+      {
+        "fips": "38007",
+        "ratio": 0.057,
+        "name": "Billings County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38025",
+      "ratio": 0.943,
+      "name": "Dunn County"
+    }
+  },
+  {
+    "zip": "58643",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38087",
+        "ratio": 0.6667,
+        "name": "Slope County"
+      },
+      {
+        "fips": "38011",
+        "ratio": 0.3333,
+        "name": "Bowman County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38087",
+      "ratio": 0.6667,
+      "name": "Slope County"
+    }
+  },
+  {
+    "zip": "58644",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38025",
+        "ratio": 1.0,
+        "name": "Dunn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38025",
+      "ratio": 1.0,
+      "name": "Dunn County"
+    }
+  },
+  {
+    "zip": "58645",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38007",
+        "ratio": 0.9694,
+        "name": "Billings County"
+      },
+      {
+        "fips": "38033",
+        "ratio": 0.0306,
+        "name": "Golden Valley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38007",
+      "ratio": 0.9694,
+      "name": "Billings County"
+    }
+  },
+  {
+    "zip": "58646",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38041",
+        "ratio": 0.9835,
+        "name": "Hettinger County"
+      },
+      {
+        "fips": "38001",
+        "ratio": 0.0124,
+        "name": "Adams County"
+      },
+      {
+        "fips": "38037",
+        "ratio": 0.0041,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38041",
+      "ratio": 0.9835,
+      "name": "Hettinger County"
+    }
+  },
+  {
+    "zip": "58647",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38041",
+        "ratio": 0.7962,
+        "name": "Hettinger County"
+      },
+      {
+        "fips": "38087",
+        "ratio": 0.1307,
+        "name": "Slope County"
+      },
+      {
+        "fips": "38089",
+        "ratio": 0.0732,
+        "name": "Stark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38041",
+      "ratio": 0.7962,
+      "name": "Hettinger County"
+    }
+  },
+  {
+    "zip": "58649",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38001",
+        "ratio": 0.9023,
+        "name": "Adams County"
+      },
+      {
+        "fips": "38087",
+        "ratio": 0.0651,
+        "name": "Slope County"
+      },
+      {
+        "fips": "38011",
+        "ratio": 0.0326,
+        "name": "Bowman County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38001",
+      "ratio": 0.9023,
+      "name": "Adams County"
+    }
+  },
+  {
+    "zip": "58650",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38041",
+        "ratio": 0.9717,
+        "name": "Hettinger County"
+      },
+      {
+        "fips": "38001",
+        "ratio": 0.0283,
+        "name": "Adams County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38041",
+      "ratio": 0.9717,
+      "name": "Hettinger County"
+    }
+  },
+  {
+    "zip": "58651",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38011",
+        "ratio": 0.7198,
+        "name": "Bowman County"
+      },
+      {
+        "fips": "38087",
+        "ratio": 0.2802,
+        "name": "Slope County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38011",
+      "ratio": 0.7198,
+      "name": "Bowman County"
+    }
+  },
+  {
+    "zip": "58652",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38089",
+        "ratio": 0.9134,
+        "name": "Stark County"
+      },
+      {
+        "fips": "38025",
+        "ratio": 0.0866,
+        "name": "Dunn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38089",
+      "ratio": 0.9134,
+      "name": "Stark County"
+    }
+  },
+  {
+    "zip": "58653",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38011",
+        "ratio": 0.9381,
+        "name": "Bowman County"
+      },
+      {
+        "fips": "38087",
+        "ratio": 0.0619,
+        "name": "Slope County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38011",
+      "ratio": 0.9381,
+      "name": "Bowman County"
+    }
+  },
+  {
+    "zip": "58654",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38033",
+        "ratio": 1.0,
+        "name": "Golden Valley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38033",
+      "ratio": 1.0,
+      "name": "Golden Valley County"
+    }
+  },
+  {
+    "zip": "58655",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38089",
+        "ratio": 1.0,
+        "name": "Stark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38089",
+      "ratio": 1.0,
+      "name": "Stark County"
+    }
+  },
+  {
+    "zip": "58656",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38089",
+        "ratio": 0.9091,
+        "name": "Stark County"
+      },
+      {
+        "fips": "38025",
+        "ratio": 0.0909,
+        "name": "Dunn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38089",
+      "ratio": 0.9091,
+      "name": "Stark County"
+    }
+  },
+  {
+    "zip": "58701",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38101",
+        "ratio": 1.0,
+        "name": "Ward County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38101",
+      "ratio": 1.0,
+      "name": "Ward County"
+    }
+  },
+  {
+    "zip": "58702",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38101",
+        "ratio": 1.0,
+        "name": "Ward County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38101",
+      "ratio": 1.0,
+      "name": "Ward County"
+    }
+  },
+  {
+    "zip": "58703",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38101",
+        "ratio": 1.0,
+        "name": "Ward County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38101",
+      "ratio": 1.0,
+      "name": "Ward County"
+    }
+  },
+  {
+    "zip": "58704",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38101",
+        "ratio": 1.0,
+        "name": "Ward County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38101",
+      "ratio": 1.0,
+      "name": "Ward County"
+    }
+  },
+  {
+    "zip": "58705",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38101",
+        "ratio": 1.0,
+        "name": "Ward County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38101",
+      "ratio": 1.0,
+      "name": "Ward County"
+    }
+  },
+  {
+    "zip": "58707",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38101",
+        "ratio": 1.0,
+        "name": "Ward County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38101",
+      "ratio": 1.0,
+      "name": "Ward County"
+    }
+  },
+  {
+    "zip": "58710",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38049",
+        "ratio": 0.7232,
+        "name": "McHenry County"
+      },
+      {
+        "fips": "38083",
+        "ratio": 0.1624,
+        "name": "Sheridan County"
+      },
+      {
+        "fips": "38069",
+        "ratio": 0.1144,
+        "name": "Pierce County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38049",
+      "ratio": 0.7232,
+      "name": "McHenry County"
+    }
+  },
+  {
+    "zip": "58711",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38009",
+        "ratio": 1.0,
+        "name": "Bottineau County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38009",
+      "ratio": 1.0,
+      "name": "Bottineau County"
+    }
+  },
+  {
+    "zip": "58712",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38049",
+        "ratio": 1.0,
+        "name": "McHenry County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38049",
+      "ratio": 1.0,
+      "name": "McHenry County"
+    }
+  },
+  {
+    "zip": "58713",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38049",
+        "ratio": 1.0,
+        "name": "McHenry County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38049",
+      "ratio": 1.0,
+      "name": "McHenry County"
+    }
+  },
+  {
+    "zip": "58716",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38055",
+        "ratio": 0.8434,
+        "name": "McLean County"
+      },
+      {
+        "fips": "38101",
+        "ratio": 0.1566,
+        "name": "Ward County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38055",
+      "ratio": 0.8434,
+      "name": "McLean County"
+    }
+  },
+  {
+    "zip": "58718",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38101",
+        "ratio": 0.8604,
+        "name": "Ward County"
+      },
+      {
+        "fips": "38061",
+        "ratio": 0.1189,
+        "name": "Mountrail County"
+      },
+      {
+        "fips": "38075",
+        "ratio": 0.0208,
+        "name": "Renville County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38101",
+      "ratio": 0.8604,
+      "name": "Ward County"
+    }
+  },
+  {
+    "zip": "58721",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38013",
+        "ratio": 0.9831,
+        "name": "Burke County"
+      },
+      {
+        "fips": "38101",
+        "ratio": 0.0169,
+        "name": "Ward County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38013",
+      "ratio": 0.9831,
+      "name": "Burke County"
+    }
+  },
+  {
+    "zip": "58722",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38101",
+        "ratio": 1.0,
+        "name": "Ward County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38101",
+      "ratio": 1.0,
+      "name": "Ward County"
+    }
+  },
+  {
+    "zip": "58723",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38055",
+        "ratio": 0.6033,
+        "name": "McLean County"
+      },
+      {
+        "fips": "38083",
+        "ratio": 0.2554,
+        "name": "Sheridan County"
+      },
+      {
+        "fips": "38049",
+        "ratio": 0.1413,
+        "name": "McHenry County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38055",
+      "ratio": 0.6033,
+      "name": "McLean County"
+    }
+  },
+  {
+    "zip": "58725",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38101",
+        "ratio": 0.7451,
+        "name": "Ward County"
+      },
+      {
+        "fips": "38075",
+        "ratio": 0.2549,
+        "name": "Renville County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38101",
+      "ratio": 0.7451,
+      "name": "Ward County"
+    }
+  },
+  {
+    "zip": "58727",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38013",
+        "ratio": 1.0,
+        "name": "Burke County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38013",
+      "ratio": 1.0,
+      "name": "Burke County"
+    }
+  },
+  {
+    "zip": "58730",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38023",
+        "ratio": 1.0,
+        "name": "Divide County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38023",
+      "ratio": 1.0,
+      "name": "Divide County"
+    }
+  },
+  {
+    "zip": "58731",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38049",
+        "ratio": 0.9708,
+        "name": "McHenry County"
+      },
+      {
+        "fips": "38101",
+        "ratio": 0.0292,
+        "name": "Ward County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38049",
+      "ratio": 0.9708,
+      "name": "McHenry County"
+    }
+  },
+  {
+    "zip": "58733",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38101",
+        "ratio": 1.0,
+        "name": "Ward County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38101",
+      "ratio": 1.0,
+      "name": "Ward County"
+    }
+  },
+  {
+    "zip": "58734",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38101",
+        "ratio": 0.6304,
+        "name": "Ward County"
+      },
+      {
+        "fips": "38061",
+        "ratio": 0.2283,
+        "name": "Mountrail County"
+      },
+      {
+        "fips": "38075",
+        "ratio": 0.1413,
+        "name": "Renville County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38101",
+      "ratio": 0.6304,
+      "name": "Ward County"
+    }
+  },
+  {
+    "zip": "58735",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38101",
+        "ratio": 0.7704,
+        "name": "Ward County"
+      },
+      {
+        "fips": "38055",
+        "ratio": 0.2296,
+        "name": "McLean County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38101",
+      "ratio": 0.7704,
+      "name": "Ward County"
+    }
+  },
+  {
+    "zip": "58736",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38049",
+        "ratio": 0.91,
+        "name": "McHenry County"
+      },
+      {
+        "fips": "38083",
+        "ratio": 0.09,
+        "name": "Sheridan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38049",
+      "ratio": 0.91,
+      "name": "McHenry County"
+    }
+  },
+  {
+    "zip": "58737",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38013",
+        "ratio": 1.0,
+        "name": "Burke County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38013",
+      "ratio": 1.0,
+      "name": "Burke County"
+    }
+  },
+  {
+    "zip": "58740",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "38075",
+        "ratio": 0.7403,
+        "name": "Renville County"
+      },
+      {
+        "fips": "38101",
+        "ratio": 0.2403,
+        "name": "Ward County"
+      },
+      {
+        "fips": "38049",
+        "ratio": 0.011,
+        "name": "McHenry County"
+      },
+      {
+        "fips": "38009",
+        "ratio": 0.0083,
+        "name": "Bottineau County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38075",
+      "ratio": 0.7403,
+      "name": "Renville County"
+    }
+  },
+  {
+    "zip": "58741",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38049",
+        "ratio": 1.0,
+        "name": "McHenry County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38049",
+      "ratio": 1.0,
+      "name": "McHenry County"
+    }
+  },
+  {
+    "zip": "58744",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38049",
+        "ratio": 1.0,
+        "name": "McHenry County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38049",
+      "ratio": 1.0,
+      "name": "McHenry County"
+    }
+  },
+  {
+    "zip": "58746",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "38101",
+        "ratio": 0.8519,
+        "name": "Ward County"
+      },
+      {
+        "fips": "38075",
+        "ratio": 0.0873,
+        "name": "Renville County"
+      },
+      {
+        "fips": "38013",
+        "ratio": 0.0595,
+        "name": "Burke County"
+      },
+      {
+        "fips": "38061",
+        "ratio": 0.0013,
+        "name": "Mountrail County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38101",
+      "ratio": 0.8519,
+      "name": "Ward County"
+    }
+  },
+  {
+    "zip": "58748",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38009",
+        "ratio": 0.9307,
+        "name": "Bottineau County"
+      },
+      {
+        "fips": "38049",
+        "ratio": 0.0693,
+        "name": "McHenry County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38009",
+      "ratio": 0.9307,
+      "name": "Bottineau County"
+    }
+  },
+  {
+    "zip": "58750",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38009",
+        "ratio": 0.8489,
+        "name": "Bottineau County"
+      },
+      {
+        "fips": "38075",
+        "ratio": 0.1511,
+        "name": "Renville County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38009",
+      "ratio": 0.8489,
+      "name": "Bottineau County"
+    }
+  },
+  {
+    "zip": "58752",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38013",
+        "ratio": 1.0,
+        "name": "Burke County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38013",
+      "ratio": 1.0,
+      "name": "Burke County"
+    }
+  },
+  {
+    "zip": "58755",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38105",
+        "ratio": 0.663,
+        "name": "Williams County"
+      },
+      {
+        "fips": "38023",
+        "ratio": 0.2174,
+        "name": "Divide County"
+      },
+      {
+        "fips": "38013",
+        "ratio": 0.1196,
+        "name": "Burke County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38105",
+      "ratio": 0.663,
+      "name": "Williams County"
+    }
+  },
+  {
+    "zip": "58756",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38101",
+        "ratio": 0.8519,
+        "name": "Ward County"
+      },
+      {
+        "fips": "38061",
+        "ratio": 0.1296,
+        "name": "Mountrail County"
+      },
+      {
+        "fips": "38055",
+        "ratio": 0.0185,
+        "name": "McLean County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38101",
+      "ratio": 0.8519,
+      "name": "Ward County"
+    }
+  },
+  {
+    "zip": "58757",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38053",
+        "ratio": 0.668,
+        "name": "McKenzie County"
+      },
+      {
+        "fips": "38025",
+        "ratio": 0.332,
+        "name": "Dunn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38053",
+      "ratio": 0.668,
+      "name": "McKenzie County"
+    }
+  },
+  {
+    "zip": "58758",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "38083",
+        "ratio": 0.7153,
+        "name": "Sheridan County"
+      },
+      {
+        "fips": "38103",
+        "ratio": 0.1387,
+        "name": "Wells County"
+      },
+      {
+        "fips": "38069",
+        "ratio": 0.1387,
+        "name": "Pierce County"
+      },
+      {
+        "fips": "38049",
+        "ratio": 0.0073,
+        "name": "McHenry County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38083",
+      "ratio": 0.7153,
+      "name": "Sheridan County"
+    }
+  },
+  {
+    "zip": "58759",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38055",
+        "ratio": 0.5964,
+        "name": "McLean County"
+      },
+      {
+        "fips": "38101",
+        "ratio": 0.4036,
+        "name": "Ward County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38055",
+      "ratio": 0.5964,
+      "name": "McLean County"
+    }
+  },
+  {
+    "zip": "58760",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38009",
+        "ratio": 1.0,
+        "name": "Bottineau County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38009",
+      "ratio": 1.0,
+      "name": "Bottineau County"
+    }
+  },
+  {
+    "zip": "58761",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38075",
+        "ratio": 0.8735,
+        "name": "Renville County"
+      },
+      {
+        "fips": "38009",
+        "ratio": 0.1265,
+        "name": "Bottineau County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38075",
+      "ratio": 0.8735,
+      "name": "Renville County"
+    }
+  },
+  {
+    "zip": "58762",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38009",
+        "ratio": 0.9318,
+        "name": "Bottineau County"
+      },
+      {
+        "fips": "38049",
+        "ratio": 0.0682,
+        "name": "McHenry County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38009",
+      "ratio": 0.9318,
+      "name": "Bottineau County"
+    }
+  },
+  {
+    "zip": "58763",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38061",
+        "ratio": 0.952,
+        "name": "Mountrail County"
+      },
+      {
+        "fips": "38053",
+        "ratio": 0.048,
+        "name": "McKenzie County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38061",
+      "ratio": 0.952,
+      "name": "Mountrail County"
+    }
+  },
+  {
+    "zip": "58765",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38023",
+        "ratio": 1.0,
+        "name": "Divide County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38023",
+      "ratio": 1.0,
+      "name": "Divide County"
+    }
+  },
+  {
+    "zip": "58768",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38049",
+        "ratio": 0.5603,
+        "name": "McHenry County"
+      },
+      {
+        "fips": "38101",
+        "ratio": 0.4397,
+        "name": "Ward County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38049",
+      "ratio": 0.5603,
+      "name": "McHenry County"
+    }
+  },
+  {
+    "zip": "58769",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38061",
+        "ratio": 1.0,
+        "name": "Mountrail County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38061",
+      "ratio": 1.0,
+      "name": "Mountrail County"
+    }
+  },
+  {
+    "zip": "58770",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38061",
+        "ratio": 0.883,
+        "name": "Mountrail County"
+      },
+      {
+        "fips": "38055",
+        "ratio": 0.117,
+        "name": "McLean County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38061",
+      "ratio": 0.883,
+      "name": "Mountrail County"
+    }
+  },
+  {
+    "zip": "58771",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "38061",
+        "ratio": 0.8406,
+        "name": "Mountrail County"
+      },
+      {
+        "fips": "38101",
+        "ratio": 0.1434,
+        "name": "Ward County"
+      },
+      {
+        "fips": "38055",
+        "ratio": 0.0159,
+        "name": "McLean County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38061",
+      "ratio": 0.8406,
+      "name": "Mountrail County"
+    }
+  },
+  {
+    "zip": "58772",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38013",
+        "ratio": 1.0,
+        "name": "Burke County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38013",
+      "ratio": 1.0,
+      "name": "Burke County"
+    }
+  },
+  {
+    "zip": "58773",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38013",
+        "ratio": 0.8529,
+        "name": "Burke County"
+      },
+      {
+        "fips": "38061",
+        "ratio": 0.1471,
+        "name": "Mountrail County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38013",
+      "ratio": 0.8529,
+      "name": "Burke County"
+    }
+  },
+  {
+    "zip": "58775",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38055",
+        "ratio": 1.0,
+        "name": "McLean County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38055",
+      "ratio": 1.0,
+      "name": "McLean County"
+    }
+  },
+  {
+    "zip": "58776",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38061",
+        "ratio": 1.0,
+        "name": "Mountrail County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38061",
+      "ratio": 1.0,
+      "name": "Mountrail County"
+    }
+  },
+  {
+    "zip": "58778",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38055",
+        "ratio": 0.9545,
+        "name": "McLean County"
+      },
+      {
+        "fips": "38049",
+        "ratio": 0.0455,
+        "name": "McHenry County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38055",
+      "ratio": 0.9545,
+      "name": "McLean County"
+    }
+  },
+  {
+    "zip": "58779",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38101",
+        "ratio": 0.5373,
+        "name": "Ward County"
+      },
+      {
+        "fips": "38055",
+        "ratio": 0.4627,
+        "name": "McLean County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38101",
+      "ratio": 0.5373,
+      "name": "Ward County"
+    }
+  },
+  {
+    "zip": "58781",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38101",
+        "ratio": 1.0,
+        "name": "Ward County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38101",
+      "ratio": 1.0,
+      "name": "Ward County"
+    }
+  },
+  {
+    "zip": "58782",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38075",
+        "ratio": 0.9565,
+        "name": "Renville County"
+      },
+      {
+        "fips": "38009",
+        "ratio": 0.0435,
+        "name": "Bottineau County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38075",
+      "ratio": 0.9565,
+      "name": "Renville County"
+    }
+  },
+  {
+    "zip": "58783",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38009",
+        "ratio": 1.0,
+        "name": "Bottineau County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38009",
+      "ratio": 1.0,
+      "name": "Bottineau County"
+    }
+  },
+  {
+    "zip": "58784",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38061",
+        "ratio": 0.9963,
+        "name": "Mountrail County"
+      },
+      {
+        "fips": "38013",
+        "ratio": 0.0037,
+        "name": "Burke County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38061",
+      "ratio": 0.9963,
+      "name": "Mountrail County"
+    }
+  },
+  {
+    "zip": "58785",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38101",
+        "ratio": 1.0,
+        "name": "Ward County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38101",
+      "ratio": 1.0,
+      "name": "Ward County"
+    }
+  },
+  {
+    "zip": "58787",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38075",
+        "ratio": 0.9898,
+        "name": "Renville County"
+      },
+      {
+        "fips": "38101",
+        "ratio": 0.0102,
+        "name": "Ward County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38075",
+      "ratio": 0.9898,
+      "name": "Renville County"
+    }
+  },
+  {
+    "zip": "58788",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38049",
+        "ratio": 0.9783,
+        "name": "McHenry County"
+      },
+      {
+        "fips": "38069",
+        "ratio": 0.0217,
+        "name": "Pierce County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38049",
+      "ratio": 0.9783,
+      "name": "McHenry County"
+    }
+  },
+  {
+    "zip": "58789",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38049",
+        "ratio": 0.9262,
+        "name": "McHenry County"
+      },
+      {
+        "fips": "38009",
+        "ratio": 0.0738,
+        "name": "Bottineau County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38049",
+      "ratio": 0.9262,
+      "name": "McHenry County"
+    }
+  },
+  {
+    "zip": "58790",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38049",
+        "ratio": 0.96,
+        "name": "McHenry County"
+      },
+      {
+        "fips": "38101",
+        "ratio": 0.04,
+        "name": "Ward County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38049",
+      "ratio": 0.96,
+      "name": "McHenry County"
+    }
+  },
+  {
+    "zip": "58792",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38049",
+        "ratio": 1.0,
+        "name": "McHenry County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38049",
+      "ratio": 1.0,
+      "name": "McHenry County"
+    }
+  },
+  {
+    "zip": "58793",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38009",
+        "ratio": 1.0,
+        "name": "Bottineau County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38009",
+      "ratio": 1.0,
+      "name": "Bottineau County"
+    }
+  },
+  {
+    "zip": "58794",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38061",
+        "ratio": 0.9852,
+        "name": "Mountrail County"
+      },
+      {
+        "fips": "38105",
+        "ratio": 0.0148,
+        "name": "Williams County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38061",
+      "ratio": 0.9852,
+      "name": "Mountrail County"
+    }
+  },
+  {
+    "zip": "58795",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38105",
+        "ratio": 0.7167,
+        "name": "Williams County"
+      },
+      {
+        "fips": "38023",
+        "ratio": 0.2833,
+        "name": "Divide County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38105",
+      "ratio": 0.7167,
+      "name": "Williams County"
+    }
+  },
+  {
+    "zip": "58801",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38105",
+        "ratio": 1.0,
+        "name": "Williams County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38105",
+      "ratio": 1.0,
+      "name": "Williams County"
+    }
+  },
+  {
+    "zip": "58802",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38105",
+        "ratio": 1.0,
+        "name": "Williams County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38105",
+      "ratio": 1.0,
+      "name": "Williams County"
+    }
+  },
+  {
+    "zip": "58803",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38105",
+        "ratio": 1.0,
+        "name": "Williams County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38105",
+      "ratio": 1.0,
+      "name": "Williams County"
+    }
+  },
+  {
+    "zip": "58830",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38105",
+        "ratio": 0.75,
+        "name": "Williams County"
+      },
+      {
+        "fips": "38023",
+        "ratio": 0.25,
+        "name": "Divide County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38105",
+      "ratio": 0.75,
+      "name": "Williams County"
+    }
+  },
+  {
+    "zip": "58831",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38053",
+        "ratio": 1.0,
+        "name": "McKenzie County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38053",
+      "ratio": 1.0,
+      "name": "McKenzie County"
+    }
+  },
+  {
+    "zip": "58833",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38023",
+        "ratio": 1.0,
+        "name": "Divide County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38023",
+      "ratio": 1.0,
+      "name": "Divide County"
+    }
+  },
+  {
+    "zip": "58835",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38053",
+        "ratio": 1.0,
+        "name": "McKenzie County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38053",
+      "ratio": 1.0,
+      "name": "McKenzie County"
+    }
+  },
+  {
+    "zip": "58838",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38053",
+        "ratio": 1.0,
+        "name": "McKenzie County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38053",
+      "ratio": 1.0,
+      "name": "McKenzie County"
+    }
+  },
+  {
+    "zip": "58843",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38105",
+        "ratio": 1.0,
+        "name": "Williams County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38105",
+      "ratio": 1.0,
+      "name": "Williams County"
+    }
+  },
+  {
+    "zip": "58844",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38023",
+        "ratio": 1.0,
+        "name": "Divide County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38023",
+      "ratio": 1.0,
+      "name": "Divide County"
+    }
+  },
+  {
+    "zip": "58845",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38105",
+        "ratio": 0.7637,
+        "name": "Williams County"
+      },
+      {
+        "fips": "38023",
+        "ratio": 0.2363,
+        "name": "Divide County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38105",
+      "ratio": 0.7637,
+      "name": "Williams County"
+    }
+  },
+  {
+    "zip": "58847",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38053",
+        "ratio": 1.0,
+        "name": "McKenzie County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38053",
+      "ratio": 1.0,
+      "name": "McKenzie County"
+    }
+  },
+  {
+    "zip": "58849",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38105",
+        "ratio": 1.0,
+        "name": "Williams County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38105",
+      "ratio": 1.0,
+      "name": "Williams County"
+    }
+  },
+  {
+    "zip": "58852",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38105",
+        "ratio": 0.9601,
+        "name": "Williams County"
+      },
+      {
+        "fips": "38061",
+        "ratio": 0.0399,
+        "name": "Mountrail County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38105",
+      "ratio": 0.9601,
+      "name": "Williams County"
+    }
+  },
+  {
+    "zip": "58853",
+    "state": "ND",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "38105",
+        "ratio": 1.0,
+        "name": "Williams County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38105",
+      "ratio": 1.0,
+      "name": "Williams County"
+    }
+  },
+  {
+    "zip": "58854",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38053",
+        "ratio": 0.9999,
+        "name": "McKenzie County"
+      },
+      {
+        "fips": "38025",
+        "ratio": 0.0001,
+        "name": "Dunn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38053",
+      "ratio": 0.9999,
+      "name": "McKenzie County"
+    }
+  },
+  {
+    "zip": "58856",
+    "state": "ND",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "38105",
+        "ratio": 0.7417,
+        "name": "Williams County"
+      },
+      {
+        "fips": "38023",
+        "ratio": 0.2583,
+        "name": "Divide County"
+      }
+    ],
+    "primary_county": {
+      "fips": "38105",
+      "ratio": 0.7417,
+      "name": "Williams County"
+    }
+  }
+]

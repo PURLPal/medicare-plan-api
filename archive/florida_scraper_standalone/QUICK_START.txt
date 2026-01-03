@@ -1,0 +1,21 @@
+================================
+FLORIDA SCRAPER - QUICK START
+================================
+
+Your friend just needs to:
+
+1. Install Python dependencies:
+   pip install selenium beautifulsoup4
+
+2. Run the scraper:
+   python3 scrape_florida.py
+
+That's it!
+
+WHAT HAPPENS:
+- Scrapes 621 Florida Medicare plans
+- Takes 4-5 hours
+- Saves to scraped_json/ folder
+- Shows progress every 10 plans
+
+READ README.md FOR FULL DETAILS

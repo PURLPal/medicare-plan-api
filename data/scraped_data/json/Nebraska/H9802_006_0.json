@@ -1,0 +1,44 @@
+{
+  "plan_info": {
+    "name": "DEVOTED C-SNP CHOICE PLUS 006 NE (PPO C-SNP)"
+  },
+  "premiums": {
+    "Total monthly premium": "$41.50",
+    "Health premium": "0.00",
+    "Drug premium": "41.50",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$670Annual deductible",
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "13,900"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copayOut-of-network: 40% coinsurance",
+    "Specialist visit": "In-network: 30% coinsuranceOut-of-network: 40% coinsurance",
+    "Emergency care": "$115 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$2,230 per stayOut-of-network:40% per stay",
+    "Outpatient hospital coverage": "In-network: 0%-50% coinsuranceOut-of-network: 0%-50% coinsurance",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "$0 copay"
+  },
+  "drug_coverage": {
+    "Drug premium": "$41.50",
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "31% coinsurance",
+    "Select Care Drugs": "$0.00 copay",
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 50% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 0%-50% coinsurance",
+    "Over the counter drug benefits": "In-network: $0 copayOut-of-network: $0 copay, 0% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "H9802_006_0",
+  "state": "Nebraska"
+}

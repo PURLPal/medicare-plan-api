@@ -1,0 +1,23 @@
+{
+  "plan_info": {
+    "name": "HealthSpring Assurance Rx (PDP)",
+    "contract_id": "S5617_118",
+    "plan_type": "PDP",
+    "organization": "HealthSpring"
+  },
+  "premiums": {
+    "Total monthly premium": "$6.70"
+  },
+  "deductibles": {
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "31% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S5617_118_0",
+  "state": "Kansas"
+}

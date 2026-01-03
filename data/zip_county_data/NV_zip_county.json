@@ -1,0 +1,4366 @@
+[
+  {
+    "zip": "89001",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32017",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32017",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "89002",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89003",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32023",
+        "ratio": 1.0,
+        "name": "Nye County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32023",
+      "ratio": 1.0,
+      "name": "Nye County"
+    }
+  },
+  {
+    "zip": "89004",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89005",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89006",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89007",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89008",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32017",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32017",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "89009",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89010",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32009",
+        "ratio": 1.0,
+        "name": "Esmeralda County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32009",
+      "ratio": 1.0,
+      "name": "Esmeralda County"
+    }
+  },
+  {
+    "zip": "89011",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89012",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89013",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32009",
+        "ratio": 1.0,
+        "name": "Esmeralda County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32009",
+      "ratio": 1.0,
+      "name": "Esmeralda County"
+    }
+  },
+  {
+    "zip": "89014",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89015",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89016",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89017",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32017",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32017",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "89018",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89019",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89020",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32023",
+        "ratio": 1.0,
+        "name": "Nye County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32023",
+      "ratio": 1.0,
+      "name": "Nye County"
+    }
+  },
+  {
+    "zip": "89021",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89022",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32023",
+        "ratio": 1.0,
+        "name": "Nye County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32023",
+      "ratio": 1.0,
+      "name": "Nye County"
+    }
+  },
+  {
+    "zip": "89023",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32023",
+        "ratio": 1.0,
+        "name": "Nye County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32023",
+      "ratio": 1.0,
+      "name": "Nye County"
+    }
+  },
+  {
+    "zip": "89024",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89025",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89027",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89028",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89029",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89030",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89031",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89032",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89033",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89034",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89036",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89037",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89039",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89040",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89041",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32023",
+        "ratio": 1.0,
+        "name": "Nye County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32023",
+      "ratio": 1.0,
+      "name": "Nye County"
+    }
+  },
+  {
+    "zip": "89042",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32017",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32017",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "89043",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32017",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32017",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "89044",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89045",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32023",
+        "ratio": 1.0,
+        "name": "Nye County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32023",
+      "ratio": 1.0,
+      "name": "Nye County"
+    }
+  },
+  {
+    "zip": "89046",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89047",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32009",
+        "ratio": 1.0,
+        "name": "Esmeralda County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32009",
+      "ratio": 1.0,
+      "name": "Esmeralda County"
+    }
+  },
+  {
+    "zip": "89048",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32023",
+        "ratio": 1.0,
+        "name": "Nye County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32023",
+      "ratio": 1.0,
+      "name": "Nye County"
+    }
+  },
+  {
+    "zip": "89049",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32023",
+        "ratio": 1.0,
+        "name": "Nye County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32023",
+      "ratio": 1.0,
+      "name": "Nye County"
+    }
+  },
+  {
+    "zip": "89052",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89053",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89054",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89060",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32023",
+        "ratio": 1.0,
+        "name": "Nye County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32023",
+      "ratio": 1.0,
+      "name": "Nye County"
+    }
+  },
+  {
+    "zip": "89061",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32023",
+        "ratio": 1.0,
+        "name": "Nye County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32023",
+      "ratio": 1.0,
+      "name": "Nye County"
+    }
+  },
+  {
+    "zip": "89070",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89074",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89077",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89081",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89084",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89085",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89086",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89087",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89101",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89102",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89103",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89104",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89105",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89106",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89107",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89108",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89109",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89110",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89111",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89112",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89113",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89114",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89115",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89116",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89117",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89118",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89119",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89120",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89121",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89122",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89123",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89124",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89125",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89126",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89127",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89128",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89129",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89130",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89131",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89132",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89133",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89134",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89135",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89136",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89137",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89138",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89139",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89140",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89141",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89142",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89143",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89144",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89145",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89146",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89147",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89148",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89149",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89150",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89151",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89152",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89153",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89154",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89155",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89156",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89157",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89158",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89160",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89161",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89162",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89165",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89166",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89169",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89170",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89173",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89178",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89179",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89180",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89183",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89191",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89193",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89195",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89199",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32003",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32003",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "89301",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32033",
+        "ratio": 1.0,
+        "name": "White Pine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32033",
+      "ratio": 1.0,
+      "name": "White Pine County"
+    }
+  },
+  {
+    "zip": "89310",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32015",
+        "ratio": 1.0,
+        "name": "Lander County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32015",
+      "ratio": 1.0,
+      "name": "Lander County"
+    }
+  },
+  {
+    "zip": "89311",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32033",
+        "ratio": 1.0,
+        "name": "White Pine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32033",
+      "ratio": 1.0,
+      "name": "White Pine County"
+    }
+  },
+  {
+    "zip": "89314",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32033",
+        "ratio": 1.0,
+        "name": "White Pine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32033",
+      "ratio": 1.0,
+      "name": "White Pine County"
+    }
+  },
+  {
+    "zip": "89316",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32011",
+        "ratio": 1.0,
+        "name": "Eureka County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32011",
+      "ratio": 1.0,
+      "name": "Eureka County"
+    }
+  },
+  {
+    "zip": "89317",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32033",
+        "ratio": 1.0,
+        "name": "White Pine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32033",
+      "ratio": 1.0,
+      "name": "White Pine County"
+    }
+  },
+  {
+    "zip": "89318",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32033",
+        "ratio": 1.0,
+        "name": "White Pine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32033",
+      "ratio": 1.0,
+      "name": "White Pine County"
+    }
+  },
+  {
+    "zip": "89319",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32033",
+        "ratio": 1.0,
+        "name": "White Pine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32033",
+      "ratio": 1.0,
+      "name": "White Pine County"
+    }
+  },
+  {
+    "zip": "89402",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89403",
+    "state": "NV",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "32019",
+        "ratio": 0.967,
+        "name": "Lyon County"
+      },
+      {
+        "fips": "32029",
+        "ratio": 0.033,
+        "name": "Storey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32019",
+      "ratio": 0.967,
+      "name": "Lyon County"
+    }
+  },
+  {
+    "zip": "89404",
+    "state": "NV",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "32013",
+        "ratio": 0.9167,
+        "name": "Humboldt County"
+      },
+      {
+        "fips": "32027",
+        "ratio": 0.0833,
+        "name": "Pershing County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32013",
+      "ratio": 0.9167,
+      "name": "Humboldt County"
+    }
+  },
+  {
+    "zip": "89406",
+    "state": "NV",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "32001",
+        "ratio": 0.9999,
+        "name": "Churchill County"
+      },
+      {
+        "fips": "32019",
+        "ratio": 0.0001,
+        "name": "Lyon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32001",
+      "ratio": 0.9999,
+      "name": "Churchill County"
+    }
+  },
+  {
+    "zip": "89407",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32001",
+        "ratio": 1.0,
+        "name": "Churchill County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32001",
+      "ratio": 1.0,
+      "name": "Churchill County"
+    }
+  },
+  {
+    "zip": "89408",
+    "state": "NV",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "32019",
+        "ratio": 0.9937,
+        "name": "Lyon County"
+      },
+      {
+        "fips": "32001",
+        "ratio": 0.0063,
+        "name": "Churchill County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32019",
+      "ratio": 0.9937,
+      "name": "Lyon County"
+    }
+  },
+  {
+    "zip": "89409",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32023",
+        "ratio": 1.0,
+        "name": "Nye County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32023",
+      "ratio": 1.0,
+      "name": "Nye County"
+    }
+  },
+  {
+    "zip": "89410",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32005",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32005",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "89411",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32005",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32005",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "89412",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89413",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32005",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32005",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "89414",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32013",
+        "ratio": 1.0,
+        "name": "Humboldt County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32013",
+      "ratio": 1.0,
+      "name": "Humboldt County"
+    }
+  },
+  {
+    "zip": "89415",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32021",
+        "ratio": 1.0,
+        "name": "Mineral County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32021",
+      "ratio": 1.0,
+      "name": "Mineral County"
+    }
+  },
+  {
+    "zip": "89418",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32027",
+        "ratio": 1.0,
+        "name": "Pershing County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32027",
+      "ratio": 1.0,
+      "name": "Pershing County"
+    }
+  },
+  {
+    "zip": "89419",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32027",
+        "ratio": 1.0,
+        "name": "Pershing County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32027",
+      "ratio": 1.0,
+      "name": "Pershing County"
+    }
+  },
+  {
+    "zip": "89420",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32021",
+        "ratio": 1.0,
+        "name": "Mineral County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32021",
+      "ratio": 1.0,
+      "name": "Mineral County"
+    }
+  },
+  {
+    "zip": "89421",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32013",
+        "ratio": 1.0,
+        "name": "Humboldt County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32013",
+      "ratio": 1.0,
+      "name": "Humboldt County"
+    }
+  },
+  {
+    "zip": "89422",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32021",
+        "ratio": 1.0,
+        "name": "Mineral County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32021",
+      "ratio": 1.0,
+      "name": "Mineral County"
+    }
+  },
+  {
+    "zip": "89423",
+    "state": "NV",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "32005",
+        "ratio": 0.9993,
+        "name": "Douglas County"
+      },
+      {
+        "fips": "32510",
+        "ratio": 0.0007,
+        "name": "Carson City"
+      }
+    ],
+    "primary_county": {
+      "fips": "32005",
+      "ratio": 0.9993,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "89424",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89425",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32013",
+        "ratio": 1.0,
+        "name": "Humboldt County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32013",
+      "ratio": 1.0,
+      "name": "Humboldt County"
+    }
+  },
+  {
+    "zip": "89426",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32013",
+        "ratio": 1.0,
+        "name": "Humboldt County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32013",
+      "ratio": 1.0,
+      "name": "Humboldt County"
+    }
+  },
+  {
+    "zip": "89427",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32021",
+        "ratio": 1.0,
+        "name": "Mineral County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32021",
+      "ratio": 1.0,
+      "name": "Mineral County"
+    }
+  },
+  {
+    "zip": "89428",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32019",
+        "ratio": 1.0,
+        "name": "Lyon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32019",
+      "ratio": 1.0,
+      "name": "Lyon County"
+    }
+  },
+  {
+    "zip": "89429",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32019",
+        "ratio": 1.0,
+        "name": "Lyon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32019",
+      "ratio": 1.0,
+      "name": "Lyon County"
+    }
+  },
+  {
+    "zip": "89430",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32019",
+        "ratio": 1.0,
+        "name": "Lyon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32019",
+      "ratio": 1.0,
+      "name": "Lyon County"
+    }
+  },
+  {
+    "zip": "89431",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89432",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89433",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89434",
+    "state": "NV",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 0.9536,
+        "name": "Washoe County"
+      },
+      {
+        "fips": "32029",
+        "ratio": 0.0464,
+        "name": "Storey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 0.9536,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89435",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89436",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89437",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32029",
+        "ratio": 1.0,
+        "name": "Storey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32029",
+      "ratio": 1.0,
+      "name": "Storey County"
+    }
+  },
+  {
+    "zip": "89438",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32013",
+        "ratio": 1.0,
+        "name": "Humboldt County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32013",
+      "ratio": 1.0,
+      "name": "Humboldt County"
+    }
+  },
+  {
+    "zip": "89439",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89440",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32029",
+        "ratio": 1.0,
+        "name": "Storey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32029",
+      "ratio": 1.0,
+      "name": "Storey County"
+    }
+  },
+  {
+    "zip": "89441",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89442",
+    "state": "NV",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 0.9888,
+        "name": "Washoe County"
+      },
+      {
+        "fips": "32019",
+        "ratio": 0.0112,
+        "name": "Lyon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 0.9888,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89444",
+    "state": "NV",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "32005",
+        "ratio": 0.5837,
+        "name": "Douglas County"
+      },
+      {
+        "fips": "32019",
+        "ratio": 0.4163,
+        "name": "Lyon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32005",
+      "ratio": 0.5837,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "89445",
+    "state": "NV",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "32013",
+        "ratio": 0.934,
+        "name": "Humboldt County"
+      },
+      {
+        "fips": "32027",
+        "ratio": 0.066,
+        "name": "Pershing County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32013",
+      "ratio": 0.934,
+      "name": "Humboldt County"
+    }
+  },
+  {
+    "zip": "89446",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32013",
+        "ratio": 1.0,
+        "name": "Humboldt County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32013",
+      "ratio": 1.0,
+      "name": "Humboldt County"
+    }
+  },
+  {
+    "zip": "89447",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32019",
+        "ratio": 1.0,
+        "name": "Lyon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32019",
+      "ratio": 1.0,
+      "name": "Lyon County"
+    }
+  },
+  {
+    "zip": "89448",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32005",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32005",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "89449",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32005",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32005",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "89450",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89451",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89460",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32005",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32005",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "89501",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89502",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89503",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89504",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89505",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89506",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89507",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89508",
+    "state": "NV",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 0.9998,
+        "name": "Washoe County"
+      },
+      {
+        "fips": "32029",
+        "ratio": 0.0002,
+        "name": "Storey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 0.9998,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89509",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89510",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89511",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89512",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89513",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89515",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89519",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89521",
+    "state": "NV",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 0.9649,
+        "name": "Washoe County"
+      },
+      {
+        "fips": "32029",
+        "ratio": 0.0351,
+        "name": "Storey County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 0.9649,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89523",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89533",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89557",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89570",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89595",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89599",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89701",
+    "state": "NV",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "32510",
+        "ratio": 0.9995,
+        "name": "Carson City"
+      },
+      {
+        "fips": "32005",
+        "ratio": 0.0005,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32510",
+      "ratio": 0.9995,
+      "name": "Carson City"
+    }
+  },
+  {
+    "zip": "89702",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32510",
+        "ratio": 1.0,
+        "name": "Carson City"
+      }
+    ],
+    "primary_county": {
+      "fips": "32510",
+      "ratio": 1.0,
+      "name": "Carson City"
+    }
+  },
+  {
+    "zip": "89703",
+    "state": "NV",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "32510",
+        "ratio": 0.9991,
+        "name": "Carson City"
+      },
+      {
+        "fips": "32031",
+        "ratio": 0.0009,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32510",
+      "ratio": 0.9991,
+      "name": "Carson City"
+    }
+  },
+  {
+    "zip": "89704",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32031",
+        "ratio": 1.0,
+        "name": "Washoe County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32031",
+      "ratio": 1.0,
+      "name": "Washoe County"
+    }
+  },
+  {
+    "zip": "89705",
+    "state": "NV",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "32005",
+        "ratio": 0.9914,
+        "name": "Douglas County"
+      },
+      {
+        "fips": "32510",
+        "ratio": 0.0086,
+        "name": "Carson City"
+      }
+    ],
+    "primary_county": {
+      "fips": "32005",
+      "ratio": 0.9914,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "89706",
+    "state": "NV",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "32510",
+        "ratio": 0.892,
+        "name": "Carson City"
+      },
+      {
+        "fips": "32019",
+        "ratio": 0.108,
+        "name": "Lyon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32510",
+      "ratio": 0.892,
+      "name": "Carson City"
+    }
+  },
+  {
+    "zip": "89711",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32510",
+        "ratio": 1.0,
+        "name": "Carson City"
+      }
+    ],
+    "primary_county": {
+      "fips": "32510",
+      "ratio": 1.0,
+      "name": "Carson City"
+    }
+  },
+  {
+    "zip": "89712",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32510",
+        "ratio": 1.0,
+        "name": "Carson City"
+      }
+    ],
+    "primary_county": {
+      "fips": "32510",
+      "ratio": 1.0,
+      "name": "Carson City"
+    }
+  },
+  {
+    "zip": "89713",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32510",
+        "ratio": 1.0,
+        "name": "Carson City"
+      }
+    ],
+    "primary_county": {
+      "fips": "32510",
+      "ratio": 1.0,
+      "name": "Carson City"
+    }
+  },
+  {
+    "zip": "89714",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32510",
+        "ratio": 1.0,
+        "name": "Carson City"
+      }
+    ],
+    "primary_county": {
+      "fips": "32510",
+      "ratio": 1.0,
+      "name": "Carson City"
+    }
+  },
+  {
+    "zip": "89721",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32510",
+        "ratio": 1.0,
+        "name": "Carson City"
+      }
+    ],
+    "primary_county": {
+      "fips": "32510",
+      "ratio": 1.0,
+      "name": "Carson City"
+    }
+  },
+  {
+    "zip": "89801",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32007",
+        "ratio": 1.0,
+        "name": "Elko County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32007",
+      "ratio": 1.0,
+      "name": "Elko County"
+    }
+  },
+  {
+    "zip": "89803",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32007",
+        "ratio": 1.0,
+        "name": "Elko County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32007",
+      "ratio": 1.0,
+      "name": "Elko County"
+    }
+  },
+  {
+    "zip": "89815",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32007",
+        "ratio": 1.0,
+        "name": "Elko County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32007",
+      "ratio": 1.0,
+      "name": "Elko County"
+    }
+  },
+  {
+    "zip": "89820",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32015",
+        "ratio": 1.0,
+        "name": "Lander County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32015",
+      "ratio": 1.0,
+      "name": "Lander County"
+    }
+  },
+  {
+    "zip": "89821",
+    "state": "NV",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "32011",
+        "ratio": 0.9984,
+        "name": "Eureka County"
+      },
+      {
+        "fips": "32015",
+        "ratio": 0.0016,
+        "name": "Lander County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32011",
+      "ratio": 0.9984,
+      "name": "Eureka County"
+    }
+  },
+  {
+    "zip": "89822",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32007",
+        "ratio": 1.0,
+        "name": "Elko County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32007",
+      "ratio": 1.0,
+      "name": "Elko County"
+    }
+  },
+  {
+    "zip": "89823",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32007",
+        "ratio": 1.0,
+        "name": "Elko County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32007",
+      "ratio": 1.0,
+      "name": "Elko County"
+    }
+  },
+  {
+    "zip": "89825",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32007",
+        "ratio": 1.0,
+        "name": "Elko County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32007",
+      "ratio": 1.0,
+      "name": "Elko County"
+    }
+  },
+  {
+    "zip": "89826",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32007",
+        "ratio": 1.0,
+        "name": "Elko County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32007",
+      "ratio": 1.0,
+      "name": "Elko County"
+    }
+  },
+  {
+    "zip": "89828",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32007",
+        "ratio": 1.0,
+        "name": "Elko County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32007",
+      "ratio": 1.0,
+      "name": "Elko County"
+    }
+  },
+  {
+    "zip": "89830",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32007",
+        "ratio": 1.0,
+        "name": "Elko County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32007",
+      "ratio": 1.0,
+      "name": "Elko County"
+    }
+  },
+  {
+    "zip": "89831",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32007",
+        "ratio": 1.0,
+        "name": "Elko County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32007",
+      "ratio": 1.0,
+      "name": "Elko County"
+    }
+  },
+  {
+    "zip": "89832",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32007",
+        "ratio": 1.0,
+        "name": "Elko County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32007",
+      "ratio": 1.0,
+      "name": "Elko County"
+    }
+  },
+  {
+    "zip": "89833",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32007",
+        "ratio": 1.0,
+        "name": "Elko County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32007",
+      "ratio": 1.0,
+      "name": "Elko County"
+    }
+  },
+  {
+    "zip": "89834",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32007",
+        "ratio": 1.0,
+        "name": "Elko County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32007",
+      "ratio": 1.0,
+      "name": "Elko County"
+    }
+  },
+  {
+    "zip": "89835",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32007",
+        "ratio": 1.0,
+        "name": "Elko County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32007",
+      "ratio": 1.0,
+      "name": "Elko County"
+    }
+  },
+  {
+    "zip": "89883",
+    "state": "NV",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "32007",
+        "ratio": 1.0,
+        "name": "Elko County"
+      }
+    ],
+    "primary_county": {
+      "fips": "32007",
+      "ratio": 1.0,
+      "name": "Elko County"
+    }
+  }
+]

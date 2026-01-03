@@ -1,0 +1,23 @@
+{
+  "plan_info": {
+    "name": "Humana Premier Rx Plan (PDP)",
+    "contract_id": "S5884_170",
+    "plan_type": "PDP",
+    "organization": "Humana"
+  },
+  "premiums": {
+    "Total monthly premium": "$116.30"
+  },
+  "deductibles": {
+    "Drug deductible": "0.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$0.00",
+    "Non-Preferred Drug": "50% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S5884_170_0",
+  "state": "Kansas"
+}

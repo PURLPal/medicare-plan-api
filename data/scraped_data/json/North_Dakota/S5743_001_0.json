@@ -1,0 +1,20 @@
+{
+  "plan_info": {
+    "name": "MedicareBlue Rx Standard (PDP)"
+  },
+  "premiums": {
+    "Total monthly premium": "$101.00"
+  },
+  "deductibles": {
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "42% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S5743_001_0",
+  "state": "North_Dakota"
+}

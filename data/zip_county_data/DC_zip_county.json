@@ -1,0 +1,3980 @@
+[
+  {
+    "zip": "20001",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20002",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20003",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20004",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20005",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20006",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20007",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20008",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20009",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20010",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20011",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20012",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20013",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20015",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20016",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20017",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20018",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20019",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20020",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20024",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20026",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20027",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20029",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20030",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20032",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20033",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20035",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20036",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20037",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20038",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20039",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20040",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20042",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20043",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20044",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20045",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20047",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20049",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20052",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20053",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20055",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20056",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20057",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20059",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20060",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20062",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20063",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20064",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20065",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20066",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20071",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20073",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20076",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20090",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20091",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20201",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20202",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20203",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20204",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20208",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20210",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20211",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20212",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20213",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20215",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20216",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20217",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20218",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20219",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20220",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20221",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20222",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20223",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20224",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20226",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20227",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20228",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20229",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20230",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20235",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20237",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20239",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20240",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20241",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20242",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20244",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20245",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20250",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20254",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20260",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20268",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20270",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20289",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20303",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20306",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20318",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20319",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20340",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20370",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20372",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20373",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20374",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20375",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20376",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20380",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20388",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20390",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20391",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20392",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20398",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20401",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20402",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20403",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20404",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20405",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20407",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20408",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20410",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20411",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20412",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20413",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20414",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20415",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20416",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20417",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20418",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20419",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20420",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20421",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20422",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20423",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20424",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20425",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20426",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20427",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20428",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20429",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20431",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20433",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20434",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20435",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20436",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20437",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20439",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20440",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20441",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20442",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20444",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20447",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20451",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20456",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20460",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20463",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20472",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20500",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20502",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20503",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20504",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20505",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20506",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20507",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20508",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20509",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20510",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20515",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20520",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20521",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20522",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20523",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20524",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20525",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20526",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20527",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20528",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20529",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20530",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20531",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20533",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20534",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20535",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20536",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20538",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20539",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20540",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20541",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20542",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20543",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20544",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20546",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20547",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20548",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20549",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20551",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20552",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20553",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20554",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20555",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20557",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20559",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20560",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20565",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20566",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20570",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20571",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20572",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20573",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20575",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20576",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20577",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20579",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20580",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20581",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20585",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20586",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20590",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20591",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20593",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20594",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "20597",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "56998",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  },
+  {
+    "zip": "88888",
+    "state": "DC",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "11001",
+        "ratio": 1.0,
+        "name": "District of Columbia"
+      }
+    ],
+    "primary_county": {
+      "fips": "11001",
+      "ratio": 1.0,
+      "name": "District of Columbia"
+    }
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "plan_info": {
+    "name": "HealthSpring Premier (HMO-POS)"
+  },
+  "premiums": {
+    "Total monthly premium": "$0.00",
+    "Health premium": "0.00",
+    "Drug premium": "0.00",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00",
+    "Drug deductible": "200.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "2,900"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copayOut-of-network: 40% coinsurance",
+    "Specialist visit": "In-network: $20 copayOut-of-network: 40% coinsurance",
+    "Emergency care": "$150 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$165 per day for days 1-7$0 per day for days 8-90$0 per stayOut-of-network:40% per stay",
+    "Outpatient hospital coverage": "In-network: $0-$185 copayOut-of-network: 40% coinsurance",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "In-network: $0 copay",
+    "Worldwide emergency": "$150 copay"
+  },
+  "drug_coverage": {
+    "Drug premium": "$0.00",
+    "Drug deductible": "$200.00",
+    "Non-Preferred Drug": "50% coinsurance",
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 40% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 40% coinsurance",
+    "Over the counter drug benefits": "In-network: $0 copay"
+  },
+  "extra_benefits": [],
+  "plan_id": "H4513_084_0",
+  "state": "Illinois"
+}

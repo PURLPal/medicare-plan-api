@@ -1,0 +1,6057 @@
+[
+  {
+    "zip": "83201",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16005",
+        "ratio": 1.0,
+        "name": "Bannock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16005",
+      "ratio": 1.0,
+      "name": "Bannock County"
+    }
+  },
+  {
+    "zip": "83202",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16005",
+        "ratio": 0.967,
+        "name": "Bannock County"
+      },
+      {
+        "fips": "16011",
+        "ratio": 0.033,
+        "name": "Bingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16005",
+      "ratio": 0.967,
+      "name": "Bannock County"
+    }
+  },
+  {
+    "zip": "83203",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16011",
+        "ratio": 1.0,
+        "name": "Bingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16011",
+      "ratio": 1.0,
+      "name": "Bingham County"
+    }
+  },
+  {
+    "zip": "83204",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16005",
+        "ratio": 0.9637,
+        "name": "Bannock County"
+      },
+      {
+        "fips": "16077",
+        "ratio": 0.0363,
+        "name": "Power County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16005",
+      "ratio": 0.9637,
+      "name": "Bannock County"
+    }
+  },
+  {
+    "zip": "83205",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16005",
+        "ratio": 1.0,
+        "name": "Bannock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16005",
+      "ratio": 1.0,
+      "name": "Bannock County"
+    }
+  },
+  {
+    "zip": "83206",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16005",
+        "ratio": 1.0,
+        "name": "Bannock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16005",
+      "ratio": 1.0,
+      "name": "Bannock County"
+    }
+  },
+  {
+    "zip": "83209",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16005",
+        "ratio": 1.0,
+        "name": "Bannock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16005",
+      "ratio": 1.0,
+      "name": "Bannock County"
+    }
+  },
+  {
+    "zip": "83210",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16011",
+        "ratio": 1.0,
+        "name": "Bingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16011",
+      "ratio": 1.0,
+      "name": "Bingham County"
+    }
+  },
+  {
+    "zip": "83211",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "16077",
+        "ratio": 0.9883,
+        "name": "Power County"
+      },
+      {
+        "fips": "16031",
+        "ratio": 0.0091,
+        "name": "Cassia County"
+      },
+      {
+        "fips": "16011",
+        "ratio": 0.0027,
+        "name": "Bingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16077",
+      "ratio": 0.9883,
+      "name": "Power County"
+    }
+  },
+  {
+    "zip": "83212",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16077",
+        "ratio": 1.0,
+        "name": "Power County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16077",
+      "ratio": 1.0,
+      "name": "Power County"
+    }
+  },
+  {
+    "zip": "83213",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16023",
+        "ratio": 1.0,
+        "name": "Butte County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16023",
+      "ratio": 1.0,
+      "name": "Butte County"
+    }
+  },
+  {
+    "zip": "83214",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16005",
+        "ratio": 1.0,
+        "name": "Bannock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16005",
+      "ratio": 1.0,
+      "name": "Bannock County"
+    }
+  },
+  {
+    "zip": "83215",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16011",
+        "ratio": 1.0,
+        "name": "Bingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16011",
+      "ratio": 1.0,
+      "name": "Bingham County"
+    }
+  },
+  {
+    "zip": "83217",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16029",
+        "ratio": 1.0,
+        "name": "Caribou County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16029",
+      "ratio": 1.0,
+      "name": "Caribou County"
+    }
+  },
+  {
+    "zip": "83218",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16011",
+        "ratio": 1.0,
+        "name": "Bingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16011",
+      "ratio": 1.0,
+      "name": "Bingham County"
+    }
+  },
+  {
+    "zip": "83220",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16007",
+        "ratio": 1.0,
+        "name": "Bear Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16007",
+      "ratio": 1.0,
+      "name": "Bear Lake County"
+    }
+  },
+  {
+    "zip": "83221",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16011",
+        "ratio": 1.0,
+        "name": "Bingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16011",
+      "ratio": 1.0,
+      "name": "Bingham County"
+    }
+  },
+  {
+    "zip": "83223",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16007",
+        "ratio": 1.0,
+        "name": "Bear Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16007",
+      "ratio": 1.0,
+      "name": "Bear Lake County"
+    }
+  },
+  {
+    "zip": "83226",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16037",
+        "ratio": 0.9991,
+        "name": "Custer County"
+      },
+      {
+        "fips": "16059",
+        "ratio": 0.0009,
+        "name": "Lemhi County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16037",
+      "ratio": 0.9991,
+      "name": "Custer County"
+    }
+  },
+  {
+    "zip": "83227",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16037",
+        "ratio": 1.0,
+        "name": "Custer County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16037",
+      "ratio": 1.0,
+      "name": "Custer County"
+    }
+  },
+  {
+    "zip": "83228",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16041",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16041",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "83229",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16059",
+        "ratio": 1.0,
+        "name": "Lemhi County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16059",
+      "ratio": 1.0,
+      "name": "Lemhi County"
+    }
+  },
+  {
+    "zip": "83232",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16041",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16041",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "83233",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16007",
+        "ratio": 1.0,
+        "name": "Bear Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16007",
+      "ratio": 1.0,
+      "name": "Bear Lake County"
+    }
+  },
+  {
+    "zip": "83234",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16005",
+        "ratio": 1.0,
+        "name": "Bannock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16005",
+      "ratio": 1.0,
+      "name": "Bannock County"
+    }
+  },
+  {
+    "zip": "83235",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16059",
+        "ratio": 0.575,
+        "name": "Lemhi County"
+      },
+      {
+        "fips": "16037",
+        "ratio": 0.425,
+        "name": "Custer County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16059",
+      "ratio": 0.575,
+      "name": "Lemhi County"
+    }
+  },
+  {
+    "zip": "83236",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16011",
+        "ratio": 1.0,
+        "name": "Bingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16011",
+      "ratio": 1.0,
+      "name": "Bingham County"
+    }
+  },
+  {
+    "zip": "83237",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16041",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16041",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "83238",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16007",
+        "ratio": 1.0,
+        "name": "Bear Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16007",
+      "ratio": 1.0,
+      "name": "Bear Lake County"
+    }
+  },
+  {
+    "zip": "83239",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16007",
+        "ratio": 1.0,
+        "name": "Bear Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16007",
+      "ratio": 1.0,
+      "name": "Bear Lake County"
+    }
+  },
+  {
+    "zip": "83241",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16029",
+        "ratio": 0.9976,
+        "name": "Caribou County"
+      },
+      {
+        "fips": "16041",
+        "ratio": 0.0024,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16029",
+      "ratio": 0.9976,
+      "name": "Caribou County"
+    }
+  },
+  {
+    "zip": "83243",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16071",
+        "ratio": 1.0,
+        "name": "Oneida County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16071",
+      "ratio": 1.0,
+      "name": "Oneida County"
+    }
+  },
+  {
+    "zip": "83244",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16023",
+        "ratio": 1.0,
+        "name": "Butte County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16023",
+      "ratio": 1.0,
+      "name": "Butte County"
+    }
+  },
+  {
+    "zip": "83245",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16005",
+        "ratio": 1.0,
+        "name": "Bannock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16005",
+      "ratio": 1.0,
+      "name": "Bannock County"
+    }
+  },
+  {
+    "zip": "83246",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16005",
+        "ratio": 1.0,
+        "name": "Bannock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16005",
+      "ratio": 1.0,
+      "name": "Bannock County"
+    }
+  },
+  {
+    "zip": "83250",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16005",
+        "ratio": 1.0,
+        "name": "Bannock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16005",
+      "ratio": 1.0,
+      "name": "Bannock County"
+    }
+  },
+  {
+    "zip": "83251",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16037",
+        "ratio": 1.0,
+        "name": "Custer County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16037",
+      "ratio": 1.0,
+      "name": "Custer County"
+    }
+  },
+  {
+    "zip": "83252",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16071",
+        "ratio": 1.0,
+        "name": "Oneida County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16071",
+      "ratio": 1.0,
+      "name": "Oneida County"
+    }
+  },
+  {
+    "zip": "83253",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16059",
+        "ratio": 0.8435,
+        "name": "Lemhi County"
+      },
+      {
+        "fips": "16037",
+        "ratio": 0.1565,
+        "name": "Custer County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16059",
+      "ratio": 0.8435,
+      "name": "Lemhi County"
+    }
+  },
+  {
+    "zip": "83254",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16007",
+        "ratio": 1.0,
+        "name": "Bear Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16007",
+      "ratio": 1.0,
+      "name": "Bear Lake County"
+    }
+  },
+  {
+    "zip": "83255",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16023",
+        "ratio": 0.843,
+        "name": "Butte County"
+      },
+      {
+        "fips": "16037",
+        "ratio": 0.157,
+        "name": "Custer County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16023",
+      "ratio": 0.843,
+      "name": "Butte County"
+    }
+  },
+  {
+    "zip": "83256",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16011",
+        "ratio": 1.0,
+        "name": "Bingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16011",
+      "ratio": 1.0,
+      "name": "Bingham County"
+    }
+  },
+  {
+    "zip": "83261",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16007",
+        "ratio": 1.0,
+        "name": "Bear Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16007",
+      "ratio": 1.0,
+      "name": "Bear Lake County"
+    }
+  },
+  {
+    "zip": "83262",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16011",
+        "ratio": 1.0,
+        "name": "Bingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16011",
+      "ratio": 1.0,
+      "name": "Bingham County"
+    }
+  },
+  {
+    "zip": "83263",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16041",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16041",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "83271",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16077",
+        "ratio": 1.0,
+        "name": "Power County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16077",
+      "ratio": 1.0,
+      "name": "Power County"
+    }
+  },
+  {
+    "zip": "83272",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16007",
+        "ratio": 1.0,
+        "name": "Bear Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16007",
+      "ratio": 1.0,
+      "name": "Bear Lake County"
+    }
+  },
+  {
+    "zip": "83274",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16011",
+        "ratio": 0.9899,
+        "name": "Bingham County"
+      },
+      {
+        "fips": "16019",
+        "ratio": 0.0101,
+        "name": "Bonneville County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16011",
+      "ratio": 0.9899,
+      "name": "Bingham County"
+    }
+  },
+  {
+    "zip": "83276",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16029",
+        "ratio": 0.961,
+        "name": "Caribou County"
+      },
+      {
+        "fips": "16007",
+        "ratio": 0.039,
+        "name": "Bear Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16029",
+      "ratio": 0.961,
+      "name": "Caribou County"
+    }
+  },
+  {
+    "zip": "83277",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16011",
+        "ratio": 1.0,
+        "name": "Bingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16011",
+      "ratio": 1.0,
+      "name": "Bingham County"
+    }
+  },
+  {
+    "zip": "83278",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16037",
+        "ratio": 1.0,
+        "name": "Custer County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16037",
+      "ratio": 1.0,
+      "name": "Custer County"
+    }
+  },
+  {
+    "zip": "83281",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16005",
+        "ratio": 1.0,
+        "name": "Bannock County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16005",
+      "ratio": 1.0,
+      "name": "Bannock County"
+    }
+  },
+  {
+    "zip": "83283",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16041",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16041",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "83285",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16029",
+        "ratio": 0.5056,
+        "name": "Caribou County"
+      },
+      {
+        "fips": "16019",
+        "ratio": 0.4944,
+        "name": "Bonneville County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16029",
+      "ratio": 0.5056,
+      "name": "Caribou County"
+    }
+  },
+  {
+    "zip": "83286",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16041",
+        "ratio": 1.0,
+        "name": "Franklin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16041",
+      "ratio": 1.0,
+      "name": "Franklin County"
+    }
+  },
+  {
+    "zip": "83287",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16007",
+        "ratio": 1.0,
+        "name": "Bear Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16007",
+      "ratio": 1.0,
+      "name": "Bear Lake County"
+    }
+  },
+  {
+    "zip": "83301",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16083",
+        "ratio": 0.9992,
+        "name": "Twin Falls County"
+      },
+      {
+        "fips": "16053",
+        "ratio": 0.0008,
+        "name": "Jerome County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16083",
+      "ratio": 0.9992,
+      "name": "Twin Falls County"
+    }
+  },
+  {
+    "zip": "83302",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16083",
+        "ratio": 0.7951,
+        "name": "Twin Falls County"
+      },
+      {
+        "fips": "16073",
+        "ratio": 0.2049,
+        "name": "Owyhee County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16083",
+      "ratio": 0.7951,
+      "name": "Twin Falls County"
+    }
+  },
+  {
+    "zip": "83303",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16083",
+        "ratio": 1.0,
+        "name": "Twin Falls County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16083",
+      "ratio": 1.0,
+      "name": "Twin Falls County"
+    }
+  },
+  {
+    "zip": "83311",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16031",
+        "ratio": 1.0,
+        "name": "Cassia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16031",
+      "ratio": 1.0,
+      "name": "Cassia County"
+    }
+  },
+  {
+    "zip": "83312",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16031",
+        "ratio": 1.0,
+        "name": "Cassia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16031",
+      "ratio": 1.0,
+      "name": "Cassia County"
+    }
+  },
+  {
+    "zip": "83313",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16013",
+        "ratio": 1.0,
+        "name": "Blaine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16013",
+      "ratio": 1.0,
+      "name": "Blaine County"
+    }
+  },
+  {
+    "zip": "83314",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16047",
+        "ratio": 1.0,
+        "name": "Gooding County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16047",
+      "ratio": 1.0,
+      "name": "Gooding County"
+    }
+  },
+  {
+    "zip": "83316",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16083",
+        "ratio": 0.989,
+        "name": "Twin Falls County"
+      },
+      {
+        "fips": "16047",
+        "ratio": 0.011,
+        "name": "Gooding County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16083",
+      "ratio": 0.989,
+      "name": "Twin Falls County"
+    }
+  },
+  {
+    "zip": "83318",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16031",
+        "ratio": 0.9733,
+        "name": "Cassia County"
+      },
+      {
+        "fips": "16067",
+        "ratio": 0.0267,
+        "name": "Minidoka County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16031",
+      "ratio": 0.9733,
+      "name": "Cassia County"
+    }
+  },
+  {
+    "zip": "83320",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16013",
+        "ratio": 1.0,
+        "name": "Blaine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16013",
+      "ratio": 1.0,
+      "name": "Blaine County"
+    }
+  },
+  {
+    "zip": "83321",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16083",
+        "ratio": 1.0,
+        "name": "Twin Falls County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16083",
+      "ratio": 1.0,
+      "name": "Twin Falls County"
+    }
+  },
+  {
+    "zip": "83322",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16025",
+        "ratio": 1.0,
+        "name": "Camas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16025",
+      "ratio": 1.0,
+      "name": "Camas County"
+    }
+  },
+  {
+    "zip": "83323",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16031",
+        "ratio": 0.99,
+        "name": "Cassia County"
+      },
+      {
+        "fips": "16067",
+        "ratio": 0.01,
+        "name": "Minidoka County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16031",
+      "ratio": 0.99,
+      "name": "Cassia County"
+    }
+  },
+  {
+    "zip": "83324",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16063",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16063",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "83325",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16053",
+        "ratio": 1.0,
+        "name": "Jerome County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16053",
+      "ratio": 1.0,
+      "name": "Jerome County"
+    }
+  },
+  {
+    "zip": "83327",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16025",
+        "ratio": 0.9953,
+        "name": "Camas County"
+      },
+      {
+        "fips": "16063",
+        "ratio": 0.0047,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16025",
+      "ratio": 0.9953,
+      "name": "Camas County"
+    }
+  },
+  {
+    "zip": "83328",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16083",
+        "ratio": 1.0,
+        "name": "Twin Falls County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16083",
+      "ratio": 1.0,
+      "name": "Twin Falls County"
+    }
+  },
+  {
+    "zip": "83330",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16047",
+        "ratio": 0.9993,
+        "name": "Gooding County"
+      },
+      {
+        "fips": "16063",
+        "ratio": 0.0007,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16047",
+      "ratio": 0.9993,
+      "name": "Gooding County"
+    }
+  },
+  {
+    "zip": "83332",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16047",
+        "ratio": 0.9175,
+        "name": "Gooding County"
+      },
+      {
+        "fips": "16083",
+        "ratio": 0.0825,
+        "name": "Twin Falls County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16047",
+      "ratio": 0.9175,
+      "name": "Gooding County"
+    }
+  },
+  {
+    "zip": "83333",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16013",
+        "ratio": 1.0,
+        "name": "Blaine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16013",
+      "ratio": 1.0,
+      "name": "Blaine County"
+    }
+  },
+  {
+    "zip": "83334",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16083",
+        "ratio": 1.0,
+        "name": "Twin Falls County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16083",
+      "ratio": 1.0,
+      "name": "Twin Falls County"
+    }
+  },
+  {
+    "zip": "83335",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16053",
+        "ratio": 0.9948,
+        "name": "Jerome County"
+      },
+      {
+        "fips": "16067",
+        "ratio": 0.0052,
+        "name": "Minidoka County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16053",
+      "ratio": 0.9948,
+      "name": "Jerome County"
+    }
+  },
+  {
+    "zip": "83336",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16067",
+        "ratio": 1.0,
+        "name": "Minidoka County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16067",
+      "ratio": 1.0,
+      "name": "Minidoka County"
+    }
+  },
+  {
+    "zip": "83337",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16047",
+        "ratio": 1.0,
+        "name": "Gooding County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16047",
+      "ratio": 1.0,
+      "name": "Gooding County"
+    }
+  },
+  {
+    "zip": "83338",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "16053",
+        "ratio": 0.9892,
+        "name": "Jerome County"
+      },
+      {
+        "fips": "16047",
+        "ratio": 0.0107,
+        "name": "Gooding County"
+      },
+      {
+        "fips": "16063",
+        "ratio": 0.0001,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16053",
+      "ratio": 0.9892,
+      "name": "Jerome County"
+    }
+  },
+  {
+    "zip": "83340",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16013",
+        "ratio": 1.0,
+        "name": "Blaine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16013",
+      "ratio": 1.0,
+      "name": "Blaine County"
+    }
+  },
+  {
+    "zip": "83341",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16083",
+        "ratio": 1.0,
+        "name": "Twin Falls County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16083",
+      "ratio": 1.0,
+      "name": "Twin Falls County"
+    }
+  },
+  {
+    "zip": "83342",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16031",
+        "ratio": 0.9796,
+        "name": "Cassia County"
+      },
+      {
+        "fips": "16071",
+        "ratio": 0.0204,
+        "name": "Oneida County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16031",
+      "ratio": 0.9796,
+      "name": "Cassia County"
+    }
+  },
+  {
+    "zip": "83343",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16067",
+        "ratio": 1.0,
+        "name": "Minidoka County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16067",
+      "ratio": 1.0,
+      "name": "Minidoka County"
+    }
+  },
+  {
+    "zip": "83344",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16083",
+        "ratio": 0.8211,
+        "name": "Twin Falls County"
+      },
+      {
+        "fips": "16031",
+        "ratio": 0.1789,
+        "name": "Cassia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16083",
+      "ratio": 0.8211,
+      "name": "Twin Falls County"
+    }
+  },
+  {
+    "zip": "83346",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16031",
+        "ratio": 1.0,
+        "name": "Cassia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16031",
+      "ratio": 1.0,
+      "name": "Cassia County"
+    }
+  },
+  {
+    "zip": "83347",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "16067",
+        "ratio": 0.9559,
+        "name": "Minidoka County"
+      },
+      {
+        "fips": "16053",
+        "ratio": 0.0294,
+        "name": "Jerome County"
+      },
+      {
+        "fips": "16063",
+        "ratio": 0.0147,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16067",
+      "ratio": 0.9559,
+      "name": "Minidoka County"
+    }
+  },
+  {
+    "zip": "83348",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16013",
+        "ratio": 1.0,
+        "name": "Blaine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16013",
+      "ratio": 1.0,
+      "name": "Blaine County"
+    }
+  },
+  {
+    "zip": "83349",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16063",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16063",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "83350",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16067",
+        "ratio": 0.9726,
+        "name": "Minidoka County"
+      },
+      {
+        "fips": "16031",
+        "ratio": 0.0274,
+        "name": "Cassia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16067",
+      "ratio": 0.9726,
+      "name": "Minidoka County"
+    }
+  },
+  {
+    "zip": "83352",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "16063",
+        "ratio": 0.9949,
+        "name": "Lincoln County"
+      },
+      {
+        "fips": "16013",
+        "ratio": 0.0022,
+        "name": "Blaine County"
+      },
+      {
+        "fips": "16025",
+        "ratio": 0.0022,
+        "name": "Camas County"
+      },
+      {
+        "fips": "16047",
+        "ratio": 0.0007,
+        "name": "Gooding County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16063",
+      "ratio": 0.9949,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "83353",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16013",
+        "ratio": 1.0,
+        "name": "Blaine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16013",
+      "ratio": 1.0,
+      "name": "Blaine County"
+    }
+  },
+  {
+    "zip": "83354",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16013",
+        "ratio": 1.0,
+        "name": "Blaine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16013",
+      "ratio": 1.0,
+      "name": "Blaine County"
+    }
+  },
+  {
+    "zip": "83355",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16047",
+        "ratio": 1.0,
+        "name": "Gooding County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16047",
+      "ratio": 1.0,
+      "name": "Gooding County"
+    }
+  },
+  {
+    "zip": "83401",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16019",
+        "ratio": 0.9979,
+        "name": "Bonneville County"
+      },
+      {
+        "fips": "16051",
+        "ratio": 0.0021,
+        "name": "Jefferson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16019",
+      "ratio": 0.9979,
+      "name": "Bonneville County"
+    }
+  },
+  {
+    "zip": "83402",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "16019",
+        "ratio": 0.9922,
+        "name": "Bonneville County"
+      },
+      {
+        "fips": "16051",
+        "ratio": 0.0076,
+        "name": "Jefferson County"
+      },
+      {
+        "fips": "16011",
+        "ratio": 0.0001,
+        "name": "Bingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16019",
+      "ratio": 0.9922,
+      "name": "Bonneville County"
+    }
+  },
+  {
+    "zip": "83403",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16019",
+        "ratio": 1.0,
+        "name": "Bonneville County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16019",
+      "ratio": 1.0,
+      "name": "Bonneville County"
+    }
+  },
+  {
+    "zip": "83404",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16019",
+        "ratio": 0.9998,
+        "name": "Bonneville County"
+      },
+      {
+        "fips": "16011",
+        "ratio": 0.0002,
+        "name": "Bingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16019",
+      "ratio": 0.9998,
+      "name": "Bonneville County"
+    }
+  },
+  {
+    "zip": "83405",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16019",
+        "ratio": 1.0,
+        "name": "Bonneville County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16019",
+      "ratio": 1.0,
+      "name": "Bonneville County"
+    }
+  },
+  {
+    "zip": "83406",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16019",
+        "ratio": 1.0,
+        "name": "Bonneville County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16019",
+      "ratio": 1.0,
+      "name": "Bonneville County"
+    }
+  },
+  {
+    "zip": "83420",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16043",
+        "ratio": 1.0,
+        "name": "Fremont County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16043",
+      "ratio": 1.0,
+      "name": "Fremont County"
+    }
+  },
+  {
+    "zip": "83421",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16043",
+        "ratio": 1.0,
+        "name": "Fremont County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16043",
+      "ratio": 1.0,
+      "name": "Fremont County"
+    }
+  },
+  {
+    "zip": "83422",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16081",
+        "ratio": 0.9986,
+        "name": "Teton County"
+      },
+      {
+        "fips": "16065",
+        "ratio": 0.0014,
+        "name": "Madison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16081",
+      "ratio": 0.9986,
+      "name": "Teton County"
+    }
+  },
+  {
+    "zip": "83423",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16033",
+        "ratio": 0.9962,
+        "name": "Clark County"
+      },
+      {
+        "fips": "16051",
+        "ratio": 0.0038,
+        "name": "Jefferson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16033",
+      "ratio": 0.9962,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "83424",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16081",
+        "ratio": 1.0,
+        "name": "Teton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16081",
+      "ratio": 1.0,
+      "name": "Teton County"
+    }
+  },
+  {
+    "zip": "83425",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16051",
+        "ratio": 1.0,
+        "name": "Jefferson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16051",
+      "ratio": 1.0,
+      "name": "Jefferson County"
+    }
+  },
+  {
+    "zip": "83427",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16019",
+        "ratio": 1.0,
+        "name": "Bonneville County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16019",
+      "ratio": 1.0,
+      "name": "Bonneville County"
+    }
+  },
+  {
+    "zip": "83428",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16019",
+        "ratio": 1.0,
+        "name": "Bonneville County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16019",
+      "ratio": 1.0,
+      "name": "Bonneville County"
+    }
+  },
+  {
+    "zip": "83429",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16043",
+        "ratio": 1.0,
+        "name": "Fremont County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16043",
+      "ratio": 1.0,
+      "name": "Fremont County"
+    }
+  },
+  {
+    "zip": "83431",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16051",
+        "ratio": 1.0,
+        "name": "Jefferson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16051",
+      "ratio": 1.0,
+      "name": "Jefferson County"
+    }
+  },
+  {
+    "zip": "83433",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16043",
+        "ratio": 1.0,
+        "name": "Fremont County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16043",
+      "ratio": 1.0,
+      "name": "Fremont County"
+    }
+  },
+  {
+    "zip": "83434",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16051",
+        "ratio": 0.8356,
+        "name": "Jefferson County"
+      },
+      {
+        "fips": "16065",
+        "ratio": 0.1644,
+        "name": "Madison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16051",
+      "ratio": 0.8356,
+      "name": "Jefferson County"
+    }
+  },
+  {
+    "zip": "83435",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16051",
+        "ratio": 0.9853,
+        "name": "Jefferson County"
+      },
+      {
+        "fips": "16033",
+        "ratio": 0.0147,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16051",
+      "ratio": 0.9853,
+      "name": "Jefferson County"
+    }
+  },
+  {
+    "zip": "83436",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "16043",
+        "ratio": 0.7102,
+        "name": "Fremont County"
+      },
+      {
+        "fips": "16065",
+        "ratio": 0.2159,
+        "name": "Madison County"
+      },
+      {
+        "fips": "16081",
+        "ratio": 0.0739,
+        "name": "Teton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16043",
+      "ratio": 0.7102,
+      "name": "Fremont County"
+    }
+  },
+  {
+    "zip": "83438",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16043",
+        "ratio": 1.0,
+        "name": "Fremont County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16043",
+      "ratio": 1.0,
+      "name": "Fremont County"
+    }
+  },
+  {
+    "zip": "83440",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16065",
+        "ratio": 0.9879,
+        "name": "Madison County"
+      },
+      {
+        "fips": "16043",
+        "ratio": 0.0121,
+        "name": "Fremont County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16065",
+      "ratio": 0.9879,
+      "name": "Madison County"
+    }
+  },
+  {
+    "zip": "83441",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16065",
+        "ratio": 1.0,
+        "name": "Madison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16065",
+      "ratio": 1.0,
+      "name": "Madison County"
+    }
+  },
+  {
+    "zip": "83442",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16051",
+        "ratio": 0.9941,
+        "name": "Jefferson County"
+      },
+      {
+        "fips": "16019",
+        "ratio": 0.0059,
+        "name": "Bonneville County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16051",
+      "ratio": 0.9941,
+      "name": "Jefferson County"
+    }
+  },
+  {
+    "zip": "83443",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16051",
+        "ratio": 0.5488,
+        "name": "Jefferson County"
+      },
+      {
+        "fips": "16019",
+        "ratio": 0.4512,
+        "name": "Bonneville County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16051",
+      "ratio": 0.5488,
+      "name": "Jefferson County"
+    }
+  },
+  {
+    "zip": "83444",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16051",
+        "ratio": 0.9981,
+        "name": "Jefferson County"
+      },
+      {
+        "fips": "16019",
+        "ratio": 0.0019,
+        "name": "Bonneville County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16051",
+      "ratio": 0.9981,
+      "name": "Jefferson County"
+    }
+  },
+  {
+    "zip": "83445",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16043",
+        "ratio": 0.9962,
+        "name": "Fremont County"
+      },
+      {
+        "fips": "16065",
+        "ratio": 0.0038,
+        "name": "Madison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16043",
+      "ratio": 0.9962,
+      "name": "Fremont County"
+    }
+  },
+  {
+    "zip": "83446",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16033",
+        "ratio": 1.0,
+        "name": "Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16033",
+      "ratio": 1.0,
+      "name": "Clark County"
+    }
+  },
+  {
+    "zip": "83448",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16065",
+        "ratio": 0.9933,
+        "name": "Madison County"
+      },
+      {
+        "fips": "16043",
+        "ratio": 0.0067,
+        "name": "Fremont County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16065",
+      "ratio": 0.9933,
+      "name": "Madison County"
+    }
+  },
+  {
+    "zip": "83449",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16019",
+        "ratio": 1.0,
+        "name": "Bonneville County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16019",
+      "ratio": 1.0,
+      "name": "Bonneville County"
+    }
+  },
+  {
+    "zip": "83450",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16051",
+        "ratio": 1.0,
+        "name": "Jefferson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16051",
+      "ratio": 1.0,
+      "name": "Jefferson County"
+    }
+  },
+  {
+    "zip": "83451",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16043",
+        "ratio": 0.8945,
+        "name": "Fremont County"
+      },
+      {
+        "fips": "16065",
+        "ratio": 0.1055,
+        "name": "Madison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16043",
+      "ratio": 0.8945,
+      "name": "Fremont County"
+    }
+  },
+  {
+    "zip": "83452",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16081",
+        "ratio": 1.0,
+        "name": "Teton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16081",
+      "ratio": 1.0,
+      "name": "Teton County"
+    }
+  },
+  {
+    "zip": "83454",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16019",
+        "ratio": 1.0,
+        "name": "Bonneville County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16019",
+      "ratio": 1.0,
+      "name": "Bonneville County"
+    }
+  },
+  {
+    "zip": "83455",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16081",
+        "ratio": 1.0,
+        "name": "Teton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16081",
+      "ratio": 1.0,
+      "name": "Teton County"
+    }
+  },
+  {
+    "zip": "83460",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16065",
+        "ratio": 1.0,
+        "name": "Madison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16065",
+      "ratio": 1.0,
+      "name": "Madison County"
+    }
+  },
+  {
+    "zip": "83462",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16059",
+        "ratio": 1.0,
+        "name": "Lemhi County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16059",
+      "ratio": 1.0,
+      "name": "Lemhi County"
+    }
+  },
+  {
+    "zip": "83463",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16059",
+        "ratio": 1.0,
+        "name": "Lemhi County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16059",
+      "ratio": 1.0,
+      "name": "Lemhi County"
+    }
+  },
+  {
+    "zip": "83464",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16059",
+        "ratio": 1.0,
+        "name": "Lemhi County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16059",
+      "ratio": 1.0,
+      "name": "Lemhi County"
+    }
+  },
+  {
+    "zip": "83465",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16059",
+        "ratio": 1.0,
+        "name": "Lemhi County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16059",
+      "ratio": 1.0,
+      "name": "Lemhi County"
+    }
+  },
+  {
+    "zip": "83466",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16059",
+        "ratio": 1.0,
+        "name": "Lemhi County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16059",
+      "ratio": 1.0,
+      "name": "Lemhi County"
+    }
+  },
+  {
+    "zip": "83467",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16059",
+        "ratio": 1.0,
+        "name": "Lemhi County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16059",
+      "ratio": 1.0,
+      "name": "Lemhi County"
+    }
+  },
+  {
+    "zip": "83468",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16059",
+        "ratio": 1.0,
+        "name": "Lemhi County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16059",
+      "ratio": 1.0,
+      "name": "Lemhi County"
+    }
+  },
+  {
+    "zip": "83469",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16059",
+        "ratio": 1.0,
+        "name": "Lemhi County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16059",
+      "ratio": 1.0,
+      "name": "Lemhi County"
+    }
+  },
+  {
+    "zip": "83501",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16069",
+        "ratio": 1.0,
+        "name": "Nez Perce County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16069",
+      "ratio": 1.0,
+      "name": "Nez Perce County"
+    }
+  },
+  {
+    "zip": "83520",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16035",
+        "ratio": 1.0,
+        "name": "Clearwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16035",
+      "ratio": 1.0,
+      "name": "Clearwater County"
+    }
+  },
+  {
+    "zip": "83522",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16049",
+        "ratio": 0.9988,
+        "name": "Idaho County"
+      },
+      {
+        "fips": "16061",
+        "ratio": 0.0012,
+        "name": "Lewis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16049",
+      "ratio": 0.9988,
+      "name": "Idaho County"
+    }
+  },
+  {
+    "zip": "83523",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16061",
+        "ratio": 1.0,
+        "name": "Lewis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16061",
+      "ratio": 1.0,
+      "name": "Lewis County"
+    }
+  },
+  {
+    "zip": "83524",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16069",
+        "ratio": 0.9218,
+        "name": "Nez Perce County"
+      },
+      {
+        "fips": "16061",
+        "ratio": 0.0782,
+        "name": "Lewis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16069",
+      "ratio": 0.9218,
+      "name": "Nez Perce County"
+    }
+  },
+  {
+    "zip": "83525",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16049",
+        "ratio": 1.0,
+        "name": "Idaho County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16049",
+      "ratio": 1.0,
+      "name": "Idaho County"
+    }
+  },
+  {
+    "zip": "83526",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16049",
+        "ratio": 1.0,
+        "name": "Idaho County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16049",
+      "ratio": 1.0,
+      "name": "Idaho County"
+    }
+  },
+  {
+    "zip": "83530",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16049",
+        "ratio": 1.0,
+        "name": "Idaho County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16049",
+      "ratio": 1.0,
+      "name": "Idaho County"
+    }
+  },
+  {
+    "zip": "83531",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16049",
+        "ratio": 1.0,
+        "name": "Idaho County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16049",
+      "ratio": 1.0,
+      "name": "Idaho County"
+    }
+  },
+  {
+    "zip": "83533",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16049",
+        "ratio": 1.0,
+        "name": "Idaho County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16049",
+      "ratio": 1.0,
+      "name": "Idaho County"
+    }
+  },
+  {
+    "zip": "83535",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16057",
+        "ratio": 0.5438,
+        "name": "Latah County"
+      },
+      {
+        "fips": "16069",
+        "ratio": 0.4562,
+        "name": "Nez Perce County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16057",
+      "ratio": 0.5438,
+      "name": "Latah County"
+    }
+  },
+  {
+    "zip": "83536",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16049",
+        "ratio": 0.709,
+        "name": "Idaho County"
+      },
+      {
+        "fips": "16061",
+        "ratio": 0.291,
+        "name": "Lewis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16049",
+      "ratio": 0.709,
+      "name": "Idaho County"
+    }
+  },
+  {
+    "zip": "83537",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "16057",
+        "ratio": 0.6169,
+        "name": "Latah County"
+      },
+      {
+        "fips": "16069",
+        "ratio": 0.2576,
+        "name": "Nez Perce County"
+      },
+      {
+        "fips": "16035",
+        "ratio": 0.1256,
+        "name": "Clearwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16057",
+      "ratio": 0.6169,
+      "name": "Latah County"
+    }
+  },
+  {
+    "zip": "83539",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16049",
+        "ratio": 1.0,
+        "name": "Idaho County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16049",
+      "ratio": 1.0,
+      "name": "Idaho County"
+    }
+  },
+  {
+    "zip": "83540",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16069",
+        "ratio": 1.0,
+        "name": "Nez Perce County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16069",
+      "ratio": 1.0,
+      "name": "Nez Perce County"
+    }
+  },
+  {
+    "zip": "83541",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16069",
+        "ratio": 0.5102,
+        "name": "Nez Perce County"
+      },
+      {
+        "fips": "16035",
+        "ratio": 0.4898,
+        "name": "Clearwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16069",
+      "ratio": 0.5102,
+      "name": "Nez Perce County"
+    }
+  },
+  {
+    "zip": "83542",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16049",
+        "ratio": 1.0,
+        "name": "Idaho County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16049",
+      "ratio": 1.0,
+      "name": "Idaho County"
+    }
+  },
+  {
+    "zip": "83543",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16061",
+        "ratio": 1.0,
+        "name": "Lewis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16061",
+      "ratio": 1.0,
+      "name": "Lewis County"
+    }
+  },
+  {
+    "zip": "83544",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16035",
+        "ratio": 0.9986,
+        "name": "Clearwater County"
+      },
+      {
+        "fips": "16061",
+        "ratio": 0.0014,
+        "name": "Lewis County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16035",
+      "ratio": 0.9986,
+      "name": "Clearwater County"
+    }
+  },
+  {
+    "zip": "83545",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "16069",
+        "ratio": 0.8049,
+        "name": "Nez Perce County"
+      },
+      {
+        "fips": "16061",
+        "ratio": 0.1561,
+        "name": "Lewis County"
+      },
+      {
+        "fips": "16035",
+        "ratio": 0.039,
+        "name": "Clearwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16069",
+      "ratio": 0.8049,
+      "name": "Nez Perce County"
+    }
+  },
+  {
+    "zip": "83546",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16035",
+        "ratio": 1.0,
+        "name": "Clearwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16035",
+      "ratio": 1.0,
+      "name": "Clearwater County"
+    }
+  },
+  {
+    "zip": "83547",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16049",
+        "ratio": 0.949,
+        "name": "Idaho County"
+      },
+      {
+        "fips": "16003",
+        "ratio": 0.051,
+        "name": "Adams County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16049",
+      "ratio": 0.949,
+      "name": "Idaho County"
+    }
+  },
+  {
+    "zip": "83548",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16061",
+        "ratio": 0.5758,
+        "name": "Lewis County"
+      },
+      {
+        "fips": "16069",
+        "ratio": 0.4242,
+        "name": "Nez Perce County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16061",
+      "ratio": 0.5758,
+      "name": "Lewis County"
+    }
+  },
+  {
+    "zip": "83549",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16049",
+        "ratio": 1.0,
+        "name": "Idaho County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16049",
+      "ratio": 1.0,
+      "name": "Idaho County"
+    }
+  },
+  {
+    "zip": "83552",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16049",
+        "ratio": 1.0,
+        "name": "Idaho County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16049",
+      "ratio": 1.0,
+      "name": "Idaho County"
+    }
+  },
+  {
+    "zip": "83553",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16035",
+        "ratio": 1.0,
+        "name": "Clearwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16035",
+      "ratio": 1.0,
+      "name": "Clearwater County"
+    }
+  },
+  {
+    "zip": "83554",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16049",
+        "ratio": 1.0,
+        "name": "Idaho County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16049",
+      "ratio": 1.0,
+      "name": "Idaho County"
+    }
+  },
+  {
+    "zip": "83555",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16061",
+        "ratio": 0.8579,
+        "name": "Lewis County"
+      },
+      {
+        "fips": "16069",
+        "ratio": 0.1421,
+        "name": "Nez Perce County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16061",
+      "ratio": 0.8579,
+      "name": "Lewis County"
+    }
+  },
+  {
+    "zip": "83602",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16015",
+        "ratio": 1.0,
+        "name": "Boise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16015",
+      "ratio": 1.0,
+      "name": "Boise County"
+    }
+  },
+  {
+    "zip": "83604",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16073",
+        "ratio": 1.0,
+        "name": "Owyhee County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16073",
+      "ratio": 1.0,
+      "name": "Owyhee County"
+    }
+  },
+  {
+    "zip": "83605",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16027",
+        "ratio": 1.0,
+        "name": "Canyon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16027",
+      "ratio": 1.0,
+      "name": "Canyon County"
+    }
+  },
+  {
+    "zip": "83606",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16027",
+        "ratio": 1.0,
+        "name": "Canyon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16027",
+      "ratio": 1.0,
+      "name": "Canyon County"
+    }
+  },
+  {
+    "zip": "83607",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "16027",
+        "ratio": 0.9745,
+        "name": "Canyon County"
+      },
+      {
+        "fips": "16075",
+        "ratio": 0.0151,
+        "name": "Payette County"
+      },
+      {
+        "fips": "16045",
+        "ratio": 0.0105,
+        "name": "Gem County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16027",
+      "ratio": 0.9745,
+      "name": "Canyon County"
+    }
+  },
+  {
+    "zip": "83610",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16087",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16087",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "83611",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16085",
+        "ratio": 1.0,
+        "name": "Valley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16085",
+      "ratio": 1.0,
+      "name": "Valley County"
+    }
+  },
+  {
+    "zip": "83612",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16003",
+        "ratio": 1.0,
+        "name": "Adams County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16003",
+      "ratio": 1.0,
+      "name": "Adams County"
+    }
+  },
+  {
+    "zip": "83615",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16085",
+        "ratio": 1.0,
+        "name": "Valley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16085",
+      "ratio": 1.0,
+      "name": "Valley County"
+    }
+  },
+  {
+    "zip": "83616",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 0.9991,
+        "name": "Ada County"
+      },
+      {
+        "fips": "16045",
+        "ratio": 0.0009,
+        "name": "Gem County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 0.9991,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83617",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16045",
+        "ratio": 0.9997,
+        "name": "Gem County"
+      },
+      {
+        "fips": "16075",
+        "ratio": 0.0003,
+        "name": "Payette County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16045",
+      "ratio": 0.9997,
+      "name": "Gem County"
+    }
+  },
+  {
+    "zip": "83619",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16075",
+        "ratio": 1.0,
+        "name": "Payette County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16075",
+      "ratio": 1.0,
+      "name": "Payette County"
+    }
+  },
+  {
+    "zip": "83622",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16015",
+        "ratio": 1.0,
+        "name": "Boise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16015",
+      "ratio": 1.0,
+      "name": "Boise County"
+    }
+  },
+  {
+    "zip": "83623",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16039",
+        "ratio": 1.0,
+        "name": "Elmore County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16039",
+      "ratio": 1.0,
+      "name": "Elmore County"
+    }
+  },
+  {
+    "zip": "83624",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16073",
+        "ratio": 0.9164,
+        "name": "Owyhee County"
+      },
+      {
+        "fips": "16039",
+        "ratio": 0.0836,
+        "name": "Elmore County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16073",
+      "ratio": 0.9164,
+      "name": "Owyhee County"
+    }
+  },
+  {
+    "zip": "83626",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16027",
+        "ratio": 1.0,
+        "name": "Canyon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16027",
+      "ratio": 1.0,
+      "name": "Canyon County"
+    }
+  },
+  {
+    "zip": "83627",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16039",
+        "ratio": 0.8848,
+        "name": "Elmore County"
+      },
+      {
+        "fips": "16073",
+        "ratio": 0.1152,
+        "name": "Owyhee County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16039",
+      "ratio": 0.8848,
+      "name": "Elmore County"
+    }
+  },
+  {
+    "zip": "83628",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16073",
+        "ratio": 1.0,
+        "name": "Owyhee County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16073",
+      "ratio": 1.0,
+      "name": "Owyhee County"
+    }
+  },
+  {
+    "zip": "83629",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16015",
+        "ratio": 0.9452,
+        "name": "Boise County"
+      },
+      {
+        "fips": "16045",
+        "ratio": 0.0548,
+        "name": "Gem County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16015",
+      "ratio": 0.9452,
+      "name": "Boise County"
+    }
+  },
+  {
+    "zip": "83630",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16027",
+        "ratio": 1.0,
+        "name": "Canyon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16027",
+      "ratio": 1.0,
+      "name": "Canyon County"
+    }
+  },
+  {
+    "zip": "83631",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16015",
+        "ratio": 1.0,
+        "name": "Boise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16015",
+      "ratio": 1.0,
+      "name": "Boise County"
+    }
+  },
+  {
+    "zip": "83632",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16003",
+        "ratio": 0.9709,
+        "name": "Adams County"
+      },
+      {
+        "fips": "16087",
+        "ratio": 0.0291,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16003",
+      "ratio": 0.9709,
+      "name": "Adams County"
+    }
+  },
+  {
+    "zip": "83633",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16039",
+        "ratio": 1.0,
+        "name": "Elmore County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16039",
+      "ratio": 1.0,
+      "name": "Elmore County"
+    }
+  },
+  {
+    "zip": "83634",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 0.9815,
+        "name": "Ada County"
+      },
+      {
+        "fips": "16027",
+        "ratio": 0.0185,
+        "name": "Canyon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 0.9815,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83635",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16085",
+        "ratio": 1.0,
+        "name": "Valley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16085",
+      "ratio": 1.0,
+      "name": "Valley County"
+    }
+  },
+  {
+    "zip": "83636",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16045",
+        "ratio": 1.0,
+        "name": "Gem County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16045",
+      "ratio": 1.0,
+      "name": "Gem County"
+    }
+  },
+  {
+    "zip": "83637",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16015",
+        "ratio": 1.0,
+        "name": "Boise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16015",
+      "ratio": 1.0,
+      "name": "Boise County"
+    }
+  },
+  {
+    "zip": "83638",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16085",
+        "ratio": 0.9936,
+        "name": "Valley County"
+      },
+      {
+        "fips": "16003",
+        "ratio": 0.0064,
+        "name": "Adams County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16085",
+      "ratio": 0.9936,
+      "name": "Valley County"
+    }
+  },
+  {
+    "zip": "83639",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16073",
+        "ratio": 1.0,
+        "name": "Owyhee County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16073",
+      "ratio": 1.0,
+      "name": "Owyhee County"
+    }
+  },
+  {
+    "zip": "83641",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "16027",
+        "ratio": 0.6345,
+        "name": "Canyon County"
+      },
+      {
+        "fips": "16073",
+        "ratio": 0.3163,
+        "name": "Owyhee County"
+      },
+      {
+        "fips": "16001",
+        "ratio": 0.0492,
+        "name": "Ada County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16027",
+      "ratio": 0.6345,
+      "name": "Canyon County"
+    }
+  },
+  {
+    "zip": "83642",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 1.0,
+        "name": "Ada County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 1.0,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83643",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16003",
+        "ratio": 1.0,
+        "name": "Adams County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16003",
+      "ratio": 1.0,
+      "name": "Adams County"
+    }
+  },
+  {
+    "zip": "83644",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16027",
+        "ratio": 1.0,
+        "name": "Canyon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16027",
+      "ratio": 1.0,
+      "name": "Canyon County"
+    }
+  },
+  {
+    "zip": "83645",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16087",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16087",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "83646",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 1.0,
+        "name": "Ada County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 1.0,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83647",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16039",
+        "ratio": 1.0,
+        "name": "Elmore County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16039",
+      "ratio": 1.0,
+      "name": "Elmore County"
+    }
+  },
+  {
+    "zip": "83648",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16039",
+        "ratio": 1.0,
+        "name": "Elmore County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16039",
+      "ratio": 1.0,
+      "name": "Elmore County"
+    }
+  },
+  {
+    "zip": "83650",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16073",
+        "ratio": 1.0,
+        "name": "Owyhee County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16073",
+      "ratio": 1.0,
+      "name": "Owyhee County"
+    }
+  },
+  {
+    "zip": "83651",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16027",
+        "ratio": 1.0,
+        "name": "Canyon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16027",
+      "ratio": 1.0,
+      "name": "Canyon County"
+    }
+  },
+  {
+    "zip": "83653",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16027",
+        "ratio": 1.0,
+        "name": "Canyon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16027",
+      "ratio": 1.0,
+      "name": "Canyon County"
+    }
+  },
+  {
+    "zip": "83654",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16003",
+        "ratio": 0.9583,
+        "name": "Adams County"
+      },
+      {
+        "fips": "16049",
+        "ratio": 0.0417,
+        "name": "Idaho County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16003",
+      "ratio": 0.9583,
+      "name": "Adams County"
+    }
+  },
+  {
+    "zip": "83655",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16075",
+        "ratio": 0.9995,
+        "name": "Payette County"
+      },
+      {
+        "fips": "16045",
+        "ratio": 0.0005,
+        "name": "Gem County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16075",
+      "ratio": 0.9995,
+      "name": "Payette County"
+    }
+  },
+  {
+    "zip": "83656",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16027",
+        "ratio": 1.0,
+        "name": "Canyon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16027",
+      "ratio": 1.0,
+      "name": "Canyon County"
+    }
+  },
+  {
+    "zip": "83657",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16045",
+        "ratio": 1.0,
+        "name": "Gem County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16045",
+      "ratio": 1.0,
+      "name": "Gem County"
+    }
+  },
+  {
+    "zip": "83660",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16027",
+        "ratio": 0.8897,
+        "name": "Canyon County"
+      },
+      {
+        "fips": "16075",
+        "ratio": 0.1103,
+        "name": "Payette County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16027",
+      "ratio": 0.8897,
+      "name": "Canyon County"
+    }
+  },
+  {
+    "zip": "83661",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16075",
+        "ratio": 0.9995,
+        "name": "Payette County"
+      },
+      {
+        "fips": "16087",
+        "ratio": 0.0005,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16075",
+      "ratio": 0.9995,
+      "name": "Payette County"
+    }
+  },
+  {
+    "zip": "83666",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16015",
+        "ratio": 1.0,
+        "name": "Boise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16015",
+      "ratio": 1.0,
+      "name": "Boise County"
+    }
+  },
+  {
+    "zip": "83669",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 0.9481,
+        "name": "Ada County"
+      },
+      {
+        "fips": "16027",
+        "ratio": 0.0519,
+        "name": "Canyon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 0.9481,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83670",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16045",
+        "ratio": 0.9424,
+        "name": "Gem County"
+      },
+      {
+        "fips": "16015",
+        "ratio": 0.0576,
+        "name": "Boise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16045",
+      "ratio": 0.9424,
+      "name": "Gem County"
+    }
+  },
+  {
+    "zip": "83671",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16049",
+        "ratio": 1.0,
+        "name": "Idaho County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16049",
+      "ratio": 1.0,
+      "name": "Idaho County"
+    }
+  },
+  {
+    "zip": "83672",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16087",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16087",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "83676",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16027",
+        "ratio": 1.0,
+        "name": "Canyon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16027",
+      "ratio": 1.0,
+      "name": "Canyon County"
+    }
+  },
+  {
+    "zip": "83677",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16085",
+        "ratio": 1.0,
+        "name": "Valley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16085",
+      "ratio": 1.0,
+      "name": "Valley County"
+    }
+  },
+  {
+    "zip": "83680",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 1.0,
+        "name": "Ada County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 1.0,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83686",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16027",
+        "ratio": 1.0,
+        "name": "Canyon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16027",
+      "ratio": 1.0,
+      "name": "Canyon County"
+    }
+  },
+  {
+    "zip": "83687",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16027",
+        "ratio": 0.9893,
+        "name": "Canyon County"
+      },
+      {
+        "fips": "16001",
+        "ratio": 0.0107,
+        "name": "Ada County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16027",
+      "ratio": 0.9893,
+      "name": "Canyon County"
+    }
+  },
+  {
+    "zip": "83701",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 1.0,
+        "name": "Ada County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 1.0,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83702",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 1.0,
+        "name": "Ada County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 1.0,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83703",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 1.0,
+        "name": "Ada County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 1.0,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83704",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 1.0,
+        "name": "Ada County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 1.0,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83705",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 1.0,
+        "name": "Ada County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 1.0,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83706",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 1.0,
+        "name": "Ada County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 1.0,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83707",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 1.0,
+        "name": "Ada County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 1.0,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83708",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 1.0,
+        "name": "Ada County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 1.0,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83709",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 1.0,
+        "name": "Ada County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 1.0,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83711",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 1.0,
+        "name": "Ada County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 1.0,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83712",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 1.0,
+        "name": "Ada County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 1.0,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83713",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 1.0,
+        "name": "Ada County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 1.0,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83714",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 0.9974,
+        "name": "Ada County"
+      },
+      {
+        "fips": "16015",
+        "ratio": 0.0026,
+        "name": "Boise County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 0.9974,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83715",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 1.0,
+        "name": "Ada County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 1.0,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83716",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 0.8573,
+        "name": "Ada County"
+      },
+      {
+        "fips": "16015",
+        "ratio": 0.1293,
+        "name": "Boise County"
+      },
+      {
+        "fips": "16039",
+        "ratio": 0.0134,
+        "name": "Elmore County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 0.8573,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83717",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 1.0,
+        "name": "Ada County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 1.0,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83719",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 1.0,
+        "name": "Ada County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 1.0,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83720",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 1.0,
+        "name": "Ada County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 1.0,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83724",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 1.0,
+        "name": "Ada County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 1.0,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83725",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 1.0,
+        "name": "Ada County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 1.0,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83728",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 1.0,
+        "name": "Ada County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 1.0,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83729",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 1.0,
+        "name": "Ada County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 1.0,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83735",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16001",
+        "ratio": 1.0,
+        "name": "Ada County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16001",
+      "ratio": 1.0,
+      "name": "Ada County"
+    }
+  },
+  {
+    "zip": "83801",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16055",
+        "ratio": 0.8325,
+        "name": "Kootenai County"
+      },
+      {
+        "fips": "16017",
+        "ratio": 0.1675,
+        "name": "Bonner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16055",
+      "ratio": 0.8325,
+      "name": "Kootenai County"
+    }
+  },
+  {
+    "zip": "83802",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16079",
+        "ratio": 1.0,
+        "name": "Shoshone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16079",
+      "ratio": 1.0,
+      "name": "Shoshone County"
+    }
+  },
+  {
+    "zip": "83803",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16055",
+        "ratio": 0.9262,
+        "name": "Kootenai County"
+      },
+      {
+        "fips": "16017",
+        "ratio": 0.0738,
+        "name": "Bonner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16055",
+      "ratio": 0.9262,
+      "name": "Kootenai County"
+    }
+  },
+  {
+    "zip": "83804",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16017",
+        "ratio": 1.0,
+        "name": "Bonner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16017",
+      "ratio": 1.0,
+      "name": "Bonner County"
+    }
+  },
+  {
+    "zip": "83805",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16021",
+        "ratio": 1.0,
+        "name": "Boundary County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16021",
+      "ratio": 1.0,
+      "name": "Boundary County"
+    }
+  },
+  {
+    "zip": "83806",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16057",
+        "ratio": 1.0,
+        "name": "Latah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16057",
+      "ratio": 1.0,
+      "name": "Latah County"
+    }
+  },
+  {
+    "zip": "83808",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16079",
+        "ratio": 1.0,
+        "name": "Shoshone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16079",
+      "ratio": 1.0,
+      "name": "Shoshone County"
+    }
+  },
+  {
+    "zip": "83809",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16017",
+        "ratio": 1.0,
+        "name": "Bonner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16017",
+      "ratio": 1.0,
+      "name": "Bonner County"
+    }
+  },
+  {
+    "zip": "83810",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16055",
+        "ratio": 0.9375,
+        "name": "Kootenai County"
+      },
+      {
+        "fips": "16079",
+        "ratio": 0.0625,
+        "name": "Shoshone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16055",
+      "ratio": 0.9375,
+      "name": "Kootenai County"
+    }
+  },
+  {
+    "zip": "83811",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16017",
+        "ratio": 1.0,
+        "name": "Bonner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16017",
+      "ratio": 1.0,
+      "name": "Bonner County"
+    }
+  },
+  {
+    "zip": "83812",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16079",
+        "ratio": 1.0,
+        "name": "Shoshone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16079",
+      "ratio": 1.0,
+      "name": "Shoshone County"
+    }
+  },
+  {
+    "zip": "83813",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16017",
+        "ratio": 1.0,
+        "name": "Bonner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16017",
+      "ratio": 1.0,
+      "name": "Bonner County"
+    }
+  },
+  {
+    "zip": "83814",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16055",
+        "ratio": 1.0,
+        "name": "Kootenai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16055",
+      "ratio": 1.0,
+      "name": "Kootenai County"
+    }
+  },
+  {
+    "zip": "83815",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16055",
+        "ratio": 1.0,
+        "name": "Kootenai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16055",
+      "ratio": 1.0,
+      "name": "Kootenai County"
+    }
+  },
+  {
+    "zip": "83816",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16055",
+        "ratio": 1.0,
+        "name": "Kootenai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16055",
+      "ratio": 1.0,
+      "name": "Kootenai County"
+    }
+  },
+  {
+    "zip": "83821",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16017",
+        "ratio": 1.0,
+        "name": "Bonner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16017",
+      "ratio": 1.0,
+      "name": "Bonner County"
+    }
+  },
+  {
+    "zip": "83822",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16017",
+        "ratio": 1.0,
+        "name": "Bonner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16017",
+      "ratio": 1.0,
+      "name": "Bonner County"
+    }
+  },
+  {
+    "zip": "83823",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16057",
+        "ratio": 1.0,
+        "name": "Latah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16057",
+      "ratio": 1.0,
+      "name": "Latah County"
+    }
+  },
+  {
+    "zip": "83824",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16009",
+        "ratio": 0.7687,
+        "name": "Benewah County"
+      },
+      {
+        "fips": "16057",
+        "ratio": 0.2313,
+        "name": "Latah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16009",
+      "ratio": 0.7687,
+      "name": "Benewah County"
+    }
+  },
+  {
+    "zip": "83825",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16017",
+        "ratio": 1.0,
+        "name": "Bonner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16017",
+      "ratio": 1.0,
+      "name": "Bonner County"
+    }
+  },
+  {
+    "zip": "83826",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16021",
+        "ratio": 1.0,
+        "name": "Boundary County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16021",
+      "ratio": 1.0,
+      "name": "Boundary County"
+    }
+  },
+  {
+    "zip": "83827",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16035",
+        "ratio": 1.0,
+        "name": "Clearwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16035",
+      "ratio": 1.0,
+      "name": "Clearwater County"
+    }
+  },
+  {
+    "zip": "83830",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16009",
+        "ratio": 0.9735,
+        "name": "Benewah County"
+      },
+      {
+        "fips": "16079",
+        "ratio": 0.0265,
+        "name": "Shoshone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16009",
+      "ratio": 0.9735,
+      "name": "Benewah County"
+    }
+  },
+  {
+    "zip": "83832",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16057",
+        "ratio": 0.8788,
+        "name": "Latah County"
+      },
+      {
+        "fips": "16069",
+        "ratio": 0.1212,
+        "name": "Nez Perce County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16057",
+      "ratio": 0.8788,
+      "name": "Latah County"
+    }
+  },
+  {
+    "zip": "83833",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16055",
+        "ratio": 0.995,
+        "name": "Kootenai County"
+      },
+      {
+        "fips": "16009",
+        "ratio": 0.005,
+        "name": "Benewah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16055",
+      "ratio": 0.995,
+      "name": "Kootenai County"
+    }
+  },
+  {
+    "zip": "83834",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16057",
+        "ratio": 1.0,
+        "name": "Latah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16057",
+      "ratio": 1.0,
+      "name": "Latah County"
+    }
+  },
+  {
+    "zip": "83835",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16055",
+        "ratio": 1.0,
+        "name": "Kootenai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16055",
+      "ratio": 1.0,
+      "name": "Kootenai County"
+    }
+  },
+  {
+    "zip": "83836",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16017",
+        "ratio": 1.0,
+        "name": "Bonner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16017",
+      "ratio": 1.0,
+      "name": "Bonner County"
+    }
+  },
+  {
+    "zip": "83837",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16079",
+        "ratio": 1.0,
+        "name": "Shoshone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16079",
+      "ratio": 1.0,
+      "name": "Shoshone County"
+    }
+  },
+  {
+    "zip": "83839",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16079",
+        "ratio": 1.0,
+        "name": "Shoshone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16079",
+      "ratio": 1.0,
+      "name": "Shoshone County"
+    }
+  },
+  {
+    "zip": "83840",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16017",
+        "ratio": 1.0,
+        "name": "Bonner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16017",
+      "ratio": 1.0,
+      "name": "Bonner County"
+    }
+  },
+  {
+    "zip": "83841",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16017",
+        "ratio": 1.0,
+        "name": "Bonner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16017",
+      "ratio": 1.0,
+      "name": "Bonner County"
+    }
+  },
+  {
+    "zip": "83842",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16055",
+        "ratio": 1.0,
+        "name": "Kootenai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16055",
+      "ratio": 1.0,
+      "name": "Kootenai County"
+    }
+  },
+  {
+    "zip": "83843",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16057",
+        "ratio": 1.0,
+        "name": "Latah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16057",
+      "ratio": 1.0,
+      "name": "Latah County"
+    }
+  },
+  {
+    "zip": "83844",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16057",
+        "ratio": 1.0,
+        "name": "Latah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16057",
+      "ratio": 1.0,
+      "name": "Latah County"
+    }
+  },
+  {
+    "zip": "83845",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16021",
+        "ratio": 1.0,
+        "name": "Boundary County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16021",
+      "ratio": 1.0,
+      "name": "Boundary County"
+    }
+  },
+  {
+    "zip": "83846",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16079",
+        "ratio": 1.0,
+        "name": "Shoshone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16079",
+      "ratio": 1.0,
+      "name": "Shoshone County"
+    }
+  },
+  {
+    "zip": "83847",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16021",
+        "ratio": 1.0,
+        "name": "Boundary County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16021",
+      "ratio": 1.0,
+      "name": "Boundary County"
+    }
+  },
+  {
+    "zip": "83848",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16017",
+        "ratio": 1.0,
+        "name": "Bonner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16017",
+      "ratio": 1.0,
+      "name": "Bonner County"
+    }
+  },
+  {
+    "zip": "83849",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16079",
+        "ratio": 1.0,
+        "name": "Shoshone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16079",
+      "ratio": 1.0,
+      "name": "Shoshone County"
+    }
+  },
+  {
+    "zip": "83850",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16079",
+        "ratio": 1.0,
+        "name": "Shoshone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16079",
+      "ratio": 1.0,
+      "name": "Shoshone County"
+    }
+  },
+  {
+    "zip": "83851",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16009",
+        "ratio": 0.9987,
+        "name": "Benewah County"
+      },
+      {
+        "fips": "16055",
+        "ratio": 0.0013,
+        "name": "Kootenai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16009",
+      "ratio": 0.9987,
+      "name": "Benewah County"
+    }
+  },
+  {
+    "zip": "83852",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16017",
+        "ratio": 1.0,
+        "name": "Bonner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16017",
+      "ratio": 1.0,
+      "name": "Bonner County"
+    }
+  },
+  {
+    "zip": "83853",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16021",
+        "ratio": 1.0,
+        "name": "Boundary County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16021",
+      "ratio": 1.0,
+      "name": "Boundary County"
+    }
+  },
+  {
+    "zip": "83854",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16055",
+        "ratio": 1.0,
+        "name": "Kootenai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16055",
+      "ratio": 1.0,
+      "name": "Kootenai County"
+    }
+  },
+  {
+    "zip": "83855",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16057",
+        "ratio": 1.0,
+        "name": "Latah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16057",
+      "ratio": 1.0,
+      "name": "Latah County"
+    }
+  },
+  {
+    "zip": "83856",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16017",
+        "ratio": 1.0,
+        "name": "Bonner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16017",
+      "ratio": 1.0,
+      "name": "Bonner County"
+    }
+  },
+  {
+    "zip": "83857",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16057",
+        "ratio": 1.0,
+        "name": "Latah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16057",
+      "ratio": 1.0,
+      "name": "Latah County"
+    }
+  },
+  {
+    "zip": "83858",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16055",
+        "ratio": 1.0,
+        "name": "Kootenai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16055",
+      "ratio": 1.0,
+      "name": "Kootenai County"
+    }
+  },
+  {
+    "zip": "83860",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16017",
+        "ratio": 1.0,
+        "name": "Bonner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16017",
+      "ratio": 1.0,
+      "name": "Bonner County"
+    }
+  },
+  {
+    "zip": "83861",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "16009",
+        "ratio": 0.9241,
+        "name": "Benewah County"
+      },
+      {
+        "fips": "16055",
+        "ratio": 0.0749,
+        "name": "Kootenai County"
+      },
+      {
+        "fips": "16079",
+        "ratio": 0.001,
+        "name": "Shoshone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16009",
+      "ratio": 0.9241,
+      "name": "Benewah County"
+    }
+  },
+  {
+    "zip": "83864",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16017",
+        "ratio": 1.0,
+        "name": "Bonner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16017",
+      "ratio": 1.0,
+      "name": "Bonner County"
+    }
+  },
+  {
+    "zip": "83865",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16017",
+        "ratio": 1.0,
+        "name": "Bonner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16017",
+      "ratio": 1.0,
+      "name": "Bonner County"
+    }
+  },
+  {
+    "zip": "83866",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16009",
+        "ratio": 1.0,
+        "name": "Benewah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16009",
+      "ratio": 1.0,
+      "name": "Benewah County"
+    }
+  },
+  {
+    "zip": "83867",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16079",
+        "ratio": 1.0,
+        "name": "Shoshone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16079",
+      "ratio": 1.0,
+      "name": "Shoshone County"
+    }
+  },
+  {
+    "zip": "83868",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16079",
+        "ratio": 1.0,
+        "name": "Shoshone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16079",
+      "ratio": 1.0,
+      "name": "Shoshone County"
+    }
+  },
+  {
+    "zip": "83869",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16055",
+        "ratio": 0.6889,
+        "name": "Kootenai County"
+      },
+      {
+        "fips": "16017",
+        "ratio": 0.3111,
+        "name": "Bonner County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16055",
+      "ratio": 0.6889,
+      "name": "Kootenai County"
+    }
+  },
+  {
+    "zip": "83870",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16009",
+        "ratio": 1.0,
+        "name": "Benewah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16009",
+      "ratio": 1.0,
+      "name": "Benewah County"
+    }
+  },
+  {
+    "zip": "83871",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16057",
+        "ratio": 1.0,
+        "name": "Latah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16057",
+      "ratio": 1.0,
+      "name": "Latah County"
+    }
+  },
+  {
+    "zip": "83872",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16057",
+        "ratio": 1.0,
+        "name": "Latah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16057",
+      "ratio": 1.0,
+      "name": "Latah County"
+    }
+  },
+  {
+    "zip": "83873",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16079",
+        "ratio": 1.0,
+        "name": "Shoshone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16079",
+      "ratio": 1.0,
+      "name": "Shoshone County"
+    }
+  },
+  {
+    "zip": "83874",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16079",
+        "ratio": 1.0,
+        "name": "Shoshone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16079",
+      "ratio": 1.0,
+      "name": "Shoshone County"
+    }
+  },
+  {
+    "zip": "83876",
+    "state": "ID",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "16055",
+        "ratio": 0.9974,
+        "name": "Kootenai County"
+      },
+      {
+        "fips": "16009",
+        "ratio": 0.0026,
+        "name": "Benewah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16055",
+      "ratio": 0.9974,
+      "name": "Kootenai County"
+    }
+  },
+  {
+    "zip": "83877",
+    "state": "ID",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "16055",
+        "ratio": 1.0,
+        "name": "Kootenai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "16055",
+      "ratio": 1.0,
+      "name": "Kootenai County"
+    }
+  }
+]

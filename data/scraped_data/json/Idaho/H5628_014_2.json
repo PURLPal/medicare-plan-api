@@ -1,0 +1,44 @@
+{
+  "plan_info": {
+    "name": "Molina Medicare Complete Care Select (HMO D-SNP)"
+  },
+  "premiums": {
+    "Total monthly premium": "$0.00",
+    "Health premium": "0.00",
+    "Drug premium": "0.00",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$0 or $283per year for in-network services",
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "9,250"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copay",
+    "Specialist visit": "In-network: $0 or $10 copay",
+    "Emergency care": "$0 or $100 copay",
+    "Inpatient hospital coverage": "Tier 1$0 or $295 per day for days 1-6$0 per day for days 7-90$0 per stay",
+    "Outpatient hospital coverage": "In-network: 0% or 20% coinsurance",
+    "Personal Emergency Response System (PERS)": "In-network: $0 copay",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "In-network: $0 copay",
+    "Worldwide emergency": "$0 copay"
+  },
+  "drug_coverage": {
+    "Drug premium": "$0.00",
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "30% coinsurance",
+    "Select Care Drugs": "$0.00 copay",
+    "Chemotherapy drugs": "In-network: 0% or 0%-20% coinsurance",
+    "Other Part B drugs": "In-network: 0% or 0%-20% coinsurance",
+    "Over the counter drug benefits": "In-network: $0 copay"
+  },
+  "extra_benefits": [],
+  "plan_id": "H5628_014_2",
+  "state": "Idaho"
+}

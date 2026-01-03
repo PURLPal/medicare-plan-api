@@ -1,0 +1,3582 @@
+[
+  {
+    "zip": "82001",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56021",
+        "ratio": 1.0,
+        "name": "Laramie County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56021",
+      "ratio": 1.0,
+      "name": "Laramie County"
+    }
+  },
+  {
+    "zip": "82002",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56021",
+        "ratio": 1.0,
+        "name": "Laramie County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56021",
+      "ratio": 1.0,
+      "name": "Laramie County"
+    }
+  },
+  {
+    "zip": "82003",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56021",
+        "ratio": 1.0,
+        "name": "Laramie County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56021",
+      "ratio": 1.0,
+      "name": "Laramie County"
+    }
+  },
+  {
+    "zip": "82005",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56021",
+        "ratio": 1.0,
+        "name": "Laramie County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56021",
+      "ratio": 1.0,
+      "name": "Laramie County"
+    }
+  },
+  {
+    "zip": "82007",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56021",
+        "ratio": 1.0,
+        "name": "Laramie County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56021",
+      "ratio": 1.0,
+      "name": "Laramie County"
+    }
+  },
+  {
+    "zip": "82009",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56021",
+        "ratio": 1.0,
+        "name": "Laramie County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56021",
+      "ratio": 1.0,
+      "name": "Laramie County"
+    }
+  },
+  {
+    "zip": "82010",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56021",
+        "ratio": 1.0,
+        "name": "Laramie County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56021",
+      "ratio": 1.0,
+      "name": "Laramie County"
+    }
+  },
+  {
+    "zip": "82050",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56021",
+        "ratio": 1.0,
+        "name": "Laramie County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56021",
+      "ratio": 1.0,
+      "name": "Laramie County"
+    }
+  },
+  {
+    "zip": "82051",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56001",
+        "ratio": 1.0,
+        "name": "Albany County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56001",
+      "ratio": 1.0,
+      "name": "Albany County"
+    }
+  },
+  {
+    "zip": "82052",
+    "state": "WY",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56001",
+        "ratio": 0.8987,
+        "name": "Albany County"
+      },
+      {
+        "fips": "56021",
+        "ratio": 0.1013,
+        "name": "Laramie County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56001",
+      "ratio": 0.8987,
+      "name": "Albany County"
+    }
+  },
+  {
+    "zip": "82053",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56021",
+        "ratio": 1.0,
+        "name": "Laramie County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56021",
+      "ratio": 1.0,
+      "name": "Laramie County"
+    }
+  },
+  {
+    "zip": "82054",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56021",
+        "ratio": 1.0,
+        "name": "Laramie County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56021",
+      "ratio": 1.0,
+      "name": "Laramie County"
+    }
+  },
+  {
+    "zip": "82055",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56001",
+        "ratio": 1.0,
+        "name": "Albany County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56001",
+      "ratio": 1.0,
+      "name": "Albany County"
+    }
+  },
+  {
+    "zip": "82058",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56001",
+        "ratio": 1.0,
+        "name": "Albany County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56001",
+      "ratio": 1.0,
+      "name": "Albany County"
+    }
+  },
+  {
+    "zip": "82059",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56021",
+        "ratio": 1.0,
+        "name": "Laramie County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56021",
+      "ratio": 1.0,
+      "name": "Laramie County"
+    }
+  },
+  {
+    "zip": "82060",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56021",
+        "ratio": 1.0,
+        "name": "Laramie County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56021",
+      "ratio": 1.0,
+      "name": "Laramie County"
+    }
+  },
+  {
+    "zip": "82063",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56001",
+        "ratio": 1.0,
+        "name": "Albany County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56001",
+      "ratio": 1.0,
+      "name": "Albany County"
+    }
+  },
+  {
+    "zip": "82070",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56001",
+        "ratio": 1.0,
+        "name": "Albany County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56001",
+      "ratio": 1.0,
+      "name": "Albany County"
+    }
+  },
+  {
+    "zip": "82071",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56001",
+        "ratio": 1.0,
+        "name": "Albany County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56001",
+      "ratio": 1.0,
+      "name": "Albany County"
+    }
+  },
+  {
+    "zip": "82072",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56001",
+        "ratio": 1.0,
+        "name": "Albany County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56001",
+      "ratio": 1.0,
+      "name": "Albany County"
+    }
+  },
+  {
+    "zip": "82073",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56001",
+        "ratio": 1.0,
+        "name": "Albany County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56001",
+      "ratio": 1.0,
+      "name": "Albany County"
+    }
+  },
+  {
+    "zip": "82081",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56021",
+        "ratio": 1.0,
+        "name": "Laramie County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56021",
+      "ratio": 1.0,
+      "name": "Laramie County"
+    }
+  },
+  {
+    "zip": "82082",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56021",
+        "ratio": 1.0,
+        "name": "Laramie County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56021",
+      "ratio": 1.0,
+      "name": "Laramie County"
+    }
+  },
+  {
+    "zip": "82083",
+    "state": "WY",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56001",
+        "ratio": 0.5936,
+        "name": "Albany County"
+      },
+      {
+        "fips": "56007",
+        "ratio": 0.4064,
+        "name": "Carbon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56001",
+      "ratio": 0.5936,
+      "name": "Albany County"
+    }
+  },
+  {
+    "zip": "82084",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56001",
+        "ratio": 1.0,
+        "name": "Albany County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56001",
+      "ratio": 1.0,
+      "name": "Albany County"
+    }
+  },
+  {
+    "zip": "82190",
+    "state": "WY",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56029",
+        "ratio": 0.9806,
+        "name": "Park County"
+      },
+      {
+        "fips": "56039",
+        "ratio": 0.0194,
+        "name": "Teton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56029",
+      "ratio": 0.9806,
+      "name": "Park County"
+    }
+  },
+  {
+    "zip": "82201",
+    "state": "WY",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "56031",
+        "ratio": 0.9818,
+        "name": "Platte County"
+      },
+      {
+        "fips": "56001",
+        "ratio": 0.0179,
+        "name": "Albany County"
+      },
+      {
+        "fips": "56015",
+        "ratio": 0.0002,
+        "name": "Goshen County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56031",
+      "ratio": 0.9818,
+      "name": "Platte County"
+    }
+  },
+  {
+    "zip": "82210",
+    "state": "WY",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "56031",
+        "ratio": 0.9643,
+        "name": "Platte County"
+      },
+      {
+        "fips": "56021",
+        "ratio": 0.0179,
+        "name": "Laramie County"
+      },
+      {
+        "fips": "56015",
+        "ratio": 0.0179,
+        "name": "Goshen County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56031",
+      "ratio": 0.9643,
+      "name": "Platte County"
+    }
+  },
+  {
+    "zip": "82212",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56015",
+        "ratio": 1.0,
+        "name": "Goshen County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56015",
+      "ratio": 1.0,
+      "name": "Goshen County"
+    }
+  },
+  {
+    "zip": "82213",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56031",
+        "ratio": 1.0,
+        "name": "Platte County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56031",
+      "ratio": 1.0,
+      "name": "Platte County"
+    }
+  },
+  {
+    "zip": "82214",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56031",
+        "ratio": 1.0,
+        "name": "Platte County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56031",
+      "ratio": 1.0,
+      "name": "Platte County"
+    }
+  },
+  {
+    "zip": "82215",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56031",
+        "ratio": 1.0,
+        "name": "Platte County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56031",
+      "ratio": 1.0,
+      "name": "Platte County"
+    }
+  },
+  {
+    "zip": "82217",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56015",
+        "ratio": 1.0,
+        "name": "Goshen County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56015",
+      "ratio": 1.0,
+      "name": "Goshen County"
+    }
+  },
+  {
+    "zip": "82218",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56015",
+        "ratio": 1.0,
+        "name": "Goshen County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56015",
+      "ratio": 1.0,
+      "name": "Goshen County"
+    }
+  },
+  {
+    "zip": "82219",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56015",
+        "ratio": 1.0,
+        "name": "Goshen County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56015",
+      "ratio": 1.0,
+      "name": "Goshen County"
+    }
+  },
+  {
+    "zip": "82221",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56015",
+        "ratio": 1.0,
+        "name": "Goshen County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56015",
+      "ratio": 1.0,
+      "name": "Goshen County"
+    }
+  },
+  {
+    "zip": "82222",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56027",
+        "ratio": 1.0,
+        "name": "Niobrara County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56027",
+      "ratio": 1.0,
+      "name": "Niobrara County"
+    }
+  },
+  {
+    "zip": "82223",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56015",
+        "ratio": 1.0,
+        "name": "Goshen County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56015",
+      "ratio": 1.0,
+      "name": "Goshen County"
+    }
+  },
+  {
+    "zip": "82224",
+    "state": "WY",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56009",
+        "ratio": 0.7333,
+        "name": "Converse County"
+      },
+      {
+        "fips": "56027",
+        "ratio": 0.2667,
+        "name": "Niobrara County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56009",
+      "ratio": 0.7333,
+      "name": "Converse County"
+    }
+  },
+  {
+    "zip": "82225",
+    "state": "WY",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56027",
+        "ratio": 0.9975,
+        "name": "Niobrara County"
+      },
+      {
+        "fips": "56015",
+        "ratio": 0.0025,
+        "name": "Goshen County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56027",
+      "ratio": 0.9975,
+      "name": "Niobrara County"
+    }
+  },
+  {
+    "zip": "82227",
+    "state": "WY",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56027",
+        "ratio": 0.976,
+        "name": "Niobrara County"
+      },
+      {
+        "fips": "56031",
+        "ratio": 0.024,
+        "name": "Platte County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56027",
+      "ratio": 0.976,
+      "name": "Niobrara County"
+    }
+  },
+  {
+    "zip": "82229",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56009",
+        "ratio": 1.0,
+        "name": "Converse County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56009",
+      "ratio": 1.0,
+      "name": "Converse County"
+    }
+  },
+  {
+    "zip": "82240",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56015",
+        "ratio": 1.0,
+        "name": "Goshen County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56015",
+      "ratio": 1.0,
+      "name": "Goshen County"
+    }
+  },
+  {
+    "zip": "82242",
+    "state": "WY",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56027",
+        "ratio": 0.9655,
+        "name": "Niobrara County"
+      },
+      {
+        "fips": "56015",
+        "ratio": 0.0345,
+        "name": "Goshen County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56027",
+      "ratio": 0.9655,
+      "name": "Niobrara County"
+    }
+  },
+  {
+    "zip": "82243",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56015",
+        "ratio": 1.0,
+        "name": "Goshen County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56015",
+      "ratio": 1.0,
+      "name": "Goshen County"
+    }
+  },
+  {
+    "zip": "82244",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56015",
+        "ratio": 1.0,
+        "name": "Goshen County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56015",
+      "ratio": 1.0,
+      "name": "Goshen County"
+    }
+  },
+  {
+    "zip": "82301",
+    "state": "WY",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56007",
+        "ratio": 0.9958,
+        "name": "Carbon County"
+      },
+      {
+        "fips": "56013",
+        "ratio": 0.0042,
+        "name": "Fremont County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56007",
+      "ratio": 0.9958,
+      "name": "Carbon County"
+    }
+  },
+  {
+    "zip": "82310",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56013",
+        "ratio": 1.0,
+        "name": "Fremont County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56013",
+      "ratio": 1.0,
+      "name": "Fremont County"
+    }
+  },
+  {
+    "zip": "82321",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56007",
+        "ratio": 1.0,
+        "name": "Carbon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56007",
+      "ratio": 1.0,
+      "name": "Carbon County"
+    }
+  },
+  {
+    "zip": "82322",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56037",
+        "ratio": 1.0,
+        "name": "Sweetwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56037",
+      "ratio": 1.0,
+      "name": "Sweetwater County"
+    }
+  },
+  {
+    "zip": "82323",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56007",
+        "ratio": 1.0,
+        "name": "Carbon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56007",
+      "ratio": 1.0,
+      "name": "Carbon County"
+    }
+  },
+  {
+    "zip": "82324",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56007",
+        "ratio": 1.0,
+        "name": "Carbon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56007",
+      "ratio": 1.0,
+      "name": "Carbon County"
+    }
+  },
+  {
+    "zip": "82325",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56007",
+        "ratio": 1.0,
+        "name": "Carbon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56007",
+      "ratio": 1.0,
+      "name": "Carbon County"
+    }
+  },
+  {
+    "zip": "82327",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56007",
+        "ratio": 1.0,
+        "name": "Carbon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56007",
+      "ratio": 1.0,
+      "name": "Carbon County"
+    }
+  },
+  {
+    "zip": "82329",
+    "state": "WY",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56007",
+        "ratio": 0.8347,
+        "name": "Carbon County"
+      },
+      {
+        "fips": "56001",
+        "ratio": 0.1653,
+        "name": "Albany County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56007",
+      "ratio": 0.8347,
+      "name": "Carbon County"
+    }
+  },
+  {
+    "zip": "82331",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56007",
+        "ratio": 1.0,
+        "name": "Carbon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56007",
+      "ratio": 1.0,
+      "name": "Carbon County"
+    }
+  },
+  {
+    "zip": "82332",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56007",
+        "ratio": 1.0,
+        "name": "Carbon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56007",
+      "ratio": 1.0,
+      "name": "Carbon County"
+    }
+  },
+  {
+    "zip": "82334",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56007",
+        "ratio": 1.0,
+        "name": "Carbon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56007",
+      "ratio": 1.0,
+      "name": "Carbon County"
+    }
+  },
+  {
+    "zip": "82335",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56007",
+        "ratio": 1.0,
+        "name": "Carbon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56007",
+      "ratio": 1.0,
+      "name": "Carbon County"
+    }
+  },
+  {
+    "zip": "82336",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56037",
+        "ratio": 1.0,
+        "name": "Sweetwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56037",
+      "ratio": 1.0,
+      "name": "Sweetwater County"
+    }
+  },
+  {
+    "zip": "82401",
+    "state": "WY",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "56043",
+        "ratio": 0.9899,
+        "name": "Washakie County"
+      },
+      {
+        "fips": "56003",
+        "ratio": 0.007,
+        "name": "Big Horn County"
+      },
+      {
+        "fips": "56017",
+        "ratio": 0.003,
+        "name": "Hot Springs County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56043",
+      "ratio": 0.9899,
+      "name": "Washakie County"
+    }
+  },
+  {
+    "zip": "82410",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56003",
+        "ratio": 1.0,
+        "name": "Big Horn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56003",
+      "ratio": 1.0,
+      "name": "Big Horn County"
+    }
+  },
+  {
+    "zip": "82411",
+    "state": "WY",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56003",
+        "ratio": 0.9888,
+        "name": "Big Horn County"
+      },
+      {
+        "fips": "56029",
+        "ratio": 0.0112,
+        "name": "Park County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56003",
+      "ratio": 0.9888,
+      "name": "Big Horn County"
+    }
+  },
+  {
+    "zip": "82412",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56003",
+        "ratio": 1.0,
+        "name": "Big Horn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56003",
+      "ratio": 1.0,
+      "name": "Big Horn County"
+    }
+  },
+  {
+    "zip": "82414",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56029",
+        "ratio": 1.0,
+        "name": "Park County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56029",
+      "ratio": 1.0,
+      "name": "Park County"
+    }
+  },
+  {
+    "zip": "82420",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56003",
+        "ratio": 1.0,
+        "name": "Big Horn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56003",
+      "ratio": 1.0,
+      "name": "Big Horn County"
+    }
+  },
+  {
+    "zip": "82421",
+    "state": "WY",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56003",
+        "ratio": 0.775,
+        "name": "Big Horn County"
+      },
+      {
+        "fips": "56029",
+        "ratio": 0.225,
+        "name": "Park County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56003",
+      "ratio": 0.775,
+      "name": "Big Horn County"
+    }
+  },
+  {
+    "zip": "82422",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56003",
+        "ratio": 1.0,
+        "name": "Big Horn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56003",
+      "ratio": 1.0,
+      "name": "Big Horn County"
+    }
+  },
+  {
+    "zip": "82423",
+    "state": "WY",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56003",
+        "ratio": 0.7876,
+        "name": "Big Horn County"
+      },
+      {
+        "fips": "56029",
+        "ratio": 0.2124,
+        "name": "Park County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56003",
+      "ratio": 0.7876,
+      "name": "Big Horn County"
+    }
+  },
+  {
+    "zip": "82426",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56003",
+        "ratio": 1.0,
+        "name": "Big Horn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56003",
+      "ratio": 1.0,
+      "name": "Big Horn County"
+    }
+  },
+  {
+    "zip": "82428",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56003",
+        "ratio": 1.0,
+        "name": "Big Horn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56003",
+      "ratio": 1.0,
+      "name": "Big Horn County"
+    }
+  },
+  {
+    "zip": "82430",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56017",
+        "ratio": 1.0,
+        "name": "Hot Springs County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56017",
+      "ratio": 1.0,
+      "name": "Hot Springs County"
+    }
+  },
+  {
+    "zip": "82431",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56003",
+        "ratio": 1.0,
+        "name": "Big Horn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56003",
+      "ratio": 1.0,
+      "name": "Big Horn County"
+    }
+  },
+  {
+    "zip": "82432",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56003",
+        "ratio": 1.0,
+        "name": "Big Horn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56003",
+      "ratio": 1.0,
+      "name": "Big Horn County"
+    }
+  },
+  {
+    "zip": "82433",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56029",
+        "ratio": 1.0,
+        "name": "Park County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56029",
+      "ratio": 1.0,
+      "name": "Park County"
+    }
+  },
+  {
+    "zip": "82434",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56003",
+        "ratio": 1.0,
+        "name": "Big Horn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56003",
+      "ratio": 1.0,
+      "name": "Big Horn County"
+    }
+  },
+  {
+    "zip": "82435",
+    "state": "WY",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56029",
+        "ratio": 0.996,
+        "name": "Park County"
+      },
+      {
+        "fips": "56003",
+        "ratio": 0.004,
+        "name": "Big Horn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56029",
+      "ratio": 0.996,
+      "name": "Park County"
+    }
+  },
+  {
+    "zip": "82440",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56029",
+        "ratio": 1.0,
+        "name": "Park County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56029",
+      "ratio": 1.0,
+      "name": "Park County"
+    }
+  },
+  {
+    "zip": "82441",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56003",
+        "ratio": 1.0,
+        "name": "Big Horn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56003",
+      "ratio": 1.0,
+      "name": "Big Horn County"
+    }
+  },
+  {
+    "zip": "82442",
+    "state": "WY",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56043",
+        "ratio": 0.9788,
+        "name": "Washakie County"
+      },
+      {
+        "fips": "56003",
+        "ratio": 0.0212,
+        "name": "Big Horn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56043",
+      "ratio": 0.9788,
+      "name": "Washakie County"
+    }
+  },
+  {
+    "zip": "82443",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56017",
+        "ratio": 1.0,
+        "name": "Hot Springs County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56017",
+      "ratio": 1.0,
+      "name": "Hot Springs County"
+    }
+  },
+  {
+    "zip": "82450",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56029",
+        "ratio": 1.0,
+        "name": "Park County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56029",
+      "ratio": 1.0,
+      "name": "Park County"
+    }
+  },
+  {
+    "zip": "82501",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56013",
+        "ratio": 1.0,
+        "name": "Fremont County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56013",
+      "ratio": 1.0,
+      "name": "Fremont County"
+    }
+  },
+  {
+    "zip": "82510",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56013",
+        "ratio": 1.0,
+        "name": "Fremont County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56013",
+      "ratio": 1.0,
+      "name": "Fremont County"
+    }
+  },
+  {
+    "zip": "82512",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56013",
+        "ratio": 1.0,
+        "name": "Fremont County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56013",
+      "ratio": 1.0,
+      "name": "Fremont County"
+    }
+  },
+  {
+    "zip": "82513",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56013",
+        "ratio": 1.0,
+        "name": "Fremont County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56013",
+      "ratio": 1.0,
+      "name": "Fremont County"
+    }
+  },
+  {
+    "zip": "82514",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56013",
+        "ratio": 1.0,
+        "name": "Fremont County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56013",
+      "ratio": 1.0,
+      "name": "Fremont County"
+    }
+  },
+  {
+    "zip": "82515",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56013",
+        "ratio": 1.0,
+        "name": "Fremont County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56013",
+      "ratio": 1.0,
+      "name": "Fremont County"
+    }
+  },
+  {
+    "zip": "82516",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56013",
+        "ratio": 1.0,
+        "name": "Fremont County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56013",
+      "ratio": 1.0,
+      "name": "Fremont County"
+    }
+  },
+  {
+    "zip": "82520",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56013",
+        "ratio": 1.0,
+        "name": "Fremont County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56013",
+      "ratio": 1.0,
+      "name": "Fremont County"
+    }
+  },
+  {
+    "zip": "82523",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56013",
+        "ratio": 1.0,
+        "name": "Fremont County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56013",
+      "ratio": 1.0,
+      "name": "Fremont County"
+    }
+  },
+  {
+    "zip": "82524",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56013",
+        "ratio": 1.0,
+        "name": "Fremont County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56013",
+      "ratio": 1.0,
+      "name": "Fremont County"
+    }
+  },
+  {
+    "zip": "82601",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56025",
+        "ratio": 1.0,
+        "name": "Natrona County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56025",
+      "ratio": 1.0,
+      "name": "Natrona County"
+    }
+  },
+  {
+    "zip": "82602",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56025",
+        "ratio": 1.0,
+        "name": "Natrona County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56025",
+      "ratio": 1.0,
+      "name": "Natrona County"
+    }
+  },
+  {
+    "zip": "82604",
+    "state": "WY",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56025",
+        "ratio": 0.9993,
+        "name": "Natrona County"
+      },
+      {
+        "fips": "56007",
+        "ratio": 0.0007,
+        "name": "Carbon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56025",
+      "ratio": 0.9993,
+      "name": "Natrona County"
+    }
+  },
+  {
+    "zip": "82605",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56025",
+        "ratio": 1.0,
+        "name": "Natrona County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56025",
+      "ratio": 1.0,
+      "name": "Natrona County"
+    }
+  },
+  {
+    "zip": "82609",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56025",
+        "ratio": 1.0,
+        "name": "Natrona County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56025",
+      "ratio": 1.0,
+      "name": "Natrona County"
+    }
+  },
+  {
+    "zip": "82615",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56007",
+        "ratio": 1.0,
+        "name": "Carbon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56007",
+      "ratio": 1.0,
+      "name": "Carbon County"
+    }
+  },
+  {
+    "zip": "82620",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56025",
+        "ratio": 1.0,
+        "name": "Natrona County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56025",
+      "ratio": 1.0,
+      "name": "Natrona County"
+    }
+  },
+  {
+    "zip": "82630",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56025",
+        "ratio": 1.0,
+        "name": "Natrona County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56025",
+      "ratio": 1.0,
+      "name": "Natrona County"
+    }
+  },
+  {
+    "zip": "82633",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56009",
+        "ratio": 1.0,
+        "name": "Converse County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56009",
+      "ratio": 1.0,
+      "name": "Converse County"
+    }
+  },
+  {
+    "zip": "82635",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56025",
+        "ratio": 1.0,
+        "name": "Natrona County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56025",
+      "ratio": 1.0,
+      "name": "Natrona County"
+    }
+  },
+  {
+    "zip": "82636",
+    "state": "WY",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56025",
+        "ratio": 0.9919,
+        "name": "Natrona County"
+      },
+      {
+        "fips": "56009",
+        "ratio": 0.0081,
+        "name": "Converse County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56025",
+      "ratio": 0.9919,
+      "name": "Natrona County"
+    }
+  },
+  {
+    "zip": "82637",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56009",
+        "ratio": 1.0,
+        "name": "Converse County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56009",
+      "ratio": 1.0,
+      "name": "Converse County"
+    }
+  },
+  {
+    "zip": "82638",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56025",
+        "ratio": 1.0,
+        "name": "Natrona County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56025",
+      "ratio": 1.0,
+      "name": "Natrona County"
+    }
+  },
+  {
+    "zip": "82639",
+    "state": "WY",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56019",
+        "ratio": 0.9838,
+        "name": "Johnson County"
+      },
+      {
+        "fips": "56025",
+        "ratio": 0.0162,
+        "name": "Natrona County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56019",
+      "ratio": 0.9838,
+      "name": "Johnson County"
+    }
+  },
+  {
+    "zip": "82640",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56019",
+        "ratio": 1.0,
+        "name": "Johnson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56019",
+      "ratio": 1.0,
+      "name": "Johnson County"
+    }
+  },
+  {
+    "zip": "82642",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56013",
+        "ratio": 1.0,
+        "name": "Fremont County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56013",
+      "ratio": 1.0,
+      "name": "Fremont County"
+    }
+  },
+  {
+    "zip": "82643",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56025",
+        "ratio": 1.0,
+        "name": "Natrona County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56025",
+      "ratio": 1.0,
+      "name": "Natrona County"
+    }
+  },
+  {
+    "zip": "82644",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56025",
+        "ratio": 1.0,
+        "name": "Natrona County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56025",
+      "ratio": 1.0,
+      "name": "Natrona County"
+    }
+  },
+  {
+    "zip": "82646",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56025",
+        "ratio": 1.0,
+        "name": "Natrona County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56025",
+      "ratio": 1.0,
+      "name": "Natrona County"
+    }
+  },
+  {
+    "zip": "82648",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56025",
+        "ratio": 1.0,
+        "name": "Natrona County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56025",
+      "ratio": 1.0,
+      "name": "Natrona County"
+    }
+  },
+  {
+    "zip": "82649",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56013",
+        "ratio": 1.0,
+        "name": "Fremont County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56013",
+      "ratio": 1.0,
+      "name": "Fremont County"
+    }
+  },
+  {
+    "zip": "82701",
+    "state": "WY",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56045",
+        "ratio": 0.9995,
+        "name": "Weston County"
+      },
+      {
+        "fips": "56027",
+        "ratio": 0.0005,
+        "name": "Niobrara County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56045",
+      "ratio": 0.9995,
+      "name": "Weston County"
+    }
+  },
+  {
+    "zip": "82710",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56011",
+        "ratio": 1.0,
+        "name": "Crook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56011",
+      "ratio": 1.0,
+      "name": "Crook County"
+    }
+  },
+  {
+    "zip": "82711",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56011",
+        "ratio": 1.0,
+        "name": "Crook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56011",
+      "ratio": 1.0,
+      "name": "Crook County"
+    }
+  },
+  {
+    "zip": "82712",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56011",
+        "ratio": 1.0,
+        "name": "Crook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56011",
+      "ratio": 1.0,
+      "name": "Crook County"
+    }
+  },
+  {
+    "zip": "82714",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56011",
+        "ratio": 1.0,
+        "name": "Crook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56011",
+      "ratio": 1.0,
+      "name": "Crook County"
+    }
+  },
+  {
+    "zip": "82715",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56045",
+        "ratio": 1.0,
+        "name": "Weston County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56045",
+      "ratio": 1.0,
+      "name": "Weston County"
+    }
+  },
+  {
+    "zip": "82716",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56005",
+        "ratio": 1.0,
+        "name": "Campbell County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56005",
+      "ratio": 1.0,
+      "name": "Campbell County"
+    }
+  },
+  {
+    "zip": "82717",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56005",
+        "ratio": 1.0,
+        "name": "Campbell County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56005",
+      "ratio": 1.0,
+      "name": "Campbell County"
+    }
+  },
+  {
+    "zip": "82718",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56005",
+        "ratio": 1.0,
+        "name": "Campbell County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56005",
+      "ratio": 1.0,
+      "name": "Campbell County"
+    }
+  },
+  {
+    "zip": "82720",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56011",
+        "ratio": 1.0,
+        "name": "Crook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56011",
+      "ratio": 1.0,
+      "name": "Crook County"
+    }
+  },
+  {
+    "zip": "82721",
+    "state": "WY",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56011",
+        "ratio": 0.9972,
+        "name": "Crook County"
+      },
+      {
+        "fips": "56005",
+        "ratio": 0.0028,
+        "name": "Campbell County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56011",
+      "ratio": 0.9972,
+      "name": "Crook County"
+    }
+  },
+  {
+    "zip": "82723",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56045",
+        "ratio": 1.0,
+        "name": "Weston County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56045",
+      "ratio": 1.0,
+      "name": "Weston County"
+    }
+  },
+  {
+    "zip": "82725",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56005",
+        "ratio": 1.0,
+        "name": "Campbell County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56005",
+      "ratio": 1.0,
+      "name": "Campbell County"
+    }
+  },
+  {
+    "zip": "82727",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56005",
+        "ratio": 1.0,
+        "name": "Campbell County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56005",
+      "ratio": 1.0,
+      "name": "Campbell County"
+    }
+  },
+  {
+    "zip": "82729",
+    "state": "WY",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56011",
+        "ratio": 0.9964,
+        "name": "Crook County"
+      },
+      {
+        "fips": "56045",
+        "ratio": 0.0036,
+        "name": "Weston County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56011",
+      "ratio": 0.9964,
+      "name": "Crook County"
+    }
+  },
+  {
+    "zip": "82730",
+    "state": "WY",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56045",
+        "ratio": 0.9357,
+        "name": "Weston County"
+      },
+      {
+        "fips": "56011",
+        "ratio": 0.0643,
+        "name": "Crook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56045",
+      "ratio": 0.9357,
+      "name": "Weston County"
+    }
+  },
+  {
+    "zip": "82731",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56005",
+        "ratio": 1.0,
+        "name": "Campbell County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56005",
+      "ratio": 1.0,
+      "name": "Campbell County"
+    }
+  },
+  {
+    "zip": "82732",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56005",
+        "ratio": 1.0,
+        "name": "Campbell County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56005",
+      "ratio": 1.0,
+      "name": "Campbell County"
+    }
+  },
+  {
+    "zip": "82801",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56033",
+        "ratio": 1.0,
+        "name": "Sheridan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56033",
+      "ratio": 1.0,
+      "name": "Sheridan County"
+    }
+  },
+  {
+    "zip": "82831",
+    "state": "WY",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "56033",
+        "ratio": 0.5565,
+        "name": "Sheridan County"
+      },
+      {
+        "fips": "56005",
+        "ratio": 0.3387,
+        "name": "Campbell County"
+      },
+      {
+        "fips": "56019",
+        "ratio": 0.1048,
+        "name": "Johnson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56033",
+      "ratio": 0.5565,
+      "name": "Sheridan County"
+    }
+  },
+  {
+    "zip": "82832",
+    "state": "WY",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56033",
+        "ratio": 0.8042,
+        "name": "Sheridan County"
+      },
+      {
+        "fips": "56019",
+        "ratio": 0.1958,
+        "name": "Johnson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56033",
+      "ratio": 0.8042,
+      "name": "Sheridan County"
+    }
+  },
+  {
+    "zip": "82833",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56033",
+        "ratio": 1.0,
+        "name": "Sheridan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56033",
+      "ratio": 1.0,
+      "name": "Sheridan County"
+    }
+  },
+  {
+    "zip": "82834",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56019",
+        "ratio": 1.0,
+        "name": "Johnson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56019",
+      "ratio": 1.0,
+      "name": "Johnson County"
+    }
+  },
+  {
+    "zip": "82835",
+    "state": "WY",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56033",
+        "ratio": 0.9944,
+        "name": "Sheridan County"
+      },
+      {
+        "fips": "56019",
+        "ratio": 0.0056,
+        "name": "Johnson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56033",
+      "ratio": 0.9944,
+      "name": "Sheridan County"
+    }
+  },
+  {
+    "zip": "82836",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56033",
+        "ratio": 1.0,
+        "name": "Sheridan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56033",
+      "ratio": 1.0,
+      "name": "Sheridan County"
+    }
+  },
+  {
+    "zip": "82837",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56033",
+        "ratio": 1.0,
+        "name": "Sheridan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56033",
+      "ratio": 1.0,
+      "name": "Sheridan County"
+    }
+  },
+  {
+    "zip": "82838",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56033",
+        "ratio": 1.0,
+        "name": "Sheridan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56033",
+      "ratio": 1.0,
+      "name": "Sheridan County"
+    }
+  },
+  {
+    "zip": "82839",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56033",
+        "ratio": 1.0,
+        "name": "Sheridan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56033",
+      "ratio": 1.0,
+      "name": "Sheridan County"
+    }
+  },
+  {
+    "zip": "82840",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56019",
+        "ratio": 1.0,
+        "name": "Johnson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56019",
+      "ratio": 1.0,
+      "name": "Johnson County"
+    }
+  },
+  {
+    "zip": "82842",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56033",
+        "ratio": 1.0,
+        "name": "Sheridan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56033",
+      "ratio": 1.0,
+      "name": "Sheridan County"
+    }
+  },
+  {
+    "zip": "82844",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56033",
+        "ratio": 1.0,
+        "name": "Sheridan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56033",
+      "ratio": 1.0,
+      "name": "Sheridan County"
+    }
+  },
+  {
+    "zip": "82845",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56033",
+        "ratio": 1.0,
+        "name": "Sheridan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56033",
+      "ratio": 1.0,
+      "name": "Sheridan County"
+    }
+  },
+  {
+    "zip": "82901",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56037",
+        "ratio": 1.0,
+        "name": "Sweetwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56037",
+      "ratio": 1.0,
+      "name": "Sweetwater County"
+    }
+  },
+  {
+    "zip": "82902",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56037",
+        "ratio": 1.0,
+        "name": "Sweetwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56037",
+      "ratio": 1.0,
+      "name": "Sweetwater County"
+    }
+  },
+  {
+    "zip": "82922",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56035",
+        "ratio": 1.0,
+        "name": "Sublette County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56035",
+      "ratio": 1.0,
+      "name": "Sublette County"
+    }
+  },
+  {
+    "zip": "82923",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56035",
+        "ratio": 1.0,
+        "name": "Sublette County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56035",
+      "ratio": 1.0,
+      "name": "Sublette County"
+    }
+  },
+  {
+    "zip": "82925",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56035",
+        "ratio": 1.0,
+        "name": "Sublette County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56035",
+      "ratio": 1.0,
+      "name": "Sublette County"
+    }
+  },
+  {
+    "zip": "82929",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56037",
+        "ratio": 1.0,
+        "name": "Sweetwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56037",
+      "ratio": 1.0,
+      "name": "Sweetwater County"
+    }
+  },
+  {
+    "zip": "82930",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56041",
+        "ratio": 1.0,
+        "name": "Uinta County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56041",
+      "ratio": 1.0,
+      "name": "Uinta County"
+    }
+  },
+  {
+    "zip": "82931",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56041",
+        "ratio": 1.0,
+        "name": "Uinta County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56041",
+      "ratio": 1.0,
+      "name": "Uinta County"
+    }
+  },
+  {
+    "zip": "82932",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56037",
+        "ratio": 1.0,
+        "name": "Sweetwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56037",
+      "ratio": 1.0,
+      "name": "Sweetwater County"
+    }
+  },
+  {
+    "zip": "82933",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56041",
+        "ratio": 1.0,
+        "name": "Uinta County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56041",
+      "ratio": 1.0,
+      "name": "Uinta County"
+    }
+  },
+  {
+    "zip": "82934",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56037",
+        "ratio": 1.0,
+        "name": "Sweetwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56037",
+      "ratio": 1.0,
+      "name": "Sweetwater County"
+    }
+  },
+  {
+    "zip": "82935",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56037",
+        "ratio": 1.0,
+        "name": "Sweetwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56037",
+      "ratio": 1.0,
+      "name": "Sweetwater County"
+    }
+  },
+  {
+    "zip": "82936",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56041",
+        "ratio": 1.0,
+        "name": "Uinta County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56041",
+      "ratio": 1.0,
+      "name": "Uinta County"
+    }
+  },
+  {
+    "zip": "82937",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56041",
+        "ratio": 1.0,
+        "name": "Uinta County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56041",
+      "ratio": 1.0,
+      "name": "Uinta County"
+    }
+  },
+  {
+    "zip": "82939",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56041",
+        "ratio": 1.0,
+        "name": "Uinta County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56041",
+      "ratio": 1.0,
+      "name": "Uinta County"
+    }
+  },
+  {
+    "zip": "82941",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56035",
+        "ratio": 1.0,
+        "name": "Sublette County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56035",
+      "ratio": 1.0,
+      "name": "Sublette County"
+    }
+  },
+  {
+    "zip": "82942",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56037",
+        "ratio": 1.0,
+        "name": "Sweetwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56037",
+      "ratio": 1.0,
+      "name": "Sweetwater County"
+    }
+  },
+  {
+    "zip": "82943",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56037",
+        "ratio": 1.0,
+        "name": "Sweetwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56037",
+      "ratio": 1.0,
+      "name": "Sweetwater County"
+    }
+  },
+  {
+    "zip": "82944",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56041",
+        "ratio": 1.0,
+        "name": "Uinta County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56041",
+      "ratio": 1.0,
+      "name": "Uinta County"
+    }
+  },
+  {
+    "zip": "82945",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56037",
+        "ratio": 1.0,
+        "name": "Sweetwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56037",
+      "ratio": 1.0,
+      "name": "Sweetwater County"
+    }
+  },
+  {
+    "zip": "83001",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56039",
+        "ratio": 1.0,
+        "name": "Teton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56039",
+      "ratio": 1.0,
+      "name": "Teton County"
+    }
+  },
+  {
+    "zip": "83002",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56039",
+        "ratio": 1.0,
+        "name": "Teton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56039",
+      "ratio": 1.0,
+      "name": "Teton County"
+    }
+  },
+  {
+    "zip": "83011",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56039",
+        "ratio": 1.0,
+        "name": "Teton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56039",
+      "ratio": 1.0,
+      "name": "Teton County"
+    }
+  },
+  {
+    "zip": "83012",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56039",
+        "ratio": 1.0,
+        "name": "Teton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56039",
+      "ratio": 1.0,
+      "name": "Teton County"
+    }
+  },
+  {
+    "zip": "83013",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56039",
+        "ratio": 1.0,
+        "name": "Teton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56039",
+      "ratio": 1.0,
+      "name": "Teton County"
+    }
+  },
+  {
+    "zip": "83014",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56039",
+        "ratio": 1.0,
+        "name": "Teton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56039",
+      "ratio": 1.0,
+      "name": "Teton County"
+    }
+  },
+  {
+    "zip": "83025",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56039",
+        "ratio": 1.0,
+        "name": "Teton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56039",
+      "ratio": 1.0,
+      "name": "Teton County"
+    }
+  },
+  {
+    "zip": "83101",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "83110",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "83111",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "83112",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "83113",
+    "state": "WY",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "56035",
+        "ratio": 0.9982,
+        "name": "Sublette County"
+      },
+      {
+        "fips": "56023",
+        "ratio": 0.0018,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56035",
+      "ratio": 0.9982,
+      "name": "Sublette County"
+    }
+  },
+  {
+    "zip": "83114",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "83115",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56035",
+        "ratio": 1.0,
+        "name": "Sublette County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56035",
+      "ratio": 1.0,
+      "name": "Sublette County"
+    }
+  },
+  {
+    "zip": "83116",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "83118",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "83119",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "83120",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "83122",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "83123",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "83124",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "83126",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "83127",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "83128",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56023",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56023",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "83414",
+    "state": "WY",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "56039",
+        "ratio": 1.0,
+        "name": "Teton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "56039",
+      "ratio": 1.0,
+      "name": "Teton County"
+    }
+  }
+]

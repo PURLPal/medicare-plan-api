@@ -1,0 +1,23 @@
+{
+  "plan_info": {
+    "name": "Blue MedicareRx Value Plus (PDP)",
+    "contract_id": "S2893_001",
+    "plan_type": "PDP",
+    "organization": "Blue MedicareRx"
+  },
+  "premiums": {
+    "Total monthly premium": "$20.70"
+  },
+  "deductibles": {
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "32% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S2893_001_0",
+  "state": "Connecticut"
+}

@@ -1,0 +1,23 @@
+{
+  "plan_info": {
+    "name": "Blue Cross MedicareRx Basic (PDP)",
+    "contract_id": "S5715_012",
+    "plan_type": "PDP",
+    "organization": "Blue Cross and Blue Shield of IL, NM, OK, TX"
+  },
+  "premiums": {
+    "Total monthly premium": "$89.70"
+  },
+  "deductibles": {
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "43% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S5715_012_0",
+  "state": "Illinois"
+}

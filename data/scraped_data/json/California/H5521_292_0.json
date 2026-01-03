@@ -1,0 +1,43 @@
+{
+  "plan_info": {
+    "name": "Aetna Medicare Enhanced (PPO)"
+  },
+  "premiums": {
+    "Total monthly premium": "$102.00",
+    "Health premium": "13.00",
+    "Drug premium": "89.00",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$250Annual deductible",
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "8,900"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copayOut-of-network: $25 copay",
+    "Specialist visit": "In-network: $35 copayOut-of-network: $65 copay",
+    "Emergency care": "$130 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$395 per day for days 1-5$0 per day for days 6-90$0 per stayOut-of-network:40% per stay",
+    "Outpatient hospital coverage": "In-network: $0-$400 copayOut-of-network: 30% coinsurance",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "$130 copay"
+  },
+  "drug_coverage": {
+    "Drug premium": "$89.00",
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "25% coinsurance",
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 40% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 40% coinsurance",
+    "Over the counter drug benefits": "Not covered"
+  },
+  "extra_benefits": [],
+  "plan_id": "H5521_292_0",
+  "state": "California"
+}

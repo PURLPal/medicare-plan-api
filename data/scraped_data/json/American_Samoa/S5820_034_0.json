@@ -1,0 +1,24 @@
+{
+  "plan_info": {
+    "name": "AARP Medicare Rx Preferred from UHC (PDP)",
+    "contract_id": "S5820_034",
+    "plan_type": "PDP",
+    "organization": "UnitedHealthcare"
+  },
+  "premiums": {
+    "Total monthly premium": "$0.00"
+  },
+  "deductibles": {
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$615.00",
+    "Brand-name drugs": "25% coinsurance",
+    "Generic drugs": "25% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S5820_034_0",
+  "state": "American_Samoa"
+}

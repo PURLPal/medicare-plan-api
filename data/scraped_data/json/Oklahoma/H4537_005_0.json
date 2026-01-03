@@ -1,0 +1,38 @@
+{
+  "plan_info": {
+    "name": "Wellcare Patriot Giveback Open (PPO)"
+  },
+  "premiums": {
+    "Total monthly premium": "$0.00",
+    "Health premium": "0.00",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "\u2212$125.00",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "\u2212$125.00 reduction"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "8,950"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copayOut-of-network: $40 copay",
+    "Specialist visit": "In-network: $30 copayOut-of-network: $75 copay",
+    "Emergency care": "$130 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$400 per day for days 1-6$0 per day for days 7-90$0 per stayOut-of-network:30% per day for days 1-900% per stay",
+    "Outpatient hospital coverage": "In-network: $0-$500 copayOut-of-network: 40% coinsurance",
+    "Personal Emergency Response System (PERS)": "In-network: $0 copayOut-of-network: $0 copay",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "$130 copay"
+  },
+  "drug_coverage": {
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 0%-40% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 0%-40% coinsurance",
+    "Over the counter drug benefits": "Not covered"
+  },
+  "extra_benefits": [],
+  "plan_id": "H4537_005_0",
+  "state": "Oklahoma"
+}

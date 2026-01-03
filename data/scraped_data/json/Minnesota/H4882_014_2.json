@@ -1,0 +1,46 @@
+{
+  "plan_info": {
+    "name": "HealthPartners Journey Smart (PPO)",
+    "contract_id": "H4882_014",
+    "plan_type": "PPO",
+    "organization": "HealthPartners"
+  },
+  "premiums": {
+    "Total monthly premium": "$0.00",
+    "Health premium": "0.00",
+    "Drug premium": "0.00",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "\u2212$50.80",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "\u2212$50.80 reduction"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00",
+    "Drug deductible": "400.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "8,950"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copayOut-of-network: 30% coinsurance",
+    "Specialist visit": "In-network: $50 copayOut-of-network: 30% coinsurance",
+    "Emergency care": "$130 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$450 per day for days 1-5$0 per day for days 6-90$0 per stayOut-of-network:30% per stay",
+    "Outpatient hospital coverage": "In-network: $500 copayOut-of-network: 30% coinsurance",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "20% coinsurance"
+  },
+  "drug_coverage": {
+    "Drug premium": "$0.00",
+    "Drug deductible": "$400.00",
+    "Non-Preferred Drug": "38% coinsurance",
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 30% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 30% coinsurance",
+    "Over the counter drug benefits": "Not covered"
+  },
+  "extra_benefits": [],
+  "plan_id": "H4882_014_2",
+  "state": "Minnesota"
+}

@@ -1,0 +1,19 @@
+[
+  {
+    "State": "Northern Mariana Islands",
+    "State Territory Abbreviation": "MP",
+    "Contract Category Type": "PDP",
+    "ContractPlanSegmentID": "S5820_036_0",
+    "ContractPlanID": "S5820_036",
+    "Segment ID": "0",
+    "Parent Organization Name": "UnitedHealth Group, Inc.",
+    "Contract Name": "UNITEDHEALTHCARE INSURANCE COMPANY",
+    "Organization Marketing Name": "UnitedHealthcare",
+    "Organization Type": "Medicare Prescription Drug Plan",
+    "Plan Name": "AARP Medicare Rx Preferred from UHC (PDP)",
+    "Plan Type": "PDP",
+    "In-Network Maximum Out-of-Pocket (MOOP) Amount": "Not Applicable",
+    "all_counties": true,
+    "url": "https://www.medicare.gov/plan-compare/#/plan-details/2026-S5820-036-0?year=2026&lang=en"
+  }
+]

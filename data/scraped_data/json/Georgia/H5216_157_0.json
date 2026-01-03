@@ -1,0 +1,38 @@
+{
+  "plan_info": {
+    "name": "HumanaChoice H5216-157 (PPO)"
+  },
+  "premiums": {
+    "Total monthly premium": "$0.00",
+    "Health premium": "0.00",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "13,900"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copayOut-of-network: 35% coinsurance",
+    "Specialist visit": "In-network: $45 copayOut-of-network: 35% coinsurance",
+    "Emergency care": "$115 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$375 per day for days 1-7$0 per day for days 8-90$0 per stayOut-of-network:50% per stay",
+    "Outpatient hospital coverage": "In-network: $0-$450 copayOut-of-network: $0 copay, 50% coinsurance",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "$115 copay"
+  },
+  "drug_coverage": {
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 50% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 50% coinsurance",
+    "Over the counter drug benefits": "In-network: $0 copayOut-of-network: $0 copay"
+  },
+  "extra_benefits": [],
+  "plan_id": "H5216_157_0",
+  "state": "Georgia"
+}

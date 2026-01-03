@@ -1,0 +1,38 @@
+{
+  "plan_info": {
+    "name": "Humana Gold Choice H8145-126 (PFFS)"
+  },
+  "premiums": {
+    "Total monthly premium": "$0.00",
+    "Health premium": "0.00",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "6,700"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copayOut-of-network: $20 copay",
+    "Specialist visit": "In-network: $40 copayOut-of-network: $50 copay",
+    "Emergency care": "$90 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$360 per day for days 1-5$0 per day for days 6-90$0 per stayOut-of-network:$360 per day for days 1-5$0 per day for days 6-90$0 per stay",
+    "Outpatient hospital coverage": "In-network: $0-$360 copayOut-of-network: $0-$50 copay, 30% coinsurance",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "$90 copay"
+  },
+  "drug_coverage": {
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 20% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 30% coinsurance",
+    "Over the counter drug benefits": "In-network: $0 copayOut-of-network: $0 copay"
+  },
+  "extra_benefits": [],
+  "plan_id": "H8145_126_0",
+  "state": "Missouri"
+}

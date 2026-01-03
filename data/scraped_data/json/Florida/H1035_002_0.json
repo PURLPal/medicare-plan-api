@@ -1,0 +1,47 @@
+{
+  "plan_info": {
+    "name": "FHCP Medicare Rx Plus (HMO-POS)",
+    "contract_id": "H1035_002",
+    "plan_type": "HMO-POS",
+    "organization": "Florida Blue HMO"
+  },
+  "premiums": {
+    "Total monthly premium": "$49.00",
+    "Health premium": "0.00",
+    "Drug premium": "49.00",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00",
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "6,750"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copayOut-of-network: $50 copay",
+    "Specialist visit": "In-network: $8-$40 copayOut-of-network: $50 copay",
+    "Emergency care": "$130 copay",
+    "Inpatient hospital coverage": "Tier 1$350 per day for days 1-6$0 per day for days 7-90$0 per stay",
+    "Outpatient hospital coverage": "In-network: $350 copayOut-of-network: 20% coinsurance",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "$130 copay",
+    "Package #1Includes inpatient hospital coverage, and pos option": "Monthly premium: $70.00Deductible: N/A"
+  },
+  "drug_coverage": {
+    "Drug premium": "$49.00",
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "25% coinsurance",
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 20% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 20% coinsurance",
+    "Over the counter drug benefits": "Not covered"
+  },
+  "extra_benefits": [],
+  "plan_id": "H1035_002_0",
+  "state": "Florida"
+}

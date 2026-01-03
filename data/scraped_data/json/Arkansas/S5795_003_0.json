@@ -1,0 +1,23 @@
+{
+  "plan_info": {
+    "name": "BlueMedicare Value Rx (PDP)",
+    "contract_id": "S5795_003",
+    "plan_type": "PDP",
+    "organization": "Arkansas Blue Medicare"
+  },
+  "premiums": {
+    "Total monthly premium": "$52.50"
+  },
+  "deductibles": {
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "34% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S5795_003_0",
+  "state": "Arkansas"
+}

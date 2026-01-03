@@ -1,0 +1,46 @@
+{
+  "plan_info": {
+    "name": "Blue Cross Medicare Advantage Core (PPO)",
+    "contract_id": "H5959_012",
+    "plan_type": "PPO",
+    "organization": "Blue Cross and Blue Shield of Minnesota"
+  },
+  "premiums": {
+    "Total monthly premium": "$49.00",
+    "Health premium": "49.00",
+    "Drug premium": "0.00",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00",
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "10,050"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copayOut-of-network: 50% coinsurance",
+    "Specialist visit": "In-network: $50 copayOut-of-network: 50% coinsurance",
+    "Emergency care": "$130 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$465 per day for days 1-5$0 per day for days 6-90$0 Lifetime Reserve Days for days 1-60$0 per stayOut-of-network:50% per stay",
+    "Outpatient hospital coverage": "In-network: $20-$515 copayOut-of-network: 50% coinsurance",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "$130 copay"
+  },
+  "drug_coverage": {
+    "Drug premium": "$0.00",
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "43% coinsurance",
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 50% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 50% coinsurance",
+    "Over the counter drug benefits": "In-network: $0 copayOut-of-network: $0 copay, 0% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "H5959_012_0",
+  "state": "Minnesota"
+}

@@ -1,0 +1,23 @@
+{
+  "plan_info": {
+    "name": "SilverScript Choice (PDP)",
+    "contract_id": "S5601_060",
+    "plan_type": "PDP",
+    "organization": "Aetna Medicare"
+  },
+  "premiums": {
+    "Total monthly premium": "$85.90"
+  },
+  "deductibles": {
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "33% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S5601_060_0",
+  "state": "Washington"
+}

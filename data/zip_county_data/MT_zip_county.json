@@ -1,0 +1,7810 @@
+[
+  {
+    "zip": "59001",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30095",
+        "ratio": 0.9961,
+        "name": "Stillwater County"
+      },
+      {
+        "fips": "30009",
+        "ratio": 0.0039,
+        "name": "Carbon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30095",
+      "ratio": 0.9961,
+      "name": "Stillwater County"
+    }
+  },
+  {
+    "zip": "59002",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30111",
+        "ratio": 1.0,
+        "name": "Yellowstone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30111",
+      "ratio": 1.0,
+      "name": "Yellowstone County"
+    }
+  },
+  {
+    "zip": "59003",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30087",
+        "ratio": 1.0,
+        "name": "Rosebud County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30087",
+      "ratio": 1.0,
+      "name": "Rosebud County"
+    }
+  },
+  {
+    "zip": "59004",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30087",
+        "ratio": 1.0,
+        "name": "Rosebud County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30087",
+      "ratio": 1.0,
+      "name": "Rosebud County"
+    }
+  },
+  {
+    "zip": "59006",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30111",
+        "ratio": 1.0,
+        "name": "Yellowstone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30111",
+      "ratio": 1.0,
+      "name": "Yellowstone County"
+    }
+  },
+  {
+    "zip": "59007",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30009",
+        "ratio": 1.0,
+        "name": "Carbon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30009",
+      "ratio": 1.0,
+      "name": "Carbon County"
+    }
+  },
+  {
+    "zip": "59008",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30009",
+        "ratio": 1.0,
+        "name": "Carbon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30009",
+      "ratio": 1.0,
+      "name": "Carbon County"
+    }
+  },
+  {
+    "zip": "59010",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30103",
+        "ratio": 0.6782,
+        "name": "Treasure County"
+      },
+      {
+        "fips": "30003",
+        "ratio": 0.3218,
+        "name": "Big Horn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30103",
+      "ratio": 0.6782,
+      "name": "Treasure County"
+    }
+  },
+  {
+    "zip": "59011",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30097",
+        "ratio": 0.9928,
+        "name": "Sweet Grass County"
+      },
+      {
+        "fips": "30095",
+        "ratio": 0.0072,
+        "name": "Stillwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30097",
+      "ratio": 0.9928,
+      "name": "Sweet Grass County"
+    }
+  },
+  {
+    "zip": "59012",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30087",
+        "ratio": 1.0,
+        "name": "Rosebud County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30087",
+      "ratio": 1.0,
+      "name": "Rosebud County"
+    }
+  },
+  {
+    "zip": "59013",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30009",
+        "ratio": 1.0,
+        "name": "Carbon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30009",
+      "ratio": 1.0,
+      "name": "Carbon County"
+    }
+  },
+  {
+    "zip": "59014",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30009",
+        "ratio": 1.0,
+        "name": "Carbon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30009",
+      "ratio": 1.0,
+      "name": "Carbon County"
+    }
+  },
+  {
+    "zip": "59015",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "30111",
+        "ratio": 0.7907,
+        "name": "Yellowstone County"
+      },
+      {
+        "fips": "30095",
+        "ratio": 0.1163,
+        "name": "Stillwater County"
+      },
+      {
+        "fips": "30065",
+        "ratio": 0.0884,
+        "name": "Musselshell County"
+      },
+      {
+        "fips": "30037",
+        "ratio": 0.0047,
+        "name": "Golden Valley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30111",
+      "ratio": 0.7907,
+      "name": "Yellowstone County"
+    }
+  },
+  {
+    "zip": "59016",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30003",
+        "ratio": 1.0,
+        "name": "Big Horn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30003",
+      "ratio": 1.0,
+      "name": "Big Horn County"
+    }
+  },
+  {
+    "zip": "59018",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30067",
+        "ratio": 1.0,
+        "name": "Park County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30067",
+      "ratio": 1.0,
+      "name": "Park County"
+    }
+  },
+  {
+    "zip": "59019",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30095",
+        "ratio": 0.9909,
+        "name": "Stillwater County"
+      },
+      {
+        "fips": "30009",
+        "ratio": 0.0091,
+        "name": "Carbon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30095",
+      "ratio": 0.9909,
+      "name": "Stillwater County"
+    }
+  },
+  {
+    "zip": "59020",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30067",
+        "ratio": 1.0,
+        "name": "Park County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30067",
+      "ratio": 1.0,
+      "name": "Park County"
+    }
+  },
+  {
+    "zip": "59022",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30003",
+        "ratio": 1.0,
+        "name": "Big Horn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30003",
+      "ratio": 1.0,
+      "name": "Big Horn County"
+    }
+  },
+  {
+    "zip": "59024",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30111",
+        "ratio": 0.9598,
+        "name": "Yellowstone County"
+      },
+      {
+        "fips": "30003",
+        "ratio": 0.0402,
+        "name": "Big Horn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30111",
+      "ratio": 0.9598,
+      "name": "Yellowstone County"
+    }
+  },
+  {
+    "zip": "59025",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30003",
+        "ratio": 1.0,
+        "name": "Big Horn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30003",
+      "ratio": 1.0,
+      "name": "Big Horn County"
+    }
+  },
+  {
+    "zip": "59026",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30009",
+        "ratio": 1.0,
+        "name": "Carbon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30009",
+      "ratio": 1.0,
+      "name": "Carbon County"
+    }
+  },
+  {
+    "zip": "59027",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30067",
+        "ratio": 1.0,
+        "name": "Park County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30067",
+      "ratio": 1.0,
+      "name": "Park County"
+    }
+  },
+  {
+    "zip": "59028",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30095",
+        "ratio": 1.0,
+        "name": "Stillwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30095",
+      "ratio": 1.0,
+      "name": "Stillwater County"
+    }
+  },
+  {
+    "zip": "59029",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30009",
+        "ratio": 1.0,
+        "name": "Carbon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30009",
+      "ratio": 1.0,
+      "name": "Carbon County"
+    }
+  },
+  {
+    "zip": "59030",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30067",
+        "ratio": 1.0,
+        "name": "Park County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30067",
+      "ratio": 1.0,
+      "name": "Park County"
+    }
+  },
+  {
+    "zip": "59031",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30003",
+        "ratio": 1.0,
+        "name": "Big Horn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30003",
+      "ratio": 1.0,
+      "name": "Big Horn County"
+    }
+  },
+  {
+    "zip": "59032",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30027",
+        "ratio": 0.9906,
+        "name": "Fergus County"
+      },
+      {
+        "fips": "30069",
+        "ratio": 0.0094,
+        "name": "Petroleum County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30027",
+      "ratio": 0.9906,
+      "name": "Fergus County"
+    }
+  },
+  {
+    "zip": "59033",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30097",
+        "ratio": 1.0,
+        "name": "Sweet Grass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30097",
+      "ratio": 1.0,
+      "name": "Sweet Grass County"
+    }
+  },
+  {
+    "zip": "59034",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30003",
+        "ratio": 1.0,
+        "name": "Big Horn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30003",
+      "ratio": 1.0,
+      "name": "Big Horn County"
+    }
+  },
+  {
+    "zip": "59035",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30003",
+        "ratio": 1.0,
+        "name": "Big Horn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30003",
+      "ratio": 1.0,
+      "name": "Big Horn County"
+    }
+  },
+  {
+    "zip": "59036",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30107",
+        "ratio": 1.0,
+        "name": "Wheatland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30107",
+      "ratio": 1.0,
+      "name": "Wheatland County"
+    }
+  },
+  {
+    "zip": "59037",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30111",
+        "ratio": 1.0,
+        "name": "Yellowstone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30111",
+      "ratio": 1.0,
+      "name": "Yellowstone County"
+    }
+  },
+  {
+    "zip": "59038",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30103",
+        "ratio": 1.0,
+        "name": "Treasure County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30103",
+      "ratio": 1.0,
+      "name": "Treasure County"
+    }
+  },
+  {
+    "zip": "59039",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30087",
+        "ratio": 1.0,
+        "name": "Rosebud County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30087",
+      "ratio": 1.0,
+      "name": "Rosebud County"
+    }
+  },
+  {
+    "zip": "59041",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30009",
+        "ratio": 0.9632,
+        "name": "Carbon County"
+      },
+      {
+        "fips": "30111",
+        "ratio": 0.0368,
+        "name": "Yellowstone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30009",
+      "ratio": 0.9632,
+      "name": "Carbon County"
+    }
+  },
+  {
+    "zip": "59043",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30087",
+        "ratio": 1.0,
+        "name": "Rosebud County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30087",
+      "ratio": 1.0,
+      "name": "Rosebud County"
+    }
+  },
+  {
+    "zip": "59044",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "30111",
+        "ratio": 0.9724,
+        "name": "Yellowstone County"
+      },
+      {
+        "fips": "30009",
+        "ratio": 0.0243,
+        "name": "Carbon County"
+      },
+      {
+        "fips": "30095",
+        "ratio": 0.0032,
+        "name": "Stillwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30111",
+      "ratio": 0.9724,
+      "name": "Yellowstone County"
+    }
+  },
+  {
+    "zip": "59046",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "30037",
+        "ratio": 0.6051,
+        "name": "Golden Valley County"
+      },
+      {
+        "fips": "30065",
+        "ratio": 0.3872,
+        "name": "Musselshell County"
+      },
+      {
+        "fips": "30095",
+        "ratio": 0.0077,
+        "name": "Stillwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30037",
+      "ratio": 0.6051,
+      "name": "Golden Valley County"
+    }
+  },
+  {
+    "zip": "59047",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30067",
+        "ratio": 1.0,
+        "name": "Park County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30067",
+      "ratio": 1.0,
+      "name": "Park County"
+    }
+  },
+  {
+    "zip": "59050",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30003",
+        "ratio": 1.0,
+        "name": "Big Horn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30003",
+      "ratio": 1.0,
+      "name": "Big Horn County"
+    }
+  },
+  {
+    "zip": "59052",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30097",
+        "ratio": 0.629,
+        "name": "Sweet Grass County"
+      },
+      {
+        "fips": "30067",
+        "ratio": 0.371,
+        "name": "Park County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30097",
+      "ratio": 0.629,
+      "name": "Sweet Grass County"
+    }
+  },
+  {
+    "zip": "59053",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30059",
+        "ratio": 1.0,
+        "name": "Meagher County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30059",
+      "ratio": 1.0,
+      "name": "Meagher County"
+    }
+  },
+  {
+    "zip": "59054",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30065",
+        "ratio": 1.0,
+        "name": "Musselshell County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30065",
+      "ratio": 1.0,
+      "name": "Musselshell County"
+    }
+  },
+  {
+    "zip": "59055",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30097",
+        "ratio": 1.0,
+        "name": "Sweet Grass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30097",
+      "ratio": 1.0,
+      "name": "Sweet Grass County"
+    }
+  },
+  {
+    "zip": "59057",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30111",
+        "ratio": 0.7567,
+        "name": "Yellowstone County"
+      },
+      {
+        "fips": "30095",
+        "ratio": 0.2433,
+        "name": "Stillwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30111",
+      "ratio": 0.7567,
+      "name": "Yellowstone County"
+    }
+  },
+  {
+    "zip": "59058",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30033",
+        "ratio": 0.9365,
+        "name": "Garfield County"
+      },
+      {
+        "fips": "30069",
+        "ratio": 0.0635,
+        "name": "Petroleum County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30033",
+      "ratio": 0.9365,
+      "name": "Garfield County"
+    }
+  },
+  {
+    "zip": "59059",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30065",
+        "ratio": 1.0,
+        "name": "Musselshell County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30065",
+      "ratio": 1.0,
+      "name": "Musselshell County"
+    }
+  },
+  {
+    "zip": "59061",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30095",
+        "ratio": 1.0,
+        "name": "Stillwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30095",
+      "ratio": 1.0,
+      "name": "Stillwater County"
+    }
+  },
+  {
+    "zip": "59062",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30075",
+        "ratio": 1.0,
+        "name": "Powder River County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30075",
+      "ratio": 1.0,
+      "name": "Powder River County"
+    }
+  },
+  {
+    "zip": "59063",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30095",
+        "ratio": 0.9772,
+        "name": "Stillwater County"
+      },
+      {
+        "fips": "30111",
+        "ratio": 0.0228,
+        "name": "Yellowstone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30095",
+      "ratio": 0.9772,
+      "name": "Stillwater County"
+    }
+  },
+  {
+    "zip": "59064",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30111",
+        "ratio": 0.9927,
+        "name": "Yellowstone County"
+      },
+      {
+        "fips": "30003",
+        "ratio": 0.0073,
+        "name": "Big Horn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30111",
+      "ratio": 0.9927,
+      "name": "Yellowstone County"
+    }
+  },
+  {
+    "zip": "59065",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30067",
+        "ratio": 1.0,
+        "name": "Park County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30067",
+      "ratio": 1.0,
+      "name": "Park County"
+    }
+  },
+  {
+    "zip": "59066",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30003",
+        "ratio": 1.0,
+        "name": "Big Horn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30003",
+      "ratio": 1.0,
+      "name": "Big Horn County"
+    }
+  },
+  {
+    "zip": "59067",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30095",
+        "ratio": 1.0,
+        "name": "Stillwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30095",
+      "ratio": 1.0,
+      "name": "Stillwater County"
+    }
+  },
+  {
+    "zip": "59068",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30009",
+        "ratio": 1.0,
+        "name": "Carbon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30009",
+      "ratio": 1.0,
+      "name": "Carbon County"
+    }
+  },
+  {
+    "zip": "59069",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30095",
+        "ratio": 0.6972,
+        "name": "Stillwater County"
+      },
+      {
+        "fips": "30097",
+        "ratio": 0.3028,
+        "name": "Sweet Grass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30095",
+      "ratio": 0.6972,
+      "name": "Stillwater County"
+    }
+  },
+  {
+    "zip": "59070",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30009",
+        "ratio": 1.0,
+        "name": "Carbon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30009",
+      "ratio": 1.0,
+      "name": "Carbon County"
+    }
+  },
+  {
+    "zip": "59071",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30009",
+        "ratio": 1.0,
+        "name": "Carbon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30009",
+      "ratio": 1.0,
+      "name": "Carbon County"
+    }
+  },
+  {
+    "zip": "59072",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "30065",
+        "ratio": 0.9987,
+        "name": "Musselshell County"
+      },
+      {
+        "fips": "30027",
+        "ratio": 0.001,
+        "name": "Fergus County"
+      },
+      {
+        "fips": "30037",
+        "ratio": 0.0003,
+        "name": "Golden Valley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30065",
+      "ratio": 0.9987,
+      "name": "Musselshell County"
+    }
+  },
+  {
+    "zip": "59074",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "30037",
+        "ratio": 0.968,
+        "name": "Golden Valley County"
+      },
+      {
+        "fips": "30107",
+        "ratio": 0.02,
+        "name": "Wheatland County"
+      },
+      {
+        "fips": "30095",
+        "ratio": 0.012,
+        "name": "Stillwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30037",
+      "ratio": 0.968,
+      "name": "Golden Valley County"
+    }
+  },
+  {
+    "zip": "59075",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30003",
+        "ratio": 1.0,
+        "name": "Big Horn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30003",
+      "ratio": 1.0,
+      "name": "Big Horn County"
+    }
+  },
+  {
+    "zip": "59076",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30103",
+        "ratio": 1.0,
+        "name": "Treasure County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30103",
+      "ratio": 1.0,
+      "name": "Treasure County"
+    }
+  },
+  {
+    "zip": "59077",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30033",
+        "ratio": 1.0,
+        "name": "Garfield County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30033",
+      "ratio": 1.0,
+      "name": "Garfield County"
+    }
+  },
+  {
+    "zip": "59078",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "30107",
+        "ratio": 0.9099,
+        "name": "Wheatland County"
+      },
+      {
+        "fips": "30037",
+        "ratio": 0.0811,
+        "name": "Golden Valley County"
+      },
+      {
+        "fips": "30097",
+        "ratio": 0.009,
+        "name": "Sweet Grass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30107",
+      "ratio": 0.9099,
+      "name": "Wheatland County"
+    }
+  },
+  {
+    "zip": "59079",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30111",
+        "ratio": 1.0,
+        "name": "Yellowstone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30111",
+      "ratio": 1.0,
+      "name": "Yellowstone County"
+    }
+  },
+  {
+    "zip": "59081",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30067",
+        "ratio": 1.0,
+        "name": "Park County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30067",
+      "ratio": 1.0,
+      "name": "Park County"
+    }
+  },
+  {
+    "zip": "59082",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30067",
+        "ratio": 0.9773,
+        "name": "Park County"
+      },
+      {
+        "fips": "30097",
+        "ratio": 0.0227,
+        "name": "Sweet Grass County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30067",
+      "ratio": 0.9773,
+      "name": "Park County"
+    }
+  },
+  {
+    "zip": "59083",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30087",
+        "ratio": 1.0,
+        "name": "Rosebud County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30087",
+      "ratio": 1.0,
+      "name": "Rosebud County"
+    }
+  },
+  {
+    "zip": "59084",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30069",
+        "ratio": 1.0,
+        "name": "Petroleum County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30069",
+      "ratio": 1.0,
+      "name": "Petroleum County"
+    }
+  },
+  {
+    "zip": "59085",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30107",
+        "ratio": 1.0,
+        "name": "Wheatland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30107",
+      "ratio": 1.0,
+      "name": "Wheatland County"
+    }
+  },
+  {
+    "zip": "59086",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "30067",
+        "ratio": 0.9178,
+        "name": "Park County"
+      },
+      {
+        "fips": "30031",
+        "ratio": 0.0734,
+        "name": "Gallatin County"
+      },
+      {
+        "fips": "30059",
+        "ratio": 0.0087,
+        "name": "Meagher County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30067",
+      "ratio": 0.9178,
+      "name": "Park County"
+    }
+  },
+  {
+    "zip": "59087",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30069",
+        "ratio": 0.9862,
+        "name": "Petroleum County"
+      },
+      {
+        "fips": "30027",
+        "ratio": 0.0138,
+        "name": "Fergus County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30069",
+      "ratio": 0.9862,
+      "name": "Petroleum County"
+    }
+  },
+  {
+    "zip": "59088",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30111",
+        "ratio": 1.0,
+        "name": "Yellowstone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30111",
+      "ratio": 1.0,
+      "name": "Yellowstone County"
+    }
+  },
+  {
+    "zip": "59089",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30003",
+        "ratio": 1.0,
+        "name": "Big Horn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30003",
+      "ratio": 1.0,
+      "name": "Big Horn County"
+    }
+  },
+  {
+    "zip": "59101",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30111",
+        "ratio": 1.0,
+        "name": "Yellowstone County"
+      },
+      {
+        "fips": "30003",
+        "ratio": 0.0,
+        "name": "Big Horn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30111",
+      "ratio": 1.0,
+      "name": "Yellowstone County"
+    }
+  },
+  {
+    "zip": "59102",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30111",
+        "ratio": 1.0,
+        "name": "Yellowstone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30111",
+      "ratio": 1.0,
+      "name": "Yellowstone County"
+    }
+  },
+  {
+    "zip": "59103",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30111",
+        "ratio": 1.0,
+        "name": "Yellowstone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30111",
+      "ratio": 1.0,
+      "name": "Yellowstone County"
+    }
+  },
+  {
+    "zip": "59104",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30111",
+        "ratio": 1.0,
+        "name": "Yellowstone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30111",
+      "ratio": 1.0,
+      "name": "Yellowstone County"
+    }
+  },
+  {
+    "zip": "59105",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30111",
+        "ratio": 1.0,
+        "name": "Yellowstone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30111",
+      "ratio": 1.0,
+      "name": "Yellowstone County"
+    }
+  },
+  {
+    "zip": "59106",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30111",
+        "ratio": 1.0,
+        "name": "Yellowstone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30111",
+      "ratio": 1.0,
+      "name": "Yellowstone County"
+    }
+  },
+  {
+    "zip": "59107",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30111",
+        "ratio": 1.0,
+        "name": "Yellowstone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30111",
+      "ratio": 1.0,
+      "name": "Yellowstone County"
+    }
+  },
+  {
+    "zip": "59108",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30111",
+        "ratio": 1.0,
+        "name": "Yellowstone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30111",
+      "ratio": 1.0,
+      "name": "Yellowstone County"
+    }
+  },
+  {
+    "zip": "59111",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30111",
+        "ratio": 1.0,
+        "name": "Yellowstone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30111",
+      "ratio": 1.0,
+      "name": "Yellowstone County"
+    }
+  },
+  {
+    "zip": "59201",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "30085",
+        "ratio": 0.9069,
+        "name": "Roosevelt County"
+      },
+      {
+        "fips": "30055",
+        "ratio": 0.0771,
+        "name": "McCone County"
+      },
+      {
+        "fips": "30105",
+        "ratio": 0.014,
+        "name": "Valley County"
+      },
+      {
+        "fips": "30019",
+        "ratio": 0.0021,
+        "name": "Daniels County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30085",
+      "ratio": 0.9069,
+      "name": "Roosevelt County"
+    }
+  },
+  {
+    "zip": "59211",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30091",
+        "ratio": 1.0,
+        "name": "Sheridan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30091",
+      "ratio": 1.0,
+      "name": "Sheridan County"
+    }
+  },
+  {
+    "zip": "59212",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30085",
+        "ratio": 1.0,
+        "name": "Roosevelt County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30085",
+      "ratio": 1.0,
+      "name": "Roosevelt County"
+    }
+  },
+  {
+    "zip": "59213",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30083",
+        "ratio": 0.5647,
+        "name": "Richland County"
+      },
+      {
+        "fips": "30085",
+        "ratio": 0.4353,
+        "name": "Roosevelt County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30083",
+      "ratio": 0.5647,
+      "name": "Richland County"
+    }
+  },
+  {
+    "zip": "59214",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30055",
+        "ratio": 0.9677,
+        "name": "McCone County"
+      },
+      {
+        "fips": "30079",
+        "ratio": 0.0323,
+        "name": "Prairie County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30055",
+      "ratio": 0.9677,
+      "name": "McCone County"
+    }
+  },
+  {
+    "zip": "59215",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30055",
+        "ratio": 0.9423,
+        "name": "McCone County"
+      },
+      {
+        "fips": "30021",
+        "ratio": 0.0577,
+        "name": "Dawson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30055",
+      "ratio": 0.9423,
+      "name": "McCone County"
+    }
+  },
+  {
+    "zip": "59217",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30083",
+        "ratio": 1.0,
+        "name": "Richland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30083",
+      "ratio": 1.0,
+      "name": "Richland County"
+    }
+  },
+  {
+    "zip": "59218",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30085",
+        "ratio": 0.9256,
+        "name": "Roosevelt County"
+      },
+      {
+        "fips": "30083",
+        "ratio": 0.0744,
+        "name": "Richland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30085",
+      "ratio": 0.9256,
+      "name": "Roosevelt County"
+    }
+  },
+  {
+    "zip": "59219",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30091",
+        "ratio": 1.0,
+        "name": "Sheridan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30091",
+      "ratio": 1.0,
+      "name": "Sheridan County"
+    }
+  },
+  {
+    "zip": "59221",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30083",
+        "ratio": 1.0,
+        "name": "Richland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30083",
+      "ratio": 1.0,
+      "name": "Richland County"
+    }
+  },
+  {
+    "zip": "59222",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30019",
+        "ratio": 0.9829,
+        "name": "Daniels County"
+      },
+      {
+        "fips": "30085",
+        "ratio": 0.0171,
+        "name": "Roosevelt County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30019",
+      "ratio": 0.9829,
+      "name": "Daniels County"
+    }
+  },
+  {
+    "zip": "59223",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30055",
+        "ratio": 0.6203,
+        "name": "McCone County"
+      },
+      {
+        "fips": "30105",
+        "ratio": 0.3797,
+        "name": "Valley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30055",
+      "ratio": 0.6203,
+      "name": "McCone County"
+    }
+  },
+  {
+    "zip": "59225",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30105",
+        "ratio": 1.0,
+        "name": "Valley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30105",
+      "ratio": 1.0,
+      "name": "Valley County"
+    }
+  },
+  {
+    "zip": "59226",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30085",
+        "ratio": 1.0,
+        "name": "Roosevelt County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30085",
+      "ratio": 1.0,
+      "name": "Roosevelt County"
+    }
+  },
+  {
+    "zip": "59230",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30105",
+        "ratio": 1.0,
+        "name": "Valley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30105",
+      "ratio": 1.0,
+      "name": "Valley County"
+    }
+  },
+  {
+    "zip": "59231",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30105",
+        "ratio": 1.0,
+        "name": "Valley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30105",
+      "ratio": 1.0,
+      "name": "Valley County"
+    }
+  },
+  {
+    "zip": "59240",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30105",
+        "ratio": 1.0,
+        "name": "Valley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30105",
+      "ratio": 1.0,
+      "name": "Valley County"
+    }
+  },
+  {
+    "zip": "59241",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30105",
+        "ratio": 0.9873,
+        "name": "Valley County"
+      },
+      {
+        "fips": "30071",
+        "ratio": 0.0127,
+        "name": "Phillips County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30105",
+      "ratio": 0.9873,
+      "name": "Valley County"
+    }
+  },
+  {
+    "zip": "59242",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30091",
+        "ratio": 0.8507,
+        "name": "Sheridan County"
+      },
+      {
+        "fips": "30085",
+        "ratio": 0.1493,
+        "name": "Roosevelt County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30091",
+      "ratio": 0.8507,
+      "name": "Sheridan County"
+    }
+  },
+  {
+    "zip": "59243",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30083",
+        "ratio": 1.0,
+        "name": "Richland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30083",
+      "ratio": 1.0,
+      "name": "Richland County"
+    }
+  },
+  {
+    "zip": "59244",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30105",
+        "ratio": 1.0,
+        "name": "Valley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30105",
+      "ratio": 1.0,
+      "name": "Valley County"
+    }
+  },
+  {
+    "zip": "59247",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30091",
+        "ratio": 1.0,
+        "name": "Sheridan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30091",
+      "ratio": 1.0,
+      "name": "Sheridan County"
+    }
+  },
+  {
+    "zip": "59248",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30105",
+        "ratio": 1.0,
+        "name": "Valley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30105",
+      "ratio": 1.0,
+      "name": "Valley County"
+    }
+  },
+  {
+    "zip": "59250",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30105",
+        "ratio": 1.0,
+        "name": "Valley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30105",
+      "ratio": 1.0,
+      "name": "Valley County"
+    }
+  },
+  {
+    "zip": "59252",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30091",
+        "ratio": 1.0,
+        "name": "Sheridan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30091",
+      "ratio": 1.0,
+      "name": "Sheridan County"
+    }
+  },
+  {
+    "zip": "59253",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30019",
+        "ratio": 0.9873,
+        "name": "Daniels County"
+      },
+      {
+        "fips": "30105",
+        "ratio": 0.0127,
+        "name": "Valley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30019",
+      "ratio": 0.9873,
+      "name": "Daniels County"
+    }
+  },
+  {
+    "zip": "59254",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30091",
+        "ratio": 1.0,
+        "name": "Sheridan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30091",
+      "ratio": 1.0,
+      "name": "Sheridan County"
+    }
+  },
+  {
+    "zip": "59255",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "30085",
+        "ratio": 0.9118,
+        "name": "Roosevelt County"
+      },
+      {
+        "fips": "30083",
+        "ratio": 0.0854,
+        "name": "Richland County"
+      },
+      {
+        "fips": "30055",
+        "ratio": 0.0028,
+        "name": "McCone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30085",
+      "ratio": 0.9118,
+      "name": "Roosevelt County"
+    }
+  },
+  {
+    "zip": "59256",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30091",
+        "ratio": 1.0,
+        "name": "Sheridan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30091",
+      "ratio": 1.0,
+      "name": "Sheridan County"
+    }
+  },
+  {
+    "zip": "59257",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30091",
+        "ratio": 0.9853,
+        "name": "Sheridan County"
+      },
+      {
+        "fips": "30019",
+        "ratio": 0.0147,
+        "name": "Daniels County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30091",
+      "ratio": 0.9853,
+      "name": "Sheridan County"
+    }
+  },
+  {
+    "zip": "59258",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30091",
+        "ratio": 0.8642,
+        "name": "Sheridan County"
+      },
+      {
+        "fips": "30085",
+        "ratio": 0.1358,
+        "name": "Roosevelt County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30091",
+      "ratio": 0.8642,
+      "name": "Sheridan County"
+    }
+  },
+  {
+    "zip": "59259",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30021",
+        "ratio": 0.8819,
+        "name": "Dawson County"
+      },
+      {
+        "fips": "30083",
+        "ratio": 0.1181,
+        "name": "Richland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30021",
+      "ratio": 0.8819,
+      "name": "Dawson County"
+    }
+  },
+  {
+    "zip": "59260",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30105",
+        "ratio": 0.5789,
+        "name": "Valley County"
+      },
+      {
+        "fips": "30019",
+        "ratio": 0.4211,
+        "name": "Daniels County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30105",
+      "ratio": 0.5789,
+      "name": "Valley County"
+    }
+  },
+  {
+    "zip": "59261",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30071",
+        "ratio": 0.9607,
+        "name": "Phillips County"
+      },
+      {
+        "fips": "30105",
+        "ratio": 0.0393,
+        "name": "Valley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30071",
+      "ratio": 0.9607,
+      "name": "Phillips County"
+    }
+  },
+  {
+    "zip": "59262",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30083",
+        "ratio": 0.9651,
+        "name": "Richland County"
+      },
+      {
+        "fips": "30021",
+        "ratio": 0.0349,
+        "name": "Dawson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30083",
+      "ratio": 0.9651,
+      "name": "Richland County"
+    }
+  },
+  {
+    "zip": "59263",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30019",
+        "ratio": 1.0,
+        "name": "Daniels County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30019",
+      "ratio": 1.0,
+      "name": "Daniels County"
+    }
+  },
+  {
+    "zip": "59270",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30083",
+        "ratio": 1.0,
+        "name": "Richland County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30083",
+      "ratio": 1.0,
+      "name": "Richland County"
+    }
+  },
+  {
+    "zip": "59273",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30105",
+        "ratio": 1.0,
+        "name": "Valley County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30105",
+      "ratio": 1.0,
+      "name": "Valley County"
+    }
+  },
+  {
+    "zip": "59274",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30055",
+        "ratio": 1.0,
+        "name": "McCone County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30055",
+      "ratio": 1.0,
+      "name": "McCone County"
+    }
+  },
+  {
+    "zip": "59275",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30091",
+        "ratio": 1.0,
+        "name": "Sheridan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30091",
+      "ratio": 1.0,
+      "name": "Sheridan County"
+    }
+  },
+  {
+    "zip": "59276",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30019",
+        "ratio": 1.0,
+        "name": "Daniels County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30019",
+      "ratio": 1.0,
+      "name": "Daniels County"
+    }
+  },
+  {
+    "zip": "59301",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30017",
+        "ratio": 1.0,
+        "name": "Custer County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30017",
+      "ratio": 1.0,
+      "name": "Custer County"
+    }
+  },
+  {
+    "zip": "59311",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30011",
+        "ratio": 1.0,
+        "name": "Carter County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30011",
+      "ratio": 1.0,
+      "name": "Carter County"
+    }
+  },
+  {
+    "zip": "59312",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30087",
+        "ratio": 1.0,
+        "name": "Rosebud County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30087",
+      "ratio": 1.0,
+      "name": "Rosebud County"
+    }
+  },
+  {
+    "zip": "59313",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30025",
+        "ratio": 1.0,
+        "name": "Fallon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30025",
+      "ratio": 1.0,
+      "name": "Fallon County"
+    }
+  },
+  {
+    "zip": "59314",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30075",
+        "ratio": 1.0,
+        "name": "Powder River County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30075",
+      "ratio": 1.0,
+      "name": "Powder River County"
+    }
+  },
+  {
+    "zip": "59315",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30021",
+        "ratio": 1.0,
+        "name": "Dawson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30021",
+      "ratio": 1.0,
+      "name": "Dawson County"
+    }
+  },
+  {
+    "zip": "59316",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30011",
+        "ratio": 1.0,
+        "name": "Carter County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30011",
+      "ratio": 1.0,
+      "name": "Carter County"
+    }
+  },
+  {
+    "zip": "59317",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30075",
+        "ratio": 1.0,
+        "name": "Powder River County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30075",
+      "ratio": 1.0,
+      "name": "Powder River County"
+    }
+  },
+  {
+    "zip": "59318",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30033",
+        "ratio": 1.0,
+        "name": "Garfield County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30033",
+      "ratio": 1.0,
+      "name": "Garfield County"
+    }
+  },
+  {
+    "zip": "59319",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30011",
+        "ratio": 1.0,
+        "name": "Carter County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30011",
+      "ratio": 1.0,
+      "name": "Carter County"
+    }
+  },
+  {
+    "zip": "59322",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30033",
+        "ratio": 1.0,
+        "name": "Garfield County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30033",
+      "ratio": 1.0,
+      "name": "Garfield County"
+    }
+  },
+  {
+    "zip": "59323",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30087",
+        "ratio": 1.0,
+        "name": "Rosebud County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30087",
+      "ratio": 1.0,
+      "name": "Rosebud County"
+    }
+  },
+  {
+    "zip": "59324",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30011",
+        "ratio": 1.0,
+        "name": "Carter County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30011",
+      "ratio": 1.0,
+      "name": "Carter County"
+    }
+  },
+  {
+    "zip": "59326",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30079",
+        "ratio": 0.9252,
+        "name": "Prairie County"
+      },
+      {
+        "fips": "30021",
+        "ratio": 0.0748,
+        "name": "Dawson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30079",
+      "ratio": 0.9252,
+      "name": "Prairie County"
+    }
+  },
+  {
+    "zip": "59327",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30087",
+        "ratio": 0.9766,
+        "name": "Rosebud County"
+      },
+      {
+        "fips": "30103",
+        "ratio": 0.0234,
+        "name": "Treasure County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30087",
+      "ratio": 0.9766,
+      "name": "Rosebud County"
+    }
+  },
+  {
+    "zip": "59330",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30021",
+        "ratio": 0.9964,
+        "name": "Dawson County"
+      },
+      {
+        "fips": "30079",
+        "ratio": 0.0036,
+        "name": "Prairie County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30021",
+      "ratio": 0.9964,
+      "name": "Dawson County"
+    }
+  },
+  {
+    "zip": "59332",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30011",
+        "ratio": 1.0,
+        "name": "Carter County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30011",
+      "ratio": 1.0,
+      "name": "Carter County"
+    }
+  },
+  {
+    "zip": "59333",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30087",
+        "ratio": 1.0,
+        "name": "Rosebud County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30087",
+      "ratio": 1.0,
+      "name": "Rosebud County"
+    }
+  },
+  {
+    "zip": "59336",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "30017",
+        "ratio": 0.744,
+        "name": "Custer County"
+      },
+      {
+        "fips": "30025",
+        "ratio": 0.168,
+        "name": "Fallon County"
+      },
+      {
+        "fips": "30079",
+        "ratio": 0.048,
+        "name": "Prairie County"
+      },
+      {
+        "fips": "30011",
+        "ratio": 0.04,
+        "name": "Carter County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30017",
+      "ratio": 0.744,
+      "name": "Custer County"
+    }
+  },
+  {
+    "zip": "59337",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30033",
+        "ratio": 1.0,
+        "name": "Garfield County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30033",
+      "ratio": 1.0,
+      "name": "Garfield County"
+    }
+  },
+  {
+    "zip": "59338",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30017",
+        "ratio": 1.0,
+        "name": "Custer County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30017",
+      "ratio": 1.0,
+      "name": "Custer County"
+    }
+  },
+  {
+    "zip": "59339",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30021",
+        "ratio": 0.9906,
+        "name": "Dawson County"
+      },
+      {
+        "fips": "30079",
+        "ratio": 0.0094,
+        "name": "Prairie County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30021",
+      "ratio": 0.9906,
+      "name": "Dawson County"
+    }
+  },
+  {
+    "zip": "59341",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30079",
+        "ratio": 1.0,
+        "name": "Prairie County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30079",
+      "ratio": 1.0,
+      "name": "Prairie County"
+    }
+  },
+  {
+    "zip": "59343",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30075",
+        "ratio": 1.0,
+        "name": "Powder River County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30075",
+      "ratio": 1.0,
+      "name": "Powder River County"
+    }
+  },
+  {
+    "zip": "59344",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30025",
+        "ratio": 1.0,
+        "name": "Fallon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30025",
+      "ratio": 1.0,
+      "name": "Fallon County"
+    }
+  },
+  {
+    "zip": "59345",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30075",
+        "ratio": 1.0,
+        "name": "Powder River County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30075",
+      "ratio": 1.0,
+      "name": "Powder River County"
+    }
+  },
+  {
+    "zip": "59347",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30087",
+        "ratio": 0.927,
+        "name": "Rosebud County"
+      },
+      {
+        "fips": "30017",
+        "ratio": 0.073,
+        "name": "Custer County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30087",
+      "ratio": 0.927,
+      "name": "Rosebud County"
+    }
+  },
+  {
+    "zip": "59349",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30079",
+        "ratio": 0.9942,
+        "name": "Prairie County"
+      },
+      {
+        "fips": "30017",
+        "ratio": 0.0058,
+        "name": "Custer County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30079",
+      "ratio": 0.9942,
+      "name": "Prairie County"
+    }
+  },
+  {
+    "zip": "59351",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30075",
+        "ratio": 0.9159,
+        "name": "Powder River County"
+      },
+      {
+        "fips": "30017",
+        "ratio": 0.0841,
+        "name": "Custer County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30075",
+      "ratio": 0.9159,
+      "name": "Powder River County"
+    }
+  },
+  {
+    "zip": "59353",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "30109",
+        "ratio": 0.9824,
+        "name": "Wibaux County"
+      },
+      {
+        "fips": "30021",
+        "ratio": 0.0141,
+        "name": "Dawson County"
+      },
+      {
+        "fips": "30025",
+        "ratio": 0.0035,
+        "name": "Fallon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30109",
+      "ratio": 0.9824,
+      "name": "Wibaux County"
+    }
+  },
+  {
+    "zip": "59354",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30025",
+        "ratio": 1.0,
+        "name": "Fallon County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30025",
+      "ratio": 1.0,
+      "name": "Fallon County"
+    }
+  },
+  {
+    "zip": "59401",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30013",
+        "ratio": 1.0,
+        "name": "Cascade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30013",
+      "ratio": 1.0,
+      "name": "Cascade County"
+    }
+  },
+  {
+    "zip": "59402",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30013",
+        "ratio": 1.0,
+        "name": "Cascade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30013",
+      "ratio": 1.0,
+      "name": "Cascade County"
+    }
+  },
+  {
+    "zip": "59403",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30013",
+        "ratio": 1.0,
+        "name": "Cascade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30013",
+      "ratio": 1.0,
+      "name": "Cascade County"
+    }
+  },
+  {
+    "zip": "59404",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30013",
+        "ratio": 0.9997,
+        "name": "Cascade County"
+      },
+      {
+        "fips": "30015",
+        "ratio": 0.0003,
+        "name": "Chouteau County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30013",
+      "ratio": 0.9997,
+      "name": "Cascade County"
+    }
+  },
+  {
+    "zip": "59405",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30013",
+        "ratio": 1.0,
+        "name": "Cascade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30013",
+      "ratio": 1.0,
+      "name": "Cascade County"
+    }
+  },
+  {
+    "zip": "59406",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30013",
+        "ratio": 1.0,
+        "name": "Cascade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30013",
+      "ratio": 1.0,
+      "name": "Cascade County"
+    }
+  },
+  {
+    "zip": "59410",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30049",
+        "ratio": 1.0,
+        "name": "Lewis and Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30049",
+      "ratio": 1.0,
+      "name": "Lewis and Clark County"
+    }
+  },
+  {
+    "zip": "59411",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30035",
+        "ratio": 1.0,
+        "name": "Glacier County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30035",
+      "ratio": 1.0,
+      "name": "Glacier County"
+    }
+  },
+  {
+    "zip": "59412",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30013",
+        "ratio": 1.0,
+        "name": "Cascade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30013",
+      "ratio": 1.0,
+      "name": "Cascade County"
+    }
+  },
+  {
+    "zip": "59414",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30013",
+        "ratio": 1.0,
+        "name": "Cascade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30013",
+      "ratio": 1.0,
+      "name": "Cascade County"
+    }
+  },
+  {
+    "zip": "59416",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "30073",
+        "ratio": 0.8036,
+        "name": "Pondera County"
+      },
+      {
+        "fips": "30015",
+        "ratio": 0.1786,
+        "name": "Chouteau County"
+      },
+      {
+        "fips": "30099",
+        "ratio": 0.0179,
+        "name": "Teton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30073",
+      "ratio": 0.8036,
+      "name": "Pondera County"
+    }
+  },
+  {
+    "zip": "59417",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30035",
+        "ratio": 1.0,
+        "name": "Glacier County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30035",
+      "ratio": 1.0,
+      "name": "Glacier County"
+    }
+  },
+  {
+    "zip": "59418",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30045",
+        "ratio": 0.5696,
+        "name": "Judith Basin County"
+      },
+      {
+        "fips": "30027",
+        "ratio": 0.4304,
+        "name": "Fergus County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30045",
+      "ratio": 0.5696,
+      "name": "Judith Basin County"
+    }
+  },
+  {
+    "zip": "59419",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30099",
+        "ratio": 1.0,
+        "name": "Teton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30099",
+      "ratio": 1.0,
+      "name": "Teton County"
+    }
+  },
+  {
+    "zip": "59420",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30015",
+        "ratio": 1.0,
+        "name": "Chouteau County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30015",
+      "ratio": 1.0,
+      "name": "Chouteau County"
+    }
+  },
+  {
+    "zip": "59421",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30013",
+        "ratio": 0.8656,
+        "name": "Cascade County"
+      },
+      {
+        "fips": "30049",
+        "ratio": 0.1344,
+        "name": "Lewis and Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30013",
+      "ratio": 0.8656,
+      "name": "Cascade County"
+    }
+  },
+  {
+    "zip": "59422",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30099",
+        "ratio": 1.0,
+        "name": "Teton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30099",
+      "ratio": 1.0,
+      "name": "Teton County"
+    }
+  },
+  {
+    "zip": "59424",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30027",
+        "ratio": 0.9483,
+        "name": "Fergus County"
+      },
+      {
+        "fips": "30045",
+        "ratio": 0.0517,
+        "name": "Judith Basin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30027",
+      "ratio": 0.9483,
+      "name": "Fergus County"
+    }
+  },
+  {
+    "zip": "59425",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30073",
+        "ratio": 0.9872,
+        "name": "Pondera County"
+      },
+      {
+        "fips": "30099",
+        "ratio": 0.0128,
+        "name": "Teton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30073",
+      "ratio": 0.9872,
+      "name": "Pondera County"
+    }
+  },
+  {
+    "zip": "59427",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30035",
+        "ratio": 0.9968,
+        "name": "Glacier County"
+      },
+      {
+        "fips": "30101",
+        "ratio": 0.0032,
+        "name": "Toole County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30035",
+      "ratio": 0.9968,
+      "name": "Glacier County"
+    }
+  },
+  {
+    "zip": "59430",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30027",
+        "ratio": 0.9802,
+        "name": "Fergus County"
+      },
+      {
+        "fips": "30045",
+        "ratio": 0.0198,
+        "name": "Judith Basin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30027",
+      "ratio": 0.9802,
+      "name": "Fergus County"
+    }
+  },
+  {
+    "zip": "59432",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30073",
+        "ratio": 1.0,
+        "name": "Pondera County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30073",
+      "ratio": 1.0,
+      "name": "Pondera County"
+    }
+  },
+  {
+    "zip": "59433",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30099",
+        "ratio": 0.9913,
+        "name": "Teton County"
+      },
+      {
+        "fips": "30015",
+        "ratio": 0.0087,
+        "name": "Chouteau County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30099",
+      "ratio": 0.9913,
+      "name": "Teton County"
+    }
+  },
+  {
+    "zip": "59434",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30035",
+        "ratio": 1.0,
+        "name": "Glacier County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30035",
+      "ratio": 1.0,
+      "name": "Glacier County"
+    }
+  },
+  {
+    "zip": "59435",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30101",
+        "ratio": 1.0,
+        "name": "Toole County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30101",
+      "ratio": 1.0,
+      "name": "Toole County"
+    }
+  },
+  {
+    "zip": "59436",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30099",
+        "ratio": 0.9968,
+        "name": "Teton County"
+      },
+      {
+        "fips": "30013",
+        "ratio": 0.0032,
+        "name": "Cascade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30099",
+      "ratio": 0.9968,
+      "name": "Teton County"
+    }
+  },
+  {
+    "zip": "59440",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30015",
+        "ratio": 0.6355,
+        "name": "Chouteau County"
+      },
+      {
+        "fips": "30013",
+        "ratio": 0.3645,
+        "name": "Cascade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30015",
+      "ratio": 0.6355,
+      "name": "Chouteau County"
+    }
+  },
+  {
+    "zip": "59441",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30027",
+        "ratio": 1.0,
+        "name": "Fergus County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30027",
+      "ratio": 1.0,
+      "name": "Fergus County"
+    }
+  },
+  {
+    "zip": "59442",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30015",
+        "ratio": 1.0,
+        "name": "Chouteau County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30015",
+      "ratio": 1.0,
+      "name": "Chouteau County"
+    }
+  },
+  {
+    "zip": "59443",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30013",
+        "ratio": 0.9624,
+        "name": "Cascade County"
+      },
+      {
+        "fips": "30099",
+        "ratio": 0.0376,
+        "name": "Teton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30013",
+      "ratio": 0.9624,
+      "name": "Cascade County"
+    }
+  },
+  {
+    "zip": "59444",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30101",
+        "ratio": 0.9438,
+        "name": "Toole County"
+      },
+      {
+        "fips": "30051",
+        "ratio": 0.0562,
+        "name": "Liberty County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30101",
+      "ratio": 0.9438,
+      "name": "Toole County"
+    }
+  },
+  {
+    "zip": "59446",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30015",
+        "ratio": 1.0,
+        "name": "Chouteau County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30015",
+      "ratio": 1.0,
+      "name": "Chouteau County"
+    }
+  },
+  {
+    "zip": "59447",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30045",
+        "ratio": 0.9103,
+        "name": "Judith Basin County"
+      },
+      {
+        "fips": "30015",
+        "ratio": 0.0897,
+        "name": "Chouteau County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30045",
+      "ratio": 0.9103,
+      "name": "Judith Basin County"
+    }
+  },
+  {
+    "zip": "59448",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30073",
+        "ratio": 1.0,
+        "name": "Pondera County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30073",
+      "ratio": 1.0,
+      "name": "Pondera County"
+    }
+  },
+  {
+    "zip": "59450",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30015",
+        "ratio": 1.0,
+        "name": "Chouteau County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30015",
+      "ratio": 1.0,
+      "name": "Chouteau County"
+    }
+  },
+  {
+    "zip": "59451",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30027",
+        "ratio": 1.0,
+        "name": "Fergus County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30027",
+      "ratio": 1.0,
+      "name": "Fergus County"
+    }
+  },
+  {
+    "zip": "59452",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30045",
+        "ratio": 1.0,
+        "name": "Judith Basin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30045",
+      "ratio": 1.0,
+      "name": "Judith Basin County"
+    }
+  },
+  {
+    "zip": "59453",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30107",
+        "ratio": 0.8341,
+        "name": "Wheatland County"
+      },
+      {
+        "fips": "30027",
+        "ratio": 0.1659,
+        "name": "Fergus County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30107",
+      "ratio": 0.8341,
+      "name": "Wheatland County"
+    }
+  },
+  {
+    "zip": "59454",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30101",
+        "ratio": 1.0,
+        "name": "Toole County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30101",
+      "ratio": 1.0,
+      "name": "Toole County"
+    }
+  },
+  {
+    "zip": "59456",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "30101",
+        "ratio": 0.6462,
+        "name": "Toole County"
+      },
+      {
+        "fips": "30073",
+        "ratio": 0.1846,
+        "name": "Pondera County"
+      },
+      {
+        "fips": "30051",
+        "ratio": 0.1692,
+        "name": "Liberty County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30101",
+      "ratio": 0.6462,
+      "name": "Toole County"
+    }
+  },
+  {
+    "zip": "59457",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30027",
+        "ratio": 1.0,
+        "name": "Fergus County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30027",
+      "ratio": 1.0,
+      "name": "Fergus County"
+    }
+  },
+  {
+    "zip": "59460",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30015",
+        "ratio": 1.0,
+        "name": "Chouteau County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30015",
+      "ratio": 1.0,
+      "name": "Chouteau County"
+    }
+  },
+  {
+    "zip": "59461",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30051",
+        "ratio": 0.963,
+        "name": "Liberty County"
+      },
+      {
+        "fips": "30101",
+        "ratio": 0.037,
+        "name": "Toole County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30051",
+      "ratio": 0.963,
+      "name": "Liberty County"
+    }
+  },
+  {
+    "zip": "59462",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30045",
+        "ratio": 0.9558,
+        "name": "Judith Basin County"
+      },
+      {
+        "fips": "30027",
+        "ratio": 0.0442,
+        "name": "Fergus County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30045",
+      "ratio": 0.9558,
+      "name": "Judith Basin County"
+    }
+  },
+  {
+    "zip": "59463",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30013",
+        "ratio": 1.0,
+        "name": "Cascade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30013",
+      "ratio": 1.0,
+      "name": "Cascade County"
+    }
+  },
+  {
+    "zip": "59464",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30027",
+        "ratio": 0.9968,
+        "name": "Fergus County"
+      },
+      {
+        "fips": "30045",
+        "ratio": 0.0032,
+        "name": "Judith Basin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30027",
+      "ratio": 0.9968,
+      "name": "Fergus County"
+    }
+  },
+  {
+    "zip": "59465",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30013",
+        "ratio": 1.0,
+        "name": "Cascade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30013",
+      "ratio": 1.0,
+      "name": "Cascade County"
+    }
+  },
+  {
+    "zip": "59466",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30101",
+        "ratio": 1.0,
+        "name": "Toole County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30101",
+      "ratio": 1.0,
+      "name": "Toole County"
+    }
+  },
+  {
+    "zip": "59467",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30099",
+        "ratio": 1.0,
+        "name": "Teton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30099",
+      "ratio": 1.0,
+      "name": "Teton County"
+    }
+  },
+  {
+    "zip": "59468",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30099",
+        "ratio": 0.9065,
+        "name": "Teton County"
+      },
+      {
+        "fips": "30013",
+        "ratio": 0.0935,
+        "name": "Cascade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30099",
+      "ratio": 0.9065,
+      "name": "Teton County"
+    }
+  },
+  {
+    "zip": "59469",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30045",
+        "ratio": 1.0,
+        "name": "Judith Basin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30045",
+      "ratio": 1.0,
+      "name": "Judith Basin County"
+    }
+  },
+  {
+    "zip": "59471",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30027",
+        "ratio": 1.0,
+        "name": "Fergus County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30027",
+      "ratio": 1.0,
+      "name": "Fergus County"
+    }
+  },
+  {
+    "zip": "59472",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30013",
+        "ratio": 1.0,
+        "name": "Cascade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30013",
+      "ratio": 1.0,
+      "name": "Cascade County"
+    }
+  },
+  {
+    "zip": "59474",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30101",
+        "ratio": 1.0,
+        "name": "Toole County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30101",
+      "ratio": 1.0,
+      "name": "Toole County"
+    }
+  },
+  {
+    "zip": "59477",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30013",
+        "ratio": 1.0,
+        "name": "Cascade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30013",
+      "ratio": 1.0,
+      "name": "Cascade County"
+    }
+  },
+  {
+    "zip": "59479",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30045",
+        "ratio": 1.0,
+        "name": "Judith Basin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30045",
+      "ratio": 1.0,
+      "name": "Judith Basin County"
+    }
+  },
+  {
+    "zip": "59480",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30013",
+        "ratio": 1.0,
+        "name": "Cascade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30013",
+      "ratio": 1.0,
+      "name": "Cascade County"
+    }
+  },
+  {
+    "zip": "59482",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30101",
+        "ratio": 1.0,
+        "name": "Toole County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30101",
+      "ratio": 1.0,
+      "name": "Toole County"
+    }
+  },
+  {
+    "zip": "59483",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30013",
+        "ratio": 1.0,
+        "name": "Cascade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30013",
+      "ratio": 1.0,
+      "name": "Cascade County"
+    }
+  },
+  {
+    "zip": "59484",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30101",
+        "ratio": 1.0,
+        "name": "Toole County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30101",
+      "ratio": 1.0,
+      "name": "Toole County"
+    }
+  },
+  {
+    "zip": "59485",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30013",
+        "ratio": 1.0,
+        "name": "Cascade County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30013",
+      "ratio": 1.0,
+      "name": "Cascade County"
+    }
+  },
+  {
+    "zip": "59486",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30073",
+        "ratio": 0.9914,
+        "name": "Pondera County"
+      },
+      {
+        "fips": "30035",
+        "ratio": 0.0086,
+        "name": "Glacier County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30073",
+      "ratio": 0.9914,
+      "name": "Pondera County"
+    }
+  },
+  {
+    "zip": "59487",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30013",
+        "ratio": 0.9801,
+        "name": "Cascade County"
+      },
+      {
+        "fips": "30099",
+        "ratio": 0.0199,
+        "name": "Teton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30013",
+      "ratio": 0.9801,
+      "name": "Cascade County"
+    }
+  },
+  {
+    "zip": "59489",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30027",
+        "ratio": 1.0,
+        "name": "Fergus County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30027",
+      "ratio": 1.0,
+      "name": "Fergus County"
+    }
+  },
+  {
+    "zip": "59501",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30041",
+        "ratio": 0.9995,
+        "name": "Hill County"
+      },
+      {
+        "fips": "30005",
+        "ratio": 0.0005,
+        "name": "Blaine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30041",
+      "ratio": 0.9995,
+      "name": "Hill County"
+    }
+  },
+  {
+    "zip": "59520",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "30015",
+        "ratio": 0.9958,
+        "name": "Chouteau County"
+      },
+      {
+        "fips": "30041",
+        "ratio": 0.0021,
+        "name": "Hill County"
+      },
+      {
+        "fips": "30005",
+        "ratio": 0.0021,
+        "name": "Blaine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30015",
+      "ratio": 0.9958,
+      "name": "Chouteau County"
+    }
+  },
+  {
+    "zip": "59521",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30041",
+        "ratio": 0.6396,
+        "name": "Hill County"
+      },
+      {
+        "fips": "30015",
+        "ratio": 0.3604,
+        "name": "Chouteau County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30041",
+      "ratio": 0.6396,
+      "name": "Hill County"
+    }
+  },
+  {
+    "zip": "59522",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30051",
+        "ratio": 1.0,
+        "name": "Liberty County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30051",
+      "ratio": 1.0,
+      "name": "Liberty County"
+    }
+  },
+  {
+    "zip": "59523",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30005",
+        "ratio": 0.9943,
+        "name": "Blaine County"
+      },
+      {
+        "fips": "30041",
+        "ratio": 0.0057,
+        "name": "Hill County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30005",
+      "ratio": 0.9943,
+      "name": "Blaine County"
+    }
+  },
+  {
+    "zip": "59524",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30071",
+        "ratio": 0.6854,
+        "name": "Phillips County"
+      },
+      {
+        "fips": "30005",
+        "ratio": 0.3146,
+        "name": "Blaine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30071",
+      "ratio": 0.6854,
+      "name": "Phillips County"
+    }
+  },
+  {
+    "zip": "59525",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30041",
+        "ratio": 1.0,
+        "name": "Hill County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30041",
+      "ratio": 1.0,
+      "name": "Hill County"
+    }
+  },
+  {
+    "zip": "59526",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30005",
+        "ratio": 1.0,
+        "name": "Blaine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30005",
+      "ratio": 1.0,
+      "name": "Blaine County"
+    }
+  },
+  {
+    "zip": "59527",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30005",
+        "ratio": 1.0,
+        "name": "Blaine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30005",
+      "ratio": 1.0,
+      "name": "Blaine County"
+    }
+  },
+  {
+    "zip": "59528",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30041",
+        "ratio": 1.0,
+        "name": "Hill County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30041",
+      "ratio": 1.0,
+      "name": "Hill County"
+    }
+  },
+  {
+    "zip": "59529",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30005",
+        "ratio": 1.0,
+        "name": "Blaine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30005",
+      "ratio": 1.0,
+      "name": "Blaine County"
+    }
+  },
+  {
+    "zip": "59530",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30041",
+        "ratio": 1.0,
+        "name": "Hill County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30041",
+      "ratio": 1.0,
+      "name": "Hill County"
+    }
+  },
+  {
+    "zip": "59531",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30051",
+        "ratio": 0.9137,
+        "name": "Liberty County"
+      },
+      {
+        "fips": "30041",
+        "ratio": 0.0863,
+        "name": "Hill County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30051",
+      "ratio": 0.9137,
+      "name": "Liberty County"
+    }
+  },
+  {
+    "zip": "59532",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30041",
+        "ratio": 1.0,
+        "name": "Hill County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30041",
+      "ratio": 1.0,
+      "name": "Hill County"
+    }
+  },
+  {
+    "zip": "59535",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30005",
+        "ratio": 1.0,
+        "name": "Blaine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30005",
+      "ratio": 1.0,
+      "name": "Blaine County"
+    }
+  },
+  {
+    "zip": "59537",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30071",
+        "ratio": 1.0,
+        "name": "Phillips County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30071",
+      "ratio": 1.0,
+      "name": "Phillips County"
+    }
+  },
+  {
+    "zip": "59538",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30071",
+        "ratio": 1.0,
+        "name": "Phillips County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30071",
+      "ratio": 1.0,
+      "name": "Phillips County"
+    }
+  },
+  {
+    "zip": "59540",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30041",
+        "ratio": 0.9741,
+        "name": "Hill County"
+      },
+      {
+        "fips": "30015",
+        "ratio": 0.0259,
+        "name": "Chouteau County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30041",
+      "ratio": 0.9741,
+      "name": "Hill County"
+    }
+  },
+  {
+    "zip": "59542",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30005",
+        "ratio": 0.9919,
+        "name": "Blaine County"
+      },
+      {
+        "fips": "30071",
+        "ratio": 0.0081,
+        "name": "Phillips County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30005",
+      "ratio": 0.9919,
+      "name": "Blaine County"
+    }
+  },
+  {
+    "zip": "59544",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30071",
+        "ratio": 1.0,
+        "name": "Phillips County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30071",
+      "ratio": 1.0,
+      "name": "Phillips County"
+    }
+  },
+  {
+    "zip": "59545",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30051",
+        "ratio": 0.8519,
+        "name": "Liberty County"
+      },
+      {
+        "fips": "30101",
+        "ratio": 0.1481,
+        "name": "Toole County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30051",
+      "ratio": 0.8519,
+      "name": "Liberty County"
+    }
+  },
+  {
+    "zip": "59546",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30071",
+        "ratio": 1.0,
+        "name": "Phillips County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30071",
+      "ratio": 1.0,
+      "name": "Phillips County"
+    }
+  },
+  {
+    "zip": "59547",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30005",
+        "ratio": 1.0,
+        "name": "Blaine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30005",
+      "ratio": 1.0,
+      "name": "Blaine County"
+    }
+  },
+  {
+    "zip": "59601",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30049",
+        "ratio": 0.9997,
+        "name": "Lewis and Clark County"
+      },
+      {
+        "fips": "30043",
+        "ratio": 0.0003,
+        "name": "Jefferson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30049",
+      "ratio": 0.9997,
+      "name": "Lewis and Clark County"
+    }
+  },
+  {
+    "zip": "59602",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30049",
+        "ratio": 1.0,
+        "name": "Lewis and Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30049",
+      "ratio": 1.0,
+      "name": "Lewis and Clark County"
+    }
+  },
+  {
+    "zip": "59604",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30049",
+        "ratio": 1.0,
+        "name": "Lewis and Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30049",
+      "ratio": 1.0,
+      "name": "Lewis and Clark County"
+    }
+  },
+  {
+    "zip": "59620",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30049",
+        "ratio": 1.0,
+        "name": "Lewis and Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30049",
+      "ratio": 1.0,
+      "name": "Lewis and Clark County"
+    }
+  },
+  {
+    "zip": "59623",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30049",
+        "ratio": 1.0,
+        "name": "Lewis and Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30049",
+      "ratio": 1.0,
+      "name": "Lewis and Clark County"
+    }
+  },
+  {
+    "zip": "59624",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30049",
+        "ratio": 1.0,
+        "name": "Lewis and Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30049",
+      "ratio": 1.0,
+      "name": "Lewis and Clark County"
+    }
+  },
+  {
+    "zip": "59625",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30049",
+        "ratio": 1.0,
+        "name": "Lewis and Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30049",
+      "ratio": 1.0,
+      "name": "Lewis and Clark County"
+    }
+  },
+  {
+    "zip": "59626",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30049",
+        "ratio": 1.0,
+        "name": "Lewis and Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30049",
+      "ratio": 1.0,
+      "name": "Lewis and Clark County"
+    }
+  },
+  {
+    "zip": "59631",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30043",
+        "ratio": 1.0,
+        "name": "Jefferson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30043",
+      "ratio": 1.0,
+      "name": "Jefferson County"
+    }
+  },
+  {
+    "zip": "59632",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30043",
+        "ratio": 1.0,
+        "name": "Jefferson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30043",
+      "ratio": 1.0,
+      "name": "Jefferson County"
+    }
+  },
+  {
+    "zip": "59633",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30049",
+        "ratio": 1.0,
+        "name": "Lewis and Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30049",
+      "ratio": 1.0,
+      "name": "Lewis and Clark County"
+    }
+  },
+  {
+    "zip": "59634",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30043",
+        "ratio": 0.9977,
+        "name": "Jefferson County"
+      },
+      {
+        "fips": "30049",
+        "ratio": 0.0023,
+        "name": "Lewis and Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30043",
+      "ratio": 0.9977,
+      "name": "Jefferson County"
+    }
+  },
+  {
+    "zip": "59635",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "30049",
+        "ratio": 0.958,
+        "name": "Lewis and Clark County"
+      },
+      {
+        "fips": "30007",
+        "ratio": 0.0295,
+        "name": "Broadwater County"
+      },
+      {
+        "fips": "30043",
+        "ratio": 0.0125,
+        "name": "Jefferson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30049",
+      "ratio": 0.958,
+      "name": "Lewis and Clark County"
+    }
+  },
+  {
+    "zip": "59636",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30049",
+        "ratio": 1.0,
+        "name": "Lewis and Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30049",
+      "ratio": 1.0,
+      "name": "Lewis and Clark County"
+    }
+  },
+  {
+    "zip": "59638",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30043",
+        "ratio": 1.0,
+        "name": "Jefferson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30043",
+      "ratio": 1.0,
+      "name": "Jefferson County"
+    }
+  },
+  {
+    "zip": "59639",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30049",
+        "ratio": 1.0,
+        "name": "Lewis and Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30049",
+      "ratio": 1.0,
+      "name": "Lewis and Clark County"
+    }
+  },
+  {
+    "zip": "59640",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30049",
+        "ratio": 1.0,
+        "name": "Lewis and Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30049",
+      "ratio": 1.0,
+      "name": "Lewis and Clark County"
+    }
+  },
+  {
+    "zip": "59641",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30007",
+        "ratio": 1.0,
+        "name": "Broadwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30007",
+      "ratio": 1.0,
+      "name": "Broadwater County"
+    }
+  },
+  {
+    "zip": "59642",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30059",
+        "ratio": 1.0,
+        "name": "Meagher County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30059",
+      "ratio": 1.0,
+      "name": "Meagher County"
+    }
+  },
+  {
+    "zip": "59643",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30007",
+        "ratio": 1.0,
+        "name": "Broadwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30007",
+      "ratio": 1.0,
+      "name": "Broadwater County"
+    }
+  },
+  {
+    "zip": "59644",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30007",
+        "ratio": 1.0,
+        "name": "Broadwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30007",
+      "ratio": 1.0,
+      "name": "Broadwater County"
+    }
+  },
+  {
+    "zip": "59645",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30059",
+        "ratio": 0.9964,
+        "name": "Meagher County"
+      },
+      {
+        "fips": "30007",
+        "ratio": 0.0036,
+        "name": "Broadwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30059",
+      "ratio": 0.9964,
+      "name": "Meagher County"
+    }
+  },
+  {
+    "zip": "59647",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30007",
+        "ratio": 1.0,
+        "name": "Broadwater County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30007",
+      "ratio": 1.0,
+      "name": "Broadwater County"
+    }
+  },
+  {
+    "zip": "59648",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30049",
+        "ratio": 1.0,
+        "name": "Lewis and Clark County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30049",
+      "ratio": 1.0,
+      "name": "Lewis and Clark County"
+    }
+  },
+  {
+    "zip": "59701",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "30093",
+        "ratio": 0.9967,
+        "name": "Silver Bow County"
+      },
+      {
+        "fips": "30043",
+        "ratio": 0.0031,
+        "name": "Jefferson County"
+      },
+      {
+        "fips": "30023",
+        "ratio": 0.0001,
+        "name": "Deer Lodge County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30093",
+      "ratio": 0.9967,
+      "name": "Silver Bow County"
+    }
+  },
+  {
+    "zip": "59702",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30093",
+        "ratio": 1.0,
+        "name": "Silver Bow County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30093",
+      "ratio": 1.0,
+      "name": "Silver Bow County"
+    }
+  },
+  {
+    "zip": "59703",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30093",
+        "ratio": 1.0,
+        "name": "Silver Bow County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30093",
+      "ratio": 1.0,
+      "name": "Silver Bow County"
+    }
+  },
+  {
+    "zip": "59710",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30057",
+        "ratio": 1.0,
+        "name": "Madison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30057",
+      "ratio": 1.0,
+      "name": "Madison County"
+    }
+  },
+  {
+    "zip": "59711",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "30023",
+        "ratio": 0.8873,
+        "name": "Deer Lodge County"
+      },
+      {
+        "fips": "30039",
+        "ratio": 0.0919,
+        "name": "Granite County"
+      },
+      {
+        "fips": "30093",
+        "ratio": 0.0206,
+        "name": "Silver Bow County"
+      },
+      {
+        "fips": "30077",
+        "ratio": 0.0003,
+        "name": "Powell County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30023",
+      "ratio": 0.8873,
+      "name": "Deer Lodge County"
+    }
+  },
+  {
+    "zip": "59713",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30077",
+        "ratio": 1.0,
+        "name": "Powell County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30077",
+      "ratio": 1.0,
+      "name": "Powell County"
+    }
+  },
+  {
+    "zip": "59714",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30031",
+        "ratio": 1.0,
+        "name": "Gallatin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30031",
+      "ratio": 1.0,
+      "name": "Gallatin County"
+    }
+  },
+  {
+    "zip": "59715",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30031",
+        "ratio": 0.9972,
+        "name": "Gallatin County"
+      },
+      {
+        "fips": "30067",
+        "ratio": 0.0028,
+        "name": "Park County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30031",
+      "ratio": 0.9972,
+      "name": "Gallatin County"
+    }
+  },
+  {
+    "zip": "59716",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30031",
+        "ratio": 0.9519,
+        "name": "Gallatin County"
+      },
+      {
+        "fips": "30057",
+        "ratio": 0.0481,
+        "name": "Madison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30031",
+      "ratio": 0.9519,
+      "name": "Gallatin County"
+    }
+  },
+  {
+    "zip": "59717",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30031",
+        "ratio": 1.0,
+        "name": "Gallatin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30031",
+      "ratio": 1.0,
+      "name": "Gallatin County"
+    }
+  },
+  {
+    "zip": "59718",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30031",
+        "ratio": 0.9999,
+        "name": "Gallatin County"
+      },
+      {
+        "fips": "30057",
+        "ratio": 0.0001,
+        "name": "Madison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30031",
+      "ratio": 0.9999,
+      "name": "Gallatin County"
+    }
+  },
+  {
+    "zip": "59719",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30031",
+        "ratio": 1.0,
+        "name": "Gallatin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30031",
+      "ratio": 1.0,
+      "name": "Gallatin County"
+    }
+  },
+  {
+    "zip": "59720",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30057",
+        "ratio": 1.0,
+        "name": "Madison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30057",
+      "ratio": 1.0,
+      "name": "Madison County"
+    }
+  },
+  {
+    "zip": "59721",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30043",
+        "ratio": 0.5236,
+        "name": "Jefferson County"
+      },
+      {
+        "fips": "30057",
+        "ratio": 0.4764,
+        "name": "Madison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30043",
+      "ratio": 0.5236,
+      "name": "Jefferson County"
+    }
+  },
+  {
+    "zip": "59722",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30077",
+        "ratio": 0.9518,
+        "name": "Powell County"
+      },
+      {
+        "fips": "30023",
+        "ratio": 0.0482,
+        "name": "Deer Lodge County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30077",
+      "ratio": 0.9518,
+      "name": "Powell County"
+    }
+  },
+  {
+    "zip": "59724",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30001",
+        "ratio": 1.0,
+        "name": "Beaverhead County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30001",
+      "ratio": 1.0,
+      "name": "Beaverhead County"
+    }
+  },
+  {
+    "zip": "59725",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30001",
+        "ratio": 1.0,
+        "name": "Beaverhead County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30001",
+      "ratio": 1.0,
+      "name": "Beaverhead County"
+    }
+  },
+  {
+    "zip": "59727",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30093",
+        "ratio": 0.7521,
+        "name": "Silver Bow County"
+      },
+      {
+        "fips": "30001",
+        "ratio": 0.2479,
+        "name": "Beaverhead County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30093",
+      "ratio": 0.7521,
+      "name": "Silver Bow County"
+    }
+  },
+  {
+    "zip": "59728",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30077",
+        "ratio": 1.0,
+        "name": "Powell County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30077",
+      "ratio": 1.0,
+      "name": "Powell County"
+    }
+  },
+  {
+    "zip": "59729",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30057",
+        "ratio": 0.9995,
+        "name": "Madison County"
+      },
+      {
+        "fips": "30031",
+        "ratio": 0.0005,
+        "name": "Gallatin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30057",
+      "ratio": 0.9995,
+      "name": "Madison County"
+    }
+  },
+  {
+    "zip": "59730",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30031",
+        "ratio": 1.0,
+        "name": "Gallatin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30031",
+      "ratio": 1.0,
+      "name": "Gallatin County"
+    }
+  },
+  {
+    "zip": "59731",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30077",
+        "ratio": 1.0,
+        "name": "Powell County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30077",
+      "ratio": 1.0,
+      "name": "Powell County"
+    }
+  },
+  {
+    "zip": "59732",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30001",
+        "ratio": 1.0,
+        "name": "Beaverhead County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30001",
+      "ratio": 1.0,
+      "name": "Beaverhead County"
+    }
+  },
+  {
+    "zip": "59733",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30077",
+        "ratio": 1.0,
+        "name": "Powell County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30077",
+      "ratio": 1.0,
+      "name": "Powell County"
+    }
+  },
+  {
+    "zip": "59735",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30057",
+        "ratio": 1.0,
+        "name": "Madison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30057",
+      "ratio": 1.0,
+      "name": "Madison County"
+    }
+  },
+  {
+    "zip": "59736",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30001",
+        "ratio": 1.0,
+        "name": "Beaverhead County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30001",
+      "ratio": 1.0,
+      "name": "Beaverhead County"
+    }
+  },
+  {
+    "zip": "59739",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30001",
+        "ratio": 1.0,
+        "name": "Beaverhead County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30001",
+      "ratio": 1.0,
+      "name": "Beaverhead County"
+    }
+  },
+  {
+    "zip": "59740",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30057",
+        "ratio": 1.0,
+        "name": "Madison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30057",
+      "ratio": 1.0,
+      "name": "Madison County"
+    }
+  },
+  {
+    "zip": "59741",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30031",
+        "ratio": 0.9985,
+        "name": "Gallatin County"
+      },
+      {
+        "fips": "30057",
+        "ratio": 0.0015,
+        "name": "Madison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30031",
+      "ratio": 0.9985,
+      "name": "Gallatin County"
+    }
+  },
+  {
+    "zip": "59743",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30093",
+        "ratio": 1.0,
+        "name": "Silver Bow County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30093",
+      "ratio": 1.0,
+      "name": "Silver Bow County"
+    }
+  },
+  {
+    "zip": "59745",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30057",
+        "ratio": 1.0,
+        "name": "Madison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30057",
+      "ratio": 1.0,
+      "name": "Madison County"
+    }
+  },
+  {
+    "zip": "59746",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30001",
+        "ratio": 1.0,
+        "name": "Beaverhead County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30001",
+      "ratio": 1.0,
+      "name": "Beaverhead County"
+    }
+  },
+  {
+    "zip": "59747",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30057",
+        "ratio": 1.0,
+        "name": "Madison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30057",
+      "ratio": 1.0,
+      "name": "Madison County"
+    }
+  },
+  {
+    "zip": "59748",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30093",
+        "ratio": 1.0,
+        "name": "Silver Bow County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30093",
+      "ratio": 1.0,
+      "name": "Silver Bow County"
+    }
+  },
+  {
+    "zip": "59749",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30057",
+        "ratio": 1.0,
+        "name": "Madison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30057",
+      "ratio": 1.0,
+      "name": "Madison County"
+    }
+  },
+  {
+    "zip": "59750",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30093",
+        "ratio": 1.0,
+        "name": "Silver Bow County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30093",
+      "ratio": 1.0,
+      "name": "Silver Bow County"
+    }
+  },
+  {
+    "zip": "59751",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30057",
+        "ratio": 1.0,
+        "name": "Madison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30057",
+      "ratio": 1.0,
+      "name": "Madison County"
+    }
+  },
+  {
+    "zip": "59752",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "30031",
+        "ratio": 0.8258,
+        "name": "Gallatin County"
+      },
+      {
+        "fips": "30007",
+        "ratio": 0.1593,
+        "name": "Broadwater County"
+      },
+      {
+        "fips": "30043",
+        "ratio": 0.0149,
+        "name": "Jefferson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30031",
+      "ratio": 0.8258,
+      "name": "Gallatin County"
+    }
+  },
+  {
+    "zip": "59754",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30057",
+        "ratio": 1.0,
+        "name": "Madison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30057",
+      "ratio": 1.0,
+      "name": "Madison County"
+    }
+  },
+  {
+    "zip": "59755",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30057",
+        "ratio": 1.0,
+        "name": "Madison County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30057",
+      "ratio": 1.0,
+      "name": "Madison County"
+    }
+  },
+  {
+    "zip": "59756",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30023",
+        "ratio": 1.0,
+        "name": "Deer Lodge County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30023",
+      "ratio": 1.0,
+      "name": "Deer Lodge County"
+    }
+  },
+  {
+    "zip": "59758",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30031",
+        "ratio": 1.0,
+        "name": "Gallatin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30031",
+      "ratio": 1.0,
+      "name": "Gallatin County"
+    }
+  },
+  {
+    "zip": "59759",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "30043",
+        "ratio": 0.904,
+        "name": "Jefferson County"
+      },
+      {
+        "fips": "30057",
+        "ratio": 0.086,
+        "name": "Madison County"
+      },
+      {
+        "fips": "30093",
+        "ratio": 0.01,
+        "name": "Silver Bow County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30043",
+      "ratio": 0.904,
+      "name": "Jefferson County"
+    }
+  },
+  {
+    "zip": "59760",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30031",
+        "ratio": 1.0,
+        "name": "Gallatin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30031",
+      "ratio": 1.0,
+      "name": "Gallatin County"
+    }
+  },
+  {
+    "zip": "59761",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30001",
+        "ratio": 1.0,
+        "name": "Beaverhead County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30001",
+      "ratio": 1.0,
+      "name": "Beaverhead County"
+    }
+  },
+  {
+    "zip": "59762",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "30001",
+        "ratio": 0.5904,
+        "name": "Beaverhead County"
+      },
+      {
+        "fips": "30023",
+        "ratio": 0.3855,
+        "name": "Deer Lodge County"
+      },
+      {
+        "fips": "30093",
+        "ratio": 0.0241,
+        "name": "Silver Bow County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30001",
+      "ratio": 0.5904,
+      "name": "Beaverhead County"
+    }
+  },
+  {
+    "zip": "59771",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30031",
+        "ratio": 1.0,
+        "name": "Gallatin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30031",
+      "ratio": 1.0,
+      "name": "Gallatin County"
+    }
+  },
+  {
+    "zip": "59772",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30031",
+        "ratio": 1.0,
+        "name": "Gallatin County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30031",
+      "ratio": 1.0,
+      "name": "Gallatin County"
+    }
+  },
+  {
+    "zip": "59801",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30063",
+        "ratio": 1.0,
+        "name": "Missoula County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30063",
+      "ratio": 1.0,
+      "name": "Missoula County"
+    }
+  },
+  {
+    "zip": "59802",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30063",
+        "ratio": 1.0,
+        "name": "Missoula County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30063",
+      "ratio": 1.0,
+      "name": "Missoula County"
+    }
+  },
+  {
+    "zip": "59803",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30063",
+        "ratio": 1.0,
+        "name": "Missoula County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30063",
+      "ratio": 1.0,
+      "name": "Missoula County"
+    }
+  },
+  {
+    "zip": "59804",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30063",
+        "ratio": 1.0,
+        "name": "Missoula County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30063",
+      "ratio": 1.0,
+      "name": "Missoula County"
+    }
+  },
+  {
+    "zip": "59806",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30063",
+        "ratio": 1.0,
+        "name": "Missoula County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30063",
+      "ratio": 1.0,
+      "name": "Missoula County"
+    }
+  },
+  {
+    "zip": "59807",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30063",
+        "ratio": 1.0,
+        "name": "Missoula County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30063",
+      "ratio": 1.0,
+      "name": "Missoula County"
+    }
+  },
+  {
+    "zip": "59808",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30063",
+        "ratio": 1.0,
+        "name": "Missoula County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30063",
+      "ratio": 1.0,
+      "name": "Missoula County"
+    }
+  },
+  {
+    "zip": "59812",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30063",
+        "ratio": 1.0,
+        "name": "Missoula County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30063",
+      "ratio": 1.0,
+      "name": "Missoula County"
+    }
+  },
+  {
+    "zip": "59820",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30061",
+        "ratio": 0.614,
+        "name": "Mineral County"
+      },
+      {
+        "fips": "30063",
+        "ratio": 0.386,
+        "name": "Missoula County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30061",
+      "ratio": 0.614,
+      "name": "Mineral County"
+    }
+  },
+  {
+    "zip": "59821",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "30047",
+        "ratio": 0.8077,
+        "name": "Lake County"
+      },
+      {
+        "fips": "30063",
+        "ratio": 0.1894,
+        "name": "Missoula County"
+      },
+      {
+        "fips": "30089",
+        "ratio": 0.0028,
+        "name": "Sanders County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30047",
+      "ratio": 0.8077,
+      "name": "Lake County"
+    }
+  },
+  {
+    "zip": "59823",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30063",
+        "ratio": 1.0,
+        "name": "Missoula County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30063",
+      "ratio": 1.0,
+      "name": "Missoula County"
+    }
+  },
+  {
+    "zip": "59824",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30047",
+        "ratio": 1.0,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30047",
+      "ratio": 1.0,
+      "name": "Lake County"
+    }
+  },
+  {
+    "zip": "59825",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30063",
+        "ratio": 0.8347,
+        "name": "Missoula County"
+      },
+      {
+        "fips": "30039",
+        "ratio": 0.1653,
+        "name": "Granite County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30063",
+      "ratio": 0.8347,
+      "name": "Missoula County"
+    }
+  },
+  {
+    "zip": "59826",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30063",
+        "ratio": 0.9949,
+        "name": "Missoula County"
+      },
+      {
+        "fips": "30047",
+        "ratio": 0.0051,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30063",
+      "ratio": 0.9949,
+      "name": "Missoula County"
+    }
+  },
+  {
+    "zip": "59827",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30081",
+        "ratio": 1.0,
+        "name": "Ravalli County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30081",
+      "ratio": 1.0,
+      "name": "Ravalli County"
+    }
+  },
+  {
+    "zip": "59828",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30081",
+        "ratio": 1.0,
+        "name": "Ravalli County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30081",
+      "ratio": 1.0,
+      "name": "Ravalli County"
+    }
+  },
+  {
+    "zip": "59829",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30081",
+        "ratio": 1.0,
+        "name": "Ravalli County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30081",
+      "ratio": 1.0,
+      "name": "Ravalli County"
+    }
+  },
+  {
+    "zip": "59830",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30061",
+        "ratio": 1.0,
+        "name": "Mineral County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30061",
+      "ratio": 1.0,
+      "name": "Mineral County"
+    }
+  },
+  {
+    "zip": "59831",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30089",
+        "ratio": 1.0,
+        "name": "Sanders County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30089",
+      "ratio": 1.0,
+      "name": "Sanders County"
+    }
+  },
+  {
+    "zip": "59832",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30039",
+        "ratio": 0.9844,
+        "name": "Granite County"
+      },
+      {
+        "fips": "30077",
+        "ratio": 0.0156,
+        "name": "Powell County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30039",
+      "ratio": 0.9844,
+      "name": "Granite County"
+    }
+  },
+  {
+    "zip": "59833",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30081",
+        "ratio": 0.8241,
+        "name": "Ravalli County"
+      },
+      {
+        "fips": "30063",
+        "ratio": 0.1759,
+        "name": "Missoula County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30081",
+      "ratio": 0.8241,
+      "name": "Ravalli County"
+    }
+  },
+  {
+    "zip": "59834",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30063",
+        "ratio": 1.0,
+        "name": "Missoula County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30063",
+      "ratio": 1.0,
+      "name": "Missoula County"
+    }
+  },
+  {
+    "zip": "59835",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30081",
+        "ratio": 1.0,
+        "name": "Ravalli County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30081",
+      "ratio": 1.0,
+      "name": "Ravalli County"
+    }
+  },
+  {
+    "zip": "59837",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30039",
+        "ratio": 1.0,
+        "name": "Granite County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30039",
+      "ratio": 1.0,
+      "name": "Granite County"
+    }
+  },
+  {
+    "zip": "59840",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30081",
+        "ratio": 1.0,
+        "name": "Ravalli County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30081",
+      "ratio": 1.0,
+      "name": "Ravalli County"
+    }
+  },
+  {
+    "zip": "59841",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30081",
+        "ratio": 1.0,
+        "name": "Ravalli County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30081",
+      "ratio": 1.0,
+      "name": "Ravalli County"
+    }
+  },
+  {
+    "zip": "59842",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30061",
+        "ratio": 1.0,
+        "name": "Mineral County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30061",
+      "ratio": 1.0,
+      "name": "Mineral County"
+    }
+  },
+  {
+    "zip": "59843",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30077",
+        "ratio": 1.0,
+        "name": "Powell County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30077",
+      "ratio": 1.0,
+      "name": "Powell County"
+    }
+  },
+  {
+    "zip": "59844",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30089",
+        "ratio": 1.0,
+        "name": "Sanders County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30089",
+      "ratio": 1.0,
+      "name": "Sanders County"
+    }
+  },
+  {
+    "zip": "59845",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "30089",
+        "ratio": 0.9505,
+        "name": "Sanders County"
+      },
+      {
+        "fips": "30047",
+        "ratio": 0.0338,
+        "name": "Lake County"
+      },
+      {
+        "fips": "30029",
+        "ratio": 0.0157,
+        "name": "Flathead County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30089",
+      "ratio": 0.9505,
+      "name": "Sanders County"
+    }
+  },
+  {
+    "zip": "59846",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30063",
+        "ratio": 1.0,
+        "name": "Missoula County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30063",
+      "ratio": 1.0,
+      "name": "Missoula County"
+    }
+  },
+  {
+    "zip": "59847",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30063",
+        "ratio": 1.0,
+        "name": "Missoula County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30063",
+      "ratio": 1.0,
+      "name": "Missoula County"
+    }
+  },
+  {
+    "zip": "59848",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30089",
+        "ratio": 1.0,
+        "name": "Sanders County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30089",
+      "ratio": 1.0,
+      "name": "Sanders County"
+    }
+  },
+  {
+    "zip": "59851",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30063",
+        "ratio": 1.0,
+        "name": "Missoula County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30063",
+      "ratio": 1.0,
+      "name": "Missoula County"
+    }
+  },
+  {
+    "zip": "59853",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30089",
+        "ratio": 1.0,
+        "name": "Sanders County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30089",
+      "ratio": 1.0,
+      "name": "Sanders County"
+    }
+  },
+  {
+    "zip": "59854",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30077",
+        "ratio": 1.0,
+        "name": "Powell County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30077",
+      "ratio": 1.0,
+      "name": "Powell County"
+    }
+  },
+  {
+    "zip": "59855",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30047",
+        "ratio": 1.0,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30047",
+      "ratio": 1.0,
+      "name": "Lake County"
+    }
+  },
+  {
+    "zip": "59856",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30089",
+        "ratio": 1.0,
+        "name": "Sanders County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30089",
+      "ratio": 1.0,
+      "name": "Sanders County"
+    }
+  },
+  {
+    "zip": "59858",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30039",
+        "ratio": 1.0,
+        "name": "Granite County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30039",
+      "ratio": 1.0,
+      "name": "Granite County"
+    }
+  },
+  {
+    "zip": "59859",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30089",
+        "ratio": 0.9975,
+        "name": "Sanders County"
+      },
+      {
+        "fips": "30061",
+        "ratio": 0.0025,
+        "name": "Mineral County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30089",
+      "ratio": 0.9975,
+      "name": "Sanders County"
+    }
+  },
+  {
+    "zip": "59860",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30047",
+        "ratio": 1.0,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30047",
+      "ratio": 1.0,
+      "name": "Lake County"
+    }
+  },
+  {
+    "zip": "59863",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30047",
+        "ratio": 1.0,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30047",
+      "ratio": 1.0,
+      "name": "Lake County"
+    }
+  },
+  {
+    "zip": "59864",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30047",
+        "ratio": 1.0,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30047",
+      "ratio": 1.0,
+      "name": "Lake County"
+    }
+  },
+  {
+    "zip": "59865",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30047",
+        "ratio": 1.0,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30047",
+      "ratio": 1.0,
+      "name": "Lake County"
+    }
+  },
+  {
+    "zip": "59866",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30061",
+        "ratio": 0.8898,
+        "name": "Mineral County"
+      },
+      {
+        "fips": "30089",
+        "ratio": 0.1102,
+        "name": "Sanders County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30061",
+      "ratio": 0.8898,
+      "name": "Mineral County"
+    }
+  },
+  {
+    "zip": "59867",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30061",
+        "ratio": 1.0,
+        "name": "Mineral County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30061",
+      "ratio": 1.0,
+      "name": "Mineral County"
+    }
+  },
+  {
+    "zip": "59868",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30063",
+        "ratio": 1.0,
+        "name": "Missoula County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30063",
+      "ratio": 1.0,
+      "name": "Missoula County"
+    }
+  },
+  {
+    "zip": "59870",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30081",
+        "ratio": 1.0,
+        "name": "Ravalli County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30081",
+      "ratio": 1.0,
+      "name": "Ravalli County"
+    }
+  },
+  {
+    "zip": "59871",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30081",
+        "ratio": 1.0,
+        "name": "Ravalli County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30081",
+      "ratio": 1.0,
+      "name": "Ravalli County"
+    }
+  },
+  {
+    "zip": "59872",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30061",
+        "ratio": 1.0,
+        "name": "Mineral County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30061",
+      "ratio": 1.0,
+      "name": "Mineral County"
+    }
+  },
+  {
+    "zip": "59873",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30089",
+        "ratio": 1.0,
+        "name": "Sanders County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30089",
+      "ratio": 1.0,
+      "name": "Sanders County"
+    }
+  },
+  {
+    "zip": "59874",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30089",
+        "ratio": 1.0,
+        "name": "Sanders County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30089",
+      "ratio": 1.0,
+      "name": "Sanders County"
+    }
+  },
+  {
+    "zip": "59875",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30081",
+        "ratio": 1.0,
+        "name": "Ravalli County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30081",
+      "ratio": 1.0,
+      "name": "Ravalli County"
+    }
+  },
+  {
+    "zip": "59901",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30029",
+        "ratio": 1.0,
+        "name": "Flathead County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30029",
+      "ratio": 1.0,
+      "name": "Flathead County"
+    }
+  },
+  {
+    "zip": "59903",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30029",
+        "ratio": 1.0,
+        "name": "Flathead County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30029",
+      "ratio": 1.0,
+      "name": "Flathead County"
+    }
+  },
+  {
+    "zip": "59904",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30029",
+        "ratio": 1.0,
+        "name": "Flathead County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30029",
+      "ratio": 1.0,
+      "name": "Flathead County"
+    }
+  },
+  {
+    "zip": "59910",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30047",
+        "ratio": 1.0,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30047",
+      "ratio": 1.0,
+      "name": "Lake County"
+    }
+  },
+  {
+    "zip": "59911",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30029",
+        "ratio": 0.7651,
+        "name": "Flathead County"
+      },
+      {
+        "fips": "30047",
+        "ratio": 0.2349,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30029",
+      "ratio": 0.7651,
+      "name": "Flathead County"
+    }
+  },
+  {
+    "zip": "59912",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30029",
+        "ratio": 1.0,
+        "name": "Flathead County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30029",
+      "ratio": 1.0,
+      "name": "Flathead County"
+    }
+  },
+  {
+    "zip": "59913",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30029",
+        "ratio": 1.0,
+        "name": "Flathead County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30029",
+      "ratio": 1.0,
+      "name": "Flathead County"
+    }
+  },
+  {
+    "zip": "59914",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30047",
+        "ratio": 1.0,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30047",
+      "ratio": 1.0,
+      "name": "Lake County"
+    }
+  },
+  {
+    "zip": "59915",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30047",
+        "ratio": 1.0,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30047",
+      "ratio": 1.0,
+      "name": "Lake County"
+    }
+  },
+  {
+    "zip": "59916",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30029",
+        "ratio": 1.0,
+        "name": "Flathead County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30029",
+      "ratio": 1.0,
+      "name": "Flathead County"
+    }
+  },
+  {
+    "zip": "59917",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30053",
+        "ratio": 0.9998,
+        "name": "Lincoln County"
+      },
+      {
+        "fips": "30029",
+        "ratio": 0.0002,
+        "name": "Flathead County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30053",
+      "ratio": 0.9998,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "59918",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30053",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30053",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "59919",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30029",
+        "ratio": 1.0,
+        "name": "Flathead County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30029",
+      "ratio": 1.0,
+      "name": "Flathead County"
+    }
+  },
+  {
+    "zip": "59920",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30029",
+        "ratio": 1.0,
+        "name": "Flathead County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30029",
+      "ratio": 1.0,
+      "name": "Flathead County"
+    }
+  },
+  {
+    "zip": "59922",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30029",
+        "ratio": 0.98,
+        "name": "Flathead County"
+      },
+      {
+        "fips": "30047",
+        "ratio": 0.02,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30029",
+      "ratio": 0.98,
+      "name": "Flathead County"
+    }
+  },
+  {
+    "zip": "59923",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30053",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30053",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "59925",
+    "state": "MT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "30029",
+        "ratio": 0.999,
+        "name": "Flathead County"
+      },
+      {
+        "fips": "30053",
+        "ratio": 0.001,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30029",
+      "ratio": 0.999,
+      "name": "Flathead County"
+    }
+  },
+  {
+    "zip": "59926",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30029",
+        "ratio": 1.0,
+        "name": "Flathead County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30029",
+      "ratio": 1.0,
+      "name": "Flathead County"
+    }
+  },
+  {
+    "zip": "59927",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30029",
+        "ratio": 1.0,
+        "name": "Flathead County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30029",
+      "ratio": 1.0,
+      "name": "Flathead County"
+    }
+  },
+  {
+    "zip": "59928",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30029",
+        "ratio": 1.0,
+        "name": "Flathead County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30029",
+      "ratio": 1.0,
+      "name": "Flathead County"
+    }
+  },
+  {
+    "zip": "59929",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30047",
+        "ratio": 1.0,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30047",
+      "ratio": 1.0,
+      "name": "Lake County"
+    }
+  },
+  {
+    "zip": "59930",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30053",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30053",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "59931",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30047",
+        "ratio": 1.0,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30047",
+      "ratio": 1.0,
+      "name": "Lake County"
+    }
+  },
+  {
+    "zip": "59932",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30029",
+        "ratio": 1.0,
+        "name": "Flathead County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30029",
+      "ratio": 1.0,
+      "name": "Flathead County"
+    }
+  },
+  {
+    "zip": "59933",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30053",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30053",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "59934",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30053",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30053",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "59935",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30053",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30053",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "59936",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30029",
+        "ratio": 1.0,
+        "name": "Flathead County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30029",
+      "ratio": 1.0,
+      "name": "Flathead County"
+    }
+  },
+  {
+    "zip": "59937",
+    "state": "MT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "30029",
+        "ratio": 1.0,
+        "name": "Flathead County"
+      }
+    ],
+    "primary_county": {
+      "fips": "30029",
+      "ratio": 1.0,
+      "name": "Flathead County"
+    }
+  }
+]

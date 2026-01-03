@@ -1,0 +1,7538 @@
+[
+  {
+    "zip": "06001",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06002",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06006",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06010",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 0.9997,
+        "name": "Naugatuck Valley Planning Region"
+      },
+      {
+        "fips": "09160",
+        "ratio": 0.0002,
+        "name": "Northwest Hills Planning Region"
+      },
+      {
+        "fips": "09110",
+        "ratio": 0.0001,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 0.9997,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06011",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06013",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 0.9898,
+        "name": "Northwest Hills Planning Region"
+      },
+      {
+        "fips": "09140",
+        "ratio": 0.0082,
+        "name": "Naugatuck Valley Planning Region"
+      },
+      {
+        "fips": "09110",
+        "ratio": 0.002,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 0.9898,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06016",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06018",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06019",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06020",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06021",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06022",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06023",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 0.9942,
+        "name": "Capitol Planning Region"
+      },
+      {
+        "fips": "09130",
+        "ratio": 0.0058,
+        "name": "Lower Connecticut River Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 0.9942,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06024",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06025",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06026",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06027",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06028",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06029",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06030",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06031",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06032",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 0.9996,
+        "name": "Capitol Planning Region"
+      },
+      {
+        "fips": "09140",
+        "ratio": 0.0004,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 0.9996,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06033",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06034",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06035",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06037",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 0.9992,
+        "name": "Capitol Planning Region"
+      },
+      {
+        "fips": "09170",
+        "ratio": 0.0008,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 0.9992,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06039",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06040",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06041",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06042",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06043",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06045",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06050",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06051",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06052",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06053",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06057",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06058",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06059",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06060",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06061",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06062",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 0.9943,
+        "name": "Capitol Planning Region"
+      },
+      {
+        "fips": "09140",
+        "ratio": 0.0057,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 0.9943,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06063",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06064",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06065",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06066",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06067",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06068",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06069",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06070",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06071",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06072",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06073",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 0.9969,
+        "name": "Capitol Planning Region"
+      },
+      {
+        "fips": "09130",
+        "ratio": 0.0031,
+        "name": "Lower Connecticut River Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 0.9969,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06074",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06075",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06076",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 0.9317,
+        "name": "Capitol Planning Region"
+      },
+      {
+        "fips": "09150",
+        "ratio": 0.0683,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 0.9317,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06077",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06078",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06079",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06080",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06081",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06082",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06083",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06084",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06085",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 0.9988,
+        "name": "Capitol Planning Region"
+      },
+      {
+        "fips": "09160",
+        "ratio": 0.0012,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 0.9988,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06088",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06089",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06090",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 0.9978,
+        "name": "Capitol Planning Region"
+      },
+      {
+        "fips": "09160",
+        "ratio": 0.0022,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 0.9978,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06091",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06092",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06093",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06095",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06096",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06098",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06101",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06102",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06103",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06105",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06106",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06107",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06108",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06109",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06110",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06111",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06112",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06114",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06115",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06117",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06118",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06119",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06120",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06123",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06126",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06127",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06128",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06129",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06131",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06132",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06133",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06134",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06137",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06138",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06141",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06142",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06143",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06144",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06145",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06146",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06147",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06152",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06153",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06154",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06155",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06156",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06160",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06161",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06167",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06183",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06199",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06226",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 0.9483,
+        "name": "Southeastern Connecticut Planning Region"
+      },
+      {
+        "fips": "09110",
+        "ratio": 0.0517,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 0.9483,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06230",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06231",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 0.9902,
+        "name": "Capitol Planning Region"
+      },
+      {
+        "fips": "09180",
+        "ratio": 0.0098,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 0.9902,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06232",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06233",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06234",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06235",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06237",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06238",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06239",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06241",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06242",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06243",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06244",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06246",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06247",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06248",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06249",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06250",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 0.9911,
+        "name": "Capitol Planning Region"
+      },
+      {
+        "fips": "09150",
+        "ratio": 0.0089,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 0.9911,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06251",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06254",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06255",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06256",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 0.9939,
+        "name": "Southeastern Connecticut Planning Region"
+      },
+      {
+        "fips": "09150",
+        "ratio": 0.0061,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 0.9939,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06258",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06259",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06260",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06262",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06263",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06264",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06266",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06267",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06268",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06269",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06277",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06278",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06279",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 0.9965,
+        "name": "Capitol Planning Region"
+      },
+      {
+        "fips": "09150",
+        "ratio": 0.0035,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 0.9965,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06280",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 0.9383,
+        "name": "Southeastern Connecticut Planning Region"
+      },
+      {
+        "fips": "09150",
+        "ratio": 0.0617,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 0.9383,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06281",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06282",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06320",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06330",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 0.954,
+        "name": "Southeastern Connecticut Planning Region"
+      },
+      {
+        "fips": "09150",
+        "ratio": 0.046,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 0.954,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06331",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06332",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06333",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06334",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06335",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06336",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06338",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06339",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06340",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06349",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06350",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06351",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 0.9992,
+        "name": "Southeastern Connecticut Planning Region"
+      },
+      {
+        "fips": "09150",
+        "ratio": 0.0008,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 0.9992,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06353",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06354",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06355",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06357",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06359",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 0.9967,
+        "name": "Southeastern Connecticut Planning Region"
+      },
+      {
+        "fips": "09150",
+        "ratio": 0.0033,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 0.9967,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06360",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06365",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06370",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06371",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09130",
+        "ratio": 0.9992,
+        "name": "Lower Connecticut River Valley Planning Region"
+      },
+      {
+        "fips": "09180",
+        "ratio": 0.0008,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09130",
+      "ratio": 0.9992,
+      "name": "Lower Connecticut River Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06372",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06373",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06374",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 0.9973,
+        "name": "Northeastern Connecticut Planning Region"
+      },
+      {
+        "fips": "09180",
+        "ratio": 0.0027,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 0.9973,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06375",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06376",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09130",
+        "ratio": 1.0,
+        "name": "Lower Connecticut River Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09130",
+      "ratio": 1.0,
+      "name": "Lower Connecticut River Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06377",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06378",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06379",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06380",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06382",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06383",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06384",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 0.9975,
+        "name": "Northeastern Connecticut Planning Region"
+      },
+      {
+        "fips": "09180",
+        "ratio": 0.0025,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 0.9975,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06385",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06387",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09150",
+        "ratio": 1.0,
+        "name": "Northeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09150",
+      "ratio": 1.0,
+      "name": "Northeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06388",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06389",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 1.0,
+        "name": "Southeastern Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 1.0,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06401",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 0.9988,
+        "name": "Naugatuck Valley Planning Region"
+      },
+      {
+        "fips": "09170",
+        "ratio": 0.0012,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 0.9988,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06403",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06404",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06405",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06408",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06409",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09130",
+        "ratio": 1.0,
+        "name": "Lower Connecticut River Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09130",
+      "ratio": 1.0,
+      "name": "Lower Connecticut River Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06410",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 0.9975,
+        "name": "Naugatuck Valley Planning Region"
+      },
+      {
+        "fips": "09110",
+        "ratio": 0.0013,
+        "name": "Capitol Planning Region"
+      },
+      {
+        "fips": "09170",
+        "ratio": 0.0012,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 0.9975,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06411",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06412",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09130",
+        "ratio": 1.0,
+        "name": "Lower Connecticut River Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09130",
+      "ratio": 1.0,
+      "name": "Lower Connecticut River Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06413",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09130",
+        "ratio": 1.0,
+        "name": "Lower Connecticut River Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09130",
+      "ratio": 1.0,
+      "name": "Lower Connecticut River Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06414",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09130",
+        "ratio": 1.0,
+        "name": "Lower Connecticut River Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09130",
+      "ratio": 1.0,
+      "name": "Lower Connecticut River Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06415",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 0.9353,
+        "name": "Southeastern Connecticut Planning Region"
+      },
+      {
+        "fips": "09130",
+        "ratio": 0.0647,
+        "name": "Lower Connecticut River Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 0.9353,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06416",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09130",
+        "ratio": 1.0,
+        "name": "Lower Connecticut River Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09130",
+      "ratio": 1.0,
+      "name": "Lower Connecticut River Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06417",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09130",
+        "ratio": 1.0,
+        "name": "Lower Connecticut River Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09130",
+      "ratio": 1.0,
+      "name": "Lower Connecticut River Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06418",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 0.9837,
+        "name": "Naugatuck Valley Planning Region"
+      },
+      {
+        "fips": "09170",
+        "ratio": 0.0163,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 0.9837,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06419",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09130",
+        "ratio": 1.0,
+        "name": "Lower Connecticut River Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09130",
+      "ratio": 1.0,
+      "name": "Lower Connecticut River Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06420",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09180",
+        "ratio": 0.98,
+        "name": "Southeastern Connecticut Planning Region"
+      },
+      {
+        "fips": "09130",
+        "ratio": 0.02,
+        "name": "Lower Connecticut River Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09180",
+      "ratio": 0.98,
+      "name": "Southeastern Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06422",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09130",
+        "ratio": 0.9939,
+        "name": "Lower Connecticut River Valley Planning Region"
+      },
+      {
+        "fips": "09170",
+        "ratio": 0.0061,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09130",
+      "ratio": 0.9939,
+      "name": "Lower Connecticut River Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06423",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09130",
+        "ratio": 1.0,
+        "name": "Lower Connecticut River Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09130",
+      "ratio": 1.0,
+      "name": "Lower Connecticut River Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06424",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09130",
+        "ratio": 1.0,
+        "name": "Lower Connecticut River Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09130",
+      "ratio": 1.0,
+      "name": "Lower Connecticut River Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06426",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09130",
+        "ratio": 1.0,
+        "name": "Lower Connecticut River Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09130",
+      "ratio": 1.0,
+      "name": "Lower Connecticut River Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06437",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06438",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09130",
+        "ratio": 1.0,
+        "name": "Lower Connecticut River Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09130",
+      "ratio": 1.0,
+      "name": "Lower Connecticut River Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06439",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09130",
+        "ratio": 1.0,
+        "name": "Lower Connecticut River Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09130",
+      "ratio": 1.0,
+      "name": "Lower Connecticut River Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06440",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06441",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09130",
+        "ratio": 1.0,
+        "name": "Lower Connecticut River Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09130",
+      "ratio": 1.0,
+      "name": "Lower Connecticut River Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06442",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09130",
+        "ratio": 1.0,
+        "name": "Lower Connecticut River Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09130",
+      "ratio": 1.0,
+      "name": "Lower Connecticut River Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06443",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06444",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06447",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06450",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06451",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 0.9945,
+        "name": "South Central Connecticut Planning Region"
+      },
+      {
+        "fips": "09110",
+        "ratio": 0.0054,
+        "name": "Capitol Planning Region"
+      },
+      {
+        "fips": "09140",
+        "ratio": 0.0001,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 0.9945,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06455",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09130",
+        "ratio": 1.0,
+        "name": "Lower Connecticut River Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09130",
+      "ratio": 1.0,
+      "name": "Lower Connecticut River Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06456",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09130",
+        "ratio": 1.0,
+        "name": "Lower Connecticut River Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09130",
+      "ratio": 1.0,
+      "name": "Lower Connecticut River Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06457",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09130",
+        "ratio": 1.0,
+        "name": "Lower Connecticut River Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09130",
+      "ratio": 1.0,
+      "name": "Lower Connecticut River Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06459",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09130",
+        "ratio": 1.0,
+        "name": "Lower Connecticut River Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09130",
+      "ratio": 1.0,
+      "name": "Lower Connecticut River Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06460",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06461",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06467",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 1.0,
+        "name": "Capitol Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 1.0,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06468",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "09120",
+        "ratio": 0.9963,
+        "name": "Greater Bridgeport Planning Region"
+      },
+      {
+        "fips": "09140",
+        "ratio": 0.0025,
+        "name": "Naugatuck Valley Planning Region"
+      },
+      {
+        "fips": "09190",
+        "ratio": 0.0012,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09120",
+      "ratio": 0.9963,
+      "name": "Greater Bridgeport Planning Region"
+    }
+  },
+  {
+    "zip": "06469",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09130",
+        "ratio": 1.0,
+        "name": "Lower Connecticut River Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09130",
+      "ratio": 1.0,
+      "name": "Lower Connecticut River Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06470",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 0.9985,
+        "name": "Western Connecticut Planning Region"
+      },
+      {
+        "fips": "09120",
+        "ratio": 0.0015,
+        "name": "Greater Bridgeport Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 0.9985,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06471",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06472",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06473",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06475",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09130",
+        "ratio": 1.0,
+        "name": "Lower Connecticut River Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09130",
+      "ratio": 1.0,
+      "name": "Lower Connecticut River Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06477",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 0.9989,
+        "name": "South Central Connecticut Planning Region"
+      },
+      {
+        "fips": "09140",
+        "ratio": 0.0011,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 0.9989,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06478",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06479",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 0.9933,
+        "name": "Capitol Planning Region"
+      },
+      {
+        "fips": "09140",
+        "ratio": 0.0067,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 0.9933,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06480",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09130",
+        "ratio": 1.0,
+        "name": "Lower Connecticut River Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09130",
+      "ratio": 1.0,
+      "name": "Lower Connecticut River Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06481",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09130",
+        "ratio": 1.0,
+        "name": "Lower Connecticut River Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09130",
+      "ratio": 1.0,
+      "name": "Lower Connecticut River Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06482",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 0.9926,
+        "name": "Western Connecticut Planning Region"
+      },
+      {
+        "fips": "09120",
+        "ratio": 0.0074,
+        "name": "Greater Bridgeport Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 0.9926,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06483",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06484",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 0.9978,
+        "name": "Naugatuck Valley Planning Region"
+      },
+      {
+        "fips": "09120",
+        "ratio": 0.0022,
+        "name": "Greater Bridgeport Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 0.9978,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06487",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06488",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06489",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09110",
+        "ratio": 0.9996,
+        "name": "Capitol Planning Region"
+      },
+      {
+        "fips": "09140",
+        "ratio": 0.0004,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09110",
+      "ratio": 0.9996,
+      "name": "Capitol Planning Region"
+    }
+  },
+  {
+    "zip": "06491",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09120",
+        "ratio": 1.0,
+        "name": "Greater Bridgeport Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09120",
+      "ratio": 1.0,
+      "name": "Greater Bridgeport Planning Region"
+    }
+  },
+  {
+    "zip": "06492",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 0.9958,
+        "name": "South Central Connecticut Planning Region"
+      },
+      {
+        "fips": "09140",
+        "ratio": 0.0042,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 0.9958,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06493",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06494",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06495",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06498",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09130",
+        "ratio": 1.0,
+        "name": "Lower Connecticut River Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09130",
+      "ratio": 1.0,
+      "name": "Lower Connecticut River Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06501",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06502",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06503",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06504",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06505",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06506",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06507",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06508",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06509",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06510",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06511",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06512",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06513",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06514",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06515",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06516",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06517",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06518",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 0.9998,
+        "name": "South Central Connecticut Planning Region"
+      },
+      {
+        "fips": "09140",
+        "ratio": 0.0002,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 0.9998,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06519",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06520",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06521",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06524",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06525",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06530",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06531",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06532",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06533",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06534",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06535",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06536",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06537",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06538",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06540",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09170",
+        "ratio": 1.0,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09170",
+      "ratio": 1.0,
+      "name": "South Central Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06601",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09120",
+        "ratio": 1.0,
+        "name": "Greater Bridgeport Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09120",
+      "ratio": 1.0,
+      "name": "Greater Bridgeport Planning Region"
+    }
+  },
+  {
+    "zip": "06602",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09120",
+        "ratio": 1.0,
+        "name": "Greater Bridgeport Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09120",
+      "ratio": 1.0,
+      "name": "Greater Bridgeport Planning Region"
+    }
+  },
+  {
+    "zip": "06604",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09120",
+        "ratio": 1.0,
+        "name": "Greater Bridgeport Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09120",
+      "ratio": 1.0,
+      "name": "Greater Bridgeport Planning Region"
+    }
+  },
+  {
+    "zip": "06605",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09120",
+        "ratio": 1.0,
+        "name": "Greater Bridgeport Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09120",
+      "ratio": 1.0,
+      "name": "Greater Bridgeport Planning Region"
+    }
+  },
+  {
+    "zip": "06606",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09120",
+        "ratio": 1.0,
+        "name": "Greater Bridgeport Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09120",
+      "ratio": 1.0,
+      "name": "Greater Bridgeport Planning Region"
+    }
+  },
+  {
+    "zip": "06607",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09120",
+        "ratio": 1.0,
+        "name": "Greater Bridgeport Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09120",
+      "ratio": 1.0,
+      "name": "Greater Bridgeport Planning Region"
+    }
+  },
+  {
+    "zip": "06608",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09120",
+        "ratio": 1.0,
+        "name": "Greater Bridgeport Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09120",
+      "ratio": 1.0,
+      "name": "Greater Bridgeport Planning Region"
+    }
+  },
+  {
+    "zip": "06610",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09120",
+        "ratio": 1.0,
+        "name": "Greater Bridgeport Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09120",
+      "ratio": 1.0,
+      "name": "Greater Bridgeport Planning Region"
+    }
+  },
+  {
+    "zip": "06611",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09120",
+        "ratio": 0.9989,
+        "name": "Greater Bridgeport Planning Region"
+      },
+      {
+        "fips": "09140",
+        "ratio": 0.0011,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09120",
+      "ratio": 0.9989,
+      "name": "Greater Bridgeport Planning Region"
+    }
+  },
+  {
+    "zip": "06612",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09120",
+        "ratio": 0.9982,
+        "name": "Greater Bridgeport Planning Region"
+      },
+      {
+        "fips": "09190",
+        "ratio": 0.0018,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09120",
+      "ratio": 0.9982,
+      "name": "Greater Bridgeport Planning Region"
+    }
+  },
+  {
+    "zip": "06614",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09120",
+        "ratio": 0.9907,
+        "name": "Greater Bridgeport Planning Region"
+      },
+      {
+        "fips": "09140",
+        "ratio": 0.0093,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09120",
+      "ratio": 0.9907,
+      "name": "Greater Bridgeport Planning Region"
+    }
+  },
+  {
+    "zip": "06615",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09120",
+        "ratio": 1.0,
+        "name": "Greater Bridgeport Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09120",
+      "ratio": 1.0,
+      "name": "Greater Bridgeport Planning Region"
+    }
+  },
+  {
+    "zip": "06673",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09120",
+        "ratio": 1.0,
+        "name": "Greater Bridgeport Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09120",
+      "ratio": 1.0,
+      "name": "Greater Bridgeport Planning Region"
+    }
+  },
+  {
+    "zip": "06699",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09120",
+        "ratio": 1.0,
+        "name": "Greater Bridgeport Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09120",
+      "ratio": 1.0,
+      "name": "Greater Bridgeport Planning Region"
+    }
+  },
+  {
+    "zip": "06701",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06702",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06703",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06704",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06705",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06706",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06708",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06710",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06712",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06716",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06720",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06721",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06722",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06723",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06724",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06750",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06751",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 0.9994,
+        "name": "Naugatuck Valley Planning Region"
+      },
+      {
+        "fips": "09160",
+        "ratio": 0.0006,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 0.9994,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06752",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 0.9891,
+        "name": "Western Connecticut Planning Region"
+      },
+      {
+        "fips": "09160",
+        "ratio": 0.0109,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 0.9891,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06753",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06754",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06755",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06756",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06757",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06758",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06759",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06762",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06763",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06770",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 0.9996,
+        "name": "Naugatuck Valley Planning Region"
+      },
+      {
+        "fips": "09170",
+        "ratio": 0.0004,
+        "name": "South Central Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 0.9996,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06776",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 0.9997,
+        "name": "Western Connecticut Planning Region"
+      },
+      {
+        "fips": "09160",
+        "ratio": 0.0003,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 0.9997,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06777",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06778",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 0.989,
+        "name": "Northwest Hills Planning Region"
+      },
+      {
+        "fips": "09140",
+        "ratio": 0.011,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 0.989,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06779",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06781",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06782",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06783",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 0.9992,
+        "name": "Northwest Hills Planning Region"
+      },
+      {
+        "fips": "09190",
+        "ratio": 0.0008,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 0.9992,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06784",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06785",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 0.9873,
+        "name": "Northwest Hills Planning Region"
+      },
+      {
+        "fips": "09190",
+        "ratio": 0.0127,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 0.9873,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06786",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06787",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 0.988,
+        "name": "Naugatuck Valley Planning Region"
+      },
+      {
+        "fips": "09160",
+        "ratio": 0.012,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 0.988,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06790",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06791",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 0.9996,
+        "name": "Northwest Hills Planning Region"
+      },
+      {
+        "fips": "09140",
+        "ratio": 0.0004,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 0.9996,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06792",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06793",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 0.9782,
+        "name": "Northwest Hills Planning Region"
+      },
+      {
+        "fips": "09140",
+        "ratio": 0.0218,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 0.9782,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06794",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 0.9779,
+        "name": "Northwest Hills Planning Region"
+      },
+      {
+        "fips": "09190",
+        "ratio": 0.0221,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 0.9779,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06795",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06796",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09160",
+        "ratio": 1.0,
+        "name": "Northwest Hills Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09160",
+      "ratio": 1.0,
+      "name": "Northwest Hills Planning Region"
+    }
+  },
+  {
+    "zip": "06798",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09140",
+        "ratio": 1.0,
+        "name": "Naugatuck Valley Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09140",
+      "ratio": 1.0,
+      "name": "Naugatuck Valley Planning Region"
+    }
+  },
+  {
+    "zip": "06801",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06804",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06807",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06810",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06811",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06812",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06813",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06820",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06824",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09120",
+        "ratio": 0.9997,
+        "name": "Greater Bridgeport Planning Region"
+      },
+      {
+        "fips": "09190",
+        "ratio": 0.0003,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09120",
+      "ratio": 0.9997,
+      "name": "Greater Bridgeport Planning Region"
+    }
+  },
+  {
+    "zip": "06825",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09120",
+        "ratio": 1.0,
+        "name": "Greater Bridgeport Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09120",
+      "ratio": 1.0,
+      "name": "Greater Bridgeport Planning Region"
+    }
+  },
+  {
+    "zip": "06828",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09120",
+        "ratio": 1.0,
+        "name": "Greater Bridgeport Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09120",
+      "ratio": 1.0,
+      "name": "Greater Bridgeport Planning Region"
+    }
+  },
+  {
+    "zip": "06829",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06830",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06831",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06836",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06838",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06840",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06850",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06851",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06852",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06853",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06854",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06855",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06856",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06858",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06870",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06875",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06876",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06877",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06878",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06880",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 0.9961,
+        "name": "Western Connecticut Planning Region"
+      },
+      {
+        "fips": "09120",
+        "ratio": 0.0039,
+        "name": "Greater Bridgeport Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 0.9961,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06881",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06883",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06888",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06890",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09120",
+        "ratio": 1.0,
+        "name": "Greater Bridgeport Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09120",
+      "ratio": 1.0,
+      "name": "Greater Bridgeport Planning Region"
+    }
+  },
+  {
+    "zip": "06896",
+    "state": "CT",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 0.9992,
+        "name": "Western Connecticut Planning Region"
+      },
+      {
+        "fips": "09120",
+        "ratio": 0.0008,
+        "name": "Greater Bridgeport Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 0.9992,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06897",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06901",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06902",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06903",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06904",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06905",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06906",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06907",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06910",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06911",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06912",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  },
+  {
+    "zip": "06926",
+    "state": "CT",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "09190",
+        "ratio": 1.0,
+        "name": "Western Connecticut Planning Region"
+      }
+    ],
+    "primary_county": {
+      "fips": "09190",
+      "ratio": 1.0,
+      "name": "Western Connecticut Planning Region"
+    }
+  }
+]

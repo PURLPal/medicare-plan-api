@@ -1,0 +1,5185 @@
+[
+  {
+    "zip": "03031",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03032",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03033",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03034",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 0.9994,
+        "name": "Rockingham County"
+      },
+      {
+        "fips": "33013",
+        "ratio": 0.0006,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 0.9994,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03036",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03037",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 0.987,
+        "name": "Rockingham County"
+      },
+      {
+        "fips": "33013",
+        "ratio": 0.013,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 0.987,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03038",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03041",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03042",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 0.9982,
+        "name": "Rockingham County"
+      },
+      {
+        "fips": "33017",
+        "ratio": 0.0018,
+        "name": "Strafford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 0.9982,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03043",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03044",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03045",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 0.9993,
+        "name": "Hillsborough County"
+      },
+      {
+        "fips": "33013",
+        "ratio": 0.0007,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 0.9993,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03046",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 1.0,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 1.0,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03047",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03048",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03049",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03051",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03052",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03053",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03054",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03055",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03057",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03060",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03061",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03062",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03063",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03064",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03070",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03071",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03073",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03076",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 0.9999,
+        "name": "Hillsborough County"
+      },
+      {
+        "fips": "33015",
+        "ratio": 0.0001,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 0.9999,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03077",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03079",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03082",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03084",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03086",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03087",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03101",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03102",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 0.9995,
+        "name": "Hillsborough County"
+      },
+      {
+        "fips": "33013",
+        "ratio": 0.0005,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 0.9995,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03103",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 0.9963,
+        "name": "Hillsborough County"
+      },
+      {
+        "fips": "33015",
+        "ratio": 0.0037,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 0.9963,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03104",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 0.9991,
+        "name": "Hillsborough County"
+      },
+      {
+        "fips": "33013",
+        "ratio": 0.0007,
+        "name": "Merrimack County"
+      },
+      {
+        "fips": "33015",
+        "ratio": 0.0002,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 0.9991,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03105",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03106",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 1.0,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 1.0,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03108",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03109",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03110",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03111",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03215",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03216",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 1.0,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 1.0,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03217",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03218",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33001",
+        "ratio": 1.0,
+        "name": "Belknap County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "ratio": 1.0,
+      "name": "Belknap County"
+    }
+  },
+  {
+    "zip": "03220",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33001",
+        "ratio": 0.9904,
+        "name": "Belknap County"
+      },
+      {
+        "fips": "33013",
+        "ratio": 0.0096,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "ratio": 0.9904,
+      "name": "Belknap County"
+    }
+  },
+  {
+    "zip": "03221",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 1.0,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 1.0,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03222",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03223",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03224",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 1.0,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 1.0,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03225",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33001",
+        "ratio": 1.0,
+        "name": "Belknap County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "ratio": 1.0,
+      "name": "Belknap County"
+    }
+  },
+  {
+    "zip": "03226",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33001",
+        "ratio": 0.9932,
+        "name": "Belknap County"
+      },
+      {
+        "fips": "33003",
+        "ratio": 0.0068,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "ratio": 0.9932,
+      "name": "Belknap County"
+    }
+  },
+  {
+    "zip": "03227",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03229",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 1.0,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 1.0,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03230",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 1.0,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 1.0,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03231",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 1.0,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 1.0,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03233",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 1.0,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 1.0,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03234",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 1.0,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 1.0,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03235",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 1.0,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 1.0,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03237",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33001",
+        "ratio": 0.9983,
+        "name": "Belknap County"
+      },
+      {
+        "fips": "33013",
+        "ratio": 0.0017,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "ratio": 0.9983,
+      "name": "Belknap County"
+    }
+  },
+  {
+    "zip": "03238",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03240",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03241",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03242",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 0.9995,
+        "name": "Merrimack County"
+      },
+      {
+        "fips": "33011",
+        "ratio": 0.0005,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 0.9995,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03243",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 0.939,
+        "name": "Merrimack County"
+      },
+      {
+        "fips": "33009",
+        "ratio": 0.061,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 0.939,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03244",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 0.99,
+        "name": "Hillsborough County"
+      },
+      {
+        "fips": "33019",
+        "ratio": 0.0084,
+        "name": "Sullivan County"
+      },
+      {
+        "fips": "33013",
+        "ratio": 0.0016,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 0.99,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03245",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 0.9993,
+        "name": "Grafton County"
+      },
+      {
+        "fips": "33001",
+        "ratio": 0.0007,
+        "name": "Belknap County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 0.9993,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03246",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33001",
+        "ratio": 1.0,
+        "name": "Belknap County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "ratio": 1.0,
+      "name": "Belknap County"
+    }
+  },
+  {
+    "zip": "03249",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33001",
+        "ratio": 1.0,
+        "name": "Belknap County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "ratio": 1.0,
+      "name": "Belknap County"
+    }
+  },
+  {
+    "zip": "03251",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03252",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33001",
+        "ratio": 1.0,
+        "name": "Belknap County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "ratio": 1.0,
+      "name": "Belknap County"
+    }
+  },
+  {
+    "zip": "03253",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33001",
+        "ratio": 1.0,
+        "name": "Belknap County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "ratio": 1.0,
+      "name": "Belknap County"
+    }
+  },
+  {
+    "zip": "03254",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 0.9962,
+        "name": "Carroll County"
+      },
+      {
+        "fips": "33001",
+        "ratio": 0.0038,
+        "name": "Belknap County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 0.9962,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03255",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 1.0,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 1.0,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03256",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33001",
+        "ratio": 1.0,
+        "name": "Belknap County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "ratio": 1.0,
+      "name": "Belknap County"
+    }
+  },
+  {
+    "zip": "03257",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 0.9939,
+        "name": "Merrimack County"
+      },
+      {
+        "fips": "33019",
+        "ratio": 0.0061,
+        "name": "Sullivan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 0.9939,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03258",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 1.0,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 1.0,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03259",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03260",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 1.0,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 1.0,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03261",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 0.9961,
+        "name": "Rockingham County"
+      },
+      {
+        "fips": "33013",
+        "ratio": 0.0022,
+        "name": "Merrimack County"
+      },
+      {
+        "fips": "33017",
+        "ratio": 0.0017,
+        "name": "Strafford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 0.9961,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03262",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03263",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 1.0,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 1.0,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03264",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03266",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03268",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 1.0,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 1.0,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03269",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33001",
+        "ratio": 1.0,
+        "name": "Belknap County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "ratio": 1.0,
+      "name": "Belknap County"
+    }
+  },
+  {
+    "zip": "03272",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 1.0,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 1.0,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03273",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 1.0,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 1.0,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03275",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 1.0,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 1.0,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03276",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33001",
+        "ratio": 0.5311,
+        "name": "Belknap County"
+      },
+      {
+        "fips": "33013",
+        "ratio": 0.4689,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "ratio": 0.5311,
+      "name": "Belknap County"
+    }
+  },
+  {
+    "zip": "03278",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 1.0,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 1.0,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03279",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03280",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 4,
+    "counties": [
+      {
+        "fips": "33019",
+        "ratio": 0.962,
+        "name": "Sullivan County"
+      },
+      {
+        "fips": "33005",
+        "ratio": 0.0354,
+        "name": "Cheshire County"
+      },
+      {
+        "fips": "33013",
+        "ratio": 0.0013,
+        "name": "Merrimack County"
+      },
+      {
+        "fips": "33011",
+        "ratio": 0.0013,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "ratio": 0.962,
+      "name": "Sullivan County"
+    }
+  },
+  {
+    "zip": "03281",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03282",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03284",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33019",
+        "ratio": 1.0,
+        "name": "Sullivan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "ratio": 1.0,
+      "name": "Sullivan County"
+    }
+  },
+  {
+    "zip": "03285",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03287",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 1.0,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 1.0,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03289",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33001",
+        "ratio": 1.0,
+        "name": "Belknap County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "ratio": 1.0,
+      "name": "Belknap County"
+    }
+  },
+  {
+    "zip": "03290",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 0.9958,
+        "name": "Rockingham County"
+      },
+      {
+        "fips": "33017",
+        "ratio": 0.0042,
+        "name": "Strafford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 0.9958,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03291",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03299",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33001",
+        "ratio": 1.0,
+        "name": "Belknap County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "ratio": 1.0,
+      "name": "Belknap County"
+    }
+  },
+  {
+    "zip": "03301",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 1.0,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 1.0,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03302",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 1.0,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 1.0,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03303",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 1.0,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 1.0,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03304",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 0.9969,
+        "name": "Merrimack County"
+      },
+      {
+        "fips": "33011",
+        "ratio": 0.0031,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 0.9969,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03305",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 1.0,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 1.0,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03307",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33013",
+        "ratio": 1.0,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33013",
+      "ratio": 1.0,
+      "name": "Merrimack County"
+    }
+  },
+  {
+    "zip": "03431",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "ratio": 1.0,
+        "name": "Cheshire County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "ratio": 1.0,
+      "name": "Cheshire County"
+    }
+  },
+  {
+    "zip": "03435",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "ratio": 1.0,
+        "name": "Cheshire County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "ratio": 1.0,
+      "name": "Cheshire County"
+    }
+  },
+  {
+    "zip": "03440",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03441",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "ratio": 1.0,
+        "name": "Cheshire County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "ratio": 1.0,
+      "name": "Cheshire County"
+    }
+  },
+  {
+    "zip": "03442",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03443",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "ratio": 1.0,
+        "name": "Cheshire County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "ratio": 1.0,
+      "name": "Cheshire County"
+    }
+  },
+  {
+    "zip": "03444",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "ratio": 1.0,
+        "name": "Cheshire County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "ratio": 1.0,
+      "name": "Cheshire County"
+    }
+  },
+  {
+    "zip": "03445",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "ratio": 1.0,
+        "name": "Cheshire County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "ratio": 1.0,
+      "name": "Cheshire County"
+    }
+  },
+  {
+    "zip": "03446",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "ratio": 1.0,
+        "name": "Cheshire County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "ratio": 1.0,
+      "name": "Cheshire County"
+    }
+  },
+  {
+    "zip": "03447",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "ratio": 1.0,
+        "name": "Cheshire County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "ratio": 1.0,
+      "name": "Cheshire County"
+    }
+  },
+  {
+    "zip": "03448",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "ratio": 1.0,
+        "name": "Cheshire County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "ratio": 1.0,
+      "name": "Cheshire County"
+    }
+  },
+  {
+    "zip": "03449",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03450",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "ratio": 1.0,
+        "name": "Cheshire County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "ratio": 1.0,
+      "name": "Cheshire County"
+    }
+  },
+  {
+    "zip": "03451",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "ratio": 1.0,
+        "name": "Cheshire County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "ratio": 1.0,
+      "name": "Cheshire County"
+    }
+  },
+  {
+    "zip": "03452",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33005",
+        "ratio": 0.9889,
+        "name": "Cheshire County"
+      },
+      {
+        "fips": "33011",
+        "ratio": 0.0111,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "ratio": 0.9889,
+      "name": "Cheshire County"
+    }
+  },
+  {
+    "zip": "03455",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "ratio": 1.0,
+        "name": "Cheshire County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "ratio": 1.0,
+      "name": "Cheshire County"
+    }
+  },
+  {
+    "zip": "03456",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "ratio": 1.0,
+        "name": "Cheshire County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "ratio": 1.0,
+      "name": "Cheshire County"
+    }
+  },
+  {
+    "zip": "03457",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "ratio": 1.0,
+        "name": "Cheshire County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "ratio": 1.0,
+      "name": "Cheshire County"
+    }
+  },
+  {
+    "zip": "03458",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 0.9989,
+        "name": "Hillsborough County"
+      },
+      {
+        "fips": "33005",
+        "ratio": 0.0011,
+        "name": "Cheshire County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 0.9989,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03461",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "ratio": 1.0,
+        "name": "Cheshire County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "ratio": 1.0,
+      "name": "Cheshire County"
+    }
+  },
+  {
+    "zip": "03462",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "ratio": 1.0,
+        "name": "Cheshire County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "ratio": 1.0,
+      "name": "Cheshire County"
+    }
+  },
+  {
+    "zip": "03464",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "ratio": 1.0,
+        "name": "Cheshire County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "ratio": 1.0,
+      "name": "Cheshire County"
+    }
+  },
+  {
+    "zip": "03465",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "ratio": 1.0,
+        "name": "Cheshire County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "ratio": 1.0,
+      "name": "Cheshire County"
+    }
+  },
+  {
+    "zip": "03466",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "ratio": 1.0,
+        "name": "Cheshire County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "ratio": 1.0,
+      "name": "Cheshire County"
+    }
+  },
+  {
+    "zip": "03467",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "ratio": 1.0,
+        "name": "Cheshire County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "ratio": 1.0,
+      "name": "Cheshire County"
+    }
+  },
+  {
+    "zip": "03468",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33011",
+        "ratio": 1.0,
+        "name": "Hillsborough County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33011",
+      "ratio": 1.0,
+      "name": "Hillsborough County"
+    }
+  },
+  {
+    "zip": "03469",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "ratio": 1.0,
+        "name": "Cheshire County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "ratio": 1.0,
+      "name": "Cheshire County"
+    }
+  },
+  {
+    "zip": "03470",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "ratio": 1.0,
+        "name": "Cheshire County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "ratio": 1.0,
+      "name": "Cheshire County"
+    }
+  },
+  {
+    "zip": "03561",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03570",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "ratio": 1.0,
+        "name": "Coos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "ratio": 1.0,
+      "name": "Coos County"
+    }
+  },
+  {
+    "zip": "03574",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 0.979,
+        "name": "Grafton County"
+      },
+      {
+        "fips": "33007",
+        "ratio": 0.021,
+        "name": "Coos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 0.979,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03575",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "ratio": 1.0,
+        "name": "Coos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "ratio": 1.0,
+      "name": "Coos County"
+    }
+  },
+  {
+    "zip": "03576",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "ratio": 1.0,
+        "name": "Coos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "ratio": 1.0,
+      "name": "Coos County"
+    }
+  },
+  {
+    "zip": "03579",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "ratio": 1.0,
+        "name": "Coos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "ratio": 1.0,
+      "name": "Coos County"
+    }
+  },
+  {
+    "zip": "03580",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03581",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "ratio": 1.0,
+        "name": "Coos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "ratio": 1.0,
+      "name": "Coos County"
+    }
+  },
+  {
+    "zip": "03582",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "ratio": 1.0,
+        "name": "Coos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "ratio": 1.0,
+      "name": "Coos County"
+    }
+  },
+  {
+    "zip": "03583",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "ratio": 1.0,
+        "name": "Coos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "ratio": 1.0,
+      "name": "Coos County"
+    }
+  },
+  {
+    "zip": "03584",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "ratio": 1.0,
+        "name": "Coos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "ratio": 1.0,
+      "name": "Coos County"
+    }
+  },
+  {
+    "zip": "03585",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03586",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03588",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "ratio": 1.0,
+        "name": "Coos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "ratio": 1.0,
+      "name": "Coos County"
+    }
+  },
+  {
+    "zip": "03589",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "ratio": 1.0,
+        "name": "Coos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "ratio": 1.0,
+      "name": "Coos County"
+    }
+  },
+  {
+    "zip": "03590",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "ratio": 1.0,
+        "name": "Coos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "ratio": 1.0,
+      "name": "Coos County"
+    }
+  },
+  {
+    "zip": "03592",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "ratio": 1.0,
+        "name": "Coos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "ratio": 1.0,
+      "name": "Coos County"
+    }
+  },
+  {
+    "zip": "03593",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "ratio": 1.0,
+        "name": "Coos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "ratio": 1.0,
+      "name": "Coos County"
+    }
+  },
+  {
+    "zip": "03595",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "ratio": 1.0,
+        "name": "Coos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "ratio": 1.0,
+      "name": "Coos County"
+    }
+  },
+  {
+    "zip": "03597",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33007",
+        "ratio": 1.0,
+        "name": "Coos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "ratio": 1.0,
+      "name": "Coos County"
+    }
+  },
+  {
+    "zip": "03598",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33007",
+        "ratio": 0.9987,
+        "name": "Coos County"
+      },
+      {
+        "fips": "33009",
+        "ratio": 0.0013,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33007",
+      "ratio": 0.9987,
+      "name": "Coos County"
+    }
+  },
+  {
+    "zip": "03601",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33019",
+        "ratio": 1.0,
+        "name": "Sullivan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "ratio": 1.0,
+      "name": "Sullivan County"
+    }
+  },
+  {
+    "zip": "03602",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33005",
+        "ratio": 0.7726,
+        "name": "Cheshire County"
+      },
+      {
+        "fips": "33019",
+        "ratio": 0.2274,
+        "name": "Sullivan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "ratio": 0.7726,
+      "name": "Cheshire County"
+    }
+  },
+  {
+    "zip": "03603",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33019",
+        "ratio": 1.0,
+        "name": "Sullivan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "ratio": 1.0,
+      "name": "Sullivan County"
+    }
+  },
+  {
+    "zip": "03604",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "ratio": 1.0,
+        "name": "Cheshire County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "ratio": 1.0,
+      "name": "Cheshire County"
+    }
+  },
+  {
+    "zip": "03605",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33019",
+        "ratio": 1.0,
+        "name": "Sullivan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "ratio": 1.0,
+      "name": "Sullivan County"
+    }
+  },
+  {
+    "zip": "03607",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33019",
+        "ratio": 1.0,
+        "name": "Sullivan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "ratio": 1.0,
+      "name": "Sullivan County"
+    }
+  },
+  {
+    "zip": "03608",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33005",
+        "ratio": 0.9976,
+        "name": "Cheshire County"
+      },
+      {
+        "fips": "33019",
+        "ratio": 0.0024,
+        "name": "Sullivan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "ratio": 0.9976,
+      "name": "Cheshire County"
+    }
+  },
+  {
+    "zip": "03609",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33005",
+        "ratio": 1.0,
+        "name": "Cheshire County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33005",
+      "ratio": 1.0,
+      "name": "Cheshire County"
+    }
+  },
+  {
+    "zip": "03740",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03741",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03743",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33019",
+        "ratio": 1.0,
+        "name": "Sullivan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "ratio": 1.0,
+      "name": "Sullivan County"
+    }
+  },
+  {
+    "zip": "03745",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33019",
+        "ratio": 1.0,
+        "name": "Sullivan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "ratio": 1.0,
+      "name": "Sullivan County"
+    }
+  },
+  {
+    "zip": "03746",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33019",
+        "ratio": 1.0,
+        "name": "Sullivan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "ratio": 1.0,
+      "name": "Sullivan County"
+    }
+  },
+  {
+    "zip": "03748",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 0.9909,
+        "name": "Grafton County"
+      },
+      {
+        "fips": "33019",
+        "ratio": 0.0091,
+        "name": "Sullivan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 0.9909,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03749",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03750",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03751",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33019",
+        "ratio": 1.0,
+        "name": "Sullivan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "ratio": 1.0,
+      "name": "Sullivan County"
+    }
+  },
+  {
+    "zip": "03752",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33019",
+        "ratio": 1.0,
+        "name": "Sullivan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "ratio": 1.0,
+      "name": "Sullivan County"
+    }
+  },
+  {
+    "zip": "03753",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33019",
+        "ratio": 0.9917,
+        "name": "Sullivan County"
+      },
+      {
+        "fips": "33009",
+        "ratio": 0.0083,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "ratio": 0.9917,
+      "name": "Sullivan County"
+    }
+  },
+  {
+    "zip": "03754",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33019",
+        "ratio": 1.0,
+        "name": "Sullivan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "ratio": 1.0,
+      "name": "Sullivan County"
+    }
+  },
+  {
+    "zip": "03755",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03756",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03765",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03766",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03768",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03769",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03770",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33019",
+        "ratio": 1.0,
+        "name": "Sullivan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "ratio": 1.0,
+      "name": "Sullivan County"
+    }
+  },
+  {
+    "zip": "03771",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03773",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33019",
+        "ratio": 1.0,
+        "name": "Sullivan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "ratio": 1.0,
+      "name": "Sullivan County"
+    }
+  },
+  {
+    "zip": "03774",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03777",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03779",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03780",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03781",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33019",
+        "ratio": 1.0,
+        "name": "Sullivan County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "ratio": 1.0,
+      "name": "Sullivan County"
+    }
+  },
+  {
+    "zip": "03782",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33019",
+        "ratio": 0.9996,
+        "name": "Sullivan County"
+      },
+      {
+        "fips": "33013",
+        "ratio": 0.0004,
+        "name": "Merrimack County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33019",
+      "ratio": 0.9996,
+      "name": "Sullivan County"
+    }
+  },
+  {
+    "zip": "03784",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03785",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33009",
+        "ratio": 1.0,
+        "name": "Grafton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33009",
+      "ratio": 1.0,
+      "name": "Grafton County"
+    }
+  },
+  {
+    "zip": "03801",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03802",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03803",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03809",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33001",
+        "ratio": 0.9969,
+        "name": "Belknap County"
+      },
+      {
+        "fips": "33017",
+        "ratio": 0.0031,
+        "name": "Strafford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "ratio": 0.9969,
+      "name": "Belknap County"
+    }
+  },
+  {
+    "zip": "03810",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33001",
+        "ratio": 1.0,
+        "name": "Belknap County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "ratio": 1.0,
+      "name": "Belknap County"
+    }
+  },
+  {
+    "zip": "03811",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03812",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03813",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03814",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03815",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33017",
+        "ratio": 1.0,
+        "name": "Strafford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "ratio": 1.0,
+      "name": "Strafford County"
+    }
+  },
+  {
+    "zip": "03816",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03817",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03818",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03819",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03820",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33017",
+        "ratio": 1.0,
+        "name": "Strafford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "ratio": 1.0,
+      "name": "Strafford County"
+    }
+  },
+  {
+    "zip": "03821",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33017",
+        "ratio": 1.0,
+        "name": "Strafford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "ratio": 1.0,
+      "name": "Strafford County"
+    }
+  },
+  {
+    "zip": "03822",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33017",
+        "ratio": 1.0,
+        "name": "Strafford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "ratio": 1.0,
+      "name": "Strafford County"
+    }
+  },
+  {
+    "zip": "03823",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33017",
+        "ratio": 1.0,
+        "name": "Strafford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "ratio": 1.0,
+      "name": "Strafford County"
+    }
+  },
+  {
+    "zip": "03824",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33017",
+        "ratio": 0.9994,
+        "name": "Strafford County"
+      },
+      {
+        "fips": "33015",
+        "ratio": 0.0006,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "ratio": 0.9994,
+      "name": "Strafford County"
+    }
+  },
+  {
+    "zip": "03825",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33017",
+        "ratio": 0.9998,
+        "name": "Strafford County"
+      },
+      {
+        "fips": "33015",
+        "ratio": 0.0002,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "ratio": 0.9998,
+      "name": "Strafford County"
+    }
+  },
+  {
+    "zip": "03826",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03827",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03830",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03832",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03833",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03835",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33017",
+        "ratio": 1.0,
+        "name": "Strafford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "ratio": 1.0,
+      "name": "Strafford County"
+    }
+  },
+  {
+    "zip": "03836",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03837",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33001",
+        "ratio": 1.0,
+        "name": "Belknap County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33001",
+      "ratio": 1.0,
+      "name": "Belknap County"
+    }
+  },
+  {
+    "zip": "03838",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03839",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33017",
+        "ratio": 1.0,
+        "name": "Strafford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "ratio": 1.0,
+      "name": "Strafford County"
+    }
+  },
+  {
+    "zip": "03840",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03841",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03842",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03843",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03844",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03845",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03846",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03847",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03848",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03849",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03850",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03851",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33017",
+        "ratio": 1.0,
+        "name": "Strafford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "ratio": 1.0,
+      "name": "Strafford County"
+    }
+  },
+  {
+    "zip": "03852",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33017",
+        "ratio": 1.0,
+        "name": "Strafford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "ratio": 1.0,
+      "name": "Strafford County"
+    }
+  },
+  {
+    "zip": "03853",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03854",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03855",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33017",
+        "ratio": 0.9963,
+        "name": "Strafford County"
+      },
+      {
+        "fips": "33003",
+        "ratio": 0.0037,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "ratio": 0.9963,
+      "name": "Strafford County"
+    }
+  },
+  {
+    "zip": "03856",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03857",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 0.9998,
+        "name": "Rockingham County"
+      },
+      {
+        "fips": "33017",
+        "ratio": 0.0002,
+        "name": "Strafford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 0.9998,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03858",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03859",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03860",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03861",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33017",
+        "ratio": 1.0,
+        "name": "Strafford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "ratio": 1.0,
+      "name": "Strafford County"
+    }
+  },
+  {
+    "zip": "03862",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03864",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03865",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03866",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33017",
+        "ratio": 1.0,
+        "name": "Strafford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "ratio": 1.0,
+      "name": "Strafford County"
+    }
+  },
+  {
+    "zip": "03867",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33017",
+        "ratio": 1.0,
+        "name": "Strafford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "ratio": 1.0,
+      "name": "Strafford County"
+    }
+  },
+  {
+    "zip": "03868",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33017",
+        "ratio": 1.0,
+        "name": "Strafford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "ratio": 1.0,
+      "name": "Strafford County"
+    }
+  },
+  {
+    "zip": "03869",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33017",
+        "ratio": 1.0,
+        "name": "Strafford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "ratio": 1.0,
+      "name": "Strafford County"
+    }
+  },
+  {
+    "zip": "03870",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03871",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03872",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03873",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03874",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03875",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03878",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33017",
+        "ratio": 1.0,
+        "name": "Strafford County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "ratio": 1.0,
+      "name": "Strafford County"
+    }
+  },
+  {
+    "zip": "03882",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03883",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03884",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33017",
+        "ratio": 0.9989,
+        "name": "Strafford County"
+      },
+      {
+        "fips": "33015",
+        "ratio": 0.0011,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "ratio": 0.9989,
+      "name": "Strafford County"
+    }
+  },
+  {
+    "zip": "03885",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33015",
+        "ratio": 1.0,
+        "name": "Rockingham County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33015",
+      "ratio": 1.0,
+      "name": "Rockingham County"
+    }
+  },
+  {
+    "zip": "03886",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03887",
+    "state": "NH",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "33017",
+        "ratio": 0.8609,
+        "name": "Strafford County"
+      },
+      {
+        "fips": "33003",
+        "ratio": 0.1391,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33017",
+      "ratio": 0.8609,
+      "name": "Strafford County"
+    }
+  },
+  {
+    "zip": "03890",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03894",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03896",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  },
+  {
+    "zip": "03897",
+    "state": "NH",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "33003",
+        "ratio": 1.0,
+        "name": "Carroll County"
+      }
+    ],
+    "primary_county": {
+      "fips": "33003",
+      "ratio": 1.0,
+      "name": "Carroll County"
+    }
+  }
+]

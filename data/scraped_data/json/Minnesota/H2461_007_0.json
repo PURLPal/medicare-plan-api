@@ -1,0 +1,41 @@
+{
+  "plan_info": {
+    "name": "Platinum Blue Complete Plan (Cost)",
+    "contract_id": "H2461_007",
+    "plan_type": "Cost",
+    "organization": "Blue Cross and Blue Shield of Minnesota"
+  },
+  "premiums": {
+    "Total monthly premium": "$235.00",
+    "Health premium": "235.00",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "3,000"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copay",
+    "Specialist visit": "In-network: $0 copay",
+    "Emergency care": "$50 copay",
+    "Inpatient hospital coverage": "Tier 1$200 per stay",
+    "Outpatient hospital coverage": "In-network: $0-$50 copay",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "$50 copay"
+  },
+  "drug_coverage": {
+    "Chemotherapy drugs": "In-network: 0%-20% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsurance",
+    "Over the counter drug benefits": "In-network: $0 copay"
+  },
+  "extra_benefits": [],
+  "plan_id": "H2461_007_0",
+  "state": "Minnesota"
+}

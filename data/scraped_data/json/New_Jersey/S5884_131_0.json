@@ -1,0 +1,20 @@
+{
+  "plan_info": {
+    "name": "Humana Basic Rx Plan (PDP)"
+  },
+  "premiums": {
+    "Total monthly premium": "$4.40"
+  },
+  "deductibles": {
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "32% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S5884_131_0",
+  "state": "New_Jersey"
+}

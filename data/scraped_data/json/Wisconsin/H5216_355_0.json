@@ -1,0 +1,41 @@
+{
+  "plan_info": {
+    "name": "Humana USAA Honor Giveback (PPO)",
+    "contract_id": "H5216_355",
+    "plan_type": "PPO",
+    "organization": "Humana"
+  },
+  "premiums": {
+    "Total monthly premium": "$0.00",
+    "Health premium": "0.00",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "\u2212$145.00",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "\u2212$145.00 reduction"
+  },
+  "deductibles": {
+    "Health deductible": "$100Annual deductible"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "10,100"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copayOut-of-network: 45% coinsurance",
+    "Specialist visit": "In-network: $45 copayOut-of-network: 45% coinsurance",
+    "Emergency care": "$130 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$295 per day for days 1-6$0 per day for days 7-90$0 per stayOut-of-network:50% per stay",
+    "Outpatient hospital coverage": "In-network: $0-$350 copayOut-of-network: $0 copay, 50% coinsurance",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "$130 copay"
+  },
+  "drug_coverage": {
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 50% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 50% coinsurance",
+    "Over the counter drug benefits": "In-network: $0 copayOut-of-network: $0 copay"
+  },
+  "extra_benefits": [],
+  "plan_id": "H5216_355_0",
+  "state": "Wisconsin"
+}

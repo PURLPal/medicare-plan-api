@@ -1,0 +1,41 @@
+{
+  "plan_info": {
+    "name": "Erickson Advantage Liberty no Rx (HMO-POS)",
+    "contract_id": "H5652_002",
+    "plan_type": "HMO-POS",
+    "organization": "UnitedHealthcare"
+  },
+  "premiums": {
+    "Total monthly premium": "$0.00",
+    "Health premium": "0.00",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "\u2212$20.00",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "\u2212$20.00 reduction"
+  },
+  "deductibles": {
+    "Health deductible": "$1,000In-network"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "6,750"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copayOut-of-network: $50 copay",
+    "Specialist visit": "In-network: $0-$65 copayOut-of-network: $90 copay",
+    "Emergency care": "$130 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$375 per day for days 1-7$0 per day for days 8-90$0 per stayOut-of-network:40% per stay",
+    "Outpatient hospital coverage": "In-network: $0-$375 copayOut-of-network: 40% coinsurance",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "$0 copay"
+  },
+  "drug_coverage": {
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 40% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 0%-40% coinsurance",
+    "Over the counter drug benefits": "Not covered"
+  },
+  "extra_benefits": [],
+  "plan_id": "H5652_002_0",
+  "state": "North_Carolina"
+}

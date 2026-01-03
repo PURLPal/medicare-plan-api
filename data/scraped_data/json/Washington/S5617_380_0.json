@@ -1,0 +1,23 @@
+{
+  "plan_info": {
+    "name": "HealthSpring Extra Rx (PDP)",
+    "contract_id": "S5617_380",
+    "plan_type": "PDP",
+    "organization": "HealthSpring"
+  },
+  "premiums": {
+    "Total monthly premium": "$50.00"
+  },
+  "deductibles": {
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "30% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S5617_380_0",
+  "state": "Washington"
+}

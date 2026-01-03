@@ -1,0 +1,23 @@
+{
+  "plan_info": {
+    "name": "AARP Medicare Rx Saver from UHC (PDP)",
+    "contract_id": "S5921_361",
+    "plan_type": "PDP",
+    "organization": "UnitedHealthcare"
+  },
+  "premiums": {
+    "Total monthly premium": "$0.00"
+  },
+  "deductibles": {
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "33% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S5921_361_0",
+  "state": "Wisconsin"
+}

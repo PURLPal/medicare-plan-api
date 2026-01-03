@@ -1,0 +1,38 @@
+{
+  "plan_info": {
+    "name": "HumanaChoice Giveback H5216-116 (PPO)"
+  },
+  "premiums": {
+    "Total monthly premium": "$0.00",
+    "Health premium": "0.00",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "\u2212$60.00",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "\u2212$60.00 reduction"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "6,200"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copayOut-of-network: 30% coinsurance",
+    "Specialist visit": "In-network: $25 copayOut-of-network: 30% coinsurance",
+    "Emergency care": "$150 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$495 per day for days 1-6$0 per day for days 7-90$0 per stayOut-of-network:30% per stay",
+    "Outpatient hospital coverage": "In-network: $0-$800 copayOut-of-network: $0 copay, 30% coinsurance",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "In-network: $0 copayOut-of-network: $0 copay",
+    "Worldwide emergency": "$150 copay"
+  },
+  "drug_coverage": {
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 30% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 30% coinsurance",
+    "Over the counter drug benefits": "In-network: $0 copayOut-of-network: $0 copay"
+  },
+  "extra_benefits": [],
+  "plan_id": "H5216_116_0",
+  "state": "Pennsylvania"
+}

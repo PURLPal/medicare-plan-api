@@ -1,0 +1,23 @@
+{
+  "plan_info": {
+    "name": "HealthSpring Assurance Rx (PDP)",
+    "contract_id": "S5617_348",
+    "plan_type": "PDP",
+    "organization": "HealthSpring"
+  },
+  "premiums": {
+    "Total monthly premium": "$65.70"
+  },
+  "deductibles": {
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "34% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S5617_348_0",
+  "state": "Puerto_Rico"
+}

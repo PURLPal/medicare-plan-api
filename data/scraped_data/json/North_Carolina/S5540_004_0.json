@@ -1,0 +1,23 @@
+{
+  "plan_info": {
+    "name": "Blue Medicare Rx Enhanced (PDP)",
+    "contract_id": "S5540_004",
+    "plan_type": "PDP",
+    "organization": "Blue Cross and Blue Shield of North Carolina"
+  },
+  "premiums": {
+    "Total monthly premium": "$163.20"
+  },
+  "deductibles": {
+    "Drug deductible": "0.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$0.00",
+    "Non-Preferred Drug": "40% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S5540_004_0",
+  "state": "North_Carolina"
+}

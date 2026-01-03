@@ -1,0 +1,56 @@
+[
+  {
+    "zip": "96950",
+    "state": "MP",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "69110",
+        "ratio": 1.0,
+        "name": "Saipan Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "69110",
+      "ratio": 1.0,
+      "name": "Saipan Municipality"
+    }
+  },
+  {
+    "zip": "96951",
+    "state": "MP",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "69100",
+        "ratio": 1.0,
+        "name": "Rota Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "69100",
+      "ratio": 1.0,
+      "name": "Rota Municipality"
+    }
+  },
+  {
+    "zip": "96952",
+    "state": "MP",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "69120",
+        "ratio": 1.0,
+        "name": "Tinian Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "69120",
+      "ratio": 1.0,
+      "name": "Tinian Municipality"
+    }
+  }
+]

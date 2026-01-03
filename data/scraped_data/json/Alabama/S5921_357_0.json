@@ -1,0 +1,23 @@
+{
+  "plan_info": {
+    "name": "AARP Medicare Rx Saver from UHC (PDP)",
+    "contract_id": "S5921_357",
+    "plan_type": "PDP",
+    "organization": "UnitedHealthcare"
+  },
+  "premiums": {
+    "Total monthly premium": "$63.20"
+  },
+  "deductibles": {
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "35% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S5921_357_0",
+  "state": "Alabama"
+}

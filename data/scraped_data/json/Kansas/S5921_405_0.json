@@ -1,0 +1,23 @@
+{
+  "plan_info": {
+    "name": "AARP Medicare Rx Preferred from UHC (PDP)",
+    "contract_id": "S5921_405",
+    "plan_type": "PDP",
+    "organization": "UnitedHealthcare"
+  },
+  "premiums": {
+    "Total monthly premium": "$147.00"
+  },
+  "deductibles": {
+    "Drug deductible": "130.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$130.00",
+    "Non-Preferred Drug": "38% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S5921_405_0",
+  "state": "Kansas"
+}

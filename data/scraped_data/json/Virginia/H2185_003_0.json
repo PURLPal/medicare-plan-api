@@ -1,0 +1,43 @@
+{
+  "plan_info": {
+    "name": "Premier Care (HMO-POS I-SNP)"
+  },
+  "premiums": {
+    "Total monthly premium": "$0.00",
+    "Health premium": "0.00",
+    "Drug premium": "0.00",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00",
+    "Drug deductible": "75.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "3,000"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copayOut-of-network: $0 copay, 0% coinsurance",
+    "Specialist visit": "In-network: $0 copayOut-of-network: $0 copay, 0% coinsurance",
+    "Emergency care": "$75 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$100 per day for days 1-5$0 per day for days 6-90$0 per stayOut-of-network:$100 per day for days 1-5$0 per day for days 6-90$0 per stay",
+    "Outpatient hospital coverage": "In-network: $0-$225 copayOut-of-network: $0-$225 copay",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "In-network: $0 copay",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "Not covered"
+  },
+  "drug_coverage": {
+    "Drug premium": "$0.00",
+    "Drug deductible": "$75.00",
+    "Non-Preferred Drug": "$95.00 copay",
+    "Chemotherapy drugs": "In-network: 0%-20% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsurance",
+    "Over the counter drug benefits": "In-network: $0 copay"
+  },
+  "extra_benefits": [],
+  "plan_id": "H2185_003_0",
+  "state": "Virginia"
+}

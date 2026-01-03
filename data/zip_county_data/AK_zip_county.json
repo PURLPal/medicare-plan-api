@@ -1,0 +1,4723 @@
+[
+  {
+    "zip": "99501",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99502",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99503",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99504",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99505",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99506",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99507",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99508",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99509",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99510",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99511",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99513",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99514",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99515",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99516",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99517",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99518",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99519",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99520",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99521",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99522",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99523",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99524",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99529",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99530",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99540",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99545",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "ratio": 1.0,
+        "name": "Bethel Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "ratio": 1.0,
+      "name": "Bethel Census Area"
+    }
+  },
+  {
+    "zip": "99546",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02016",
+        "ratio": 1.0,
+        "name": "Aleutians West Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02016",
+      "ratio": 1.0,
+      "name": "Aleutians West Census Area"
+    }
+  },
+  {
+    "zip": "99547",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02016",
+        "ratio": 1.0,
+        "name": "Aleutians West Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02016",
+      "ratio": 1.0,
+      "name": "Aleutians West Census Area"
+    }
+  },
+  {
+    "zip": "99548",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02164",
+        "ratio": 1.0,
+        "name": "Lake and Peninsula Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02164",
+      "ratio": 1.0,
+      "name": "Lake and Peninsula Borough"
+    }
+  },
+  {
+    "zip": "99549",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02164",
+        "ratio": 1.0,
+        "name": "Lake and Peninsula Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02164",
+      "ratio": 1.0,
+      "name": "Lake and Peninsula Borough"
+    }
+  },
+  {
+    "zip": "99550",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02150",
+        "ratio": 1.0,
+        "name": "Kodiak Island Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02150",
+      "ratio": 1.0,
+      "name": "Kodiak Island Borough"
+    }
+  },
+  {
+    "zip": "99551",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "ratio": 1.0,
+        "name": "Bethel Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "ratio": 1.0,
+      "name": "Bethel Census Area"
+    }
+  },
+  {
+    "zip": "99552",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "ratio": 1.0,
+        "name": "Bethel Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "ratio": 1.0,
+      "name": "Bethel Census Area"
+    }
+  },
+  {
+    "zip": "99553",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02013",
+        "ratio": 1.0,
+        "name": "Aleutians East Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02013",
+      "ratio": 1.0,
+      "name": "Aleutians East Borough"
+    }
+  },
+  {
+    "zip": "99554",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02158",
+        "ratio": 1.0,
+        "name": "Kusilvak Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02158",
+      "ratio": 1.0,
+      "name": "Kusilvak Census Area"
+    }
+  },
+  {
+    "zip": "99555",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02070",
+        "ratio": 1.0,
+        "name": "Dillingham Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02070",
+      "ratio": 1.0,
+      "name": "Dillingham Census Area"
+    }
+  },
+  {
+    "zip": "99556",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "ratio": 1.0,
+        "name": "Kenai Peninsula Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "ratio": 1.0,
+      "name": "Kenai Peninsula Borough"
+    }
+  },
+  {
+    "zip": "99557",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "ratio": 1.0,
+        "name": "Bethel Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "ratio": 1.0,
+      "name": "Bethel Census Area"
+    }
+  },
+  {
+    "zip": "99558",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99559",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "ratio": 1.0,
+        "name": "Bethel Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "ratio": 1.0,
+      "name": "Bethel Census Area"
+    }
+  },
+  {
+    "zip": "99561",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "ratio": 1.0,
+        "name": "Bethel Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "ratio": 1.0,
+      "name": "Bethel Census Area"
+    }
+  },
+  {
+    "zip": "99563",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02158",
+        "ratio": 1.0,
+        "name": "Kusilvak Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02158",
+      "ratio": 1.0,
+      "name": "Kusilvak Census Area"
+    }
+  },
+  {
+    "zip": "99564",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02164",
+        "ratio": 1.0,
+        "name": "Lake and Peninsula Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02164",
+      "ratio": 1.0,
+      "name": "Lake and Peninsula Borough"
+    }
+  },
+  {
+    "zip": "99565",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02164",
+        "ratio": 1.0,
+        "name": "Lake and Peninsula Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02164",
+      "ratio": 1.0,
+      "name": "Lake and Peninsula Borough"
+    }
+  },
+  {
+    "zip": "99566",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02066",
+        "ratio": 1.0,
+        "name": "Copper River Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02066",
+      "ratio": 1.0,
+      "name": "Copper River Census Area"
+    }
+  },
+  {
+    "zip": "99567",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99568",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "ratio": 1.0,
+        "name": "Kenai Peninsula Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "ratio": 1.0,
+      "name": "Kenai Peninsula Borough"
+    }
+  },
+  {
+    "zip": "99569",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02070",
+        "ratio": 1.0,
+        "name": "Dillingham Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02070",
+      "ratio": 1.0,
+      "name": "Dillingham Census Area"
+    }
+  },
+  {
+    "zip": "99571",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02013",
+        "ratio": 1.0,
+        "name": "Aleutians East Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02013",
+      "ratio": 1.0,
+      "name": "Aleutians East Borough"
+    }
+  },
+  {
+    "zip": "99572",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "ratio": 1.0,
+        "name": "Kenai Peninsula Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "ratio": 1.0,
+      "name": "Kenai Peninsula Borough"
+    }
+  },
+  {
+    "zip": "99573",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02066",
+        "ratio": 1.0,
+        "name": "Copper River Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02066",
+      "ratio": 1.0,
+      "name": "Copper River Census Area"
+    }
+  },
+  {
+    "zip": "99574",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02063",
+        "ratio": 1.0,
+        "name": "Chugach Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02063",
+      "ratio": 1.0,
+      "name": "Chugach Census Area"
+    }
+  },
+  {
+    "zip": "99575",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "ratio": 1.0,
+        "name": "Bethel Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "ratio": 1.0,
+      "name": "Bethel Census Area"
+    }
+  },
+  {
+    "zip": "99576",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02070",
+        "ratio": 1.0,
+        "name": "Dillingham Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02070",
+      "ratio": 1.0,
+      "name": "Dillingham Census Area"
+    }
+  },
+  {
+    "zip": "99577",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99578",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "ratio": 1.0,
+        "name": "Bethel Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "ratio": 1.0,
+      "name": "Bethel Census Area"
+    }
+  },
+  {
+    "zip": "99579",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02164",
+        "ratio": 1.0,
+        "name": "Lake and Peninsula Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02164",
+      "ratio": 1.0,
+      "name": "Lake and Peninsula Borough"
+    }
+  },
+  {
+    "zip": "99580",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02070",
+        "ratio": 1.0,
+        "name": "Dillingham Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02070",
+      "ratio": 1.0,
+      "name": "Dillingham Census Area"
+    }
+  },
+  {
+    "zip": "99581",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02158",
+        "ratio": 1.0,
+        "name": "Kusilvak Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02158",
+      "ratio": 1.0,
+      "name": "Kusilvak Census Area"
+    }
+  },
+  {
+    "zip": "99583",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02013",
+        "ratio": 1.0,
+        "name": "Aleutians East Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02013",
+      "ratio": 1.0,
+      "name": "Aleutians East Borough"
+    }
+  },
+  {
+    "zip": "99585",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02158",
+        "ratio": 1.0,
+        "name": "Kusilvak Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02158",
+      "ratio": 1.0,
+      "name": "Kusilvak Census Area"
+    }
+  },
+  {
+    "zip": "99586",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02066",
+        "ratio": 1.0,
+        "name": "Copper River Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02066",
+      "ratio": 1.0,
+      "name": "Copper River Census Area"
+    }
+  },
+  {
+    "zip": "99587",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99588",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02066",
+        "ratio": 1.0,
+        "name": "Copper River Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02066",
+      "ratio": 1.0,
+      "name": "Copper River Census Area"
+    }
+  },
+  {
+    "zip": "99589",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "ratio": 1.0,
+        "name": "Bethel Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "ratio": 1.0,
+      "name": "Bethel Census Area"
+    }
+  },
+  {
+    "zip": "99590",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99591",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02016",
+        "ratio": 1.0,
+        "name": "Aleutians West Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02016",
+      "ratio": 1.0,
+      "name": "Aleutians West Census Area"
+    }
+  },
+  {
+    "zip": "99599",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02020",
+        "ratio": 1.0,
+        "name": "Anchorage Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02020",
+      "ratio": 1.0,
+      "name": "Anchorage Municipality"
+    }
+  },
+  {
+    "zip": "99602",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99603",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "ratio": 1.0,
+        "name": "Kenai Peninsula Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "ratio": 1.0,
+      "name": "Kenai Peninsula Borough"
+    }
+  },
+  {
+    "zip": "99604",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02158",
+        "ratio": 1.0,
+        "name": "Kusilvak Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02158",
+      "ratio": 1.0,
+      "name": "Kusilvak Census Area"
+    }
+  },
+  {
+    "zip": "99605",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "ratio": 1.0,
+        "name": "Kenai Peninsula Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "ratio": 1.0,
+      "name": "Kenai Peninsula Borough"
+    }
+  },
+  {
+    "zip": "99606",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02164",
+        "ratio": 1.0,
+        "name": "Lake and Peninsula Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02164",
+      "ratio": 1.0,
+      "name": "Lake and Peninsula Borough"
+    }
+  },
+  {
+    "zip": "99607",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "ratio": 1.0,
+        "name": "Bethel Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "ratio": 1.0,
+      "name": "Bethel Census Area"
+    }
+  },
+  {
+    "zip": "99608",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02150",
+        "ratio": 1.0,
+        "name": "Kodiak Island Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02150",
+      "ratio": 1.0,
+      "name": "Kodiak Island Borough"
+    }
+  },
+  {
+    "zip": "99609",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "ratio": 1.0,
+        "name": "Bethel Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "ratio": 1.0,
+      "name": "Bethel Census Area"
+    }
+  },
+  {
+    "zip": "99610",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "ratio": 1.0,
+        "name": "Kenai Peninsula Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "ratio": 1.0,
+      "name": "Kenai Peninsula Borough"
+    }
+  },
+  {
+    "zip": "99611",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "ratio": 1.0,
+        "name": "Kenai Peninsula Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "ratio": 1.0,
+      "name": "Kenai Peninsula Borough"
+    }
+  },
+  {
+    "zip": "99612",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02013",
+        "ratio": 1.0,
+        "name": "Aleutians East Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02013",
+      "ratio": 1.0,
+      "name": "Aleutians East Borough"
+    }
+  },
+  {
+    "zip": "99613",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02060",
+        "ratio": 1.0,
+        "name": "Bristol Bay Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02060",
+      "ratio": 1.0,
+      "name": "Bristol Bay Borough"
+    }
+  },
+  {
+    "zip": "99614",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "ratio": 1.0,
+        "name": "Bethel Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "ratio": 1.0,
+      "name": "Bethel Census Area"
+    }
+  },
+  {
+    "zip": "99615",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02150",
+        "ratio": 1.0,
+        "name": "Kodiak Island Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02150",
+      "ratio": 1.0,
+      "name": "Kodiak Island Borough"
+    }
+  },
+  {
+    "zip": "99619",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02150",
+        "ratio": 1.0,
+        "name": "Kodiak Island Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02150",
+      "ratio": 1.0,
+      "name": "Kodiak Island Borough"
+    }
+  },
+  {
+    "zip": "99620",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02158",
+        "ratio": 1.0,
+        "name": "Kusilvak Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02158",
+      "ratio": 1.0,
+      "name": "Kusilvak Census Area"
+    }
+  },
+  {
+    "zip": "99621",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "ratio": 1.0,
+        "name": "Bethel Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "ratio": 1.0,
+      "name": "Bethel Census Area"
+    }
+  },
+  {
+    "zip": "99622",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "ratio": 1.0,
+        "name": "Bethel Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "ratio": 1.0,
+      "name": "Bethel Census Area"
+    }
+  },
+  {
+    "zip": "99623",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02170",
+        "ratio": 1.0,
+        "name": "Matanuska-Susitna Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02170",
+      "ratio": 1.0,
+      "name": "Matanuska-Susitna Borough"
+    }
+  },
+  {
+    "zip": "99624",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02150",
+        "ratio": 1.0,
+        "name": "Kodiak Island Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02150",
+      "ratio": 1.0,
+      "name": "Kodiak Island Borough"
+    }
+  },
+  {
+    "zip": "99625",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02164",
+        "ratio": 1.0,
+        "name": "Lake and Peninsula Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02164",
+      "ratio": 1.0,
+      "name": "Lake and Peninsula Borough"
+    }
+  },
+  {
+    "zip": "99626",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "ratio": 1.0,
+        "name": "Bethel Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "ratio": 1.0,
+      "name": "Bethel Census Area"
+    }
+  },
+  {
+    "zip": "99627",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99628",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02070",
+        "ratio": 1.0,
+        "name": "Dillingham Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02070",
+      "ratio": 1.0,
+      "name": "Dillingham Census Area"
+    }
+  },
+  {
+    "zip": "99630",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "ratio": 1.0,
+        "name": "Bethel Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "ratio": 1.0,
+      "name": "Bethel Census Area"
+    }
+  },
+  {
+    "zip": "99631",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "ratio": 1.0,
+        "name": "Kenai Peninsula Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "ratio": 1.0,
+      "name": "Kenai Peninsula Borough"
+    }
+  },
+  {
+    "zip": "99632",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02158",
+        "ratio": 1.0,
+        "name": "Kusilvak Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02158",
+      "ratio": 1.0,
+      "name": "Kusilvak Census Area"
+    }
+  },
+  {
+    "zip": "99633",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02060",
+        "ratio": 1.0,
+        "name": "Bristol Bay Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02060",
+      "ratio": 1.0,
+      "name": "Bristol Bay Borough"
+    }
+  },
+  {
+    "zip": "99634",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "ratio": 1.0,
+        "name": "Bethel Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "ratio": 1.0,
+      "name": "Bethel Census Area"
+    }
+  },
+  {
+    "zip": "99635",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "ratio": 1.0,
+        "name": "Kenai Peninsula Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "ratio": 1.0,
+      "name": "Kenai Peninsula Borough"
+    }
+  },
+  {
+    "zip": "99636",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02070",
+        "ratio": 1.0,
+        "name": "Dillingham Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02070",
+      "ratio": 1.0,
+      "name": "Dillingham Census Area"
+    }
+  },
+  {
+    "zip": "99637",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "ratio": 1.0,
+        "name": "Bethel Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "ratio": 1.0,
+      "name": "Bethel Census Area"
+    }
+  },
+  {
+    "zip": "99638",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02016",
+        "ratio": 1.0,
+        "name": "Aleutians West Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02016",
+      "ratio": 1.0,
+      "name": "Aleutians West Census Area"
+    }
+  },
+  {
+    "zip": "99639",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "ratio": 1.0,
+        "name": "Kenai Peninsula Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "ratio": 1.0,
+      "name": "Kenai Peninsula Borough"
+    }
+  },
+  {
+    "zip": "99640",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02164",
+        "ratio": 1.0,
+        "name": "Lake and Peninsula Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02164",
+      "ratio": 1.0,
+      "name": "Lake and Peninsula Borough"
+    }
+  },
+  {
+    "zip": "99641",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "ratio": 1.0,
+        "name": "Bethel Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "ratio": 1.0,
+      "name": "Bethel Census Area"
+    }
+  },
+  {
+    "zip": "99643",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02150",
+        "ratio": 1.0,
+        "name": "Kodiak Island Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02150",
+      "ratio": 1.0,
+      "name": "Kodiak Island Borough"
+    }
+  },
+  {
+    "zip": "99644",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02150",
+        "ratio": 1.0,
+        "name": "Kodiak Island Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02150",
+      "ratio": 1.0,
+      "name": "Kodiak Island Borough"
+    }
+  },
+  {
+    "zip": "99645",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02170",
+        "ratio": 1.0,
+        "name": "Matanuska-Susitna Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02170",
+      "ratio": 1.0,
+      "name": "Matanuska-Susitna Borough"
+    }
+  },
+  {
+    "zip": "99647",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02164",
+        "ratio": 1.0,
+        "name": "Lake and Peninsula Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02164",
+      "ratio": 1.0,
+      "name": "Lake and Peninsula Borough"
+    }
+  },
+  {
+    "zip": "99648",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02164",
+        "ratio": 1.0,
+        "name": "Lake and Peninsula Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02164",
+      "ratio": 1.0,
+      "name": "Lake and Peninsula Borough"
+    }
+  },
+  {
+    "zip": "99649",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02164",
+        "ratio": 1.0,
+        "name": "Lake and Peninsula Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02164",
+      "ratio": 1.0,
+      "name": "Lake and Peninsula Borough"
+    }
+  },
+  {
+    "zip": "99650",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02158",
+        "ratio": 1.0,
+        "name": "Kusilvak Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02158",
+      "ratio": 1.0,
+      "name": "Kusilvak Census Area"
+    }
+  },
+  {
+    "zip": "99651",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "ratio": 1.0,
+        "name": "Bethel Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "ratio": 1.0,
+      "name": "Bethel Census Area"
+    }
+  },
+  {
+    "zip": "99652",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02170",
+        "ratio": 1.0,
+        "name": "Matanuska-Susitna Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02170",
+      "ratio": 1.0,
+      "name": "Matanuska-Susitna Borough"
+    }
+  },
+  {
+    "zip": "99653",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02164",
+        "ratio": 1.0,
+        "name": "Lake and Peninsula Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02164",
+      "ratio": 1.0,
+      "name": "Lake and Peninsula Borough"
+    }
+  },
+  {
+    "zip": "99654",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02170",
+        "ratio": 1.0,
+        "name": "Matanuska-Susitna Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02170",
+      "ratio": 1.0,
+      "name": "Matanuska-Susitna Borough"
+    }
+  },
+  {
+    "zip": "99655",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "ratio": 1.0,
+        "name": "Bethel Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "ratio": 1.0,
+      "name": "Bethel Census Area"
+    }
+  },
+  {
+    "zip": "99656",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "ratio": 1.0,
+        "name": "Bethel Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "ratio": 1.0,
+      "name": "Bethel Census Area"
+    }
+  },
+  {
+    "zip": "99657",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02158",
+        "ratio": 1.0,
+        "name": "Kusilvak Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02158",
+      "ratio": 1.0,
+      "name": "Kusilvak Census Area"
+    }
+  },
+  {
+    "zip": "99658",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02158",
+        "ratio": 1.0,
+        "name": "Kusilvak Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02158",
+      "ratio": 1.0,
+      "name": "Kusilvak Census Area"
+    }
+  },
+  {
+    "zip": "99659",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02180",
+        "ratio": 1.0,
+        "name": "Nome Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02180",
+      "ratio": 1.0,
+      "name": "Nome Census Area"
+    }
+  },
+  {
+    "zip": "99660",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02016",
+        "ratio": 1.0,
+        "name": "Aleutians West Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02016",
+      "ratio": 1.0,
+      "name": "Aleutians West Census Area"
+    }
+  },
+  {
+    "zip": "99661",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02013",
+        "ratio": 1.0,
+        "name": "Aleutians East Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02013",
+      "ratio": 1.0,
+      "name": "Aleutians East Borough"
+    }
+  },
+  {
+    "zip": "99662",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02158",
+        "ratio": 1.0,
+        "name": "Kusilvak Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02158",
+      "ratio": 1.0,
+      "name": "Kusilvak Census Area"
+    }
+  },
+  {
+    "zip": "99663",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "ratio": 1.0,
+        "name": "Kenai Peninsula Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "ratio": 1.0,
+      "name": "Kenai Peninsula Borough"
+    }
+  },
+  {
+    "zip": "99664",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "ratio": 1.0,
+        "name": "Kenai Peninsula Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "ratio": 1.0,
+      "name": "Kenai Peninsula Borough"
+    }
+  },
+  {
+    "zip": "99665",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99666",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02158",
+        "ratio": 1.0,
+        "name": "Kusilvak Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02158",
+      "ratio": 1.0,
+      "name": "Kusilvak Census Area"
+    }
+  },
+  {
+    "zip": "99667",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02170",
+        "ratio": 1.0,
+        "name": "Matanuska-Susitna Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02170",
+      "ratio": 1.0,
+      "name": "Matanuska-Susitna Borough"
+    }
+  },
+  {
+    "zip": "99668",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "ratio": 1.0,
+        "name": "Bethel Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "ratio": 1.0,
+      "name": "Bethel Census Area"
+    }
+  },
+  {
+    "zip": "99669",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "ratio": 1.0,
+        "name": "Kenai Peninsula Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "ratio": 1.0,
+      "name": "Kenai Peninsula Borough"
+    }
+  },
+  {
+    "zip": "99670",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02060",
+        "ratio": 1.0,
+        "name": "Bristol Bay Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02060",
+      "ratio": 1.0,
+      "name": "Bristol Bay Borough"
+    }
+  },
+  {
+    "zip": "99671",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02180",
+        "ratio": 1.0,
+        "name": "Nome Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02180",
+      "ratio": 1.0,
+      "name": "Nome Census Area"
+    }
+  },
+  {
+    "zip": "99672",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "ratio": 1.0,
+        "name": "Kenai Peninsula Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "ratio": 1.0,
+      "name": "Kenai Peninsula Borough"
+    }
+  },
+  {
+    "zip": "99674",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02170",
+        "ratio": 1.0,
+        "name": "Matanuska-Susitna Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02170",
+      "ratio": 1.0,
+      "name": "Matanuska-Susitna Borough"
+    }
+  },
+  {
+    "zip": "99675",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99676",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02170",
+        "ratio": 1.0,
+        "name": "Matanuska-Susitna Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02170",
+      "ratio": 1.0,
+      "name": "Matanuska-Susitna Borough"
+    }
+  },
+  {
+    "zip": "99677",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02063",
+        "ratio": 1.0,
+        "name": "Chugach Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02063",
+      "ratio": 1.0,
+      "name": "Chugach Census Area"
+    }
+  },
+  {
+    "zip": "99678",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02070",
+        "ratio": 1.0,
+        "name": "Dillingham Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02070",
+      "ratio": 1.0,
+      "name": "Dillingham Census Area"
+    }
+  },
+  {
+    "zip": "99679",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "ratio": 1.0,
+        "name": "Bethel Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "ratio": 1.0,
+      "name": "Bethel Census Area"
+    }
+  },
+  {
+    "zip": "99680",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "ratio": 1.0,
+        "name": "Bethel Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "ratio": 1.0,
+      "name": "Bethel Census Area"
+    }
+  },
+  {
+    "zip": "99681",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "ratio": 1.0,
+        "name": "Bethel Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "ratio": 1.0,
+      "name": "Bethel Census Area"
+    }
+  },
+  {
+    "zip": "99682",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02122",
+        "ratio": 1.0,
+        "name": "Kenai Peninsula Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02122",
+      "ratio": 1.0,
+      "name": "Kenai Peninsula Borough"
+    }
+  },
+  {
+    "zip": "99683",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02170",
+        "ratio": 1.0,
+        "name": "Matanuska-Susitna Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02170",
+      "ratio": 1.0,
+      "name": "Matanuska-Susitna Borough"
+    }
+  },
+  {
+    "zip": "99684",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02180",
+        "ratio": 1.0,
+        "name": "Nome Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02180",
+      "ratio": 1.0,
+      "name": "Nome Census Area"
+    }
+  },
+  {
+    "zip": "99685",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02016",
+        "ratio": 1.0,
+        "name": "Aleutians West Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02016",
+      "ratio": 1.0,
+      "name": "Aleutians West Census Area"
+    }
+  },
+  {
+    "zip": "99686",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02063",
+        "ratio": 1.0,
+        "name": "Chugach Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02063",
+      "ratio": 1.0,
+      "name": "Chugach Census Area"
+    }
+  },
+  {
+    "zip": "99687",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02170",
+        "ratio": 1.0,
+        "name": "Matanuska-Susitna Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02170",
+      "ratio": 1.0,
+      "name": "Matanuska-Susitna Borough"
+    }
+  },
+  {
+    "zip": "99688",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02170",
+        "ratio": 1.0,
+        "name": "Matanuska-Susitna Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02170",
+      "ratio": 1.0,
+      "name": "Matanuska-Susitna Borough"
+    }
+  },
+  {
+    "zip": "99689",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02282",
+        "ratio": 1.0,
+        "name": "Yakutat City and Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02282",
+      "ratio": 1.0,
+      "name": "Yakutat City and Borough"
+    }
+  },
+  {
+    "zip": "99690",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02050",
+        "ratio": 1.0,
+        "name": "Bethel Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02050",
+      "ratio": 1.0,
+      "name": "Bethel Census Area"
+    }
+  },
+  {
+    "zip": "99691",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99692",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02016",
+        "ratio": 1.0,
+        "name": "Aleutians West Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02016",
+      "ratio": 1.0,
+      "name": "Aleutians West Census Area"
+    }
+  },
+  {
+    "zip": "99693",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02063",
+        "ratio": 1.0,
+        "name": "Chugach Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02063",
+      "ratio": 1.0,
+      "name": "Chugach Census Area"
+    }
+  },
+  {
+    "zip": "99694",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02170",
+        "ratio": 1.0,
+        "name": "Matanuska-Susitna Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02170",
+      "ratio": 1.0,
+      "name": "Matanuska-Susitna Borough"
+    }
+  },
+  {
+    "zip": "99701",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02090",
+        "ratio": 1.0,
+        "name": "Fairbanks North Star Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02090",
+      "ratio": 1.0,
+      "name": "Fairbanks North Star Borough"
+    }
+  },
+  {
+    "zip": "99702",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02090",
+        "ratio": 1.0,
+        "name": "Fairbanks North Star Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02090",
+      "ratio": 1.0,
+      "name": "Fairbanks North Star Borough"
+    }
+  },
+  {
+    "zip": "99703",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02090",
+        "ratio": 1.0,
+        "name": "Fairbanks North Star Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02090",
+      "ratio": 1.0,
+      "name": "Fairbanks North Star Borough"
+    }
+  },
+  {
+    "zip": "99704",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02068",
+        "ratio": 1.0,
+        "name": "Denali Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02068",
+      "ratio": 1.0,
+      "name": "Denali Borough"
+    }
+  },
+  {
+    "zip": "99705",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02090",
+        "ratio": 1.0,
+        "name": "Fairbanks North Star Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02090",
+      "ratio": 1.0,
+      "name": "Fairbanks North Star Borough"
+    }
+  },
+  {
+    "zip": "99706",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02090",
+        "ratio": 1.0,
+        "name": "Fairbanks North Star Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02090",
+      "ratio": 1.0,
+      "name": "Fairbanks North Star Borough"
+    }
+  },
+  {
+    "zip": "99707",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02090",
+        "ratio": 1.0,
+        "name": "Fairbanks North Star Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02090",
+      "ratio": 1.0,
+      "name": "Fairbanks North Star Borough"
+    }
+  },
+  {
+    "zip": "99708",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02090",
+        "ratio": 1.0,
+        "name": "Fairbanks North Star Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02090",
+      "ratio": 1.0,
+      "name": "Fairbanks North Star Borough"
+    }
+  },
+  {
+    "zip": "99709",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02090",
+        "ratio": 1.0,
+        "name": "Fairbanks North Star Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02090",
+      "ratio": 1.0,
+      "name": "Fairbanks North Star Borough"
+    }
+  },
+  {
+    "zip": "99710",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02090",
+        "ratio": 1.0,
+        "name": "Fairbanks North Star Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02090",
+      "ratio": 1.0,
+      "name": "Fairbanks North Star Borough"
+    }
+  },
+  {
+    "zip": "99712",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02090",
+        "ratio": 1.0,
+        "name": "Fairbanks North Star Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02090",
+      "ratio": 1.0,
+      "name": "Fairbanks North Star Borough"
+    }
+  },
+  {
+    "zip": "99714",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02090",
+        "ratio": 1.0,
+        "name": "Fairbanks North Star Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02090",
+      "ratio": 1.0,
+      "name": "Fairbanks North Star Borough"
+    }
+  },
+  {
+    "zip": "99720",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99721",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02185",
+        "ratio": 1.0,
+        "name": "North Slope Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02185",
+      "ratio": 1.0,
+      "name": "North Slope Borough"
+    }
+  },
+  {
+    "zip": "99722",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99723",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02185",
+        "ratio": 1.0,
+        "name": "North Slope Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02185",
+      "ratio": 1.0,
+      "name": "North Slope Borough"
+    }
+  },
+  {
+    "zip": "99724",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99725",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02090",
+        "ratio": 1.0,
+        "name": "Fairbanks North Star Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02090",
+      "ratio": 1.0,
+      "name": "Fairbanks North Star Borough"
+    }
+  },
+  {
+    "zip": "99726",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99727",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02188",
+        "ratio": 1.0,
+        "name": "Northwest Arctic Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02188",
+      "ratio": 1.0,
+      "name": "Northwest Arctic Borough"
+    }
+  },
+  {
+    "zip": "99729",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02068",
+        "ratio": 1.0,
+        "name": "Denali Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02068",
+      "ratio": 1.0,
+      "name": "Denali Borough"
+    }
+  },
+  {
+    "zip": "99730",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99731",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02240",
+        "ratio": 1.0,
+        "name": "Southeast Fairbanks Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02240",
+      "ratio": 1.0,
+      "name": "Southeast Fairbanks Census Area"
+    }
+  },
+  {
+    "zip": "99732",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02240",
+        "ratio": 1.0,
+        "name": "Southeast Fairbanks Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02240",
+      "ratio": 1.0,
+      "name": "Southeast Fairbanks Census Area"
+    }
+  },
+  {
+    "zip": "99733",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99734",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02185",
+        "ratio": 1.0,
+        "name": "North Slope Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02185",
+      "ratio": 1.0,
+      "name": "North Slope Borough"
+    }
+  },
+  {
+    "zip": "99736",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02188",
+        "ratio": 1.0,
+        "name": "Northwest Arctic Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02188",
+      "ratio": 1.0,
+      "name": "Northwest Arctic Borough"
+    }
+  },
+  {
+    "zip": "99737",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02240",
+        "ratio": 1.0,
+        "name": "Southeast Fairbanks Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02240",
+      "ratio": 1.0,
+      "name": "Southeast Fairbanks Census Area"
+    }
+  },
+  {
+    "zip": "99738",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02240",
+        "ratio": 1.0,
+        "name": "Southeast Fairbanks Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02240",
+      "ratio": 1.0,
+      "name": "Southeast Fairbanks Census Area"
+    }
+  },
+  {
+    "zip": "99739",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02180",
+        "ratio": 1.0,
+        "name": "Nome Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02180",
+      "ratio": 1.0,
+      "name": "Nome Census Area"
+    }
+  },
+  {
+    "zip": "99740",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99741",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99742",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02180",
+        "ratio": 1.0,
+        "name": "Nome Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02180",
+      "ratio": 1.0,
+      "name": "Nome Census Area"
+    }
+  },
+  {
+    "zip": "99743",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02068",
+        "ratio": 1.0,
+        "name": "Denali Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02068",
+      "ratio": 1.0,
+      "name": "Denali Borough"
+    }
+  },
+  {
+    "zip": "99744",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02068",
+        "ratio": 1.0,
+        "name": "Denali Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02068",
+      "ratio": 1.0,
+      "name": "Denali Borough"
+    }
+  },
+  {
+    "zip": "99745",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99746",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99747",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02185",
+        "ratio": 1.0,
+        "name": "North Slope Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02185",
+      "ratio": 1.0,
+      "name": "North Slope Borough"
+    }
+  },
+  {
+    "zip": "99748",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99749",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02188",
+        "ratio": 1.0,
+        "name": "Northwest Arctic Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02188",
+      "ratio": 1.0,
+      "name": "Northwest Arctic Borough"
+    }
+  },
+  {
+    "zip": "99750",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02188",
+        "ratio": 1.0,
+        "name": "Northwest Arctic Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02188",
+      "ratio": 1.0,
+      "name": "Northwest Arctic Borough"
+    }
+  },
+  {
+    "zip": "99751",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02188",
+        "ratio": 1.0,
+        "name": "Northwest Arctic Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02188",
+      "ratio": 1.0,
+      "name": "Northwest Arctic Borough"
+    }
+  },
+  {
+    "zip": "99752",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02188",
+        "ratio": 1.0,
+        "name": "Northwest Arctic Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02188",
+      "ratio": 1.0,
+      "name": "Northwest Arctic Borough"
+    }
+  },
+  {
+    "zip": "99753",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02180",
+        "ratio": 1.0,
+        "name": "Nome Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02180",
+      "ratio": 1.0,
+      "name": "Nome Census Area"
+    }
+  },
+  {
+    "zip": "99754",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99755",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02068",
+        "ratio": 1.0,
+        "name": "Denali Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02068",
+      "ratio": 1.0,
+      "name": "Denali Borough"
+    }
+  },
+  {
+    "zip": "99756",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99757",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99758",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99759",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02185",
+        "ratio": 1.0,
+        "name": "North Slope Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02185",
+      "ratio": 1.0,
+      "name": "North Slope Borough"
+    }
+  },
+  {
+    "zip": "99760",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99761",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02188",
+        "ratio": 1.0,
+        "name": "Northwest Arctic Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02188",
+      "ratio": 1.0,
+      "name": "Northwest Arctic Borough"
+    }
+  },
+  {
+    "zip": "99762",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02180",
+        "ratio": 1.0,
+        "name": "Nome Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02180",
+      "ratio": 1.0,
+      "name": "Nome Census Area"
+    }
+  },
+  {
+    "zip": "99763",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02188",
+        "ratio": 1.0,
+        "name": "Northwest Arctic Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02188",
+      "ratio": 1.0,
+      "name": "Northwest Arctic Borough"
+    }
+  },
+  {
+    "zip": "99764",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02240",
+        "ratio": 1.0,
+        "name": "Southeast Fairbanks Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02240",
+      "ratio": 1.0,
+      "name": "Southeast Fairbanks Census Area"
+    }
+  },
+  {
+    "zip": "99765",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99766",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02185",
+        "ratio": 1.0,
+        "name": "North Slope Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02185",
+      "ratio": 1.0,
+      "name": "North Slope Borough"
+    }
+  },
+  {
+    "zip": "99767",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99768",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99769",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02180",
+        "ratio": 1.0,
+        "name": "Nome Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02180",
+      "ratio": 1.0,
+      "name": "Nome Census Area"
+    }
+  },
+  {
+    "zip": "99770",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02188",
+        "ratio": 1.0,
+        "name": "Northwest Arctic Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02188",
+      "ratio": 1.0,
+      "name": "Northwest Arctic Borough"
+    }
+  },
+  {
+    "zip": "99771",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02180",
+        "ratio": 1.0,
+        "name": "Nome Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02180",
+      "ratio": 1.0,
+      "name": "Nome Census Area"
+    }
+  },
+  {
+    "zip": "99772",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02180",
+        "ratio": 1.0,
+        "name": "Nome Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02180",
+      "ratio": 1.0,
+      "name": "Nome Census Area"
+    }
+  },
+  {
+    "zip": "99773",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02188",
+        "ratio": 1.0,
+        "name": "Northwest Arctic Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02188",
+      "ratio": 1.0,
+      "name": "Northwest Arctic Borough"
+    }
+  },
+  {
+    "zip": "99774",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99775",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02090",
+        "ratio": 1.0,
+        "name": "Fairbanks North Star Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02090",
+      "ratio": 1.0,
+      "name": "Fairbanks North Star Borough"
+    }
+  },
+  {
+    "zip": "99776",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02240",
+        "ratio": 1.0,
+        "name": "Southeast Fairbanks Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02240",
+      "ratio": 1.0,
+      "name": "Southeast Fairbanks Census Area"
+    }
+  },
+  {
+    "zip": "99777",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99778",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02180",
+        "ratio": 1.0,
+        "name": "Nome Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02180",
+      "ratio": 1.0,
+      "name": "Nome Census Area"
+    }
+  },
+  {
+    "zip": "99780",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02240",
+        "ratio": 1.0,
+        "name": "Southeast Fairbanks Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02240",
+      "ratio": 1.0,
+      "name": "Southeast Fairbanks Census Area"
+    }
+  },
+  {
+    "zip": "99781",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99782",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02185",
+        "ratio": 1.0,
+        "name": "North Slope Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02185",
+      "ratio": 1.0,
+      "name": "North Slope Borough"
+    }
+  },
+  {
+    "zip": "99783",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02180",
+        "ratio": 1.0,
+        "name": "Nome Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02180",
+      "ratio": 1.0,
+      "name": "Nome Census Area"
+    }
+  },
+  {
+    "zip": "99784",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02180",
+        "ratio": 1.0,
+        "name": "Nome Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02180",
+      "ratio": 1.0,
+      "name": "Nome Census Area"
+    }
+  },
+  {
+    "zip": "99785",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02180",
+        "ratio": 1.0,
+        "name": "Nome Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02180",
+      "ratio": 1.0,
+      "name": "Nome Census Area"
+    }
+  },
+  {
+    "zip": "99786",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02188",
+        "ratio": 1.0,
+        "name": "Northwest Arctic Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02188",
+      "ratio": 1.0,
+      "name": "Northwest Arctic Borough"
+    }
+  },
+  {
+    "zip": "99788",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02290",
+        "ratio": 1.0,
+        "name": "Yukon-Koyukuk Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02290",
+      "ratio": 1.0,
+      "name": "Yukon-Koyukuk Census Area"
+    }
+  },
+  {
+    "zip": "99789",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02185",
+        "ratio": 1.0,
+        "name": "North Slope Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02185",
+      "ratio": 1.0,
+      "name": "North Slope Borough"
+    }
+  },
+  {
+    "zip": "99790",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02090",
+        "ratio": 1.0,
+        "name": "Fairbanks North Star Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02090",
+      "ratio": 1.0,
+      "name": "Fairbanks North Star Borough"
+    }
+  },
+  {
+    "zip": "99791",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02185",
+        "ratio": 1.0,
+        "name": "North Slope Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02185",
+      "ratio": 1.0,
+      "name": "North Slope Borough"
+    }
+  },
+  {
+    "zip": "99801",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02110",
+        "ratio": 1.0,
+        "name": "Juneau City and Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02110",
+      "ratio": 1.0,
+      "name": "Juneau City and Borough"
+    }
+  },
+  {
+    "zip": "99811",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02110",
+        "ratio": 1.0,
+        "name": "Juneau City and Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02110",
+      "ratio": 1.0,
+      "name": "Juneau City and Borough"
+    }
+  },
+  {
+    "zip": "99820",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02105",
+        "ratio": 1.0,
+        "name": "Hoonah-Angoon Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02105",
+      "ratio": 1.0,
+      "name": "Hoonah-Angoon Census Area"
+    }
+  },
+  {
+    "zip": "99824",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02110",
+        "ratio": 1.0,
+        "name": "Juneau City and Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02110",
+      "ratio": 1.0,
+      "name": "Juneau City and Borough"
+    }
+  },
+  {
+    "zip": "99825",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02105",
+        "ratio": 1.0,
+        "name": "Hoonah-Angoon Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02105",
+      "ratio": 1.0,
+      "name": "Hoonah-Angoon Census Area"
+    }
+  },
+  {
+    "zip": "99826",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02105",
+        "ratio": 1.0,
+        "name": "Hoonah-Angoon Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02105",
+      "ratio": 1.0,
+      "name": "Hoonah-Angoon Census Area"
+    }
+  },
+  {
+    "zip": "99827",
+    "state": "AK",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "02100",
+        "ratio": 0.9966,
+        "name": "Haines Borough"
+      },
+      {
+        "fips": "02105",
+        "ratio": 0.0034,
+        "name": "Hoonah-Angoon Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02100",
+      "ratio": 0.9966,
+      "name": "Haines Borough"
+    }
+  },
+  {
+    "zip": "99829",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02105",
+        "ratio": 1.0,
+        "name": "Hoonah-Angoon Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02105",
+      "ratio": 1.0,
+      "name": "Hoonah-Angoon Census Area"
+    }
+  },
+  {
+    "zip": "99830",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02198",
+        "ratio": 1.0,
+        "name": "Prince of Wales-Hyder Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02198",
+      "ratio": 1.0,
+      "name": "Prince of Wales-Hyder Census Area"
+    }
+  },
+  {
+    "zip": "99832",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02105",
+        "ratio": 1.0,
+        "name": "Hoonah-Angoon Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02105",
+      "ratio": 1.0,
+      "name": "Hoonah-Angoon Census Area"
+    }
+  },
+  {
+    "zip": "99833",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02195",
+        "ratio": 1.0,
+        "name": "Petersburg Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02195",
+      "ratio": 1.0,
+      "name": "Petersburg Borough"
+    }
+  },
+  {
+    "zip": "99835",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02220",
+        "ratio": 1.0,
+        "name": "Sitka City and Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02220",
+      "ratio": 1.0,
+      "name": "Sitka City and Borough"
+    }
+  },
+  {
+    "zip": "99836",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02198",
+        "ratio": 1.0,
+        "name": "Prince of Wales-Hyder Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02198",
+      "ratio": 1.0,
+      "name": "Prince of Wales-Hyder Census Area"
+    }
+  },
+  {
+    "zip": "99840",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02230",
+        "ratio": 1.0,
+        "name": "Skagway Municipality"
+      }
+    ],
+    "primary_county": {
+      "fips": "02230",
+      "ratio": 1.0,
+      "name": "Skagway Municipality"
+    }
+  },
+  {
+    "zip": "99841",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02105",
+        "ratio": 1.0,
+        "name": "Hoonah-Angoon Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02105",
+      "ratio": 1.0,
+      "name": "Hoonah-Angoon Census Area"
+    }
+  },
+  {
+    "zip": "99901",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02130",
+        "ratio": 1.0,
+        "name": "Ketchikan Gateway Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02130",
+      "ratio": 1.0,
+      "name": "Ketchikan Gateway Borough"
+    }
+  },
+  {
+    "zip": "99903",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02275",
+        "ratio": 1.0,
+        "name": "Wrangell City and Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02275",
+      "ratio": 1.0,
+      "name": "Wrangell City and Borough"
+    }
+  },
+  {
+    "zip": "99918",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02198",
+        "ratio": 1.0,
+        "name": "Prince of Wales-Hyder Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02198",
+      "ratio": 1.0,
+      "name": "Prince of Wales-Hyder Census Area"
+    }
+  },
+  {
+    "zip": "99919",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02198",
+        "ratio": 1.0,
+        "name": "Prince of Wales-Hyder Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02198",
+      "ratio": 1.0,
+      "name": "Prince of Wales-Hyder Census Area"
+    }
+  },
+  {
+    "zip": "99921",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02198",
+        "ratio": 1.0,
+        "name": "Prince of Wales-Hyder Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02198",
+      "ratio": 1.0,
+      "name": "Prince of Wales-Hyder Census Area"
+    }
+  },
+  {
+    "zip": "99922",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02198",
+        "ratio": 1.0,
+        "name": "Prince of Wales-Hyder Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02198",
+      "ratio": 1.0,
+      "name": "Prince of Wales-Hyder Census Area"
+    }
+  },
+  {
+    "zip": "99923",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02198",
+        "ratio": 1.0,
+        "name": "Prince of Wales-Hyder Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02198",
+      "ratio": 1.0,
+      "name": "Prince of Wales-Hyder Census Area"
+    }
+  },
+  {
+    "zip": "99925",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02198",
+        "ratio": 1.0,
+        "name": "Prince of Wales-Hyder Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02198",
+      "ratio": 1.0,
+      "name": "Prince of Wales-Hyder Census Area"
+    }
+  },
+  {
+    "zip": "99926",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02198",
+        "ratio": 1.0,
+        "name": "Prince of Wales-Hyder Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02198",
+      "ratio": 1.0,
+      "name": "Prince of Wales-Hyder Census Area"
+    }
+  },
+  {
+    "zip": "99927",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02198",
+        "ratio": 1.0,
+        "name": "Prince of Wales-Hyder Census Area"
+      }
+    ],
+    "primary_county": {
+      "fips": "02198",
+      "ratio": 1.0,
+      "name": "Prince of Wales-Hyder Census Area"
+    }
+  },
+  {
+    "zip": "99928",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02130",
+        "ratio": 1.0,
+        "name": "Ketchikan Gateway Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02130",
+      "ratio": 1.0,
+      "name": "Ketchikan Gateway Borough"
+    }
+  },
+  {
+    "zip": "99929",
+    "state": "AK",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "02275",
+        "ratio": 1.0,
+        "name": "Wrangell City and Borough"
+      }
+    ],
+    "primary_county": {
+      "fips": "02275",
+      "ratio": 1.0,
+      "name": "Wrangell City and Borough"
+    }
+  }
+]

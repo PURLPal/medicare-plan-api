@@ -1,0 +1,43 @@
+{
+  "plan_info": {
+    "name": "Blue Cross Medicare Advantage Premier Plus (HMO-POS)"
+  },
+  "premiums": {
+    "Total monthly premium": "$83.00",
+    "Health premium": "47.70",
+    "Drug premium": "35.30",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00",
+    "Drug deductible": "450.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "3,500"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copayOut-of-network: $60 copay",
+    "Specialist visit": "In-network: $40 copayOut-of-network: $75 copay",
+    "Emergency care": "$135 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$225 per day for days 1-8$0 per day for days 9-90$0 per stayOut-of-network:40% per stay",
+    "Outpatient hospital coverage": "In-network: $0-$250 copayOut-of-network: 40% coinsurance",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "$135 copay"
+  },
+  "drug_coverage": {
+    "Drug premium": "$35.30",
+    "Drug deductible": "$450.00",
+    "Non-Preferred Drug": "40% coinsurance",
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 40% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 40% coinsurance",
+    "Over the counter drug benefits": "In-network: $0 copay"
+  },
+  "extra_benefits": [],
+  "plan_id": "H3822_008_0",
+  "state": "Illinois"
+}

@@ -1,0 +1,38 @@
+{
+  "plan_info": {
+    "name": "HumanaChoice R0110-001 (Regional PPO)"
+  },
+  "premiums": {
+    "Total monthly premium": "$0.00",
+    "Health premium": "0.00",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$1,000Annual deductible"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "11,100"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copayOut-of-network: $15 copay",
+    "Specialist visit": "In-network: $20 copayOut-of-network: $20 copay",
+    "Emergency care": "$115 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$195 per day for days 1-6$0 per day for days 7-90$0 per stayOut-of-network:30% per stay",
+    "Outpatient hospital coverage": "In-network: $0-$225 copayOut-of-network: $0-$20 copay, 30% coinsurance",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "In-network: $0 copayOut-of-network: $0 copay",
+    "Worldwide emergency": "$115 copay"
+  },
+  "drug_coverage": {
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 30% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 30% coinsurance",
+    "Over the counter drug benefits": "In-network: $0 copayOut-of-network: $0 copay"
+  },
+  "extra_benefits": [],
+  "plan_id": "R0110_001_0",
+  "state": "Mississippi"
+}

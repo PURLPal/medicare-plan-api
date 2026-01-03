@@ -1,0 +1,44 @@
+{
+  "plan_info": {
+    "name": "Wellcare Simple (HMO)"
+  },
+  "premiums": {
+    "Total monthly premium": "$37.00",
+    "Health premium": "37.00",
+    "Drug premium": "0.00",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00",
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "6,500"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copay",
+    "Specialist visit": "In-network: $5 copay",
+    "Emergency care": "$130 copay",
+    "Inpatient hospital coverage": "Tier 1$425 per day for days 1-7$0 per day for days 8-90$0 per stay",
+    "Outpatient hospital coverage": "In-network: $0-$375 copay, 35% coinsurance",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "$130 copay"
+  },
+  "drug_coverage": {
+    "Drug premium": "$0.00",
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "36% coinsurance",
+    "Select Care Drugs": "$0.00 copay",
+    "Chemotherapy drugs": "In-network: 0%-20% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsurance",
+    "Over the counter drug benefits": "Not covered"
+  },
+  "extra_benefits": [],
+  "plan_id": "H5087_034_2",
+  "state": "California"
+}

@@ -1,0 +1,9004 @@
+[
+  {
+    "zip": "97001",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41065",
+        "ratio": 1.0,
+        "name": "Wasco County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41065",
+      "ratio": 1.0,
+      "name": "Wasco County"
+    }
+  },
+  {
+    "zip": "97002",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 0.8428,
+        "name": "Marion County"
+      },
+      {
+        "fips": "41005",
+        "ratio": 0.1572,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 0.8428,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97003",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97004",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41005",
+        "ratio": 1.0,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41005",
+      "ratio": 1.0,
+      "name": "Clackamas County"
+    }
+  },
+  {
+    "zip": "97005",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97006",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97007",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97008",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97009",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41005",
+        "ratio": 0.9885,
+        "name": "Clackamas County"
+      },
+      {
+        "fips": "41051",
+        "ratio": 0.0115,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41005",
+      "ratio": 0.9885,
+      "name": "Clackamas County"
+    }
+  },
+  {
+    "zip": "97010",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97011",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41005",
+        "ratio": 1.0,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41005",
+      "ratio": 1.0,
+      "name": "Clackamas County"
+    }
+  },
+  {
+    "zip": "97013",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41005",
+        "ratio": 1.0,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41005",
+      "ratio": 1.0,
+      "name": "Clackamas County"
+    }
+  },
+  {
+    "zip": "97014",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41027",
+        "ratio": 0.8271,
+        "name": "Hood River County"
+      },
+      {
+        "fips": "41051",
+        "ratio": 0.1729,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41027",
+      "ratio": 0.8271,
+      "name": "Hood River County"
+    }
+  },
+  {
+    "zip": "97015",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41005",
+        "ratio": 1.0,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41005",
+      "ratio": 1.0,
+      "name": "Clackamas County"
+    }
+  },
+  {
+    "zip": "97016",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41009",
+        "ratio": 0.8117,
+        "name": "Columbia County"
+      },
+      {
+        "fips": "41007",
+        "ratio": 0.1883,
+        "name": "Clatsop County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41009",
+      "ratio": 0.8117,
+      "name": "Columbia County"
+    }
+  },
+  {
+    "zip": "97017",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41005",
+        "ratio": 1.0,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41005",
+      "ratio": 1.0,
+      "name": "Clackamas County"
+    }
+  },
+  {
+    "zip": "97018",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41009",
+        "ratio": 1.0,
+        "name": "Columbia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41009",
+      "ratio": 1.0,
+      "name": "Columbia County"
+    }
+  },
+  {
+    "zip": "97019",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 0.9677,
+        "name": "Multnomah County"
+      },
+      {
+        "fips": "41005",
+        "ratio": 0.0323,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 0.9677,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97020",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 1.0,
+        "name": "Marion County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 1.0,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97021",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41065",
+        "ratio": 1.0,
+        "name": "Wasco County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41065",
+      "ratio": 1.0,
+      "name": "Wasco County"
+    }
+  },
+  {
+    "zip": "97022",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41005",
+        "ratio": 1.0,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41005",
+      "ratio": 1.0,
+      "name": "Clackamas County"
+    }
+  },
+  {
+    "zip": "97023",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41005",
+        "ratio": 1.0,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41005",
+      "ratio": 1.0,
+      "name": "Clackamas County"
+    }
+  },
+  {
+    "zip": "97024",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97026",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 1.0,
+        "name": "Marion County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 1.0,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97027",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41005",
+        "ratio": 1.0,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41005",
+      "ratio": 1.0,
+      "name": "Clackamas County"
+    }
+  },
+  {
+    "zip": "97028",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41005",
+        "ratio": 1.0,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41005",
+      "ratio": 1.0,
+      "name": "Clackamas County"
+    }
+  },
+  {
+    "zip": "97029",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41055",
+        "ratio": 1.0,
+        "name": "Sherman County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41055",
+      "ratio": 1.0,
+      "name": "Sherman County"
+    }
+  },
+  {
+    "zip": "97030",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97031",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41027",
+        "ratio": 1.0,
+        "name": "Hood River County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41027",
+      "ratio": 1.0,
+      "name": "Hood River County"
+    }
+  },
+  {
+    "zip": "97032",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 0.8845,
+        "name": "Marion County"
+      },
+      {
+        "fips": "41005",
+        "ratio": 0.1155,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 0.8845,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97033",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41055",
+        "ratio": 1.0,
+        "name": "Sherman County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41055",
+      "ratio": 1.0,
+      "name": "Sherman County"
+    }
+  },
+  {
+    "zip": "97034",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41005",
+        "ratio": 0.9937,
+        "name": "Clackamas County"
+      },
+      {
+        "fips": "41051",
+        "ratio": 0.0063,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41005",
+      "ratio": 0.9937,
+      "name": "Clackamas County"
+    }
+  },
+  {
+    "zip": "97035",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "41005",
+        "ratio": 0.8386,
+        "name": "Clackamas County"
+      },
+      {
+        "fips": "41051",
+        "ratio": 0.1441,
+        "name": "Multnomah County"
+      },
+      {
+        "fips": "41067",
+        "ratio": 0.0173,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41005",
+      "ratio": 0.8386,
+      "name": "Clackamas County"
+    }
+  },
+  {
+    "zip": "97036",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41005",
+        "ratio": 1.0,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41005",
+      "ratio": 1.0,
+      "name": "Clackamas County"
+    }
+  },
+  {
+    "zip": "97037",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41065",
+        "ratio": 1.0,
+        "name": "Wasco County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41065",
+      "ratio": 1.0,
+      "name": "Wasco County"
+    }
+  },
+  {
+    "zip": "97038",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41005",
+        "ratio": 1.0,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41005",
+      "ratio": 1.0,
+      "name": "Clackamas County"
+    }
+  },
+  {
+    "zip": "97039",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41055",
+        "ratio": 1.0,
+        "name": "Sherman County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41055",
+      "ratio": 1.0,
+      "name": "Sherman County"
+    }
+  },
+  {
+    "zip": "97040",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41065",
+        "ratio": 1.0,
+        "name": "Wasco County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41065",
+      "ratio": 1.0,
+      "name": "Wasco County"
+    }
+  },
+  {
+    "zip": "97041",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41027",
+        "ratio": 0.9994,
+        "name": "Hood River County"
+      },
+      {
+        "fips": "41005",
+        "ratio": 0.0006,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41027",
+      "ratio": 0.9994,
+      "name": "Hood River County"
+    }
+  },
+  {
+    "zip": "97042",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41005",
+        "ratio": 1.0,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41005",
+      "ratio": 1.0,
+      "name": "Clackamas County"
+    }
+  },
+  {
+    "zip": "97044",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41027",
+        "ratio": 1.0,
+        "name": "Hood River County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41027",
+      "ratio": 1.0,
+      "name": "Hood River County"
+    }
+  },
+  {
+    "zip": "97045",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41005",
+        "ratio": 1.0,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41005",
+      "ratio": 1.0,
+      "name": "Clackamas County"
+    }
+  },
+  {
+    "zip": "97048",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41009",
+        "ratio": 1.0,
+        "name": "Columbia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41009",
+      "ratio": 1.0,
+      "name": "Columbia County"
+    }
+  },
+  {
+    "zip": "97049",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41005",
+        "ratio": 1.0,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41005",
+      "ratio": 1.0,
+      "name": "Clackamas County"
+    }
+  },
+  {
+    "zip": "97050",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41055",
+        "ratio": 1.0,
+        "name": "Sherman County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41055",
+      "ratio": 1.0,
+      "name": "Sherman County"
+    }
+  },
+  {
+    "zip": "97051",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41009",
+        "ratio": 1.0,
+        "name": "Columbia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41009",
+      "ratio": 1.0,
+      "name": "Columbia County"
+    }
+  },
+  {
+    "zip": "97053",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41009",
+        "ratio": 1.0,
+        "name": "Columbia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41009",
+      "ratio": 1.0,
+      "name": "Columbia County"
+    }
+  },
+  {
+    "zip": "97054",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41009",
+        "ratio": 1.0,
+        "name": "Columbia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41009",
+      "ratio": 1.0,
+      "name": "Columbia County"
+    }
+  },
+  {
+    "zip": "97055",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41005",
+        "ratio": 1.0,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41005",
+      "ratio": 1.0,
+      "name": "Clackamas County"
+    }
+  },
+  {
+    "zip": "97056",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "41009",
+        "ratio": 0.9758,
+        "name": "Columbia County"
+      },
+      {
+        "fips": "41051",
+        "ratio": 0.0206,
+        "name": "Multnomah County"
+      },
+      {
+        "fips": "41067",
+        "ratio": 0.0037,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41009",
+      "ratio": 0.9758,
+      "name": "Columbia County"
+    }
+  },
+  {
+    "zip": "97057",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41065",
+        "ratio": 1.0,
+        "name": "Wasco County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41065",
+      "ratio": 1.0,
+      "name": "Wasco County"
+    }
+  },
+  {
+    "zip": "97058",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41065",
+        "ratio": 1.0,
+        "name": "Wasco County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41065",
+      "ratio": 1.0,
+      "name": "Wasco County"
+    }
+  },
+  {
+    "zip": "97060",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97062",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 0.8875,
+        "name": "Washington County"
+      },
+      {
+        "fips": "41005",
+        "ratio": 0.1125,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 0.8875,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97063",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41065",
+        "ratio": 1.0,
+        "name": "Wasco County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41065",
+      "ratio": 1.0,
+      "name": "Wasco County"
+    }
+  },
+  {
+    "zip": "97064",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41009",
+        "ratio": 0.9949,
+        "name": "Columbia County"
+      },
+      {
+        "fips": "41067",
+        "ratio": 0.0051,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41009",
+      "ratio": 0.9949,
+      "name": "Columbia County"
+    }
+  },
+  {
+    "zip": "97065",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41055",
+        "ratio": 1.0,
+        "name": "Sherman County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41055",
+      "ratio": 1.0,
+      "name": "Sherman County"
+    }
+  },
+  {
+    "zip": "97067",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41005",
+        "ratio": 1.0,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41005",
+      "ratio": 1.0,
+      "name": "Clackamas County"
+    }
+  },
+  {
+    "zip": "97068",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41005",
+        "ratio": 1.0,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41005",
+      "ratio": 1.0,
+      "name": "Clackamas County"
+    }
+  },
+  {
+    "zip": "97070",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41005",
+        "ratio": 0.9508,
+        "name": "Clackamas County"
+      },
+      {
+        "fips": "41067",
+        "ratio": 0.0492,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41005",
+      "ratio": 0.9508,
+      "name": "Clackamas County"
+    }
+  },
+  {
+    "zip": "97071",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 0.9741,
+        "name": "Marion County"
+      },
+      {
+        "fips": "41005",
+        "ratio": 0.0259,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 0.9741,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97075",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97078",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97079",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97080",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 0.999,
+        "name": "Multnomah County"
+      },
+      {
+        "fips": "41005",
+        "ratio": 0.001,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 0.999,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97086",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41005",
+        "ratio": 1.0,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41005",
+      "ratio": 1.0,
+      "name": "Clackamas County"
+    }
+  },
+  {
+    "zip": "97089",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41005",
+        "ratio": 1.0,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41005",
+      "ratio": 1.0,
+      "name": "Clackamas County"
+    }
+  },
+  {
+    "zip": "97101",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41071",
+        "ratio": 0.9274,
+        "name": "Yamhill County"
+      },
+      {
+        "fips": "41053",
+        "ratio": 0.0726,
+        "name": "Polk County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41071",
+      "ratio": 0.9274,
+      "name": "Yamhill County"
+    }
+  },
+  {
+    "zip": "97102",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41007",
+        "ratio": 0.9449,
+        "name": "Clatsop County"
+      },
+      {
+        "fips": "41057",
+        "ratio": 0.0551,
+        "name": "Tillamook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41007",
+      "ratio": 0.9449,
+      "name": "Clatsop County"
+    }
+  },
+  {
+    "zip": "97103",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41007",
+        "ratio": 1.0,
+        "name": "Clatsop County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41007",
+      "ratio": 1.0,
+      "name": "Clatsop County"
+    }
+  },
+  {
+    "zip": "97106",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97107",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41057",
+        "ratio": 1.0,
+        "name": "Tillamook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41057",
+      "ratio": 1.0,
+      "name": "Tillamook County"
+    }
+  },
+  {
+    "zip": "97108",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41057",
+        "ratio": 1.0,
+        "name": "Tillamook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41057",
+      "ratio": 1.0,
+      "name": "Tillamook County"
+    }
+  },
+  {
+    "zip": "97109",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97110",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41007",
+        "ratio": 1.0,
+        "name": "Clatsop County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41007",
+      "ratio": 1.0,
+      "name": "Clatsop County"
+    }
+  },
+  {
+    "zip": "97111",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41071",
+        "ratio": 1.0,
+        "name": "Yamhill County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41071",
+      "ratio": 1.0,
+      "name": "Yamhill County"
+    }
+  },
+  {
+    "zip": "97112",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41057",
+        "ratio": 1.0,
+        "name": "Tillamook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41057",
+      "ratio": 1.0,
+      "name": "Tillamook County"
+    }
+  },
+  {
+    "zip": "97113",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97114",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41071",
+        "ratio": 1.0,
+        "name": "Yamhill County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41071",
+      "ratio": 1.0,
+      "name": "Yamhill County"
+    }
+  },
+  {
+    "zip": "97115",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41071",
+        "ratio": 1.0,
+        "name": "Yamhill County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41071",
+      "ratio": 1.0,
+      "name": "Yamhill County"
+    }
+  },
+  {
+    "zip": "97116",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97117",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97118",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41057",
+        "ratio": 1.0,
+        "name": "Tillamook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41057",
+      "ratio": 1.0,
+      "name": "Tillamook County"
+    }
+  },
+  {
+    "zip": "97119",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 0.7771,
+        "name": "Washington County"
+      },
+      {
+        "fips": "41071",
+        "ratio": 0.2229,
+        "name": "Yamhill County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 0.7771,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97121",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41007",
+        "ratio": 1.0,
+        "name": "Clatsop County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41007",
+      "ratio": 1.0,
+      "name": "Clatsop County"
+    }
+  },
+  {
+    "zip": "97122",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41057",
+        "ratio": 1.0,
+        "name": "Tillamook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41057",
+      "ratio": 1.0,
+      "name": "Tillamook County"
+    }
+  },
+  {
+    "zip": "97123",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 0.9888,
+        "name": "Washington County"
+      },
+      {
+        "fips": "41071",
+        "ratio": 0.0112,
+        "name": "Yamhill County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 0.9888,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97124",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 0.9993,
+        "name": "Washington County"
+      },
+      {
+        "fips": "41051",
+        "ratio": 0.0007,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 0.9993,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97125",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97127",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41071",
+        "ratio": 1.0,
+        "name": "Yamhill County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41071",
+      "ratio": 1.0,
+      "name": "Yamhill County"
+    }
+  },
+  {
+    "zip": "97128",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41071",
+        "ratio": 1.0,
+        "name": "Yamhill County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41071",
+      "ratio": 1.0,
+      "name": "Yamhill County"
+    }
+  },
+  {
+    "zip": "97129",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97130",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41057",
+        "ratio": 1.0,
+        "name": "Tillamook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41057",
+      "ratio": 1.0,
+      "name": "Tillamook County"
+    }
+  },
+  {
+    "zip": "97131",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41057",
+        "ratio": 0.9707,
+        "name": "Tillamook County"
+      },
+      {
+        "fips": "41007",
+        "ratio": 0.0293,
+        "name": "Clatsop County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41057",
+      "ratio": 0.9707,
+      "name": "Tillamook County"
+    }
+  },
+  {
+    "zip": "97132",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "41071",
+        "ratio": 0.9886,
+        "name": "Yamhill County"
+      },
+      {
+        "fips": "41067",
+        "ratio": 0.009,
+        "name": "Washington County"
+      },
+      {
+        "fips": "41005",
+        "ratio": 0.0024,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41071",
+      "ratio": 0.9886,
+      "name": "Yamhill County"
+    }
+  },
+  {
+    "zip": "97133",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 0.9943,
+        "name": "Washington County"
+      },
+      {
+        "fips": "41051",
+        "ratio": 0.0057,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 0.9943,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97134",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41057",
+        "ratio": 1.0,
+        "name": "Tillamook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41057",
+      "ratio": 1.0,
+      "name": "Tillamook County"
+    }
+  },
+  {
+    "zip": "97135",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41057",
+        "ratio": 1.0,
+        "name": "Tillamook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41057",
+      "ratio": 1.0,
+      "name": "Tillamook County"
+    }
+  },
+  {
+    "zip": "97136",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41057",
+        "ratio": 1.0,
+        "name": "Tillamook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41057",
+      "ratio": 1.0,
+      "name": "Tillamook County"
+    }
+  },
+  {
+    "zip": "97137",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 1.0,
+        "name": "Marion County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 1.0,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97138",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41007",
+        "ratio": 1.0,
+        "name": "Clatsop County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41007",
+      "ratio": 1.0,
+      "name": "Clatsop County"
+    }
+  },
+  {
+    "zip": "97140",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 0.9409,
+        "name": "Washington County"
+      },
+      {
+        "fips": "41005",
+        "ratio": 0.0496,
+        "name": "Clackamas County"
+      },
+      {
+        "fips": "41071",
+        "ratio": 0.0095,
+        "name": "Yamhill County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 0.9409,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97141",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41057",
+        "ratio": 1.0,
+        "name": "Tillamook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41057",
+      "ratio": 1.0,
+      "name": "Tillamook County"
+    }
+  },
+  {
+    "zip": "97144",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97145",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41007",
+        "ratio": 1.0,
+        "name": "Clatsop County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41007",
+      "ratio": 1.0,
+      "name": "Clatsop County"
+    }
+  },
+  {
+    "zip": "97146",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41007",
+        "ratio": 1.0,
+        "name": "Clatsop County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41007",
+      "ratio": 1.0,
+      "name": "Clatsop County"
+    }
+  },
+  {
+    "zip": "97147",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41057",
+        "ratio": 1.0,
+        "name": "Tillamook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41057",
+      "ratio": 1.0,
+      "name": "Tillamook County"
+    }
+  },
+  {
+    "zip": "97148",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41071",
+        "ratio": 1.0,
+        "name": "Yamhill County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41071",
+      "ratio": 1.0,
+      "name": "Yamhill County"
+    }
+  },
+  {
+    "zip": "97149",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41057",
+        "ratio": 1.0,
+        "name": "Tillamook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41057",
+      "ratio": 1.0,
+      "name": "Tillamook County"
+    }
+  },
+  {
+    "zip": "97201",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97202",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 0.9963,
+        "name": "Multnomah County"
+      },
+      {
+        "fips": "41005",
+        "ratio": 0.0037,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 0.9963,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97203",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97204",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97205",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97206",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 0.9547,
+        "name": "Multnomah County"
+      },
+      {
+        "fips": "41005",
+        "ratio": 0.0453,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 0.9547,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97207",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97208",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97209",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97210",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 0.9811,
+        "name": "Multnomah County"
+      },
+      {
+        "fips": "41067",
+        "ratio": 0.0189,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 0.9811,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97211",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97212",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97213",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97214",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97215",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97216",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97217",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97218",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97219",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 0.9811,
+        "name": "Multnomah County"
+      },
+      {
+        "fips": "41005",
+        "ratio": 0.018,
+        "name": "Clackamas County"
+      },
+      {
+        "fips": "41067",
+        "ratio": 0.0009,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 0.9811,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97220",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97221",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 0.9984,
+        "name": "Multnomah County"
+      },
+      {
+        "fips": "41067",
+        "ratio": 0.0016,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 0.9984,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97222",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41005",
+        "ratio": 0.9952,
+        "name": "Clackamas County"
+      },
+      {
+        "fips": "41051",
+        "ratio": 0.0048,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41005",
+      "ratio": 0.9952,
+      "name": "Clackamas County"
+    }
+  },
+  {
+    "zip": "97223",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 1.0,
+        "name": "Washington County"
+      },
+      {
+        "fips": "41051",
+        "ratio": 0.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97224",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97225",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 0.9958,
+        "name": "Washington County"
+      },
+      {
+        "fips": "41051",
+        "ratio": 0.0042,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 0.9958,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97227",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97228",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97229",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 0.9098,
+        "name": "Washington County"
+      },
+      {
+        "fips": "41051",
+        "ratio": 0.0902,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 0.9098,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97230",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97231",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 0.9555,
+        "name": "Multnomah County"
+      },
+      {
+        "fips": "41067",
+        "ratio": 0.0349,
+        "name": "Washington County"
+      },
+      {
+        "fips": "41009",
+        "ratio": 0.0095,
+        "name": "Columbia County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 0.9555,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97232",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97233",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97236",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97238",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97239",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97240",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97242",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97250",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97251",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97252",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97253",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97254",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97266",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97267",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41005",
+        "ratio": 1.0,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41005",
+      "ratio": 1.0,
+      "name": "Clackamas County"
+    }
+  },
+  {
+    "zip": "97268",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41005",
+        "ratio": 1.0,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41005",
+      "ratio": 1.0,
+      "name": "Clackamas County"
+    }
+  },
+  {
+    "zip": "97269",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41005",
+        "ratio": 1.0,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41005",
+      "ratio": 1.0,
+      "name": "Clackamas County"
+    }
+  },
+  {
+    "zip": "97280",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97281",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97282",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97283",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97286",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97290",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97291",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97292",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97293",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97294",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97296",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41051",
+        "ratio": 1.0,
+        "name": "Multnomah County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41051",
+      "ratio": 1.0,
+      "name": "Multnomah County"
+    }
+  },
+  {
+    "zip": "97298",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41067",
+        "ratio": 1.0,
+        "name": "Washington County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41067",
+      "ratio": 1.0,
+      "name": "Washington County"
+    }
+  },
+  {
+    "zip": "97301",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 1.0,
+        "name": "Marion County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 1.0,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97302",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 1.0,
+        "name": "Marion County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 1.0,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97303",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 1.0,
+        "name": "Marion County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 1.0,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97304",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41053",
+        "ratio": 0.9916,
+        "name": "Polk County"
+      },
+      {
+        "fips": "41071",
+        "ratio": 0.0084,
+        "name": "Yamhill County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41053",
+      "ratio": 0.9916,
+      "name": "Polk County"
+    }
+  },
+  {
+    "zip": "97305",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 1.0,
+        "name": "Marion County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 1.0,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97306",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 1.0,
+        "name": "Marion County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 1.0,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97307",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 1.0,
+        "name": "Marion County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 1.0,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97308",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 1.0,
+        "name": "Marion County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 1.0,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97309",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 1.0,
+        "name": "Marion County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 1.0,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97310",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 1.0,
+        "name": "Marion County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 1.0,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97311",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 1.0,
+        "name": "Marion County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 1.0,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97312",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 1.0,
+        "name": "Marion County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 1.0,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97314",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 1.0,
+        "name": "Marion County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 1.0,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97317",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 1.0,
+        "name": "Marion County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 1.0,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97321",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41043",
+        "ratio": 0.7175,
+        "name": "Linn County"
+      },
+      {
+        "fips": "41003",
+        "ratio": 0.2825,
+        "name": "Benton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41043",
+      "ratio": 0.7175,
+      "name": "Linn County"
+    }
+  },
+  {
+    "zip": "97322",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41043",
+        "ratio": 1.0,
+        "name": "Linn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41043",
+      "ratio": 1.0,
+      "name": "Linn County"
+    }
+  },
+  {
+    "zip": "97324",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "41003",
+        "ratio": 0.827,
+        "name": "Benton County"
+      },
+      {
+        "fips": "41041",
+        "ratio": 0.1525,
+        "name": "Lincoln County"
+      },
+      {
+        "fips": "41039",
+        "ratio": 0.0205,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41003",
+      "ratio": 0.827,
+      "name": "Benton County"
+    }
+  },
+  {
+    "zip": "97325",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 1.0,
+        "name": "Marion County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 1.0,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97326",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41041",
+        "ratio": 0.5169,
+        "name": "Lincoln County"
+      },
+      {
+        "fips": "41003",
+        "ratio": 0.4831,
+        "name": "Benton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41041",
+      "ratio": 0.5169,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "97327",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41043",
+        "ratio": 1.0,
+        "name": "Linn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41043",
+      "ratio": 1.0,
+      "name": "Linn County"
+    }
+  },
+  {
+    "zip": "97329",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41043",
+        "ratio": 1.0,
+        "name": "Linn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41043",
+      "ratio": 1.0,
+      "name": "Linn County"
+    }
+  },
+  {
+    "zip": "97330",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41003",
+        "ratio": 1.0,
+        "name": "Benton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41003",
+      "ratio": 1.0,
+      "name": "Benton County"
+    }
+  },
+  {
+    "zip": "97331",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41003",
+        "ratio": 1.0,
+        "name": "Benton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41003",
+      "ratio": 1.0,
+      "name": "Benton County"
+    }
+  },
+  {
+    "zip": "97333",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41003",
+        "ratio": 0.9476,
+        "name": "Benton County"
+      },
+      {
+        "fips": "41043",
+        "ratio": 0.0524,
+        "name": "Linn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41003",
+      "ratio": 0.9476,
+      "name": "Benton County"
+    }
+  },
+  {
+    "zip": "97335",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41043",
+        "ratio": 1.0,
+        "name": "Linn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41043",
+      "ratio": 1.0,
+      "name": "Linn County"
+    }
+  },
+  {
+    "zip": "97336",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41043",
+        "ratio": 1.0,
+        "name": "Linn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41043",
+      "ratio": 1.0,
+      "name": "Linn County"
+    }
+  },
+  {
+    "zip": "97338",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41053",
+        "ratio": 1.0,
+        "name": "Polk County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41053",
+      "ratio": 1.0,
+      "name": "Polk County"
+    }
+  },
+  {
+    "zip": "97339",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41003",
+        "ratio": 1.0,
+        "name": "Benton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41003",
+      "ratio": 1.0,
+      "name": "Benton County"
+    }
+  },
+  {
+    "zip": "97341",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41041",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41041",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "97342",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 1.0,
+        "name": "Marion County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 1.0,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97343",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41041",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41041",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "97344",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41053",
+        "ratio": 1.0,
+        "name": "Polk County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41053",
+      "ratio": 1.0,
+      "name": "Polk County"
+    }
+  },
+  {
+    "zip": "97345",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41043",
+        "ratio": 1.0,
+        "name": "Linn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41043",
+      "ratio": 1.0,
+      "name": "Linn County"
+    }
+  },
+  {
+    "zip": "97346",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 0.6629,
+        "name": "Marion County"
+      },
+      {
+        "fips": "41043",
+        "ratio": 0.3371,
+        "name": "Linn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 0.6629,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97347",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41053",
+        "ratio": 0.7524,
+        "name": "Polk County"
+      },
+      {
+        "fips": "41071",
+        "ratio": 0.2476,
+        "name": "Yamhill County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41053",
+      "ratio": 0.7524,
+      "name": "Polk County"
+    }
+  },
+  {
+    "zip": "97348",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41043",
+        "ratio": 1.0,
+        "name": "Linn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41043",
+      "ratio": 1.0,
+      "name": "Linn County"
+    }
+  },
+  {
+    "zip": "97350",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 0.5871,
+        "name": "Marion County"
+      },
+      {
+        "fips": "41043",
+        "ratio": 0.4129,
+        "name": "Linn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 0.5871,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97351",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41053",
+        "ratio": 1.0,
+        "name": "Polk County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41053",
+      "ratio": 1.0,
+      "name": "Polk County"
+    }
+  },
+  {
+    "zip": "97352",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 0.9897,
+        "name": "Marion County"
+      },
+      {
+        "fips": "41043",
+        "ratio": 0.0103,
+        "name": "Linn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 0.9897,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97355",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41043",
+        "ratio": 1.0,
+        "name": "Linn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41043",
+      "ratio": 1.0,
+      "name": "Linn County"
+    }
+  },
+  {
+    "zip": "97357",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41041",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41041",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "97358",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41043",
+        "ratio": 0.6843,
+        "name": "Linn County"
+      },
+      {
+        "fips": "41047",
+        "ratio": 0.3157,
+        "name": "Marion County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41043",
+      "ratio": 0.6843,
+      "name": "Linn County"
+    }
+  },
+  {
+    "zip": "97360",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41043",
+        "ratio": 0.7868,
+        "name": "Linn County"
+      },
+      {
+        "fips": "41047",
+        "ratio": 0.2132,
+        "name": "Marion County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41043",
+      "ratio": 0.7868,
+      "name": "Linn County"
+    }
+  },
+  {
+    "zip": "97361",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41053",
+        "ratio": 0.9862,
+        "name": "Polk County"
+      },
+      {
+        "fips": "41003",
+        "ratio": 0.0138,
+        "name": "Benton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41053",
+      "ratio": 0.9862,
+      "name": "Polk County"
+    }
+  },
+  {
+    "zip": "97362",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 0.9864,
+        "name": "Marion County"
+      },
+      {
+        "fips": "41005",
+        "ratio": 0.0136,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 0.9864,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97364",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41041",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41041",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "97365",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41041",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41041",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "97366",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41041",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41041",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "97367",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41041",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41041",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "97368",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41041",
+        "ratio": 0.9753,
+        "name": "Lincoln County"
+      },
+      {
+        "fips": "41057",
+        "ratio": 0.0247,
+        "name": "Tillamook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41041",
+      "ratio": 0.9753,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "97369",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41041",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41041",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "97370",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41003",
+        "ratio": 0.9966,
+        "name": "Benton County"
+      },
+      {
+        "fips": "41053",
+        "ratio": 0.0034,
+        "name": "Polk County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41003",
+      "ratio": 0.9966,
+      "name": "Benton County"
+    }
+  },
+  {
+    "zip": "97371",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41053",
+        "ratio": 1.0,
+        "name": "Polk County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41053",
+      "ratio": 1.0,
+      "name": "Polk County"
+    }
+  },
+  {
+    "zip": "97373",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 1.0,
+        "name": "Marion County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 1.0,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97374",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41043",
+        "ratio": 1.0,
+        "name": "Linn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41043",
+      "ratio": 1.0,
+      "name": "Linn County"
+    }
+  },
+  {
+    "zip": "97375",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 0.9043,
+        "name": "Marion County"
+      },
+      {
+        "fips": "41005",
+        "ratio": 0.0957,
+        "name": "Clackamas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 0.9043,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97376",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41041",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41041",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "97377",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41043",
+        "ratio": 1.0,
+        "name": "Linn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41043",
+      "ratio": 1.0,
+      "name": "Linn County"
+    }
+  },
+  {
+    "zip": "97378",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41071",
+        "ratio": 0.8353,
+        "name": "Yamhill County"
+      },
+      {
+        "fips": "41053",
+        "ratio": 0.1647,
+        "name": "Polk County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41071",
+      "ratio": 0.8353,
+      "name": "Yamhill County"
+    }
+  },
+  {
+    "zip": "97380",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41041",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41041",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "97381",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 1.0,
+        "name": "Marion County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 1.0,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97383",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 0.9313,
+        "name": "Marion County"
+      },
+      {
+        "fips": "41043",
+        "ratio": 0.0687,
+        "name": "Linn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 0.9313,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97384",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 1.0,
+        "name": "Marion County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 1.0,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97385",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 1.0,
+        "name": "Marion County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 1.0,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97386",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41043",
+        "ratio": 1.0,
+        "name": "Linn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41043",
+      "ratio": 1.0,
+      "name": "Linn County"
+    }
+  },
+  {
+    "zip": "97388",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41041",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41041",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "97389",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41043",
+        "ratio": 1.0,
+        "name": "Linn County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41043",
+      "ratio": 1.0,
+      "name": "Linn County"
+    }
+  },
+  {
+    "zip": "97390",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41041",
+        "ratio": 0.9681,
+        "name": "Lincoln County"
+      },
+      {
+        "fips": "41039",
+        "ratio": 0.0319,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41041",
+      "ratio": 0.9681,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "97391",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41041",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41041",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "97392",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41047",
+        "ratio": 1.0,
+        "name": "Marion County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41047",
+      "ratio": 1.0,
+      "name": "Marion County"
+    }
+  },
+  {
+    "zip": "97394",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41041",
+        "ratio": 1.0,
+        "name": "Lincoln County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41041",
+      "ratio": 1.0,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "97396",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41071",
+        "ratio": 0.6684,
+        "name": "Yamhill County"
+      },
+      {
+        "fips": "41053",
+        "ratio": 0.3316,
+        "name": "Polk County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41071",
+      "ratio": 0.6684,
+      "name": "Yamhill County"
+    }
+  },
+  {
+    "zip": "97401",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97402",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97403",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97404",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97405",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97406",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41015",
+        "ratio": 1.0,
+        "name": "Curry County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41015",
+      "ratio": 1.0,
+      "name": "Curry County"
+    }
+  },
+  {
+    "zip": "97407",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41011",
+        "ratio": 1.0,
+        "name": "Coos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41011",
+      "ratio": 1.0,
+      "name": "Coos County"
+    }
+  },
+  {
+    "zip": "97408",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97409",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97410",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41019",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41019",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "97411",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41011",
+        "ratio": 1.0,
+        "name": "Coos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41011",
+      "ratio": 1.0,
+      "name": "Coos County"
+    }
+  },
+  {
+    "zip": "97412",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97413",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97414",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41011",
+        "ratio": 1.0,
+        "name": "Coos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41011",
+      "ratio": 1.0,
+      "name": "Coos County"
+    }
+  },
+  {
+    "zip": "97415",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41015",
+        "ratio": 1.0,
+        "name": "Curry County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41015",
+      "ratio": 1.0,
+      "name": "Curry County"
+    }
+  },
+  {
+    "zip": "97416",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41019",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41019",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "97417",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41019",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41019",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "97419",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97420",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41011",
+        "ratio": 1.0,
+        "name": "Coos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41011",
+      "ratio": 1.0,
+      "name": "Coos County"
+    }
+  },
+  {
+    "zip": "97423",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41011",
+        "ratio": 1.0,
+        "name": "Coos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41011",
+      "ratio": 1.0,
+      "name": "Coos County"
+    }
+  },
+  {
+    "zip": "97424",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 0.9851,
+        "name": "Lane County"
+      },
+      {
+        "fips": "41019",
+        "ratio": 0.0149,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 0.9851,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97426",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97429",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41019",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41019",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "97430",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97431",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97432",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41019",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41019",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "97434",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97435",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41019",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41019",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "97436",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41019",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41019",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "97437",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97438",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97439",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97440",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97441",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41019",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41019",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "97442",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41019",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41019",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "97443",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41019",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41019",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "97444",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41015",
+        "ratio": 1.0,
+        "name": "Curry County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41015",
+      "ratio": 1.0,
+      "name": "Curry County"
+    }
+  },
+  {
+    "zip": "97446",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41043",
+        "ratio": 0.9891,
+        "name": "Linn County"
+      },
+      {
+        "fips": "41039",
+        "ratio": 0.0109,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41043",
+      "ratio": 0.9891,
+      "name": "Linn County"
+    }
+  },
+  {
+    "zip": "97447",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41019",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41019",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "97448",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 0.9913,
+        "name": "Lane County"
+      },
+      {
+        "fips": "41003",
+        "ratio": 0.0087,
+        "name": "Benton County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 0.9913,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97449",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41011",
+        "ratio": 1.0,
+        "name": "Coos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41011",
+      "ratio": 1.0,
+      "name": "Coos County"
+    }
+  },
+  {
+    "zip": "97450",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41015",
+        "ratio": 0.9902,
+        "name": "Curry County"
+      },
+      {
+        "fips": "41011",
+        "ratio": 0.0098,
+        "name": "Coos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41015",
+      "ratio": 0.9902,
+      "name": "Curry County"
+    }
+  },
+  {
+    "zip": "97451",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97452",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97453",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97454",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97455",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97456",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41003",
+        "ratio": 0.9288,
+        "name": "Benton County"
+      },
+      {
+        "fips": "41039",
+        "ratio": 0.0712,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41003",
+      "ratio": 0.9288,
+      "name": "Benton County"
+    }
+  },
+  {
+    "zip": "97457",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41019",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41019",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "97458",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41011",
+        "ratio": 1.0,
+        "name": "Coos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41011",
+      "ratio": 1.0,
+      "name": "Coos County"
+    }
+  },
+  {
+    "zip": "97459",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41011",
+        "ratio": 0.9922,
+        "name": "Coos County"
+      },
+      {
+        "fips": "41019",
+        "ratio": 0.0078,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41011",
+      "ratio": 0.9922,
+      "name": "Coos County"
+    }
+  },
+  {
+    "zip": "97461",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97462",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41019",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41019",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "97463",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97464",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41015",
+        "ratio": 1.0,
+        "name": "Curry County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41015",
+      "ratio": 1.0,
+      "name": "Curry County"
+    }
+  },
+  {
+    "zip": "97465",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41015",
+        "ratio": 1.0,
+        "name": "Curry County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41015",
+      "ratio": 1.0,
+      "name": "Curry County"
+    }
+  },
+  {
+    "zip": "97466",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41011",
+        "ratio": 1.0,
+        "name": "Coos County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41011",
+      "ratio": 1.0,
+      "name": "Coos County"
+    }
+  },
+  {
+    "zip": "97467",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41019",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41019",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "97469",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41019",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41019",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "97470",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41019",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41019",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "97471",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41019",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41019",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "97473",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41019",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41019",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "97475",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97476",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41015",
+        "ratio": 1.0,
+        "name": "Curry County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41015",
+      "ratio": 1.0,
+      "name": "Curry County"
+    }
+  },
+  {
+    "zip": "97477",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97478",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97479",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41019",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41019",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "97480",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97481",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41019",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41019",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "97484",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41019",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41019",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "97486",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41019",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41019",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "97487",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97488",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97489",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97490",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97491",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41015",
+        "ratio": 1.0,
+        "name": "Curry County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41015",
+      "ratio": 1.0,
+      "name": "Curry County"
+    }
+  },
+  {
+    "zip": "97492",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 1.0,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 1.0,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97493",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41039",
+        "ratio": 0.9489,
+        "name": "Lane County"
+      },
+      {
+        "fips": "41019",
+        "ratio": 0.0511,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41039",
+      "ratio": 0.9489,
+      "name": "Lane County"
+    }
+  },
+  {
+    "zip": "97494",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41019",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41019",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "97495",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41019",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41019",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "97496",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41019",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41019",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "97497",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41033",
+        "ratio": 0.9902,
+        "name": "Josephine County"
+      },
+      {
+        "fips": "41029",
+        "ratio": 0.0098,
+        "name": "Jackson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41033",
+      "ratio": 0.9902,
+      "name": "Josephine County"
+    }
+  },
+  {
+    "zip": "97498",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41041",
+        "ratio": 0.979,
+        "name": "Lincoln County"
+      },
+      {
+        "fips": "41039",
+        "ratio": 0.021,
+        "name": "Lane County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41041",
+      "ratio": 0.979,
+      "name": "Lincoln County"
+    }
+  },
+  {
+    "zip": "97499",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41019",
+        "ratio": 1.0,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41019",
+      "ratio": 1.0,
+      "name": "Douglas County"
+    }
+  },
+  {
+    "zip": "97501",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41029",
+        "ratio": 1.0,
+        "name": "Jackson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41029",
+      "ratio": 1.0,
+      "name": "Jackson County"
+    }
+  },
+  {
+    "zip": "97502",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41029",
+        "ratio": 1.0,
+        "name": "Jackson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41029",
+      "ratio": 1.0,
+      "name": "Jackson County"
+    }
+  },
+  {
+    "zip": "97503",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41029",
+        "ratio": 1.0,
+        "name": "Jackson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41029",
+      "ratio": 1.0,
+      "name": "Jackson County"
+    }
+  },
+  {
+    "zip": "97504",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41029",
+        "ratio": 1.0,
+        "name": "Jackson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41029",
+      "ratio": 1.0,
+      "name": "Jackson County"
+    }
+  },
+  {
+    "zip": "97520",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41029",
+        "ratio": 1.0,
+        "name": "Jackson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41029",
+      "ratio": 1.0,
+      "name": "Jackson County"
+    }
+  },
+  {
+    "zip": "97522",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41029",
+        "ratio": 1.0,
+        "name": "Jackson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41029",
+      "ratio": 1.0,
+      "name": "Jackson County"
+    }
+  },
+  {
+    "zip": "97523",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41033",
+        "ratio": 1.0,
+        "name": "Josephine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41033",
+      "ratio": 1.0,
+      "name": "Josephine County"
+    }
+  },
+  {
+    "zip": "97524",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41029",
+        "ratio": 1.0,
+        "name": "Jackson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41029",
+      "ratio": 1.0,
+      "name": "Jackson County"
+    }
+  },
+  {
+    "zip": "97525",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41029",
+        "ratio": 1.0,
+        "name": "Jackson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41029",
+      "ratio": 1.0,
+      "name": "Jackson County"
+    }
+  },
+  {
+    "zip": "97526",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41033",
+        "ratio": 0.9908,
+        "name": "Josephine County"
+      },
+      {
+        "fips": "41029",
+        "ratio": 0.0092,
+        "name": "Jackson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41033",
+      "ratio": 0.9908,
+      "name": "Josephine County"
+    }
+  },
+  {
+    "zip": "97527",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41033",
+        "ratio": 0.9589,
+        "name": "Josephine County"
+      },
+      {
+        "fips": "41029",
+        "ratio": 0.0411,
+        "name": "Jackson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41033",
+      "ratio": 0.9589,
+      "name": "Josephine County"
+    }
+  },
+  {
+    "zip": "97528",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41033",
+        "ratio": 1.0,
+        "name": "Josephine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41033",
+      "ratio": 1.0,
+      "name": "Josephine County"
+    }
+  },
+  {
+    "zip": "97530",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41029",
+        "ratio": 0.991,
+        "name": "Jackson County"
+      },
+      {
+        "fips": "41033",
+        "ratio": 0.009,
+        "name": "Josephine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41029",
+      "ratio": 0.991,
+      "name": "Jackson County"
+    }
+  },
+  {
+    "zip": "97531",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41033",
+        "ratio": 1.0,
+        "name": "Josephine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41033",
+      "ratio": 1.0,
+      "name": "Josephine County"
+    }
+  },
+  {
+    "zip": "97532",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41033",
+        "ratio": 1.0,
+        "name": "Josephine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41033",
+      "ratio": 1.0,
+      "name": "Josephine County"
+    }
+  },
+  {
+    "zip": "97533",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41033",
+        "ratio": 1.0,
+        "name": "Josephine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41033",
+      "ratio": 1.0,
+      "name": "Josephine County"
+    }
+  },
+  {
+    "zip": "97534",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41033",
+        "ratio": 1.0,
+        "name": "Josephine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41033",
+      "ratio": 1.0,
+      "name": "Josephine County"
+    }
+  },
+  {
+    "zip": "97535",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41029",
+        "ratio": 1.0,
+        "name": "Jackson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41029",
+      "ratio": 1.0,
+      "name": "Jackson County"
+    }
+  },
+  {
+    "zip": "97536",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41029",
+        "ratio": 1.0,
+        "name": "Jackson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41029",
+      "ratio": 1.0,
+      "name": "Jackson County"
+    }
+  },
+  {
+    "zip": "97537",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41029",
+        "ratio": 1.0,
+        "name": "Jackson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41029",
+      "ratio": 1.0,
+      "name": "Jackson County"
+    }
+  },
+  {
+    "zip": "97538",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41033",
+        "ratio": 1.0,
+        "name": "Josephine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41033",
+      "ratio": 1.0,
+      "name": "Josephine County"
+    }
+  },
+  {
+    "zip": "97539",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41029",
+        "ratio": 1.0,
+        "name": "Jackson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41029",
+      "ratio": 1.0,
+      "name": "Jackson County"
+    }
+  },
+  {
+    "zip": "97540",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41029",
+        "ratio": 1.0,
+        "name": "Jackson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41029",
+      "ratio": 1.0,
+      "name": "Jackson County"
+    }
+  },
+  {
+    "zip": "97541",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41029",
+        "ratio": 1.0,
+        "name": "Jackson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41029",
+      "ratio": 1.0,
+      "name": "Jackson County"
+    }
+  },
+  {
+    "zip": "97543",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41033",
+        "ratio": 1.0,
+        "name": "Josephine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41033",
+      "ratio": 1.0,
+      "name": "Josephine County"
+    }
+  },
+  {
+    "zip": "97544",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41033",
+        "ratio": 1.0,
+        "name": "Josephine County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41033",
+      "ratio": 1.0,
+      "name": "Josephine County"
+    }
+  },
+  {
+    "zip": "97601",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41035",
+        "ratio": 1.0,
+        "name": "Klamath County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41035",
+      "ratio": 1.0,
+      "name": "Klamath County"
+    }
+  },
+  {
+    "zip": "97602",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41035",
+        "ratio": 1.0,
+        "name": "Klamath County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41035",
+      "ratio": 1.0,
+      "name": "Klamath County"
+    }
+  },
+  {
+    "zip": "97603",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41035",
+        "ratio": 1.0,
+        "name": "Klamath County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41035",
+      "ratio": 1.0,
+      "name": "Klamath County"
+    }
+  },
+  {
+    "zip": "97604",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41035",
+        "ratio": 1.0,
+        "name": "Klamath County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41035",
+      "ratio": 1.0,
+      "name": "Klamath County"
+    }
+  },
+  {
+    "zip": "97620",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41037",
+        "ratio": 1.0,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41037",
+      "ratio": 1.0,
+      "name": "Lake County"
+    }
+  },
+  {
+    "zip": "97621",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41035",
+        "ratio": 1.0,
+        "name": "Klamath County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41035",
+      "ratio": 1.0,
+      "name": "Klamath County"
+    }
+  },
+  {
+    "zip": "97622",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41035",
+        "ratio": 1.0,
+        "name": "Klamath County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41035",
+      "ratio": 1.0,
+      "name": "Klamath County"
+    }
+  },
+  {
+    "zip": "97623",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41035",
+        "ratio": 1.0,
+        "name": "Klamath County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41035",
+      "ratio": 1.0,
+      "name": "Klamath County"
+    }
+  },
+  {
+    "zip": "97624",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41035",
+        "ratio": 1.0,
+        "name": "Klamath County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41035",
+      "ratio": 1.0,
+      "name": "Klamath County"
+    }
+  },
+  {
+    "zip": "97625",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41035",
+        "ratio": 1.0,
+        "name": "Klamath County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41035",
+      "ratio": 1.0,
+      "name": "Klamath County"
+    }
+  },
+  {
+    "zip": "97626",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41035",
+        "ratio": 1.0,
+        "name": "Klamath County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41035",
+      "ratio": 1.0,
+      "name": "Klamath County"
+    }
+  },
+  {
+    "zip": "97627",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41035",
+        "ratio": 1.0,
+        "name": "Klamath County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41035",
+      "ratio": 1.0,
+      "name": "Klamath County"
+    }
+  },
+  {
+    "zip": "97630",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41037",
+        "ratio": 1.0,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41037",
+      "ratio": 1.0,
+      "name": "Lake County"
+    }
+  },
+  {
+    "zip": "97632",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41035",
+        "ratio": 1.0,
+        "name": "Klamath County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41035",
+      "ratio": 1.0,
+      "name": "Klamath County"
+    }
+  },
+  {
+    "zip": "97633",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41035",
+        "ratio": 1.0,
+        "name": "Klamath County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41035",
+      "ratio": 1.0,
+      "name": "Klamath County"
+    }
+  },
+  {
+    "zip": "97634",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41035",
+        "ratio": 1.0,
+        "name": "Klamath County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41035",
+      "ratio": 1.0,
+      "name": "Klamath County"
+    }
+  },
+  {
+    "zip": "97635",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41037",
+        "ratio": 1.0,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41037",
+      "ratio": 1.0,
+      "name": "Lake County"
+    }
+  },
+  {
+    "zip": "97636",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41037",
+        "ratio": 1.0,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41037",
+      "ratio": 1.0,
+      "name": "Lake County"
+    }
+  },
+  {
+    "zip": "97637",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41037",
+        "ratio": 1.0,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41037",
+      "ratio": 1.0,
+      "name": "Lake County"
+    }
+  },
+  {
+    "zip": "97638",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41037",
+        "ratio": 1.0,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41037",
+      "ratio": 1.0,
+      "name": "Lake County"
+    }
+  },
+  {
+    "zip": "97639",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41035",
+        "ratio": 1.0,
+        "name": "Klamath County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41035",
+      "ratio": 1.0,
+      "name": "Klamath County"
+    }
+  },
+  {
+    "zip": "97640",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41037",
+        "ratio": 1.0,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41037",
+      "ratio": 1.0,
+      "name": "Lake County"
+    }
+  },
+  {
+    "zip": "97641",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41037",
+        "ratio": 1.0,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41037",
+      "ratio": 1.0,
+      "name": "Lake County"
+    }
+  },
+  {
+    "zip": "97701",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41017",
+        "ratio": 0.9986,
+        "name": "Deschutes County"
+      },
+      {
+        "fips": "41013",
+        "ratio": 0.0014,
+        "name": "Crook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41017",
+      "ratio": 0.9986,
+      "name": "Deschutes County"
+    }
+  },
+  {
+    "zip": "97702",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41017",
+        "ratio": 1.0,
+        "name": "Deschutes County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41017",
+      "ratio": 1.0,
+      "name": "Deschutes County"
+    }
+  },
+  {
+    "zip": "97703",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41017",
+        "ratio": 1.0,
+        "name": "Deschutes County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41017",
+      "ratio": 1.0,
+      "name": "Deschutes County"
+    }
+  },
+  {
+    "zip": "97707",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41017",
+        "ratio": 1.0,
+        "name": "Deschutes County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41017",
+      "ratio": 1.0,
+      "name": "Deschutes County"
+    }
+  },
+  {
+    "zip": "97708",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41017",
+        "ratio": 1.0,
+        "name": "Deschutes County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41017",
+      "ratio": 1.0,
+      "name": "Deschutes County"
+    }
+  },
+  {
+    "zip": "97709",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41017",
+        "ratio": 1.0,
+        "name": "Deschutes County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41017",
+      "ratio": 1.0,
+      "name": "Deschutes County"
+    }
+  },
+  {
+    "zip": "97710",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41025",
+        "ratio": 1.0,
+        "name": "Harney County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41025",
+      "ratio": 1.0,
+      "name": "Harney County"
+    }
+  },
+  {
+    "zip": "97711",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41031",
+        "ratio": 1.0,
+        "name": "Jefferson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41031",
+      "ratio": 1.0,
+      "name": "Jefferson County"
+    }
+  },
+  {
+    "zip": "97712",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41017",
+        "ratio": 1.0,
+        "name": "Deschutes County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41017",
+      "ratio": 1.0,
+      "name": "Deschutes County"
+    }
+  },
+  {
+    "zip": "97720",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41025",
+        "ratio": 1.0,
+        "name": "Harney County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41025",
+      "ratio": 1.0,
+      "name": "Harney County"
+    }
+  },
+  {
+    "zip": "97721",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41025",
+        "ratio": 1.0,
+        "name": "Harney County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41025",
+      "ratio": 1.0,
+      "name": "Harney County"
+    }
+  },
+  {
+    "zip": "97722",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41025",
+        "ratio": 1.0,
+        "name": "Harney County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41025",
+      "ratio": 1.0,
+      "name": "Harney County"
+    }
+  },
+  {
+    "zip": "97730",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41031",
+        "ratio": 1.0,
+        "name": "Jefferson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41031",
+      "ratio": 1.0,
+      "name": "Jefferson County"
+    }
+  },
+  {
+    "zip": "97731",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41035",
+        "ratio": 0.6759,
+        "name": "Klamath County"
+      },
+      {
+        "fips": "41019",
+        "ratio": 0.3241,
+        "name": "Douglas County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41035",
+      "ratio": 0.6759,
+      "name": "Klamath County"
+    }
+  },
+  {
+    "zip": "97732",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41025",
+        "ratio": 1.0,
+        "name": "Harney County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41025",
+      "ratio": 1.0,
+      "name": "Harney County"
+    }
+  },
+  {
+    "zip": "97733",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41035",
+        "ratio": 1.0,
+        "name": "Klamath County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41035",
+      "ratio": 1.0,
+      "name": "Klamath County"
+    }
+  },
+  {
+    "zip": "97734",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41031",
+        "ratio": 1.0,
+        "name": "Jefferson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41031",
+      "ratio": 1.0,
+      "name": "Jefferson County"
+    }
+  },
+  {
+    "zip": "97735",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41037",
+        "ratio": 1.0,
+        "name": "Lake County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41037",
+      "ratio": 1.0,
+      "name": "Lake County"
+    }
+  },
+  {
+    "zip": "97736",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41025",
+        "ratio": 1.0,
+        "name": "Harney County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41025",
+      "ratio": 1.0,
+      "name": "Harney County"
+    }
+  },
+  {
+    "zip": "97737",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41035",
+        "ratio": 1.0,
+        "name": "Klamath County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41035",
+      "ratio": 1.0,
+      "name": "Klamath County"
+    }
+  },
+  {
+    "zip": "97738",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41025",
+        "ratio": 1.0,
+        "name": "Harney County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41025",
+      "ratio": 1.0,
+      "name": "Harney County"
+    }
+  },
+  {
+    "zip": "97739",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41017",
+        "ratio": 0.9158,
+        "name": "Deschutes County"
+      },
+      {
+        "fips": "41035",
+        "ratio": 0.0842,
+        "name": "Klamath County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41017",
+      "ratio": 0.9158,
+      "name": "Deschutes County"
+    }
+  },
+  {
+    "zip": "97741",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41031",
+        "ratio": 1.0,
+        "name": "Jefferson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41031",
+      "ratio": 1.0,
+      "name": "Jefferson County"
+    }
+  },
+  {
+    "zip": "97750",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41069",
+        "ratio": 1.0,
+        "name": "Wheeler County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41069",
+      "ratio": 1.0,
+      "name": "Wheeler County"
+    }
+  },
+  {
+    "zip": "97751",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41013",
+        "ratio": 1.0,
+        "name": "Crook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41013",
+      "ratio": 1.0,
+      "name": "Crook County"
+    }
+  },
+  {
+    "zip": "97752",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41013",
+        "ratio": 1.0,
+        "name": "Crook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41013",
+      "ratio": 1.0,
+      "name": "Crook County"
+    }
+  },
+  {
+    "zip": "97753",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41013",
+        "ratio": 1.0,
+        "name": "Crook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41013",
+      "ratio": 1.0,
+      "name": "Crook County"
+    }
+  },
+  {
+    "zip": "97754",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41013",
+        "ratio": 1.0,
+        "name": "Crook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41013",
+      "ratio": 1.0,
+      "name": "Crook County"
+    }
+  },
+  {
+    "zip": "97756",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41017",
+        "ratio": 0.999,
+        "name": "Deschutes County"
+      },
+      {
+        "fips": "41013",
+        "ratio": 0.001,
+        "name": "Crook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41017",
+      "ratio": 0.999,
+      "name": "Deschutes County"
+    }
+  },
+  {
+    "zip": "97758",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41025",
+        "ratio": 1.0,
+        "name": "Harney County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41025",
+      "ratio": 1.0,
+      "name": "Harney County"
+    }
+  },
+  {
+    "zip": "97759",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "41017",
+        "ratio": 0.9972,
+        "name": "Deschutes County"
+      },
+      {
+        "fips": "41043",
+        "ratio": 0.002,
+        "name": "Linn County"
+      },
+      {
+        "fips": "41031",
+        "ratio": 0.0008,
+        "name": "Jefferson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41017",
+      "ratio": 0.9972,
+      "name": "Deschutes County"
+    }
+  },
+  {
+    "zip": "97760",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "41031",
+        "ratio": 0.4944,
+        "name": "Jefferson County"
+      },
+      {
+        "fips": "41017",
+        "ratio": 0.4925,
+        "name": "Deschutes County"
+      },
+      {
+        "fips": "41013",
+        "ratio": 0.0131,
+        "name": "Crook County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41031",
+      "ratio": 0.4944,
+      "name": "Jefferson County"
+    }
+  },
+  {
+    "zip": "97761",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41031",
+        "ratio": 1.0,
+        "name": "Jefferson County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41031",
+      "ratio": 1.0,
+      "name": "Jefferson County"
+    }
+  },
+  {
+    "zip": "97801",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41059",
+        "ratio": 1.0,
+        "name": "Umatilla County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41059",
+      "ratio": 1.0,
+      "name": "Umatilla County"
+    }
+  },
+  {
+    "zip": "97810",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41059",
+        "ratio": 1.0,
+        "name": "Umatilla County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41059",
+      "ratio": 1.0,
+      "name": "Umatilla County"
+    }
+  },
+  {
+    "zip": "97812",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41021",
+        "ratio": 1.0,
+        "name": "Gilliam County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41021",
+      "ratio": 1.0,
+      "name": "Gilliam County"
+    }
+  },
+  {
+    "zip": "97813",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41059",
+        "ratio": 1.0,
+        "name": "Umatilla County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41059",
+      "ratio": 1.0,
+      "name": "Umatilla County"
+    }
+  },
+  {
+    "zip": "97814",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41001",
+        "ratio": 0.9967,
+        "name": "Baker County"
+      },
+      {
+        "fips": "41061",
+        "ratio": 0.0033,
+        "name": "Union County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41001",
+      "ratio": 0.9967,
+      "name": "Baker County"
+    }
+  },
+  {
+    "zip": "97817",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41023",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41023",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "97818",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41049",
+        "ratio": 1.0,
+        "name": "Morrow County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41049",
+      "ratio": 1.0,
+      "name": "Morrow County"
+    }
+  },
+  {
+    "zip": "97819",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41001",
+        "ratio": 1.0,
+        "name": "Baker County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41001",
+      "ratio": 1.0,
+      "name": "Baker County"
+    }
+  },
+  {
+    "zip": "97820",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41023",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41023",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "97823",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 3,
+    "counties": [
+      {
+        "fips": "41021",
+        "ratio": 0.9767,
+        "name": "Gilliam County"
+      },
+      {
+        "fips": "41049",
+        "ratio": 0.0122,
+        "name": "Morrow County"
+      },
+      {
+        "fips": "41069",
+        "ratio": 0.0111,
+        "name": "Wheeler County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41021",
+      "ratio": 0.9767,
+      "name": "Gilliam County"
+    }
+  },
+  {
+    "zip": "97824",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41061",
+        "ratio": 1.0,
+        "name": "Union County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41061",
+      "ratio": 1.0,
+      "name": "Union County"
+    }
+  },
+  {
+    "zip": "97825",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41023",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41023",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "97826",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41059",
+        "ratio": 0.9672,
+        "name": "Umatilla County"
+      },
+      {
+        "fips": "41049",
+        "ratio": 0.0328,
+        "name": "Morrow County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41059",
+      "ratio": 0.9672,
+      "name": "Umatilla County"
+    }
+  },
+  {
+    "zip": "97827",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41061",
+        "ratio": 1.0,
+        "name": "Union County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41061",
+      "ratio": 1.0,
+      "name": "Union County"
+    }
+  },
+  {
+    "zip": "97828",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41063",
+        "ratio": 1.0,
+        "name": "Wallowa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41063",
+      "ratio": 1.0,
+      "name": "Wallowa County"
+    }
+  },
+  {
+    "zip": "97830",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41069",
+        "ratio": 0.9891,
+        "name": "Wheeler County"
+      },
+      {
+        "fips": "41021",
+        "ratio": 0.0109,
+        "name": "Gilliam County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41069",
+      "ratio": 0.9891,
+      "name": "Wheeler County"
+    }
+  },
+  {
+    "zip": "97833",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41001",
+        "ratio": 1.0,
+        "name": "Baker County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41001",
+      "ratio": 1.0,
+      "name": "Baker County"
+    }
+  },
+  {
+    "zip": "97834",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41001",
+        "ratio": 1.0,
+        "name": "Baker County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41001",
+      "ratio": 1.0,
+      "name": "Baker County"
+    }
+  },
+  {
+    "zip": "97835",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41059",
+        "ratio": 1.0,
+        "name": "Umatilla County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41059",
+      "ratio": 1.0,
+      "name": "Umatilla County"
+    }
+  },
+  {
+    "zip": "97836",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41049",
+        "ratio": 1.0,
+        "name": "Morrow County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41049",
+      "ratio": 1.0,
+      "name": "Morrow County"
+    }
+  },
+  {
+    "zip": "97837",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41001",
+        "ratio": 1.0,
+        "name": "Baker County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41001",
+      "ratio": 1.0,
+      "name": "Baker County"
+    }
+  },
+  {
+    "zip": "97838",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41059",
+        "ratio": 0.9975,
+        "name": "Umatilla County"
+      },
+      {
+        "fips": "41049",
+        "ratio": 0.0025,
+        "name": "Morrow County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41059",
+      "ratio": 0.9975,
+      "name": "Umatilla County"
+    }
+  },
+  {
+    "zip": "97839",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41049",
+        "ratio": 1.0,
+        "name": "Morrow County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41049",
+      "ratio": 1.0,
+      "name": "Morrow County"
+    }
+  },
+  {
+    "zip": "97840",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41001",
+        "ratio": 1.0,
+        "name": "Baker County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41001",
+      "ratio": 1.0,
+      "name": "Baker County"
+    }
+  },
+  {
+    "zip": "97841",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41061",
+        "ratio": 1.0,
+        "name": "Union County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41061",
+      "ratio": 1.0,
+      "name": "Union County"
+    }
+  },
+  {
+    "zip": "97842",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41063",
+        "ratio": 1.0,
+        "name": "Wallowa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41063",
+      "ratio": 1.0,
+      "name": "Wallowa County"
+    }
+  },
+  {
+    "zip": "97843",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41049",
+        "ratio": 0.9942,
+        "name": "Morrow County"
+      },
+      {
+        "fips": "41021",
+        "ratio": 0.0058,
+        "name": "Gilliam County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41049",
+      "ratio": 0.9942,
+      "name": "Morrow County"
+    }
+  },
+  {
+    "zip": "97844",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41049",
+        "ratio": 1.0,
+        "name": "Morrow County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41049",
+      "ratio": 1.0,
+      "name": "Morrow County"
+    }
+  },
+  {
+    "zip": "97845",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41023",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41023",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "97846",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41063",
+        "ratio": 1.0,
+        "name": "Wallowa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41063",
+      "ratio": 1.0,
+      "name": "Wallowa County"
+    }
+  },
+  {
+    "zip": "97848",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41023",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41023",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "97850",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41061",
+        "ratio": 1.0,
+        "name": "Union County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41061",
+      "ratio": 1.0,
+      "name": "Union County"
+    }
+  },
+  {
+    "zip": "97856",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41023",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41023",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "97857",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41063",
+        "ratio": 1.0,
+        "name": "Wallowa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41063",
+      "ratio": 1.0,
+      "name": "Wallowa County"
+    }
+  },
+  {
+    "zip": "97859",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41059",
+        "ratio": 1.0,
+        "name": "Umatilla County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41059",
+      "ratio": 1.0,
+      "name": "Umatilla County"
+    }
+  },
+  {
+    "zip": "97862",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41059",
+        "ratio": 1.0,
+        "name": "Umatilla County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41059",
+      "ratio": 1.0,
+      "name": "Umatilla County"
+    }
+  },
+  {
+    "zip": "97864",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41023",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41023",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "97865",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41023",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41023",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "97867",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41061",
+        "ratio": 0.8856,
+        "name": "Union County"
+      },
+      {
+        "fips": "41001",
+        "ratio": 0.1144,
+        "name": "Baker County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41061",
+      "ratio": 0.8856,
+      "name": "Union County"
+    }
+  },
+  {
+    "zip": "97868",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41059",
+        "ratio": 1.0,
+        "name": "Umatilla County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41059",
+      "ratio": 1.0,
+      "name": "Umatilla County"
+    }
+  },
+  {
+    "zip": "97869",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41023",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41023",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "97870",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41001",
+        "ratio": 1.0,
+        "name": "Baker County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41001",
+      "ratio": 1.0,
+      "name": "Baker County"
+    }
+  },
+  {
+    "zip": "97873",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41023",
+        "ratio": 1.0,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41023",
+      "ratio": 1.0,
+      "name": "Grant County"
+    }
+  },
+  {
+    "zip": "97874",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41069",
+        "ratio": 1.0,
+        "name": "Wheeler County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41069",
+      "ratio": 1.0,
+      "name": "Wheeler County"
+    }
+  },
+  {
+    "zip": "97875",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41059",
+        "ratio": 1.0,
+        "name": "Umatilla County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41059",
+      "ratio": 1.0,
+      "name": "Umatilla County"
+    }
+  },
+  {
+    "zip": "97876",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41061",
+        "ratio": 1.0,
+        "name": "Union County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41061",
+      "ratio": 1.0,
+      "name": "Union County"
+    }
+  },
+  {
+    "zip": "97877",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41001",
+        "ratio": 0.8732,
+        "name": "Baker County"
+      },
+      {
+        "fips": "41023",
+        "ratio": 0.1268,
+        "name": "Grant County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41001",
+      "ratio": 0.8732,
+      "name": "Baker County"
+    }
+  },
+  {
+    "zip": "97880",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41059",
+        "ratio": 1.0,
+        "name": "Umatilla County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41059",
+      "ratio": 1.0,
+      "name": "Umatilla County"
+    }
+  },
+  {
+    "zip": "97882",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41059",
+        "ratio": 0.9994,
+        "name": "Umatilla County"
+      },
+      {
+        "fips": "41049",
+        "ratio": 0.0006,
+        "name": "Morrow County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41059",
+      "ratio": 0.9994,
+      "name": "Umatilla County"
+    }
+  },
+  {
+    "zip": "97883",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41061",
+        "ratio": 0.9872,
+        "name": "Union County"
+      },
+      {
+        "fips": "41001",
+        "ratio": 0.0128,
+        "name": "Baker County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41061",
+      "ratio": 0.9872,
+      "name": "Union County"
+    }
+  },
+  {
+    "zip": "97884",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41001",
+        "ratio": 1.0,
+        "name": "Baker County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41001",
+      "ratio": 1.0,
+      "name": "Baker County"
+    }
+  },
+  {
+    "zip": "97885",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41063",
+        "ratio": 1.0,
+        "name": "Wallowa County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41063",
+      "ratio": 1.0,
+      "name": "Wallowa County"
+    }
+  },
+  {
+    "zip": "97886",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41059",
+        "ratio": 0.9925,
+        "name": "Umatilla County"
+      },
+      {
+        "fips": "41061",
+        "ratio": 0.0075,
+        "name": "Union County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41059",
+      "ratio": 0.9925,
+      "name": "Umatilla County"
+    }
+  },
+  {
+    "zip": "97901",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41045",
+        "ratio": 1.0,
+        "name": "Malheur County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41045",
+      "ratio": 1.0,
+      "name": "Malheur County"
+    }
+  },
+  {
+    "zip": "97902",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41045",
+        "ratio": 1.0,
+        "name": "Malheur County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41045",
+      "ratio": 1.0,
+      "name": "Malheur County"
+    }
+  },
+  {
+    "zip": "97903",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41045",
+        "ratio": 1.0,
+        "name": "Malheur County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41045",
+      "ratio": 1.0,
+      "name": "Malheur County"
+    }
+  },
+  {
+    "zip": "97904",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41025",
+        "ratio": 1.0,
+        "name": "Harney County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41025",
+      "ratio": 1.0,
+      "name": "Harney County"
+    }
+  },
+  {
+    "zip": "97905",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41001",
+        "ratio": 1.0,
+        "name": "Baker County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41001",
+      "ratio": 1.0,
+      "name": "Baker County"
+    }
+  },
+  {
+    "zip": "97906",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41045",
+        "ratio": 1.0,
+        "name": "Malheur County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41045",
+      "ratio": 1.0,
+      "name": "Malheur County"
+    }
+  },
+  {
+    "zip": "97907",
+    "state": "OR",
+    "multi_county": true,
+    "county_count": 2,
+    "counties": [
+      {
+        "fips": "41001",
+        "ratio": 0.9335,
+        "name": "Baker County"
+      },
+      {
+        "fips": "41045",
+        "ratio": 0.0665,
+        "name": "Malheur County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41001",
+      "ratio": 0.9335,
+      "name": "Baker County"
+    }
+  },
+  {
+    "zip": "97908",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41045",
+        "ratio": 1.0,
+        "name": "Malheur County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41045",
+      "ratio": 1.0,
+      "name": "Malheur County"
+    }
+  },
+  {
+    "zip": "97909",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41045",
+        "ratio": 1.0,
+        "name": "Malheur County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41045",
+      "ratio": 1.0,
+      "name": "Malheur County"
+    }
+  },
+  {
+    "zip": "97910",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41045",
+        "ratio": 1.0,
+        "name": "Malheur County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41045",
+      "ratio": 1.0,
+      "name": "Malheur County"
+    }
+  },
+  {
+    "zip": "97911",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41045",
+        "ratio": 1.0,
+        "name": "Malheur County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41045",
+      "ratio": 1.0,
+      "name": "Malheur County"
+    }
+  },
+  {
+    "zip": "97913",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41045",
+        "ratio": 1.0,
+        "name": "Malheur County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41045",
+      "ratio": 1.0,
+      "name": "Malheur County"
+    }
+  },
+  {
+    "zip": "97914",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41045",
+        "ratio": 1.0,
+        "name": "Malheur County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41045",
+      "ratio": 1.0,
+      "name": "Malheur County"
+    }
+  },
+  {
+    "zip": "97917",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41045",
+        "ratio": 1.0,
+        "name": "Malheur County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41045",
+      "ratio": 1.0,
+      "name": "Malheur County"
+    }
+  },
+  {
+    "zip": "97918",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41045",
+        "ratio": 1.0,
+        "name": "Malheur County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41045",
+      "ratio": 1.0,
+      "name": "Malheur County"
+    }
+  },
+  {
+    "zip": "97920",
+    "state": "OR",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "41045",
+        "ratio": 1.0,
+        "name": "Malheur County"
+      }
+    ],
+    "primary_county": {
+      "fips": "41045",
+      "ratio": 1.0,
+      "name": "Malheur County"
+    }
+  }
+]

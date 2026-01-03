@@ -1,0 +1,44 @@
+{
+  "plan_info": {
+    "name": "Aspire Health Plus (HMO-POS)"
+  },
+  "premiums": {
+    "Total monthly premium": "$366.00",
+    "Health premium": "246.80",
+    "Drug premium": "119.20",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00",
+    "Drug deductible": "0.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "3,900"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copayOut-of-network: 30% coinsurance",
+    "Specialist visit": "In-network: $20 copayOut-of-network: 30% coinsurance",
+    "Emergency care": "$115 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$550 per day for days 1-2$250 per day for days 3-4$0 per day for days 5-90$0 per stayOut-of-network:30% per day for days 1-9030% per stay",
+    "Outpatient hospital coverage": "In-network: $40-$200 copay, 20% coinsuranceOut-of-network: 30% coinsurance",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "In-network: $0 copay",
+    "Worldwide emergency": "Not covered"
+  },
+  "drug_coverage": {
+    "Drug premium": "$119.20",
+    "Drug deductible": "$0.00",
+    "Non-Preferred Drug": "25% coinsurance",
+    "Select Care Drugs": "$11.00 copay",
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 30% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 30% coinsurance",
+    "Over the counter drug benefits": "Not covered"
+  },
+  "extra_benefits": [],
+  "plan_id": "H8764_002_0",
+  "state": "California"
+}

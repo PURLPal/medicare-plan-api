@@ -1,0 +1,20 @@
+{
+  "plan_info": {
+    "name": "SilverScript Choice (PDP)"
+  },
+  "premiums": {
+    "Total monthly premium": "$97.40"
+  },
+  "deductibles": {
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "33% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S5601_058_0",
+  "state": "Nevada"
+}

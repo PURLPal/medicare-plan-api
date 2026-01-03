@@ -1,0 +1,24 @@
+{
+  "plan_info": {
+    "name": "Wellcare Value Script (PDP)",
+    "contract_id": "S4802_134",
+    "plan_type": "PDP",
+    "organization": "Wellcare"
+  },
+  "premiums": {
+    "Total monthly premium": "$0.00"
+  },
+  "deductibles": {
+    "Drug deductible": "615.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$615.00",
+    "Non-Preferred Drug": "40% coinsurance",
+    "Select Care Drugs": "$11.00 copay"
+  },
+  "extra_benefits": [],
+  "plan_id": "S4802_134_0",
+  "state": "Arizona"
+}

@@ -1,16 +1,16 @@
-# Medicare Plan API
+# Medicare Plan Database API
 
-CloudFront + S3 static API for looking up Medicare Advantage plans by ZIP code. Production-ready with 26 states and full plan details.
+**Production database-backed API** for looking up Medicare Advantage plans by ZIP code. Live with 51 states and 5,804 plans.
 
 ## Quick Start
 
 ### For Your Teammate (Chrome Extension Developer)
 
-See **[TESTING_GUIDE.md](TESTING_GUIDE.md)** for complete beginner walkthrough.
+See **[docs/development/testing.md](docs/development/testing.md)** for complete beginner walkthrough.
 
 **Run tests now:**
 ```bash
-./test_medicare_api.sh
+./tests/test_medicare_api.sh
 ```
 
 ### For End Users
@@ -19,11 +19,13 @@ See **[TESTING_GUIDE.md](TESTING_GUIDE.md)** for complete beginner walkthrough.
 
 ```bash
 # Get plans for any ZIP code
-curl "https://medicare.purlpal-api.com/medicare/zip/03462.json" | jq '.'
+curl "https://medicare.purlpal-api.com/medicare/zip/02108.json" | jq '.'
 
 # Filter MAPD plans only
-curl "https://medicare.purlpal-api.com/medicare/zip/03462.json" | \
-  jq '.plans | map(select(.category == "MAPD"))'
+curl "https://medicare.purlpal-api.com/medicare/zip/02108_MAPD.json" | jq '.'
+
+# Get all states
+curl "https://medicare.purlpal-api.com/medicare/states.json" | jq '.'
 ```
 
 ## API Endpoints
@@ -40,15 +42,17 @@ curl "https://medicare.purlpal-api.com/medicare/zip/03462.json" | \
 - `GET /medicare/zip/{ZIP}_MA.json` - Medicare Advantage only
 - `GET /medicare/zip/{ZIP}_PD.json` - Part D drug plans only
 
-## Currently Supported
+## Current Coverage
 
-### States (26 + DC)
-AK, CA, CT, DC, DE, FL, HI, IA, MD, ME, MI, MT, NC, ND, NE, NH, NY, OR, RI, SC, SD, UT, VT, WA, WV, WY
+### States (51)
+All 50 states + DC
 
-### Data Coverage
-- **2,861 plans** scraped and ready
-- **467 plans** currently deployed (26 states)
-- **57,000+ static JSON files** (~2.5 GB)
+### Data Statistics (Updated: Dec 31, 2025)
+- **5,804 Medicare plans** across all states
+- **39,298 ZIP codes** with coverage data
+- **6,266 unique counties** (after duplicate consolidation)
+- **98.59% ZIP code coverage** (38,743/39,298 ZIPs have plans)
+- **Real-time database queries** (no static files)
 - **Full plan details** including benefits, premiums, deductibles
 
 ### Plan Categories
@@ -58,14 +62,31 @@ AK, CA, CT, DC, DE, FL, HI, IA, MD, ME, MI, MT, NC, ND, NE, NH, NY, OR, RI, SC, 
 
 ## Documentation
 
+### 📂 New Repository Organization
+
+This repository was reorganized in January 2026 for better navigation. See **[DIRECTORY_STRUCTURE.md](DIRECTORY_STRUCTURE.md)** for complete layout.
+
+### For API Users
+- **[docs/api/user-guide.md](docs/api/user-guide.md)** - 📘 **Start here!** User-friendly guide with examples
+- **[docs/api/reference.md](docs/api/reference.md)** - Complete API endpoint reference
+- **[docs/api/README.md](docs/api/README.md)** - API overview and quick reference
+- **[config/openapi-compact.yaml](config/openapi-compact.yaml)** - Compact OpenAPI 3.0 spec (~150 lines, LLM-friendly)
+- **[config/openapi.yaml](config/openapi.yaml)** - Full OpenAPI spec with examples (~450 lines)
+
 ### For Developers
-- **[TESTING_GUIDE.md](TESTING_GUIDE.md)** - Beginner-friendly testing guide
-- **[API_REFERENCE.md](API_REFERENCE.md)** - Complete API reference with filtering examples
-- **[API_DEPLOYMENT.md](API_DEPLOYMENT.md)** - Deployment and update guide
+- **[docs/development/testing.md](docs/development/testing.md)** - Testing guide and test scripts
+- **[docs/development/database-guide.md](docs/development/database-guide.md)** - Technical architecture and database schema
+- **[CONTRIBUTING.md](CONTRIBUTING.md)** - How to contribute to this project
 
 ### For DevOps
-- **[API_DEPLOYMENT.md](API_DEPLOYMENT.md)** - How to deploy updates
-- **[API_ARCHITECTURE.md](API_ARCHITECTURE.md)** - System architecture (deprecated Lambda info)
+- **[docs/deployment/README.md](docs/deployment/README.md)** - Production deployment documentation
+- **[docs/deployment/database.md](docs/deployment/database.md)** - Database deployment guide
+- **[docs/deployment/lambda.md](docs/deployment/lambda.md)** - AWS Lambda deployment
+
+### For Data Collection
+- **[docs/scraping/guide.md](docs/scraping/guide.md)** - General scraping guide
+- **[docs/scraping/README.md](docs/scraping/README.md)** - All-states scraping plan
+- **[docs/scraping/state-guides/](docs/scraping/state-guides/)** - State-specific guides
 
 ## Example Usage
 
@@ -118,62 +139,65 @@ curl "https://medicare.purlpal-api.com/medicare/zip/03462.json" | jq '{
 
 ## Architecture
 
-- **CloudFront + S3** - Static JSON files served via CDN
-- **57,000+ files** - Pre-generated for instant access
-- **2.5 GB data** - Complete plan details
-- **1 hour cache** - Browser + CloudFront caching
-- **Cost effective** - ~$1.50/month for all states
+- **AWS RDS PostgreSQL 15.8** - Source of truth database (db.t3.micro, 20GB)
+- **AWS Lambda (Python 3.11)** - API layer with pg8000 driver
+- **AWS API Gateway HTTP API** - RESTful interface
+- **Route 53 + Custom Domain** - medicare.purlpal-api.com
+- **Cost effective** - ~$15-25/month for all states
 
-### Why CloudFront Instead of Lambda?
-- ✅ Scales to all 50 states (no 250 MB package limit)
-- ✅ Faster (~50ms vs ~200ms)
-- ✅ Cheaper (~$1.50/month vs ~$5/month)
-- ✅ Simpler updates (just upload JSON files)
+### Database-Backed Benefits
+- ✅ **Real-time updates** - No need to regenerate 40K files
+- ✅ **Dynamic queries** - Filter by category, state, county
+- ✅ **Data integrity** - Single source of truth
+- ✅ **Easier maintenance** - Update database, API updates automatically
+- ✅ **Multi-county ZIP support** - Plans grouped by county
 
-## Deployment
+## Deployment & Updates
 
-### Quick Update (After Scraping New Data)
+### Update Data (After Scraping)
 ```bash
-./incremental_update.sh
+# Load new data into database
+python3 database/load_data_fast.py "host=medicare-plans-db.cc98ea006lul.us-east-1.rds.amazonaws.com dbname=medicare_plans user=medicare_admin password=..."
 ```
-**Time:** 30 seconds - 2 minutes
+**Time:** 2-5 minutes (batch loading)
 
-### Full Rebuild
+### Update Lambda Code
 ```bash
-./update_api.sh
+cd lambda
+cp medicare_api.py package/
+cd package
+zip -r ../medicare-api.zip .
+aws lambda update-function-code --function-name MedicareAPI --zip-file fileb://medicare-api.zip --profile silverman --region us-east-1
 ```
-**Time:** 10-15 minutes (builds all files + uploads to S3)
+**Time:** 10-30 seconds
 
-### What Gets Updated
-1. Build static JSON files (`python3 build_static_api.py`)
-2. Sync to S3 (`aws s3 sync`)
-3. Invalidate CloudFront cache
-
-**Logs saved to:**
-- `/tmp/build_api.log` - Build process
-- `/tmp/s3_sync.log` - S3 upload details
+### No Cache Invalidation Needed
+Database updates are reflected immediately - no CloudFront cache to invalidate!
 
 ## Development
 
 ### Scrape New States
 ```bash
-python3 scrape_all_remaining.py
+# Use state-specific scrapers
+python3 src/scrapers/state_scrapers/scrape_<state>.py
 ```
 
 ### Rebuild API Files
 ```bash
-python3 build_static_api.py
+python3 src/builders/build_static_api.py
 ```
 
 ### Deploy to Production
 ```bash
-./update_api.sh
+./scripts/update_api.sh
 ```
 
 ### Test Locally
 ```bash
-./test_medicare_api.sh
+./tests/test_medicare_api.sh
 ```
+
+See **[CONTRIBUTING.md](CONTRIBUTING.md)** for detailed development workflow.
 
 ## Data Structure
 
@@ -192,10 +216,17 @@ Each plan includes:
 
 ## Performance
 
-- **Latency:** ~50ms average (CloudFront edge caching)
-- **Availability:** 99.9% uptime SLA
-- **Scalability:** Unlimited (CloudFront CDN)
-- **Cost:** ~$1.50/month for all states
+- **Latency:** 290-400ms average (warm requests with connection pooling)
+- **Cold Start:** ~1.3s (first request after Lambda idle)
+- **Availability:** 100% test success rate
+- **Scalability:** Lambda auto-scaling + connection pooling
+- **Cost:** ~$15-25/month for all states
+- **Test Coverage:** Comprehensive test suite with configurable ZIP sampling
+
+### Recent Performance Improvements (Jan 1, 2026)
+- **85% faster:** Implemented connection pooling to reuse database connections
+- **Before:** 4-5 seconds per request (fresh SSL connection each time)
+- **After:** 290-400ms per request (connection reused across invocations)
 
 ## Monitoring
 
@@ -207,41 +238,72 @@ curl "https://medicare.purlpal-api.com/medicare/states.json" | jq '{
 }'
 ```
 
-Check CloudFront distribution:
+Check Lambda function status:
 ```bash
-aws cloudfront get-distribution --id E3SHXUEGZALG4E \
-  --query 'Distribution.Status' --output text
+aws lambda get-function --function-name MedicareAPI \
+  --profile silverman --region us-east-1 \
+  --query 'Configuration.LastUpdateStatus' --output text
 ```
+
+## Data Quality Fixes (Dec 31, 2025)
+
+### Critical Issues Resolved
+
+**1. Duplicate County Records (MAJOR FIX)**
+- **Problem:** 2,977 duplicate county records (e.g., "Dallas County" vs "Dallas")
+- **Impact:** ZIPs linked to one version, plans to another → 42% false "no plans" rate
+- **Solution:** Consolidated duplicates, merged all ZIP-county and plan-county relationships
+- **Result:** Coverage improved from 58% → **98.59%**
+
+**2. Missing State Mappings**
+- **Problem:** LA, CT, AK missing from plan_county_mappings.json
+- **Impact:** 1,330 ZIPs had no plans despite plans existing in database
+- **Solution:** Linked statewide PDP plans to all counties in each state
+- **Result:** Louisiana (666 ZIPs), Connecticut (402 ZIPs), Alaska (262 ZIPs) now have coverage
+
+### Current Coverage Reality
+- **38,743 ZIPs with plans** (98.59%)
+- **555 ZIPs with no plans** (1.41%) - mostly rural/remote areas
+- Vermont (305 ZIPs) has no plans in database (not scraped)
 
 ## Troubleshooting
 
-### API returning old data?
-Run invalidation:
+### Check API Status
 ```bash
-aws cloudfront create-invalidation \
-  --distribution-id E3SHXUEGZALG4E \
-  --paths "/medicare/*"
+curl "https://medicare.purlpal-api.com/medicare/states.json" | jq '{states: .state_count, plans: .total_plans}'
 ```
 
-### Need to rebuild everything?
+### Run Comprehensive Tests
 ```bash
-rm -rf static_api/
-./update_api.sh
+# Test 5 ZIPs per state (default)
+python3 tests/test_api_comprehensive.py
+
+# Test 10 ZIPs per state
+python3 tests/test_api_comprehensive.py 10
 ```
 
-### Test scripts not working?
-Make sure you have `jq` installed:
+**Test Coverage:**
+- Tests all three plan categories: MAPD, MA, and PD
+- Verifies multi-county ZIP handling
+- Validates category filtering endpoints
+- Measures response times and success rates
+
+### Check Database Connection
 ```bash
-brew install jq  # macOS
+PGPASSWORD='...' psql -h medicare-plans-db.cc98ea006lul.us-east-1.rds.amazonaws.com -U medicare_admin -d medicare_plans -c "SELECT COUNT(*) FROM plans;"
 ```
 
 ## Migration Notes
 
-### Lambda API Deprecated
-The old Lambda API was removed in favor of CloudFront + S3 because:
-- Lambda had 250 MB deployment limit (couldn't scale past ~15 states)
-- CloudFront is faster, cheaper, and scales infinitely
-- Static files are simpler to manage
+### From S3/CloudFront to Database-Backed API
+Migrated from static files to database in December 2025 because:
+- ✅ **Real-time updates** - No need to regenerate 40K files for each data change
+- ✅ **Dynamic queries** - Can filter, search, and aggregate in real-time
+- ✅ **Data integrity** - Single source of truth eliminates sync issues
+- ✅ **County-level granularity** - Proper multi-county ZIP support
+- ✅ **Easier maintenance** - Update database, API reflects changes instantly
+
+**Trade-off:** Slightly slower (520ms vs 50ms) but negligible for user experience
 
 ## License
 
@@ -249,20 +311,24 @@ Public domain - Medicare plan data is publicly available from Medicare.gov.
 
 ## Questions?
 
-- **For testing:** See [TESTING_GUIDE.md](TESTING_GUIDE.md)
-- **For API usage:** See [API_REFERENCE.md](API_REFERENCE.md)
-- **For deployment:** See [API_DEPLOYMENT.md](API_DEPLOYMENT.md)
+- **For testing:** See [docs/development/testing.md](docs/development/testing.md)
+- **For API usage:** See [docs/api/user-guide.md](docs/api/user-guide.md)
+- **For deployment:** See [docs/deployment/README.md](docs/deployment/README.md)
+- **For contributing:** See [CONTRIBUTING.md](CONTRIBUTING.md)
+- **For directory structure:** See [DIRECTORY_STRUCTURE.md](DIRECTORY_STRUCTURE.md)
 
 ## Quick Reference
 
 **API URL:** https://medicare.purlpal-api.com/medicare/
 
-**Test Script:** `./test_medicare_api.sh`
+**Test Script:** `./tests/test_medicare_api.sh`
 
-**Update API:** `./incremental_update.sh`
+**Update API:** `./scripts/incremental_update.sh`
 
-**Full Rebuild:** `./update_api.sh`
+**Full Rebuild:** `./scripts/update_api.sh`
 
-**States:** 26 + DC (more coming soon)
+**States:** All 50 + DC (51 total)
 
-**Total Plans:** 2,861 scraped, 467 deployed
+**Total Plans:** 5,804 plans
+
+**Coverage:** 98.59% of ZIP codes

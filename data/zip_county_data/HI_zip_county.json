@@ -1,0 +1,2324 @@
+[
+  {
+    "zip": "96701",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96703",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15007",
+        "ratio": 1.0,
+        "name": "Kauai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15007",
+      "ratio": 1.0,
+      "name": "Kauai County"
+    }
+  },
+  {
+    "zip": "96704",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96705",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15007",
+        "ratio": 1.0,
+        "name": "Kauai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15007",
+      "ratio": 1.0,
+      "name": "Kauai County"
+    }
+  },
+  {
+    "zip": "96706",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96707",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96708",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15009",
+        "ratio": 1.0,
+        "name": "Maui County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15009",
+      "ratio": 1.0,
+      "name": "Maui County"
+    }
+  },
+  {
+    "zip": "96709",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96710",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96712",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96713",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15009",
+        "ratio": 1.0,
+        "name": "Maui County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15009",
+      "ratio": 1.0,
+      "name": "Maui County"
+    }
+  },
+  {
+    "zip": "96714",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15007",
+        "ratio": 1.0,
+        "name": "Kauai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15007",
+      "ratio": 1.0,
+      "name": "Kauai County"
+    }
+  },
+  {
+    "zip": "96715",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15007",
+        "ratio": 1.0,
+        "name": "Kauai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15007",
+      "ratio": 1.0,
+      "name": "Kauai County"
+    }
+  },
+  {
+    "zip": "96716",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15007",
+        "ratio": 1.0,
+        "name": "Kauai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15007",
+      "ratio": 1.0,
+      "name": "Kauai County"
+    }
+  },
+  {
+    "zip": "96717",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96718",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96719",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96720",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96721",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96722",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15007",
+        "ratio": 1.0,
+        "name": "Kauai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15007",
+      "ratio": 1.0,
+      "name": "Kauai County"
+    }
+  },
+  {
+    "zip": "96725",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96726",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96727",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96728",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96729",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15009",
+        "ratio": 1.0,
+        "name": "Maui County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15009",
+      "ratio": 1.0,
+      "name": "Maui County"
+    }
+  },
+  {
+    "zip": "96730",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96731",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96732",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15009",
+        "ratio": 1.0,
+        "name": "Maui County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15009",
+      "ratio": 1.0,
+      "name": "Maui County"
+    }
+  },
+  {
+    "zip": "96733",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15009",
+        "ratio": 1.0,
+        "name": "Maui County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15009",
+      "ratio": 1.0,
+      "name": "Maui County"
+    }
+  },
+  {
+    "zip": "96734",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96737",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96738",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96739",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96740",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96741",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15007",
+        "ratio": 1.0,
+        "name": "Kauai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15007",
+      "ratio": 1.0,
+      "name": "Kauai County"
+    }
+  },
+  {
+    "zip": "96742",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15005",
+        "ratio": 1.0,
+        "name": "Kalawao County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15005",
+      "ratio": 1.0,
+      "name": "Kalawao County"
+    }
+  },
+  {
+    "zip": "96743",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96744",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96745",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96746",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15007",
+        "ratio": 1.0,
+        "name": "Kauai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15007",
+      "ratio": 1.0,
+      "name": "Kauai County"
+    }
+  },
+  {
+    "zip": "96747",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15007",
+        "ratio": 1.0,
+        "name": "Kauai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15007",
+      "ratio": 1.0,
+      "name": "Kauai County"
+    }
+  },
+  {
+    "zip": "96748",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15009",
+        "ratio": 1.0,
+        "name": "Maui County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15009",
+      "ratio": 1.0,
+      "name": "Maui County"
+    }
+  },
+  {
+    "zip": "96749",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96750",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96751",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15007",
+        "ratio": 1.0,
+        "name": "Kauai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15007",
+      "ratio": 1.0,
+      "name": "Kauai County"
+    }
+  },
+  {
+    "zip": "96752",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15007",
+        "ratio": 1.0,
+        "name": "Kauai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15007",
+      "ratio": 1.0,
+      "name": "Kauai County"
+    }
+  },
+  {
+    "zip": "96753",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15009",
+        "ratio": 1.0,
+        "name": "Maui County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15009",
+      "ratio": 1.0,
+      "name": "Maui County"
+    }
+  },
+  {
+    "zip": "96754",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15007",
+        "ratio": 1.0,
+        "name": "Kauai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15007",
+      "ratio": 1.0,
+      "name": "Kauai County"
+    }
+  },
+  {
+    "zip": "96755",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96756",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15007",
+        "ratio": 1.0,
+        "name": "Kauai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15007",
+      "ratio": 1.0,
+      "name": "Kauai County"
+    }
+  },
+  {
+    "zip": "96757",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15009",
+        "ratio": 1.0,
+        "name": "Maui County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15009",
+      "ratio": 1.0,
+      "name": "Maui County"
+    }
+  },
+  {
+    "zip": "96759",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96760",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96761",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15009",
+        "ratio": 1.0,
+        "name": "Maui County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15009",
+      "ratio": 1.0,
+      "name": "Maui County"
+    }
+  },
+  {
+    "zip": "96762",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96763",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15009",
+        "ratio": 1.0,
+        "name": "Maui County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15009",
+      "ratio": 1.0,
+      "name": "Maui County"
+    }
+  },
+  {
+    "zip": "96764",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96765",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15007",
+        "ratio": 1.0,
+        "name": "Kauai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15007",
+      "ratio": 1.0,
+      "name": "Kauai County"
+    }
+  },
+  {
+    "zip": "96766",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15007",
+        "ratio": 1.0,
+        "name": "Kauai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15007",
+      "ratio": 1.0,
+      "name": "Kauai County"
+    }
+  },
+  {
+    "zip": "96767",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15009",
+        "ratio": 1.0,
+        "name": "Maui County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15009",
+      "ratio": 1.0,
+      "name": "Maui County"
+    }
+  },
+  {
+    "zip": "96768",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15009",
+        "ratio": 1.0,
+        "name": "Maui County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15009",
+      "ratio": 1.0,
+      "name": "Maui County"
+    }
+  },
+  {
+    "zip": "96769",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15007",
+        "ratio": 1.0,
+        "name": "Kauai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15007",
+      "ratio": 1.0,
+      "name": "Kauai County"
+    }
+  },
+  {
+    "zip": "96770",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15009",
+        "ratio": 1.0,
+        "name": "Maui County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15009",
+      "ratio": 1.0,
+      "name": "Maui County"
+    }
+  },
+  {
+    "zip": "96771",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96772",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96773",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96774",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96776",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96777",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96778",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96779",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15009",
+        "ratio": 1.0,
+        "name": "Maui County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15009",
+      "ratio": 1.0,
+      "name": "Maui County"
+    }
+  },
+  {
+    "zip": "96780",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96781",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96782",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96783",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96784",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15009",
+        "ratio": 1.0,
+        "name": "Maui County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15009",
+      "ratio": 1.0,
+      "name": "Maui County"
+    }
+  },
+  {
+    "zip": "96785",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15001",
+        "ratio": 1.0,
+        "name": "Hawaii County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15001",
+      "ratio": 1.0,
+      "name": "Hawaii County"
+    }
+  },
+  {
+    "zip": "96786",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96788",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15009",
+        "ratio": 1.0,
+        "name": "Maui County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15009",
+      "ratio": 1.0,
+      "name": "Maui County"
+    }
+  },
+  {
+    "zip": "96789",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96790",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15009",
+        "ratio": 1.0,
+        "name": "Maui County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15009",
+      "ratio": 1.0,
+      "name": "Maui County"
+    }
+  },
+  {
+    "zip": "96791",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96792",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96793",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15009",
+        "ratio": 1.0,
+        "name": "Maui County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15009",
+      "ratio": 1.0,
+      "name": "Maui County"
+    }
+  },
+  {
+    "zip": "96795",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96796",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15007",
+        "ratio": 1.0,
+        "name": "Kauai County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15007",
+      "ratio": 1.0,
+      "name": "Kauai County"
+    }
+  },
+  {
+    "zip": "96797",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96801",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96802",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96803",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96804",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96805",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96806",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96807",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96808",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96809",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96810",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96811",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96812",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96813",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96814",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96815",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96816",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96817",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96818",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96819",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96820",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96821",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96822",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96823",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96824",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96825",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96826",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96828",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96830",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96836",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96837",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96839",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96848",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96850",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96853",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96854",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96857",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96858",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96859",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96860",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96861",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96863",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  },
+  {
+    "zip": "96898",
+    "state": "HI",
+    "multi_county": false,
+    "county_count": 1,
+    "counties": [
+      {
+        "fips": "15003",
+        "ratio": 1.0,
+        "name": "Honolulu County"
+      }
+    ],
+    "primary_county": {
+      "fips": "15003",
+      "ratio": 1.0,
+      "name": "Honolulu County"
+    }
+  }
+]

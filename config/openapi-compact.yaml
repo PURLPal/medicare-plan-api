@@ -1,0 +1,153 @@
+openapi: 3.0.3
+info:
+  title: Medicare Plan API
+  description: Database-backed API for Medicare plan lookup by ZIP code. 5,804 plans, 98.6% ZIP coverage, 290-400ms response time.
+  version: 2.0.0
+servers:
+  - url: https://medicare.purlpal-api.com/medicare
+
+paths:
+  /states.json:
+    get:
+      summary: List all states with plan counts
+      responses:
+        '200':
+          description: Success
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  state_count: { type: integer }
+                  total_plans: { type: integer }
+                  states:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        abbrev: { type: string }
+                        name: { type: string }
+                        plan_count: { type: integer }
+
+  /state/{state}/info.json:
+    get:
+      summary: Get state information
+      parameters:
+        - name: state
+          in: path
+          required: true
+          schema: { type: string, pattern: '^[A-Z]{2}$' }
+      responses:
+        '200':
+          description: Success
+
+  /state/{state}/plans.json:
+    get:
+      summary: Get all plans in state
+      parameters:
+        - name: state
+          in: path
+          required: true
+          schema: { type: string }
+      responses:
+        '200':
+          description: Success
+
+  /zip/{zipcode}.json:
+    get:
+      summary: Get plans by ZIP code
+      parameters:
+        - name: zipcode
+          in: path
+          required: true
+          schema: { type: string, pattern: '^\d{5}$' }
+      responses:
+        '200':
+          description: Success
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ZIPResponse'
+
+  /zip/{zipcode}_{category}.json:
+    get:
+      summary: Get plans by ZIP code filtered by category
+      parameters:
+        - name: zipcode
+          in: path
+          required: true
+          schema: { type: string, pattern: '^\d{5}$' }
+        - name: category
+          in: path
+          required: true
+          schema: { type: string, enum: [MAPD, MA, PD] }
+          description: 'MAPD: MA+Drug, MA: No drug, PD: Drug only'
+      responses:
+        '200':
+          description: Success
+
+  /plan/{planId}.json:
+    get:
+      summary: Get individual plan details
+      parameters:
+        - name: planId
+          in: path
+          required: true
+          schema: { type: string }
+      responses:
+        '200':
+          description: Success
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Plan'
+
+components:
+  schemas:
+    Plan:
+      type: object
+      properties:
+        plan_id: { type: string }
+        category: { type: string, enum: [MAPD, MA, PD] }
+        plan_type: { type: string }
+        plan_info:
+          type: object
+          properties:
+            name: { type: string }
+            organization: { type: string }
+            type: { type: string }
+        premiums: { type: object, additionalProperties: { type: string } }
+        deductibles: { type: object, additionalProperties: { type: string } }
+        out_of_pocket: { type: object, additionalProperties: { type: string } }
+        benefits: { type: object, additionalProperties: true }
+        drug_coverage: { type: object, additionalProperties: true }
+        extra_benefits: { type: array, items: { type: string } }
+
+    County:
+      type: object
+      properties:
+        name: { type: string }
+        fips: { type: string }
+        state: { type: string }
+        ratio: { type: number, format: float, description: 'Percentage of ZIP in county (0.0-1.0)' }
+        plans: { type: array, items: { $ref: '#/components/schemas/Plan' } }
+        plan_count: { type: integer }
+        plans_available: { type: boolean }
+
+    ZIPResponse:
+      type: object
+      properties:
+        zip_code: { type: string }
+        multi_county: { type: boolean }
+        multi_state: { type: boolean }
+        states: { type: array, items: { type: string } }
+        primary_state: { type: string }
+        counties: { type: array, items: { $ref: '#/components/schemas/County' } }
+        plans: { type: array, items: { $ref: '#/components/schemas/Plan' } }
+        plan_count: { type: integer }
+        plan_counts_by_category:
+          type: object
+          properties:
+            MAPD: { type: integer }
+            MA: { type: integer }
+            PD: { type: integer }

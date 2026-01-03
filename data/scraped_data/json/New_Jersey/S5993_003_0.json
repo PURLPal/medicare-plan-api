@@ -1,0 +1,20 @@
+{
+  "plan_info": {
+    "name": "Horizon Medicare Blue Rx Enhanced (PDP)"
+  },
+  "premiums": {
+    "Total monthly premium": "$139.10"
+  },
+  "deductibles": {
+    "Drug deductible": "200.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$200.00",
+    "Non-Preferred Drug": "45% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S5993_003_0",
+  "state": "New_Jersey"
+}

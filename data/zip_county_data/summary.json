@@ -1,0 +1,281 @@
+{
+  "total_states": 55,
+  "total_zips": 39488,
+  "states": {
+    "AL": {
+      "name": "Alabama",
+      "zip_count": 770,
+      "multi_county_zips": 265
+    },
+    "AK": {
+      "name": "Alaska",
+      "zip_count": 262,
+      "multi_county_zips": 1
+    },
+    "AZ": {
+      "name": "Arizona",
+      "zip_count": 505,
+      "multi_county_zips": 31
+    },
+    "AR": {
+      "name": "Arkansas",
+      "zip_count": 690,
+      "multi_county_zips": 253
+    },
+    "CA": {
+      "name": "California",
+      "zip_count": 2446,
+      "multi_county_zips": 188
+    },
+    "CO": {
+      "name": "Colorado",
+      "zip_count": 633,
+      "multi_county_zips": 196
+    },
+    "CT": {
+      "name": "Connecticut",
+      "zip_count": 402,
+      "multi_county_zips": 55
+    },
+    "DE": {
+      "name": "Delaware",
+      "zip_count": 84,
+      "multi_county_zips": 5
+    },
+    "DC": {
+      "name": "District of Columbia",
+      "zip_count": 221,
+      "multi_county_zips": 0
+    },
+    "FL": {
+      "name": "Florida",
+      "zip_count": 1405,
+      "multi_county_zips": 175
+    },
+    "GA": {
+      "name": "Georgia",
+      "zip_count": 918,
+      "multi_county_zips": 434
+    },
+    "HI": {
+      "name": "Hawaii",
+      "zip_count": 129,
+      "multi_county_zips": 0
+    },
+    "ID": {
+      "name": "Idaho",
+      "zip_count": 310,
+      "multi_county_zips": 82
+    },
+    "IL": {
+      "name": "Illinois",
+      "zip_count": 1544,
+      "multi_county_zips": 565
+    },
+    "IN": {
+      "name": "Indiana",
+      "zip_count": 930,
+      "multi_county_zips": 414
+    },
+    "IA": {
+      "name": "Iowa",
+      "zip_count": 1013,
+      "multi_county_zips": 529
+    },
+    "KS": {
+      "name": "Kansas",
+      "zip_count": 742,
+      "multi_county_zips": 364
+    },
+    "KY": {
+      "name": "Kentucky",
+      "zip_count": 908,
+      "multi_county_zips": 337
+    },
+    "LA": {
+      "name": "Louisiana",
+      "zip_count": 666,
+      "multi_county_zips": 174
+    },
+    "ME": {
+      "name": "Maine",
+      "zip_count": 482,
+      "multi_county_zips": 49
+    },
+    "MD": {
+      "name": "Maryland",
+      "zip_count": 587,
+      "multi_county_zips": 86
+    },
+    "MA": {
+      "name": "Massachusetts",
+      "zip_count": 649,
+      "multi_county_zips": 81
+    },
+    "MI": {
+      "name": "Michigan",
+      "zip_count": 1102,
+      "multi_county_zips": 381
+    },
+    "MN": {
+      "name": "Minnesota",
+      "zip_count": 917,
+      "multi_county_zips": 410
+    },
+    "MS": {
+      "name": "Mississippi",
+      "zip_count": 507,
+      "multi_county_zips": 248
+    },
+    "MO": {
+      "name": "Missouri",
+      "zip_count": 1126,
+      "multi_county_zips": 480
+    },
+    "MT": {
+      "name": "Montana",
+      "zip_count": 396,
+      "multi_county_zips": 110
+    },
+    "NE": {
+      "name": "Nebraska",
+      "zip_count": 609,
+      "multi_county_zips": 305
+    },
+    "NV": {
+      "name": "Nevada",
+      "zip_count": 238,
+      "multi_county_zips": 16
+    },
+    "NH": {
+      "name": "New Hampshire",
+      "zip_count": 276,
+      "multi_county_zips": 38
+    },
+    "NJ": {
+      "name": "New Jersey",
+      "zip_count": 691,
+      "multi_county_zips": 112
+    },
+    "NM": {
+      "name": "New Mexico",
+      "zip_count": 420,
+      "multi_county_zips": 64
+    },
+    "NY": {
+      "name": "New York",
+      "zip_count": 2076,
+      "multi_county_zips": 392
+    },
+    "NC": {
+      "name": "North Carolina",
+      "zip_count": 1035,
+      "multi_county_zips": 360
+    },
+    "ND": {
+      "name": "North Dakota",
+      "zip_count": 407,
+      "multi_county_zips": 189
+    },
+    "OH": {
+      "name": "Ohio",
+      "zip_count": 1359,
+      "multi_county_zips": 516
+    },
+    "OK": {
+      "name": "Oklahoma",
+      "zip_count": 739,
+      "multi_county_zips": 280
+    },
+    "OR": {
+      "name": "Oregon",
+      "zip_count": 474,
+      "multi_county_zips": 84
+    },
+    "PA": {
+      "name": "Pennsylvania",
+      "zip_count": 2060,
+      "multi_county_zips": 431
+    },
+    "RI": {
+      "name": "Rhode Island",
+      "zip_count": 90,
+      "multi_county_zips": 6
+    },
+    "SC": {
+      "name": "South Carolina",
+      "zip_count": 525,
+      "multi_county_zips": 173
+    },
+    "SD": {
+      "name": "South Dakota",
+      "zip_count": 383,
+      "multi_county_zips": 205
+    },
+    "TN": {
+      "name": "Tennessee",
+      "zip_count": 762,
+      "multi_county_zips": 333
+    },
+    "TX": {
+      "name": "Texas",
+      "zip_count": 2432,
+      "multi_county_zips": 727
+    },
+    "UT": {
+      "name": "Utah",
+      "zip_count": 337,
+      "multi_county_zips": 22
+    },
+    "VT": {
+      "name": "Vermont",
+      "zip_count": 305,
+      "multi_county_zips": 66
+    },
+    "VA": {
+      "name": "Virginia",
+      "zip_count": 1156,
+      "multi_county_zips": 378
+    },
+    "WA": {
+      "name": "Washington",
+      "zip_count": 701,
+      "multi_county_zips": 105
+    },
+    "WV": {
+      "name": "West Virginia",
+      "zip_count": 830,
+      "multi_county_zips": 206
+    },
+    "WI": {
+      "name": "Wisconsin",
+      "zip_count": 862,
+      "multi_county_zips": 351
+    },
+    "WY": {
+      "name": "Wyoming",
+      "zip_count": 190,
+      "multi_county_zips": 28
+    },
+    "GU": {
+      "name": "Guam",
+      "zip_count": 8,
+      "multi_county_zips": 0
+    },
+    "MP": {
+      "name": "Northern Mariana Islands",
+      "zip_count": 3,
+      "multi_county_zips": 0
+    },
+    "PR": {
+      "name": "Puerto Rico",
+      "zip_count": 167,
+      "multi_county_zips": 66
+    },
+    "VI": {
+      "name": "Virgin Islands",
+      "zip_count": 9,
+      "multi_county_zips": 0
+    }
+  }
+}

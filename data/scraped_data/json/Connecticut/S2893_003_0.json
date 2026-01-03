@@ -1,0 +1,23 @@
+{
+  "plan_info": {
+    "name": "Blue MedicareRx Premier (PDP)",
+    "contract_id": "S2893_003",
+    "plan_type": "PDP",
+    "organization": "Blue MedicareRx"
+  },
+  "premiums": {
+    "Total monthly premium": "$238.60"
+  },
+  "deductibles": {
+    "Drug deductible": "0.00"
+  },
+  "out_of_pocket": {},
+  "benefits": {},
+  "drug_coverage": {
+    "Drug deductible": "$0.00",
+    "Non-Preferred Drug": "35% coinsurance"
+  },
+  "extra_benefits": [],
+  "plan_id": "S2893_003_0",
+  "state": "Connecticut"
+}

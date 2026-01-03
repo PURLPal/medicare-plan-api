@@ -1,0 +1,43 @@
+{
+  "plan_info": {
+    "name": "Medicare HMO Blue FlexRx (HMO-POS)"
+  },
+  "premiums": {
+    "Total monthly premium": "$118.00",
+    "Health premium": "54.70",
+    "Drug premium": "63.30",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00",
+    "Drug deductible": "260.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "4,100"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $10 copayOut-of-network: $65 copay",
+    "Specialist visit": "In-network: $0-$35 copayOut-of-network: $65 copay",
+    "Emergency care": "$140 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$245 per day for days 1-7$0 per day for days 8-90$0 Lifetime Reserve Days for days 1-60$0 per stayOut-of-network:20% per stay",
+    "Outpatient hospital coverage": "In-network: $200 copayOut-of-network: 0%-20% coinsurance",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "Not covered",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "$90 copay"
+  },
+  "drug_coverage": {
+    "Drug premium": "$63.30",
+    "Drug deductible": "$260.00",
+    "Non-Preferred Drug": "$95.00 copay",
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 20% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 20% coinsurance",
+    "Over the counter drug benefits": "Not covered"
+  },
+  "extra_benefits": [],
+  "plan_id": "H2261_023_1",
+  "state": "Massachusetts"
+}

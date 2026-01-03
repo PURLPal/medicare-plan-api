@@ -1,0 +1,46 @@
+{
+  "plan_info": {
+    "name": "Health First Classic H1099-001 (HMO-POS)",
+    "contract_id": "H1099_001",
+    "plan_type": "HMO-POS",
+    "organization": "Health First Health Plans, Inc."
+  },
+  "premiums": {
+    "Total monthly premium": "$90.00",
+    "Health premium": "40.60",
+    "Drug premium": "49.40",
+    "Standard Part B premium": "202.90",
+    "Part B premium reduction": "Not offered",
+    "Standard Part B premiumWhat's the standard Part B premium?": "$202.90",
+    "Part B premium reductionWhat's the Part B premium reduction?": "Not offered"
+  },
+  "deductibles": {
+    "Health deductible": "$0.00",
+    "Drug deductible": "0.00"
+  },
+  "out_of_pocket": {
+    "Maximum out-of-pocket": "3,250"
+  },
+  "benefits": {
+    "Primary doctor visit": "In-network: $0 copayOut-of-network: 20% coinsurance",
+    "Specialist visit": "In-network: $15 copayOut-of-network: 20% coinsurance",
+    "Emergency care": "$150 copay",
+    "Inpatient hospital coverage": "In-network:Tier 1$140 per day for days 1-7$0 per day for days 8-90$0 per stayOut-of-network:20% per stay",
+    "Outpatient hospital coverage": "In-network: $0-$100 copayOut-of-network: 20% coinsurance",
+    "Personal Emergency Response System (PERS)": "Not covered",
+    "Transportation services for non-emergency care: Any health-related locations": "In-network: $0 copay",
+    "Transportation services for non-emergency care: Plan-approved locations": "Not covered",
+    "Worldwide emergency": "$150 copay"
+  },
+  "drug_coverage": {
+    "Drug premium": "$49.40",
+    "Drug deductible": "$0.00",
+    "Non-Preferred Drug": "25% coinsurance",
+    "Chemotherapy drugs": "In-network: 0%-20% coinsuranceOut-of-network: 20% coinsurance",
+    "Other Part B drugs": "In-network: 0%-20% coinsuranceOut-of-network: 20% coinsurance",
+    "Over the counter drug benefits": "In-network: $0 copay"
+  },
+  "extra_benefits": [],
+  "plan_id": "H1099_001_0",
+  "state": "Florida"
+}
